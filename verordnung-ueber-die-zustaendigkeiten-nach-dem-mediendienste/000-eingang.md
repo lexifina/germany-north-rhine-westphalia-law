@@ -1,0 +1,2 @@
+Vom 1.Juli 1997
+Aufgrund des Artikels 2 des Gesetzes zum Mediendienste-Staatsvertrag vom 27.Juni 1997 (GV.NW. S. 158), des § 7 Abs. 4 Satz 2 des Landesorganisationsgesetzes vom 10.Juli 1962 (GV.NW. S. 421), zuletzt geändert durch Gesetz vom 19.März 1996 (GV.NW. S. 136), in Verbindung mit § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19.Februar 1997 (BGBl. I S. 602), zuletzt geändert durch Gesetz vom 28.Oktober 1994 (BGBl. I S. 3186), wird verordnet:
