@@ -1,0 +1,3 @@
+redaktioneller Zusatz (Artikel IV des Gesetzes vom 27. November 2001 (GV. NRW. S. 812), der durch Artikel 49 des Gesetzes vom 5. April 2005 (GV. NRW. S. 351) neu gefasst worden ist):
+In-Kraft-Treten, Berichtspflicht
+Das Gesetz tritt am 1. Januar 2002 in Kraft. Die Landesregierung berichtet dem Landtag bis zum 31. Dezember 2006 über die weitere Notwendigkeit des Artikels I (Zusammenführung der Märkischen Fachhochschule in Iserlohn mit den Abteilungen Meschede und Soest der Universität-Gesamthochschule Paderborn) und des Artikels II (Zusammenführung der Fachhochschule Lippe in Lemgo mit der Abteilung Höxter der Universität-Gesamthochschule Paderborn).
