@@ -1,0 +1,2 @@
+# § 48b Landeszuschuss zur Finanzierung der Kita-Helferinnen und Kita-Helfer
+Für diejenigen Kindertageseinrichtungen, die Kita-Helferinnen und Kita-Helfer zur Unterstützung bei nichtpädagogischen Aufgaben in den Kindertageseinrichtungen anstellen, gewährt das Land dem Jugendamt pro Kindergartenjahr einen Zuschuss in Höhe von 16 200 Euro jährlich pro Einrichtung. § 38 Absatz 1 Satz 2 sowie § 45 Absatz 2 Satz 4, 6 bis 10 gelten entsprechend.
