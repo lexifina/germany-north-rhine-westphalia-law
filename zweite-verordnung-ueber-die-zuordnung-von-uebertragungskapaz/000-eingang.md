@@ -1,0 +1,3 @@
+Vom 22. Juni 1993
+Aufgrund § 3 Abs. 1 des Rundfunkgesetzes für das Land Nordrhein-Westfalen (LRG NW) in der Fassung der Bekanntmachung vom 11. Januar 1988 (GV. NW. S. 6), zuletzt geändert durch Gesetz vom 22. September 1992 (GV.NW. S. 346), in Verbindung mit Artikel 2 Abs. 9 des 3. Rundfunkänderungsgesetzes vom 18. Juni 1991 (GV. NW. S. 254) und Artikel 5 Abs. 2 des 5. Rundfunkänderungsgesetzes vom 22. September 1992 (GV. NW. S. 346) wird mit Zustimmung des Hauptausschusses des Landtags verordnet:
+§§ 1-5
