@@ -1,0 +1,2 @@
+Vom 18. November 2025
+Auf Grund des § 158 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 6 des Gesetzes vom 5. Dezember 2024 (BGBl. 2024 I Nr. 400) geändert worden ist, und des § 5 Absatz 3 Satz 1 Landesorganisationsgesetz vom 10. Juli 1962 (GV. NRW. S. 421), das zuletzt durch Artikel 3 des Gesetzes vom 10. Juli 2025 (GV. NRW. S. 633) geändert worden ist, insoweit nach Anhörung des fachlich zuständigen Ausschusses des Landtags, verordnet die Landesregierung:
