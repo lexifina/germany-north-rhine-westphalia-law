@@ -1,0 +1,2 @@
+Vom 4. Juli 1995
+Aufgrund des § 5 Abs. 3 des Gesetzes über die Gliederung und die Bezirke der ordentlichen Gerichte vom 7. November 1961 (GV. NW. S. 331), zuletzt geändert durch Gesetz vom 6. November 1984 (GV. NW. S. 684), wird zur Anpassung der Grenzen der Amtsgerichtsbezirke Grevenbroich und Mönchengladbach-Rheydt an die durch Gebietsänderungsverfügung der Bezirksregierung Düsseldorf vom 11. April 1995 (31. 11. 02) geänderte Grenze zwischen der kreisfreien Stadt Mönchengladbach und der Gemeinde Jüchen verordnet:
