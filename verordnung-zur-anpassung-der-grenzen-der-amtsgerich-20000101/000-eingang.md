@@ -1,0 +1,2 @@
+Vom 25. Februar 1999
+Aufgrund des § 5 Abs. 3 des Gesetzes über die Gliederung und die Bezirke der ordentlichen Gerichte vom 7. November 1961 (GV. NRW. S. 331), zuletzt geändert durch Gesetz vom 14. Juli 1995 (GV. NRW. S. 924), wird zur Anpassung der Grenzen der Amtsgerichtsbezirke Gelsenkirchen-Buer und Gladbeck an die durch Gebietsänderungsverfügung der Bezirksregierung Münster vom 19. Februar 1999 (31.1.3) geänderte Grenze zwischen der kreisfreien Stadt Gelsenkirchen und der Stadt Gladbeck verordnet:
