@@ -1,0 +1,2 @@
+Vom 30. September 2002
+Auf Grund des § 5 Abs. 3 des Gesetzes über die Gliederung und die Bezirke der ordentlichen Gerichte vom 7. November 1961 (GV. NRW. S. 331), zuletzt geändert durch Gesetz vom 6. November 1984 (GV. NRW. S. 684), wird zur Anpassung der Grenzen der Amtsgerichtsbezirke Gelsenkirchen, Gelsenkirchen-Buer und Herne-Wanne an die durch Gebietsänderungserlass des Innenministeriums des Landes Nordrhein-Westfalen vom 23. September 2002 (3-32-23.00.00-5859/02 (1) geänderte Grenze zwischen der kreisfreien Stadt Gelsenkirchen und der kreisfreien Stadt Herne verordnet:
