@@ -21,7 +21,7 @@ Allgemeine Bestimmungen
 § 16 Partizipation
 § 17 Pädagogische Konzeption
 § 18 Beobachtung und Dokumentation
-§ 19 Sprachliche Bildung
+§ 19 Sprachliche Bildung und Förderung
 § 20 Datenerhebung und -verarbeitung
 Teil 2
 Förderung in Kindertagespflege
@@ -48,6 +48,7 @@ Finanzierung
 § 35 Eingruppige Einrichtungen und Waldkindergartengruppen
 § 36 Jugendamtszuschuss und Trägeranteil
 § 37 Anpassung der Finanzierung
+§ 37a Finanzielle Überbrückung durch das Land
 § 38 Landeszuschüsse für Kindertageseinrichtungen
 § 39 Verwendungsnachweis
 § 40 Rücklagen
@@ -57,16 +58,19 @@ Landesförderungen zur Qualitätsentwicklung
 § 42 Familienzentren
 § 43 Finanzielle Förderung der Familienzentren
 § 44 plusKITAs
-§ 45 Landeszuschuss für plusKITAs und andere Einrichtungen mit zusätzlichem Sprachförderbedarf
+§ 45 Landeszuschuss für plusKITAs
+§ 45a Chancen-Kitas
 § 46 Landesförderung der Qualifizierung
 § 47 Landesförderung der Fachberatung
 § 48 Zuschuss zur Flexibilisierung der Betreuungszeiten
+§ 48a Landeszuschuss zur Finanzierung der Transformationskosten
+§ 48b Landeszuschuss zur Finanzierung der Kita-Helferinnen und Kita-Helfer
 Teil 5
 Verfahrens-, Übergangs- und Schlussvorschriften
 § 49 Interkommunaler Ausgleich
 § 50 Elternbeitragsfreiheit
 § 51 Elternbeiträge
 § 52 Investitionen
-§ 53 Erprobungen
+§ 53 Innovationsklausel
 § 54 Verwaltungsverfahren und Verordnungsermächtigungen, Vereinbarungen
 § 55 Inkrafttreten, Außerkrafttreten, Übergangsvorschriften
