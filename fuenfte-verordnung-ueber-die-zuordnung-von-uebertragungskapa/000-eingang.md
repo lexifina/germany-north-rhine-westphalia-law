@@ -1,0 +1,2 @@
+Vom 14. Juni 1994
+Aufgrund § 3 Abs. 1 des Rundfunkgesetzes für das Land Nordrhein-Westfalen (LRG NW) in der Fassung der Bekanntmachung vom 31. März 1993 (GV. NW. S. 172), in Verbindung mit Artikel 2 Abs. 9 des 3. Rundfunkänderungsgesetzes vom 18. Juni 1991 (GV. NW. S. 254) wird mit Zustimmung des Hauptausschusses des Landtags verordnet:
