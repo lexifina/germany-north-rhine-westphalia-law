@@ -19,7 +19,7 @@ Allgemeine Vorschriften
 § 14 Abtretung von Bezügen, Verpfändung, Aufrechnungs- und Zurückbehaltungsrecht
 § 15 Rückforderung von Bezügen
 § 16 Anpassung der Besoldung
-§ 17 Anpassung der Besoldung im Jahr 2026
+§ 17 Anpassung der Besoldung im Jahr 2027
 § 18 Dienstlicher Wohnsitz
 Abschnitt 2
 Grundgehalt, Leistungsbezüge an Hochschulen
