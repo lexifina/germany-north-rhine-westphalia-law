@@ -1,0 +1,2 @@
+Vom 14. Juli 1976
+Auf Grund des § 66 des Bundesbesoldungsgesetzes in der Fassung des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern (2. BesVNG) vom 23. Mai 1975 (BGBl. I S. 1173) in Verbindung mit § 5 Abs. 2 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NW. S. 421), zuletzt geändert durch Gesetz vom 1. Juni 1976 (GV. NW. S. 190), wird verordnet:
