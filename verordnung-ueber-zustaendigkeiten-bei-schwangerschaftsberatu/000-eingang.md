@@ -1,0 +1,2 @@
+Vom 6. Dezember 1994
+Aufgrund des § 5 Abs. 3 Satz 1 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NW. S. 421), zuletzt geändert durch Gesetz vom 19. Juni 1994 (GV. NW. S. 428), insoweit nach Anhörung der Ausschüsse für Kinder, Jugend und Familie, für Arbeit, Gesundheit, Soziales und Angelegenheiten der Vertriebenen und Flüchtlinge und für Frauenpolitik des Landtags, und des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten wird verordnet:
