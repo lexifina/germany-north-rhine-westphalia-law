@@ -1,0 +1,2 @@
+Vom 9. Januar 1973
+Auf Grund des Artikels 58 der Verfassung für des Land Nordrhein-Westfalen vom 28. Juni 1950 (GS. NW. S. 3), zuletzt geändert durch Gesetz vom 21. März 1972 (GV. NW. S. 68), des § 10 Abs. 1, des § 36 Satz 1 Halbsatz 1 und des § 50 Abs. 1 Satz 1 des Landesbeamtengesetzes in der Fassung der Bekanntmachung vom 6. Mai 1970 (GV. NW. S. 344), zuletzt geändert durch Gesetz vom 11. Juli 1972 (GV. NW. S. 192), sowie des § 3 Abs. 3 und 4 des Gesetzes über den Landesrechnungshof Nordrhein-Westfalen vom 14. Dezember 1971 (GV. NW. S. 410) wird verordnet:
