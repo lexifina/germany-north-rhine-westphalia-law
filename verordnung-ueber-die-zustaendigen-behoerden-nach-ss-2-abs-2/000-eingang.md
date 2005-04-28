@@ -1,0 +1,2 @@
+Vom 11. Oktober 1977
+Aufgrund des § 5 Abs. 3 Satz 1 des Landesorganisationsgesetzes vom 10.Juli 1962 (GV.NW.S.421), zuletzt geändert durch Gesetz vom 21. Dezember 1976 (GV.NW.S.438), insoweit nach Anhörung des Ausschusses für Jugend, Familie und politische Bildung sowie des Ausschusses für Innere Verwaltung des Landtags, und des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 2. Januar 1975 (BGBl. I S. 80), geändert durch Gesetz vom 20 August 1975 (BGBl. I S. 2189), wird verordnet:
