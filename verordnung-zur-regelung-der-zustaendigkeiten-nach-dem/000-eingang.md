@@ -1,0 +1,2 @@
+Vom 2. September 1980
+Aufgrund des § 17 Abs. 2 des Unterhaltssicherungsgesetzes - USG - in der Fassung der Bekanntmachung vom 8. März 1975 (BGBl. I S. 661), zuletzt geändert durch Gesetz vom 25. Juni 1980 (BGBl. I S. 729), und des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 2. Januar 1975 (BGBl. I S. 80), zuletzt geändert durch Gesetz vom 5. Oktober 1978 (BGBl. I S. 1645), wird verordnet:
