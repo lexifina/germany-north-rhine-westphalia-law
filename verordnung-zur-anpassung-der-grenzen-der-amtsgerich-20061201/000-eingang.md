@@ -1,0 +1,2 @@
+Vom 9. November 2006
+Auf Grund des § 5 Abs. 3 des Gesetzes über die Gliederung und die Bezirke der ordentlichen Gerichte vom 7. November 1961 (GV. NRW. S. 331), zuletzt geändert durch Verordnung vom 10. August 2001 (GV. NRW. S. 558), wird zur Anpassung der Grenzen der Amtsgerichtsbezirke Oberhausen und Essen-Borbeck an die durch Gebietsänderungsverfügung der Bezirksregierung Düsseldorf vom 18. September 2006 (31.1.3-02/07) geänderte Grenze zwischen der Stadt Oberhausen und der Stadt Essen verordnet:
