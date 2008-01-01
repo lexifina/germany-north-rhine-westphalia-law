@@ -1,0 +1,2 @@
+Vom 31. Januar 1995
+Aufgrund des § 21 Abs. 5 Satz 2 und Abs. 6 Satz 2 und 4 des Gesetzes über die Alterssicherung der Landwirte (ALG) vom 29. Juli 1994 (BGBl. I S. 1890, 1891) sowie des § 5 Abs. 3 Satz 1 des Landesorganisationsgesetzes (LOG. NW.) vom 10. Juli 1962 (GV. NW. S. 421), zuletzt geändert durch Gesetz vom 19. Juni 1994 (GV. NW. S. 428), insoweit nach Anhörung des Ausschusses für Landwirtschaft, Forsten und Naturschutz des Landtags, wird verordnet:
