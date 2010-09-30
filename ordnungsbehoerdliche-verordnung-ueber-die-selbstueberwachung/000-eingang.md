@@ -1,0 +1,2 @@
+Vom 27. August 2010 1)
+Auf Grund des § 25 Absatz 4 des Landesabfallgesetzes vom 21. Juni 1988 (GV. NRW. S. 250), zuletzt geändert durch Artikel 6 des Gesetzes vom 17. Dezember 2009 (GV. NRW. S. 863) sowie des § 31 in Verbindung mit § 25 des Ordnungsbehördengesetzes vom 13. Mai 1980 (GV. NRW. S. 528), zuletzt geändert durch Artikel 9 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765, ber. S. 793), wird verordnet:
