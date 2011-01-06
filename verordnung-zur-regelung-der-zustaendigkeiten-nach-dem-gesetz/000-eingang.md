@@ -1,0 +1,2 @@
+Vom 3. Januar 2011
+Auf Grund der §§ 5 Absatz 1 Satz 2 und Absatz 3 Satz 1, 6 Absatz 3 Nummer 1, 8 Absatz 3 bis 5, 11 Absatz 1, 13 Satz 2, 16 Absatz 1 des Gesetzes zur Therapierung und Unterbringung psychisch gestörter Gewalttäter (ThUG) vom 22. Dezember 2010 (BGBl. I S. 2305) in Verbindung mit § 5 Absatz 4 Landesorganisationsgesetz vom 10. Juli 1962(GV. NRW. S.421) in der jeweils geltenden Fassung wird verordnet:
