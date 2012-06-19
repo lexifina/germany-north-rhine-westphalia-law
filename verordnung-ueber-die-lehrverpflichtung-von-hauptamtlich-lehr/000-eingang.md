@@ -1,0 +1,2 @@
+Vom 30. Juli 2007
+Aufgrund des § 18 Abs. 1 Satz 1 des Fachhochschulgesetzes öffentlicher Dienst (FHGöD) vom 29. Mai 1984 (GV. NRW. S. 303), zuletzt geändert durch Gesetz vom 1. März 2005 (GV. NRW. S. 168), in Verbindung mit § 62 Abs. 1 Satz 1, Abs. 2 bis 4 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen vom 14. März 2000 (GV. NRW. S. 190) in der Fassung des Gesetzes vom 30. November 2004 (GV. NRW. S. 752), wird im Einvernehmen mit dem Finanzministerium und dem Justizministerium verordnet:
