@@ -1,0 +1,2 @@
+Vom 7. November 2012
+Auf Grund der §§ 802k Absatz 3, 882h Absatz 2 der Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202, 2006 S. 431, 2007 S. 1781), die durch Artikel 1 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258) eingefügt worden sind, in Verbindung mit § 1 Absatz 2 des Justizgesetzes Nordrhein-Westfalen vom 26. Januar 2010 (GV. NRW. S. 30), wird verordnet:
