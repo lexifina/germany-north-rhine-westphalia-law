@@ -1,0 +1,2 @@
+# §&nbsp;1 Anwendungsbereich
+Für Beamte, Richter und Soldaten, die nach dem Inkrafttreten des Einigungsvertrages in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Beitrittsgebiet) verwendet werden, sind die Vorschriften des Bundesbesoldungsgesetzes und die zur Regelung der Besoldung (§ 1 Bundesbesoldungsgesetz) erlassenen besonderen Rechtsvorschriften anzuwenden, soweit nicht in dieser Verordnung etwas anderes bestimmt ist. Dies gilt auch in den Fällen einer vorübergehenden Verwendung außerhalb des Beitrittsgebietes.

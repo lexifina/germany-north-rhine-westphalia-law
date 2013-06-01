@@ -1,0 +1,1 @@
+§ 85 des Bundesbesoldungsgesetzes gilt entsprechend mit der Maßgabe, dass für die im Jahr 2003 gewährte Einmalzahlung der Bemessungssatz nach § 2 Abs. 1 in der bis zum 31. Dezember 2002 geltenden Fassung zugrunde zu legen ist.

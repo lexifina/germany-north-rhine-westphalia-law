@@ -1,0 +1,1 @@
+Für die Bewertung der Funktionen, ihre Zuordnung zu den Laufbahngruppen und die auf die Laufbahnen des gehobenen und des höheren Dienstes entfallenden Anteile an der Gesamtzahl der Planstellen sind die Verhältnisse in vergleichbaren Organisationseinheiten im bisherigen Bundesgebiet zu berücksichtigen.
