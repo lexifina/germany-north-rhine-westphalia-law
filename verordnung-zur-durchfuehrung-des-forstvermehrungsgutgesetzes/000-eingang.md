@@ -1,0 +1,2 @@
+Vom 10. Februar 2004
+Aufgrund des § 5 Abs. 3 Satz 1 des Landesorganisationsgesetzes (LOG NRW) vom 10. Juli 1962 (GV. NRW. S. 421), zuletzt geändert durch Gesetz vom 17. Dezember 2003 (GV. NRW. S. 808), insoweit nach Anhörung des Ausschusses für Ernährung, Landwirtschaft, Forsten und Naturschutz des Landtags, sowie des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), zuletzt geändert durch Artikel 2 des Gesetzes vom 22. August 2002 (BGBl. I S. 3387), wird verordnet:
