@@ -1,0 +1,2 @@
+# § 1a Allgemeine Anforderungen
+Bahnanlagen und Fahrzeuge müssen so beschaffen sein, dass sie den Anforderungen der Sicherheit und Ordnung genügen. Diese Anforderungen gelten als erfüllt, wenn die Bahnanlagen und Fahrzeuge den Vorschriften dieser Verordnung und, soweit diese keine ausdrücklichen Vorschriften enthält, anerkannten Regeln der Technik entsprechen. Von den anerkannten Regeln der Technik darf abgewichen werden, wenn mindestens die gleiche Sicherheit wie bei Beachtung dieser Regeln nachgewiesen ist.
