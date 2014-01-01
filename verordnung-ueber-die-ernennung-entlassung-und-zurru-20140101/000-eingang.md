@@ -1,0 +1,2 @@
+Vom 25. Februar 2014
+Auf Grund des Artikels 58 der Verfassung für das Land Nordrhein-Westfalen vom 28. Juni 1950 (GV. NRW. S. 127), des § 17 Absatz 1 Satz 2, des § 28 Absatz 1 Satz 1 und des § 36 Absatz 1 Satz 1 des Landesbeamtengesetzes in der Fassung der Bekanntmachung vom 21. April 2009 (GV. NRW. S. 224), sowie des § 4 Absatz 1 Satz 1 des Landesrichtergesetzes vom 29. März 1966 (GV. NRW. S. 217), wird verordnet:
