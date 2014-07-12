@@ -1,0 +1,2 @@
+Vom 8. April 2003 (Artikel 2 der VO zur Durchführung des Gesetzes zur Neuregelung des Waffenrechts (WaffRNeuRegG))
+Auf Grund der §§ 4 Abs. 4 und 20 Abs. 1 des Beschussgesetzes (Artikel 2 des Gesetzes zur Neuregelung des Waffenrechts vom 11. Oktober 2002, [BGBl. I S. 3970]) und des § 5 Abs. 2 des Landesorganisationsgesetzes (LOG NRW) vom 10. Juli 1962 (GV. NRW. S. 421), zuletzt geändert durch Gesetz vom 9. Mai 2000 (GV. NRW. S. 462), wird verordnet:
