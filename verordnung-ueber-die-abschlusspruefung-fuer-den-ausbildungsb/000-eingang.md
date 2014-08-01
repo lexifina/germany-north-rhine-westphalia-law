@@ -1,0 +1,3 @@
+Vom 11. Juni 2014
+Auf Grund des § 47 Absatz 1 Satz 1 und des § 79 Absatz 4 Satz 1 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) in Verbindung mit §§ 6, 10 Absatz 1 Nummer 1 der Verordnung über die Zuständigkeiten nach dem Berufsbildungsgesetz (BBiG) und die Angelegenheiten der Berufsbildung im Rahmen der Handwerksordnung (HwO) sowie die Zuständigkeiten nach dem Berufsqualifikationsfeststellungsgesetz (BQFG) vom 5. September 2006 (GV. NRW. S. 446), von denen § 6 zuletzt durch Verordnung vom 31. August 2010 (GV. NRW. S. 513) geändert und § 10 durch Verordnung vom 11. September 2012 (GV. NRW. S. 426) neu eingefügt worden ist, verordnet das Ministerium für Inneres und Kommunales:
+Teil 1 Vorbereitung der Prüfung
