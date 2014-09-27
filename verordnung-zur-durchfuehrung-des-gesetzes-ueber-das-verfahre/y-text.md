@@ -1,0 +1,3 @@
+(1) Unterschriftenbögen für die freie Unterschriftensammlung müssen den Mustern der Anlagen 6a, 6b und 6c entsprechen.
+(2) § 1 Absatz 1 Satz 2 und 3 (bezogen auf die Anlagen 6a und 6b), Absatz 2 (bezogen auf Anlagen 6a und 6c), Absatz 4 bis 6 (bezogen auf Anlage 6b) gelten entsprechend.
+(3) Es ist Aufgabe der Antragstellerinnen und Antragsteller des Volksbegehrens, die Unterschriftenbögen mit Bestätigung des Stimmrechts zusammen mit den von den Gemeinden zur Verfügung gestellten Eintragungslisten (vgl. § 7 Abs. 5 Satz 1) innerhalb von zwölf Monaten seit Bekanntgabe der Zulassung der parallelen freien Unterschriftensammlung an die Landeswahlleiterin oder den Landeswahlleiter zu übersenden (vgl. § 18a Abs. 1 des Gesetzes).
