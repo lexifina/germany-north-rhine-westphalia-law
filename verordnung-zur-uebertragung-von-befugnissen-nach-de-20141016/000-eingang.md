@@ -1,0 +1,1 @@
+Auf Grund der §§ 57 Satz 2, 58 Abs. 1 Satz 2 und 59 Abs. 1 Satz 2 der Landeshaushaltsordnung (LHO) vom 14. Dezember 1971 (GV. NRW. S. 397) in der Fassung der Bekanntmachung vom 26. April 1999 (GV. NRW. S. 158), zuletzt geändert durch Gesetz vom 2. Juli 2002 (GV. NRW. S. 284), wird für die Behörden und Einrichtungen meines Geschäftsbereichs verordnet:
