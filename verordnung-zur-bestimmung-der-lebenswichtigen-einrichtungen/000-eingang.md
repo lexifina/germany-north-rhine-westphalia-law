@@ -1,0 +1,2 @@
+Vom 23. Mai 2007
+Aufgrund des § 2 Satz 4 des Gesetzes über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Landes Nordrhein-Westfalen (Sicherheitsüberprüfungsgesetz Nordrhein-Westfalen - SÜG NW -) vom 7. März 1995 (GV. NRW. S. 210), zuletzt geändert durch Artikel 9 des Dritten Befristungsgesetzes vom 5. April 2005 (GV. NRW. S. 306), wird im Einvernehmen mit dem Innenministerium verordnet:
