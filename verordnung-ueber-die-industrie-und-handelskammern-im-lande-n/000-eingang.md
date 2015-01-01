@@ -1,0 +1,2 @@
+Vom 5. März 2015
+Auf Grund des § 1 Satz 1 und des § 4 Absatz 2 des Gesetzes über die Industrie- und Handelskammern im Lande Nordrhein-Westfalen vom 23. Juli 1957 (GV. NRW. S. 187, ber. S. 228), von denen § 1 Satz 1 zuletzt durch Artikel 1 des Gesetzes vom 9. Dezember 2008 (GV. NRW. S. 778) geändert worden ist und insoweit nach Anhörung des für Wirtschaft zuständigen Ausschusses des Landtags, verordnet das Ministerium für Wirtschaft, Energie, Industrie, Mittelstand und Handwerk:
