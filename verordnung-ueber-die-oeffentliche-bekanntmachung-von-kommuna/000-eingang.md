@@ -1,0 +1,2 @@
+Vom 26. August 1999
+Aufgrund der §§ 7 Abs. 5 und 130 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO) in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV.NRW.S.666), zuletzt geändert durch Gesetz vom 15. Juni 1999 (GV.NRW.S.386), sowie der §§ 5 Abs. 5 und 65 der Kreisordnung für das Land Nordrhein-Westfalen (KrO) in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV.NRW.S.646), zuletzt geändert durch Gesetz vom 17. Dezember 1997 (GV.NRW.S.458), wird mit Zustimmung des Ausschusses für Kommunalpolitik des Landtages verordnet:
