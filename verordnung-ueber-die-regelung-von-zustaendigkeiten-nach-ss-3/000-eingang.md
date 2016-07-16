@@ -1,0 +1,2 @@
+Vom 5. Juli 2016
+Auf Grund des § 32 Absatz 1 Satz 1 des Parteiengesetzes in der Fassung der Bekanntmachung vom 31. Januar 1994 (BGBl. I S. 149), und des § 5 Absatzes 3 Satz 1 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NRW. S. 421), insoweit nach Anhörung des fachlich zuständigen Ausschusses des Landtags, von denen § 5 Absatz 3 Satz 1 des Landesorganisationsgesetzes zuletzt durch Artikel 10 des Gesetzes vom 9. Mai 2000 (GV NRW. S. 462) geändert worden ist, verordnet die Landesregierung:
