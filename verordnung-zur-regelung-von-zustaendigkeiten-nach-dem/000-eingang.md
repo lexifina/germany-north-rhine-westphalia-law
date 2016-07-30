@@ -1,0 +1,3 @@
+Verordnung zur Regelung von Zuständigkeiten nach dem Berufsqualifikationsfeststellungsgesetz NRW für das Berufsbild „staatlich anerkannte Sozialpädagogin oder staatlich anerkannter Sozialpädagoge, staatlich anerkannte Sozialarbeiterin oder staatlich anerkannter Sozialarbeiter, staatlich anerkannte Sozialpädagogin und Sozialarbeiterin oder staatlich anerkannter Sozialpädagoge und Sozialarbeiter sowie staatlich anerkannte Kindheitspädagogin oder staatlich anerkannter Kindheitspädagoge“
+Vom 5. Juni 2014
+Auf Grund des § 13 Absatz 6 des Berufsqualifikationsfeststellungsgesetzes NRW vom 28. Mai 2013 (GV. NRW. S. 272) verordnet das Ministerium für Familie, Kinder, Jugend, Kultur und Sport:
