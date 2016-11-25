@@ -1,0 +1,2 @@
+Vom 18. April 2008
+Auf Grund des § 5a Abs. 2 des Gesetzes zur Sicherung des Naturhaushalts und zur Entwicklung der Landschaft (Landschaftsgesetz - LG) vom 21. Juli 2000 (GV. NRW. S. 568), zuletzt geändert durch Artikel 1 des Gesetzes vom 19. Juni 2007 (GV. NRW. S. 226), verordnet das Ministerium für Umwelt und Naturschutz, Landwirtschaft und Verbraucherschutz des Landes Nordrhein-Westfalen im Einvernehmen mit dem Ausschuss für Umwelt und Naturschutz, Landwirtschaft und Verbraucherschutz:
