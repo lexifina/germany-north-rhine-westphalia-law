@@ -1,0 +1,2 @@
+Vom 25. September 1979
+Auf Grund des § 26 Abs. 1 Satz 1 des Straßenverkehrsgesetzes vom 19. Dezember 1952 (BGBl. I S. 837), zuletzt geändert durch Gesetz vom 3. August 1978 (BGBl. I S. 1177), und des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 2. Januar 1975 (BGBl. I S. 80), zuletzt geändert durch Gesetz vom 5. Oktober 1978 (BGBl. I S. 1645), wird verordnet:
