@@ -1,0 +1,2 @@
+Vom 8. Dezember 2009
+Aufgrund des § 26 Absatz 3 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 6. August 2002 (BGBl. I S. 3020), zuletzt geändert durch Gesetz vom 28. August 2006 (BGBl. I S. 2039, 2042), wird für Beamtinnen und Beamte des Landes und der der Aufsicht des Landes unterstehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts mit Ausnahme der Gemeinden und Gemeindeverbände, der Gemeindeprüfungsanstalt, des Landesverbands Lippe und des Regionalverbandes Ruhr verordnet:
