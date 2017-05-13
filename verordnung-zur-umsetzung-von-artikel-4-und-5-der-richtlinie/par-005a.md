@@ -1,0 +1,2 @@
+# § 5a Sachverständige
+Anerkannte Sachverständige im Sinne dieser Verordnung sind die nach § 11 der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen und über Fachbetriebe vom 20. März 2004 (GV. NRW. S. 274), die zuletzt durch Artikel 19 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559) geändert worden ist, von anerkannten Organisationen bestellten Personen. Die dortigen Anforderungen an Sachverständige gelten entsprechend.
