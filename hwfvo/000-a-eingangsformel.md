@@ -1,0 +1,2 @@
+Vom 11. Juni 2007
+Aufgrund § 5 Abs. 9 Gesetz über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz – HG -; Artikel 1 Hochschulfreiheitsgesetz - HFG -) vom 31. Oktober 2006 (GV. NRW. S. 474) und § 4 Abs. 5 Gesetz über weitere dienstrechtliche und sonstige Regelungen im Hochschulbereich (Artikel 7 Hochschulfreiheitsgesetz - HFG -) vom 31. Oktober 2006 (GV. NRW. S. 474) wird im Einvernehmen mit dem Finanzministerium verordnet:
