@@ -1,0 +1,2 @@
+Vom 25. Juli 2018
+Auf Grund des § 4 Absatz 3 des Straßen- und Wegegesetzes des Landes Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 23. September 1995 (GV. NRW. S. 1028, ber. 1996 S. 81, S. 141, S. 216 und S. 355, ber. 2007 S. 327), der durch Artikel 1 des Gesetzes vom 25. Oktober 2016 (GV. NRW. S. 868) angefügt worden ist, verordnet das Ministerium für Verkehr im Einvernehmen mit dem Ministerium des Innern:
