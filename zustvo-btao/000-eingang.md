@@ -1,0 +1,3 @@
+Verordnung zur Neuregelung der Zuständigkeiten nach der Bundes-Tierärzteordnung (Zuständigkeitsverordnung Bundes-Tierärzteordnung – ZustVO BTÄO)
+Vom 15. Oktober 2013
+Auf Grund des § 13 Absatz 6 der Bundes-Tierärzteordnung in der Fassung der Bekanntmachung vom 20. November 1981 (BGBl. I S. 1193) in Verbindung mit § 5 Absatz 3 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NRW. S. 421), der zuletzt durch Artikel 10 des Gesetzes vom 9. Mai 2000 (GV. NRW. S. 462) geändert worden ist, verordnet die Landesregierung nach Anhörung des zuständigen Landtagsausschusses für Klimaschutz, Umwelt, Naturschutz, Landwirtschaft und Verbraucherschutz:
