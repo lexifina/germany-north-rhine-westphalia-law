@@ -1,0 +1,3 @@
+Verordnung über die Übermittlung von Daten zu Gefährdungspotenzialen des Untergrundes an öffentliche Stellen (Untergrund-Datenübermittlungsverordnung NRW - UntergrundDÜVO NRW)
+Vom 29. September 2018
+Auf Grund des § 6 Absatz 2 des Datenschutzgesetzes Nordrhein-Westfalen vom 17. Mai 2018 (GV. NRW. S. 244, ber. S. 278 und S. 404), verordnen das Ministerium für Wirtschaft, Innovation, Digitalisierung und Energie, das Ministerium des Innern, das Ministerium für Heimat, Kommunales, Bau und Gleichstellung, das Ministerium für Verkehr und das Ministerium für Umwelt, Landwirtschaft, Natur- und Verbraucherschutz:
