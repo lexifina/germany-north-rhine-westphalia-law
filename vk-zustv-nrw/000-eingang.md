@@ -1,0 +1,2 @@
+Vom 2. Dezember 2014
+Auf Grund des § 106 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), und des § 5 Absatz 3 Satz 1 Landesorganisationsgesetz vom 10. Juli 1962 (GV. NRW. S. 421), der zuletzt durch Artikel 10 des Gesetzes vom 9. Mai 2000 (GV. NRW. S. 462) geändert worden ist, insoweit nach Anhörung des fachlich zuständigen Ausschusses des Landtags, verordnet die Landesregierung:
