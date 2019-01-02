@@ -1,0 +1,2 @@
+Vom 11. September 2018
+Auf Grund des § 26 Absatz 6 Satz 1 und 2 des Pflegeberufegesetzes vom 17. Juli 2017 (BGBl. I S. 2581) in Verbindung mit § 5 Absatz 3 des Landesorganisationsgesetzes vom 10. Juli 1962, der zuletzt durch Artikel 10 des Gesetzes vom 9.Mai 2000 (GV. NRW. S. 462) geändert worden ist, insoweit nach Anhörung des fachlich zuständigen Ausschusses des Landtags, und auf Grund des § 36 Absatz 5 Satz 1 des Pflegeberufegestzes verordnet die Landesregierung:
