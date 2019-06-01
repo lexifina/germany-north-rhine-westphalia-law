@@ -1,0 +1,2 @@
+Vom 30. April 2019
+Aufgrund des § 3 Abs. 1 Satz 2 des Gesetzes zur Neuregelung des Kulturgutschutzrechts vom 31. Juli 2016 (BGBl. I S. 1914) zuletzt geändert durch Art. 6 Abs. 13 des Gesetzes zur Reform der strafrechtlichen Vermögensabschöpfung vom 13. April 2017 (BGBl. I S. 872) und des § 5 Abs. 3 des Landesorganisationsgesetzes NRW vom 10. Juli 1962 (GV. NRW. S. 421) zuletzt geändert durch Art. 2 des sechsten Änderungsgesetzes vom 01. Oktober 2013 (GV. NRW. S. 566) wird verordnet:
