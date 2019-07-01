@@ -1,0 +1,2 @@
+Vom 14. Juni 1994
+Aufgrund des § 94 Abs. 5 des Bundessozialhilfegesetzes (BSHG) in der Fassung der Bekanntmachung vom 23. März 1994 (BGBl. I S. 646), geändert durch Gesetz vom 26. Mai 1994 (BGBl. I S. 1014), und des § 5 Abs. 3 Satz 1 in Verbindung mit § 7 Abs. 4 Satz 2 des Landesorganisationsgesetzes - LOG. NW. - insoweit nach Anhörung des Ausschusses für Arbeit, Gesundheit, Soziales und Angelegenheiten der Vertriebenen und Flüchtlinge des Landtags - wird verordnet:
