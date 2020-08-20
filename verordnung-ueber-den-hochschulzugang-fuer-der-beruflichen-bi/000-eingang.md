@@ -1,0 +1,2 @@
+Vom 7. Oktober 2016
+Auf Grund des § 49 Absatz 4 des Hochschulgesetzes vom 16. September 2014 (GV. NRW. S. 547) und des § 41 Absatz 3 des Kunsthochschulgesetzes vom 13. März 2008 (GV. NRW. S. 195), der durch Artikel 2 des Gesetzes vom 16. September 2014 (GV. NRW. S. 547) neu gefasst worden ist, verordnet das Ministerium für Innovation, Wissenschaft und Forschung im Einvernehmen mit dem Ministerium für Schule und Weiterbildung:
