@@ -1,0 +1,9 @@
+Hinweis
+Artikel 4 des Gesetzes zur Änderung des Polizeiorganisationsgesetzes und zur Änderung beamtenrechtlicher Vorschriften vom 2. Juli 2002. (GV. NRW. S. 242) enthält folgende Übergangsvorschriften:
+(1) Die Verordnung über die Kreispolizeibehörden des Landes Nordrhein-Westfalen vom 27. Oktober 1982 (GV. NRW. S. 692) bleibt in Kraft, bis von der Ermächtigung nach § 2 Abs. 2 des Polizeiorganisationsgesetzes Gebrauch gemacht wird. Artikel VII Abs. 8 des Gesetzes zur Änderung der Kommunalverfassung vom 17. Mai 1994 (GV. NRW. S. 270) findet Anwendung.
+(2) Die Verordnung über die Bestimmung von Kreispolizeibehörden zu Kriminalhauptstellen vom 10. Januar 1983 (GV. NRW. S. 11), zuletzt geändert durch Verordnung vom 28. Februar 1993 (GV. NRW. S. 106, ber. S. 996), bleibt in Kraft, bis von der Ermächtigung nach § 2 Abs. 3 Nr. 1 des Polizeiorganisationsgesetzes Gebrauch gemacht wird.
+(3) Die bisherigen Regelungen über die örtliche Zuständigkeit des Präsidiums der Wasserschutzpolizei sowie über dessen sachliche Zuständigkeit zur Erforschung und Verfolgung von Straftaten und Ordnungswidrigkeiten bleiben bis zum Erlass von Rechtsverordnungen nach § 3 Abs. 2 und § 11 Abs. 1 Nr. 2 des Polizeiorganisationsgesetzes bestehen.
+(4) Soweit den Bezirksregierungen die Verkehrsüberwachung für bestimmte Strecken von Bundesautobahnen und Bundesstraßen übertragen worden ist, bleibt es bis zum Erlass einer Rechtsverordnung nach § 12 Abs. 3 des Polizeiorganisationsgesetzes bei diesen Regelungen
+Hinweis: (Artikel 5 des Gesetzes vom 29. März 2007 (GV. NRW. S. 140), in Kraft getreten am 1. Juli 2007)
+Übergangsregelung zu Artikel 1 und 2
+Mit In-Kraft-Treten dieses Gesetzes sind die Beschäftigten des „Instituts für Aus- und Fortbildung der Polizei NRW“ auf das „Landesamt für Ausbildung, Fortbildung und Personalangelegenheiten der Polizei“ und die Beschäftigten der „Zentralen Polizeitechnischen Dienste“ auf das „Landesamt für Zentrale Polizeiliche Dienste“ übergeleitet.
