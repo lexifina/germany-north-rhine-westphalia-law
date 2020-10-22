@@ -1,0 +1,3 @@
+Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Geilenkirchen (Fluglärmschutzverordnung Geilenkirchen - FluLärmGeilenkV)
+Vom 15. Oktober 2013
+Auf Grund des § 4 Absatz 2 des Gesetzes zum Schutz gegen Fluglärm in der Fassung der Bekanntmachung vom 31. Oktober 2007 (BGBl. I S. 2550) in Verbindung mit § 3 Absatz 3 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), der zuletzt durch Artikel 1 des Gesetzes vom 18. September 2012 (GV. NRW. S. 436) geändert worden ist, verordnet die Landesregierung mit Zustimmung des für die kommunale Selbstverwaltung zuständigen Ausschusses des Landtags:
