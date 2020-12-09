@@ -1,0 +1,3 @@
+Verordnung zur Bestimmung der für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Paßgesetz, dem Personalausweisgesetz und dem eID-Karte-Gesetz zuständigen Verwaltungsbehörden
+Vom 1. Dezember 2020
+Auf Grund des § 36 Absatz 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) in Verbindung mit § 5 Absatz 3 Landesorganisationsgesetz vom 10. Juli 1962 (GV. NRW. S. 421), der zuletzt durch Artikel 10 des Gesetzes vom 9. Mai 2000 (GV. NRW. S. 462) geändert worden ist, verordnet die Landesregierung nach Anhörung des fachlich zuständigen Ausschusses des Landtags:
