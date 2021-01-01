@@ -1,0 +1,1 @@
+Die Auswahl Dritter nach § 29 Absatz 2 Satz 1 Maßregelvollzugsgesetz, die Festlegung von Standards im Maßregelvollzug und die Standortentscheidungen trifft das für das Gesundheitswesen zuständige Ministerium.

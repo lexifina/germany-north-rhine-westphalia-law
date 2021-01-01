@@ -1,0 +1,3 @@
+Vom 12. Oktober 2009
+Aufgrund des § 33 Satz 1 des Maßregelvollzugsgesetzes vom 15. Juni 1999 (GV. NRW. S. 402), zuletzt geändert durch Artikel VI des Gesetzes vom 5. April 2005 (GV. NRW. S. 408), wird im Einvernehmen mit dem Justizministerium nach Anhörung des fachlich zuständigen Ausschusses des Landtages zur Regelung von Zuständigkeiten (Teil 1) und zur Durchführung des Maßregelvollzugsgesetzes (Teil 2) sowie aufgrund des § 23 des Maßregelvollzugsgesetz, mit Zustimmung des fachlich zuständigen Ausschusses des Landtages, über die Sicherheitsfachkräfte (Teil 3) verordnet:
+Teil 1 Regelung von Zuständigkeiten
