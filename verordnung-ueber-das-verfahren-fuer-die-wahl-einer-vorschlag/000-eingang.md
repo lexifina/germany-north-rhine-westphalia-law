@@ -1,0 +1,2 @@
+Vom 17. Februar 2015
+Auf Grund des § 108a Absatz 6 und des § 108b Absatz 6 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), von denen § 108a Absatz 6 durch Artikel 1 des Gesetzes vom 3. Februar 2015 (GV. NRW. S. 208) geändert und § 108b durch Artikel 1 des Gesetzes vom 3. Februar 2015 (GV. NRW. S. 208) eingefügt worden ist, verordnet das Ministerium für Inneres und Kommunales:
