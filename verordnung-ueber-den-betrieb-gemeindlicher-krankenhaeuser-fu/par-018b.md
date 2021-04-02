@@ -1,0 +1,2 @@
+# § 18b Rückstellungen für Pensionsverpflichtungen
+Pensionsverpflichtungen nach den beamtenrechtlichen Vorschriften sind für die Dauer der Beschäftigung von Beamtinnen und Beamten im Krankenhaus als Rückstellung zu bilanzieren, soweit die Gemeinde das Krankenhaus nicht gegen entsprechende Zahlungen von künftigen Versorgungsleistungen freistellt. § 37 Absatz 1 der Kommunalhaushaltsordnung Nordrhein-Westfalen gilt entsprechend. Die Sätze 1 und 2 finden ab dem Wirtschaftsjahr 2012 Anwendung.
