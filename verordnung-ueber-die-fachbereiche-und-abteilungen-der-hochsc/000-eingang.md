@@ -1,0 +1,2 @@
+Vom 19. Dezember 2014
+Auf Grund des § 12 Absatz 1 - insoweit nach Anhörung des fachlich zuständigen Ausschusses des Landtags - und des § 17 Absatz 1 - insoweit im Einvernehmen mit dem Ministerium für Innovation, Wissenschaft und Forschung sowie dem Ministerium für Arbeit, Integration und Soziales - des Fachhochschulgesetzes öffentlicher Dienst vom 29. Mai 1984 (GV. NRW. S. 303), die zuletzt durch Artikel 1 des Gesetzes vom 1. März 2005 (GV. NRW. S. 168) geändert worden sind, verordnet das Ministerium für Inneres und Kommunales:
