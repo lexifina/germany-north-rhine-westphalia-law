@@ -1,0 +1,2 @@
+Vom 25. September 1979
+Auf Grund des § 13a des Gesetzes über die Änderung von Familiennamen und Vornamen vom 5. Januar 1938 (RGBl. I S. 9), zuletzt geändert durch Gesetz vom 10. März 1975 (BGBl. I S. 685), und des Artikels I § 2 Abs. 3 der Ersten Verordnung zur Durchführung des Gesetzes über die Änderung von Familiennamen und Vornamen vom 7. Januar 1938 (RGBl. I S. 12), geändert durch Verordnung vom 18. April 1975 (BGBl. I S. 967), wird verordnet:
