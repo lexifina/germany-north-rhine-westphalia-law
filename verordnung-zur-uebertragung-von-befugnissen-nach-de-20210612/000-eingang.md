@@ -1,0 +1,2 @@
+Vom 21. Mai 2021
+Auf Grund des § 5 Absatz 2 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NRW. S. 421), der durch § 97 des Gesetzes vom 21. Dezember 1976 (GV. NRW. S. 438) neu gefasst worden ist, in Verbindung mit § 57 Satz 2, § 58 Absatz 1 Satz 2, Absatz 2, § 59 Absatz 1 Satz 2 und Absatz 2 der Landeshaushaltsordnung in der Fassung der Bekanntmachung vom 26. April 1999 (GV. NRW. S. 158), verordnet das Ministerium der Finanzen:
