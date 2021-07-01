@@ -1,0 +1,2 @@
+# § 24a Gasthörer
+Bewerber, die an einer Fachhochschule einzelne Lehrveranstaltungen besuchen wollen, können als Gasthörer im Rahmen der vorhandenen Studienmöglichkeiten zugelassen werden. Der Nachweis der Qualifikation nach §§ 22 und 23 ist nicht erforderlich. § 71 Abs. 3 Sätze 3 bis 5 HG 2004 gilt entsprechend. Gasthörer sind nicht berechtigt, Prüfungen abzulegen. Sie können eine Bescheinigung über die Teilnahme an Lehrveranstaltungen erhalten.
