@@ -1,0 +1,2 @@
+# § 31a Wahlräume
+Die Wahlräume sollen nach den örtlichen Verhältnissen so ausgewähltund eingerichtet werden, dass allen Wählerinnen und Wählern, insbesondere Menschen mit Behinderung und anderen Menschen mit Mobilitätsbeschränkungen, die Teilnahme an der Wahl möglichst erleichtert wird. Die Gemeindeverwaltung teilt frühzeitig und in geeigneter Weise mit, welche Wahlräume barrierefrei im Sinne von § 4 des Behindertengleichstellungsgesetzes des Landes Nordrhein-Westfalen vom 16. Dezember 2003 (GV. NRW. S. 766) in der jeweils geltenden Fassung sind.
