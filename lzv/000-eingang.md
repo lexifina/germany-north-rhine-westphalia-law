@@ -1,0 +1,3 @@
+Verordnung über den Zugang zum nordrhein-westfälischen Vorbereitungsdienst für Lehrämter an Schulen und Voraussetzungen bundesweiter Mobilität (Lehramtszugangsverordnung - LZV)
+Vom 25. April 2016
+Auf Grund des § 9 Absatz 2 des Lehrerausbildungsgesetzes vom 12. Mai 2009 (GV. NRW. S. 308), der durch Gesetz vom 26. April 2016 (GV. NRW. S. 208) geändert worden ist, verordnet das Ministerium für Schule und Weiterbildung im Einvernehmen mit dem Finanzministerium, dem Ministerium für Inneres und Kommunales und dem Ministerium für Innovation, Wissenschaft und Forschung sowie nach Information des für Schulen zuständigen Landtagsausschusses und des für Wissenschaft zuständigen Landtagsausschusses:
