@@ -1,0 +1,2 @@
+Vom 30. November 1965
+Auf Grund des § 22 Abs. 1 des Milch- und Fettgesetzes in der Fassung vom 10. Dezember 1952 (BGBl. I S. 811), zuletzt geändert durch das Gesetz vom 28. Juni 1965 (BGBl. I S. 529), und auf Grund des § 1 der Verordnung über die Ermächtigung des Ministers für Ernährung, Landwirtschaft und Forsten zum Erlaß von Rechtsverordnungen im Bereich der Milchwirtschaft vom 10. August 1960 (GV. NW. S. 314) wird verordnet:
