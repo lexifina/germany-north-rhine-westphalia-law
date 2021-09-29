@@ -1,0 +1,2 @@
+# § 1a Anerkennung anderer Laufbahnen
+Mit Erwerb einer Laufbahnbefähigung für die Ämtergruppe des zweiten Einstiegsamtes der Laufbahngruppe 1 in der Finanzverwaltung oder für die Ämtergruppe des zweiten Einstiegsamtes der Laufbahngruppe 1 des allgemeinen Verwaltungsdienstes in den Gemeinden und Gemeindeverbänden besteht zugleich eine Laufbahnbefähigung für die Laufbahn der Ämtergruppe des zweiten Einstiegsamtes der Laufbahngruppe 1 des allgemeinen Verwaltungsdienstes.
