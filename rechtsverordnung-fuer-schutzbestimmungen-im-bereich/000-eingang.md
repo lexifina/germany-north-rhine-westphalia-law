@@ -1,0 +1,3 @@
+Rechtsverordnung für Schutzbestimmungen im Bereich Bodenschatzgewinnung für die Wasserschutzgebiete im Land Nordrhein-Westfalen (Landesweite Wasserschutzgebietsverordnung oberirdische Bodenschatzgewinnung - LwWSGVO-OB)
+Vom 21. September 2021
+Auf Grund des § 35 Absatz 1 Satz 3 des Landeswassergesetzes in der Fassung der Bekanntmachung vom 25. Juni 1995 (GV. NRW. S. 926), der zuletzt durch Artikel 1 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559) neu gefasst worden ist, verordnet das Ministerium für Umwelt, Landwirtschaft, Natur- und Verbraucherschutz im Einvernehmen mit dem Ministerium für Wirtschaft, Innovation, Digitalisierung und Energie, dem Ministerium des Innern, dem Ministerium für Heimat, Kommunales, Bau und Gleichstellung und dem Ministerium für Verkehr:
