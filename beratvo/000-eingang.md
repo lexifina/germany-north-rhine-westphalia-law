@@ -1,0 +1,2 @@
+Vom 27. Februar 2006
+Aufgrund § 62 Satz 4 Landesforstgesetz für das Land Nordrhein-Westfalen (Landesforstgesetz – LFoG) in der Fassung der Bekanntmachung vom 24. April 1980 (GV. NRW. S. 546), zuletzt geändert durch Artikel II des Gesetzes vom 3. Mai 2005 (GV. NRW. S. 522), wird im Einvernehmen mit dem Ausschuss für Umwelt und Naturschutz, Landwirtschaft und Verbraucherschutz des Landtags verordnet:
