@@ -1,0 +1,3 @@
+Vom 7. Juli 1987
+Aufgrund des § 5 Abs. 2 und 4 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NW. S. 421), zuletzt geändert durch Gesetz vom 30. September 1986 (GV. NW. S. 656), des § 5 Abs. 3 Satz 1 des Landesorganisationsgesetzes, insoweit nach. Anhörung des Ausschusses für Städtebau und Wohnungswesen des Landtags, des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), der §§ 46 Abs. 2, 80 Abs. 3 Satz 1, 203 Abs. 3 und 212 Abs. 1 des Baugesetzbuches (BauGB) in der Fassung der Bekanntmachung vom 8. Dezember 1986 (BGBl. I S. 2253) wird verordnet:
+Erster Abschnitt Zuständigkeitsregelung
