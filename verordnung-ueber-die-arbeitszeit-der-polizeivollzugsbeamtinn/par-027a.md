@@ -1,0 +1,2 @@
+# § 27a Langzeitarbeitskonten
+Die Regelungen der Arbeitszeitverordnung zu Langzeitarbeitskonten gelten entsprechend. Abweichend von § 14a Absatz 8 Satz 3 der Arbeitszeitverordnung bedarf die Freistellung der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten der Laufbahngruppe 2, zweites Einstiegsamt neben der Zustimmung der dienstvorgesetzten Stelle auch der Zustimmung der obersten dienstvorgesetzten Stelle.
