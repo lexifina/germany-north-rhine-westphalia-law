@@ -1,0 +1,2 @@
+Vom 19. August 2020
+Auf Grund des § 32 Absatz 2 Satz 1 der Strafprozeßordnung in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), der durch Artikel 1 des Gesetzes vom 5. Juli 2017 (BGBl. I S. 2208) eingefügt worden ist, in Verbindung mit § 1 der Verordnung über die Ermächtigung des Ministeriums der Justiz zum Erlass von Rechtsverordnungen zur elektronischen Aktenführung in Ordnungswidrigkeitsverfahren, Strafverfahren und Strafvollzugsverfahren vom 10. März 2020 (GV. NRW. S. 182), verordnet das Ministerium der Justiz:
