@@ -1,0 +1,4 @@
+# § 13a Maßnahmen für regionale Bildungsentwicklung
+(1) Das Land stellt jährlich wenigstens eine Million Euro für Maßnahmen zur regionalen Bildungsentwicklung zur Verfügung. Gefördert werden insbesondere Maßnahmen, mit denen sich Volkshochschulen innerhalb regionaler Bildungslandschaften vernetzen, über Angebote der Alphabetisierung und Grundbildung bis hin zum Nachholen von Schulabschlüssen informieren oder eine allgemeine Bildungsberatung durchführen, mit jeweils bis zu 35 000 Euro.
+(2) Die Fördermittel sind von den Volkshochschulen zu beantragen. Die Antragsvoraussetzungen und das Antragsverfahren regelt das für Weiterbildung zuständige Ministerium durch Rechtsverordnung nach Anhörung der für Weiterbildung und für Kommunales zuständigen Ausschüsse des Landtags.
+III. Abschnitt Einrichtungen der Weiterbildung in anderer Trägerschaft
