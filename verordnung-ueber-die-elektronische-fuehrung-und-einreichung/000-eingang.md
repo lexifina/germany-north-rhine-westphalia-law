@@ -1,0 +1,2 @@
+Vom 9. April 2020
+Auf Grund des § 5 Absatz 4 Satz 2 bis 4 der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die durch Artikel 1 Nummer 1 Buchstabe c des Gesetzes vom 13. April 2007 (BGBl. I S. 509) eingefügt worden sind, in Verbindung mit § 1 Absatz 2 des Justizgesetzes Nordrhein-Westfalen vom 26. Januar 2010 (GV. NRW. S. 30), der durch § 1 Absatz 2 Satz 1 des Gesetzes vom 12. Juli 2019 (GV. NRW. S. 364) geändert worden ist, verordnet das Ministerium der Justiz:
