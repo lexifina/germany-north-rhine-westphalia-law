@@ -1,0 +1,3 @@
+Ordnungsbehördliche Verordnung zur Umsetzung der Richtlinie (EU) 2016/802 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über eine Verringerung des Schwefelgehalts bestimmter flüssiger Kraft- oder Brennstoffe
+Vom 1. Juni 2015
+Auf Grund des § 26 Absatz 1, des § 30 und des § 31 des Ordnungsbehördengesetzes in der Fassung der Bekanntmachung vom 13. Mai 1980 (GV. NRW. S. 528), von denen § 26 Absatz 1 durch Artikel 3 des Gesetzes vom 15. Oktober 1993 (GV. NRW. S. 987) geändert worden ist, verordnet das Ministerium für Klimaschutz, Umwelt, Landwirtschaft, Natur- und Verbraucherschutz im Benehmen mit dem Ministerium für Bauen, Wohnen, Stadtentwicklung und Verkehr und dem Ministerium für Inneres und Kommunales:
