@@ -1,0 +1,2 @@
+Vom 18. August 2021
+Auf Grund des § 18 Absatz 1 und des § 118 Absatz 2 Satz 2 des Heilberufsgesetzes vom 9. Mai 2000 (GV. NRW. S. 403), von denen § 18 Absatz 1 zuletzt durch Gesetz vom 3. Dezember 2019 (GV. NRW. S. 882) geändert und § 118 Absatz 2 Satz 2 durch Artikel 1 Nummer 21 des Gesetzes vom 30. Juni 2020 (GV. NRW. S. 650) eingefügt worden ist, verordnet das Ministerium für Arbeit, Gesundheit und Soziales nach Anhörung des Errichtungsausschusses der Pflegekammer:
