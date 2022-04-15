@@ -1,0 +1,2 @@
+# § 1a Staatsvertrag
+Die Regelungen des zwischen dem Land Nordrhein-Westfalen und der Freien und Hansestadt Hamburg geschlossenen Staatsvertrages über die Voraussetzungen zur Ausstattung und Finanzierung der öffentlich-rechtlichen Stiftung „Zoologisches Forschungsmuseum Alexander Koenig - Leibniz-Institut für Biodiversität der Tiere“ beziehungsweise „Leibniz-Institut zur Analyse des Biodiversitätswandels“ mit den Standorten Bonn und Hamburg vom 8./21. April 2021 (GV. NRW. S. 654) bleiben unberührt.
