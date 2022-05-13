@@ -1,0 +1,3 @@
+Verordnung über die Durchführung digitaler und hybrider Sitzungen kommunaler Vertretungen (Digitalsitzungsverordnung – DigiSiVO)
+Vom 27. April 2022
+Auf Grund des § 133 Absatz 4 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), der durch Artikel 1 Nummer 21 des Gesetzes vom 13. April 2022 (GV. NRW S. 489) eingefügt worden ist, verordnet das Ministerium für Heimat, Kommunales, Bau und Gleichstellung im Benehmen mit dem für Kommunales zuständigen Ausschuss des Landtags und mit der oder dem Beauftragten der Landesregierung Nordrhein-Westfalen für Informationstechnik:
