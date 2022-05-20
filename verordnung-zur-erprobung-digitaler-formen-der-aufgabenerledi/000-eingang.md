@@ -1,0 +1,4 @@
+Verordnung zur Erprobung digitaler Formen der Aufgabenerledigung in der Verwaltung und zur Fortentwicklung des E-Governments im Zuständigkeitsbereich des Ministeriums für Wirtschaft, Innovation, Digitalisierung und Energie (Digitalerprobungsverordnung MWIDE)
+Vom 5. Mai 2022
+Auf Grund des § 25a Absatz 1 Nummer 1 und 2 des E-Government-Gesetzes Nordrhein-Westfalen vom 8. Juli 2016 (GV. NRW. S. 551), der durch Artikel 1 Nummer 9 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122) neu gefasst worden ist, verordnet das Ministerium für Wirtschaft, Innovation, Digitalisierung und Energie im Einvernehmen mit dem Beauftragten der Landesregierung Nordrhein-Westfalen für Informationstechnik und dem Ministerium des Innern:
+Abschnitt 1 Vertragsschluss des Landesbetriebs Information und Technik Nordrhein-Westfalen per E-Mail
