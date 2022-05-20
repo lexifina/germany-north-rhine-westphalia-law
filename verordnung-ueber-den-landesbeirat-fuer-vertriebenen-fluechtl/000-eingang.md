@@ -1,0 +1,1 @@
+Auf Grund des § 10 Absatz 5 des Gesetzes zur Förderung der gesellschaftlichen Teilhabe und Integration in Nordrhein-Westfalen vom 14. Februar 2012 (GV. NRW. S. 97) wird nach Anhörung des für Integration zuständigen Ausschusses des Landtags verordnet:
