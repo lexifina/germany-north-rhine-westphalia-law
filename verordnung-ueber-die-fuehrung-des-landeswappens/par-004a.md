@@ -1,0 +1,2 @@
+# § 4a
+Für den Fall der maschinellen Bearbeitung darf das kleine Landessiegel auch elektronisch erstellt werden. Sofern sich die siegelführende Stelle eindeutig aus dem Schriftstück ergibt, kann das zuständige Ministerium insoweit zulassen, dass in der Umschrift des elektronisch erzeugten Siegels auf die Bezeichnung der siegelführenden Stelle verzichtet wird. Für die Gestaltung und Beschriftung sind die Muster 9 und 10 der Anlage maßgebend.
