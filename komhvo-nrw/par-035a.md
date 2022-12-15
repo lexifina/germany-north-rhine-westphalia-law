@@ -1,0 +1,2 @@
+# § 35a Bildung von Bewertungseinheiten
+Werden Kredite gemäß § 86 Absatz 1 Satz 4 der Gemeindeordnung aufgenommen, kann § 254 des Handelsgesetzbuchs angewandt werden. Sofern hiervon Gebrauch gemacht wird, sind § 88 Absatz 1 der Gemeindeordnung, § 33 Absatz 1 Nummer 2 und 3, § 36 Absatz 1 dieser Verordnung und § 256a des Handelsgesetzbuchs in dem Umfang und für den Zeitraum nicht anzuwenden, in dem die gegenläufigen Wertänderungen oder Zahlungsströme sich ausgleichen.

@@ -1,0 +1,4 @@
+# § 33a Aufwendungen für die Erhaltung der gemeindlichen Leistungsfähigkeit
+(1) In den Jahresabschlüssen 2020 bis 2023 sind Aufwendungen zur Erhaltung der gemeindlichen Leistungsfähigkeit, soweit sie nicht bilanzierungsfähig sind, als Bilanzierungshilfe zu aktivieren. Der Posten ist in der Bilanz unter der Bezeichnung „Aufwendungen zur Erhaltung der gemeindlichen Leistungsfähigkeit“ vor dem Anlagevermögen auszuweisen und im Anhang zu erläutern.
+(2) Die Bewertung der nach Absatz 1 zu aktivierenden Bilanzierungshilfen erfolgt nach § 5 des NKF-COVID-19-Ukraine-Isolierungsgesetzes vom 29. September 2020 (GV. NRW. S. 916), das zuletzt durch Artikel 2 des Gesetzes vom 9. Dezember 2022 (GV. NRW. S. 1063) geändert worden ist.
+(3) Die weitere bilanzielle Behandlung der in den Jahresabschlüssen der Haushaltsjahre 2020 bis 2023 aktivierten Bilanzierungshilfen in den Haushaltsjahren nach 2023 richtet sich nach § 6 des NKF-COVID-19-Ukraine-Isolierungsgesetz.
