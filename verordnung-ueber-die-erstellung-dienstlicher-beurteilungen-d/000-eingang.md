@@ -1,0 +1,3 @@
+Verordnung über die Erstellung dienstlicher Beurteilungen der Richterinnen und Richter sowie der Staatsanwältinnen und Staatsanwälte im Geschäftsbereich des Ministeriums der Justiz (Beurteilungsverordnung JM - BeurtVO JM)
+Vom 14. Dezember 2022
+Aufgrund des § 14 Absatz 5 und 6 Satz 2 des Landesrichter- und Staatsanwältegesetzes vom 8. Dezember 2015 (GV. NRW. S. 812), von denen Absatz 5 durch Artikel 1 Nummer 2 Buchstabe b des Gesetzes vom 13. April 2022 (GV. NRW. S. 504) neu gefasst und Absatz 6 Satz 2 durch Artikel 1 Nummer 2 Buchstabe b des Gesetzes vom 13. April 2022 (GV. NRW. S. 504) eingefügt worden ist, verordnet das Ministerium der Justiz:
