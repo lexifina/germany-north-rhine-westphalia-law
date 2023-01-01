@@ -1,0 +1,2 @@
+Vom 29. November 2022
+Auf Grund des § 121 Absatz 1 des Justizgesetzes Nordrhein-Westfalen vom 26. Januar 2010 (GV. NRW. S. 30), der durch Gesetz vom 23. Februar 2022 (GV. NRW. S. 254) geändert worden ist, und des § 2 Absatz 3 des Justizaktenaufbewahrungsgesetzes vom 22. März 2005 (BGBl. I S. 837, 852), der durch Artikel 3 Nummer 2 des Gesetzes vom 16. Oktober 2020 (BGBl. I S. 2187) neu gefasst worden ist, verordnet das Ministerium der Justiz:
