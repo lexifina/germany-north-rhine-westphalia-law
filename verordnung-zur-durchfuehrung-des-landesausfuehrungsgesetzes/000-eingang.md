@@ -1,0 +1,3 @@
+(Artikel 2 des Gesetzes vom 8. November 2022 (GV. NRW. S. 975))
+Vom 8. November 2022
+Auf Grund des § 2 Absatz 1 Nummer 1 bis 3, Absatz 2 und 3 des Landesausführungsgesetzes Medizinisch-Technische Gesundheitsfachberufe in Nordrhein-Westfalen vom 17. Dezember 2021 (GV. NRW. S. 1466), von denen Absatz 1 Nummer 1 bis 3 durch Artikel 1 Nummer 3 Buchstabe a Doppelbuchstabe aa geändert und Doppelbuchstabe bb des Gesetzes vom 8. November 2022 (GV. NRW. S. 975) neu gefasst und Absatz 2 und 3 durch Artikel 1 Nummer 3 Buchstabe b des Gesetzes vom 8. November 2022 (GV. NRW. S. 975) neu gefasst worden ist, wird verordnet:
