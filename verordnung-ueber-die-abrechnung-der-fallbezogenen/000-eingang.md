@@ -1,0 +1,3 @@
+Verordnung über die Abrechnung der fallbezogenen Krebsregisterpauschalen und Meldevergütungen (Landeskrebsregister-Abrechnungs-Verordnung)
+Vom 12. Juli 2016
+Auf Grund des § 26 Absatz 1 Nummer 5 bis 7 des Landeskrebsregistergesetzes vom 2. Februar 2016 (GV. NRW. S. 94) verordnet das Ministerium für Gesundheit, Emanzipation, Pflege und Alter, insoweit auf Grund des § 26 Absatz 1 Nummer 6 im Einvernehmen mit dem Finanzministerium, dem Justizministerium und dem Ministerium für Inneres und Kommunales und insoweit auf Grund des § 26 Absatz 1 Nummer 7 nach Anhörung der Landesbeauftragten für Datenschutz und Informationsfreiheit:
