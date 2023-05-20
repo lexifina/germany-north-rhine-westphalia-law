@@ -1,0 +1,2 @@
+Vom 5. Juni 2007
+Auf Grund des § 5 Abs. 3 Satz 1 des Landesorganisationsgesetzes (LOG NRW) vom 10. Juli 1962 (GV. NRW. S. 421), zuletzt geändert durch Artikel 11 des Gesetzes vom 12. Dezember 2006 (GV. NRW. S. 622), insoweit nach Anhörung des Ausschusses für Umwelt und Naturschutz, Landwirtschaft und Verbraucherschutz des Landtags, und auf Grund des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), zuletzt geändert durch Gesetz vom 12. Juli 2006 (BGBl. I S. 1466), wird verordnet:
