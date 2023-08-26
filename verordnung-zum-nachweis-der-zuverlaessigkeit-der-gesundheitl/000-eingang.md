@@ -1,0 +1,2 @@
+Vom 7. August 2023
+Auf Grund des § 1a Absatz 1 und des § 3 des Gesundheitsfachberufegesetzes NRW vom 18. Dezember 2014 (GV. NRW. S. 930), von denen § 1a Absatz 1 durch Artikel 3 Nummer 1 Buchstabe a des Gesetzes vom 8. November 2022 (GV. NRW. S. 975) und § 3 Satz 2 bis 5 durch Artikel 3 Nummer 2 des Gesetzes vom 26. April 2016 (GV. NRW. S. 230) eingefügt worden ist, verordnet das Ministerium für Arbeit, Gesundheit und Soziales:
