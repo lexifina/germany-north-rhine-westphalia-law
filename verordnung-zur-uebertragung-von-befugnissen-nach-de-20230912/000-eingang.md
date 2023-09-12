@@ -1,0 +1,2 @@
+Vom 17. August 2023
+Auf Grund des § 5 Absatz 2 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NRW. S. 421), der durch § 97 Nummer 1 des Gesetzes vom 21. Dezember 1976 (GV. NRW. S. 438) neu gefasst worden ist, in Verbindung mit § 57 Satz 2, § 58 Absatz 1 Satz 2 und Absatz 2 und § 59 Absatz 1 Satz 2 und Absatz 2 der Landeshaushaltsordnung in der Fassung der Bekanntmachung vom 26. April 1999 (GV. NRW. S. 158) verordnet das Ministerium für Umwelt, Naturschutz und Verkehr:
