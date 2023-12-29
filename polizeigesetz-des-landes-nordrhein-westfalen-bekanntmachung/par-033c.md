@@ -1,0 +1,3 @@
+# § 33c Datenschutzkontrolle
+Die oder der Landesbeauftragte für Datenschutz und Informationsfreiheit führt unbeschadet ihrer oder seiner sonstigen Aufgaben und Kontrollen mindestens alle zwei Jahre zumindest stichprobenartige Überprüfungen bezüglich der Datenverarbeitung bei nach § 33b zu protokollierenden Maßnahmen und von Übermittlungen an Drittstaaten gemäß des § 29 durch. Zu diesem Zwecke sind durch technische und organisatorische Maßnahmen in geeigneter auswertbarer Form die Protokollierungen gemäß § 29 und § 33b zur Verfügung zu stellen.
+Dritter Unterabschnitt Platzverweisung, Wohnungsverweisung und Rückkehrverbot zum Schutz vor häuslicher Gewalt

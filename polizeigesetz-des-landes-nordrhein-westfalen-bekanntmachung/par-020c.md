@@ -1,0 +1,32 @@
+# § 20c Datenerhebung durch die Überwachung der laufenden Telekommunikation
+(1) Die Polizei kann ohne Wissen der betroffenen Person die laufende Telekommunikation einer Person überwachen und aufzeichnen,
+1. die nach den §§ 4 oder 5 verantwortlich ist, wenn dies zur Abwehr einer gegenwärtigen Gefahr für den Bestand oder die Sicherheit des Bundes oder eines Landes oder für Leib oder Leben einer Person geboten ist,
+2. deren individuelles Verhalten die konkrete Wahrscheinlichkeit begründet, dass sie innerhalb eines übersehbaren Zeitraums auf eine zumindest ihrer Art nach konkretisierte Weise eine terroristische Straftat nach § 8 Absatz 4 begehen wird,
+3. bei der bestimmte Tatsachen die Annahme rechtfertigen, dass sie für eine Person nach Nummer 1 bestimmte oder von dieser herrührende Mitteilungen entgegennimmt oder weitergibt, oder
+4. bei der bestimmte Tatsachen die Annahme rechtfertigen, dass eine Person nach Nummer 1 deren Telekommunikationsanschluss oder Endgerät benutzen wird
+und die Abwehr der Gefahr oder Verhütung der Straftaten auf andere Weise aussichtslos oder wesentlich erschwert wäre. Die Maßnahme darf auch durchgeführt werden, wenn andere Personen unvermeidbar betroffen werden.
+(2) Die Überwachung und Aufzeichnung der Telekommunikation darf ohne Wissen der betroffenen Person in der Weise erfolgen, dass mit technischen Mitteln in von der betroffenen Person genutzte informationstechnische Systeme eingegriffen wird, wenn
+1. durch technische Maßnahmen sichergestellt ist, dass ausschließlich laufende Telekommunikation überwacht und aufgezeichnet wird und
+2. der Eingriff in das informationstechnische System notwendig ist, um die Überwachung und Aufzeichnung der Telekommunikation insbesondere auch in unverschlüsselter Form zu ermöglichen.
+(3) Bei Maßnahmen nach Absatz 2 ist sicherzustellen, dass
+1. an dem informationstechnischen System nur Veränderungen vorgenommen werden, die für die Datenerhebung unerlässlich sind und
+2. die vorgenommenen Veränderungen bei Beendigung der Maßnahme, soweit technisch möglich, automatisiert rückgängig gemacht werden.
+Das eingesetzte Mittel ist gegen unbefugte Nutzung zu schützen. Kopierte Daten sind gegen Veränderung, unbefugte Löschung und unbefugte Kenntnisnahme zu schützen.
+(4) Maßnahmen nach den Absätzen 1 und 2 dürfen nur auf Antrag der Behördenleitung oder deren Vertretung durch das Amtsgericht, in dessen Bezirk die Polizeibehörde ihren Sitz hat, angeordnet werden. § 16a Absatz 2 Satz 6 und 7 gilt entsprechend.
+(5) Im Antrag sind anzugeben:
+1. die Person, gegen die sich die Maßnahme richtet, soweit möglich, mit Name und Anschrift,
+2. die Rufnummer oder eine andere Kennung des zu überwachenden Anschlusses oder des Endgeräts, sofern sich nicht aus bestimmten Tatsachen ergibt, dass diese zugleich einem anderen Endgerät zugeordnet ist,
+3. Art, Umfang und Dauer der Maßnahme,
+4. im Falle des Absatzes 2 auch eine möglichst genaue Bezeichnung des informationstechnischen Systems, in das zur Datenerhebung eingegriffen werden soll, sowie die Bezeichnung des Herstellers und der Softwareversion des einzusetzenden technischen Mittels,
+5. der Sachverhalt und
+6. eine Begründung.
+(6) Die Anordnung des Gerichts ergeht schriftlich. In ihr sind anzugeben:
+1. eine Kennung des Kommunikationsanschlusses oder des Endgeräts, bei dem die Datenerhebung durchgeführt wird,
+2. im Falle des Absatzes 2 zusätzlich eine möglichst genaue Bezeichnung des informationstechnischen Systems, in das zur Datenerhebung eingegriffen werden soll.
+Im Übrigen gilt § 18 Absatz 2 Satz 3 mit Ausnahme der Bezeichnung der betroffenen Wohnung entsprechend. Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um jeweils nicht mehr als drei weitere Monate ist zulässig, soweit die Voraussetzungen der Anordnung unter Berücksichtigung der gewonnenen Erkenntnisse fortbestehen. Liegen die Voraussetzungen der Anordnung nicht mehr vor, sind die aufgrund der Anordnung ergriffenen Maßnahmen unverzüglich zu beenden. § 18 Absatz 2 Satz 5 bis 9 gilt entsprechend.
+(7) Aufgrund der Anordnung hat jeder, der Telekommunikationsdienste erbringt oder daran mitwirkt (Diensteanbieter), der Polizei die Maßnahmen nach Absatz 1 zu ermöglichen und die erforderlichen Auskünfte unverzüglich zu erteilen. Ob und in welchem Umfang hierfür Vorkehrungen zu treffen sind, bestimmt sich nach dem Telekommunikationsgesetz und der Verordnung über die technische und organisatorische Umsetzung von Maßnahmen zur Überwachung der Telekommunikation. Für die Entschädigung der Diensteanbieter ist § 23 des Justizvergütungs- und -entschädigungsgesetzes entsprechend anzuwenden.
+(8) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch eine Maßnahme nach den Absätzen 1 und 2 allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Soweit im Rahmen von Maßnahmen nach den Absätzen 1 und 2 neben einer automatischen Aufzeichnung eine unmittelbare Kenntnisnahme erfolgt, ist die Maßnahme unverzüglich zu unterbrechen, soweit sich während der Überwachung tatsächliche Anhaltspunkte dafür ergeben, dass Inhalte, die dem Kernbereich privater Lebensgestaltung zuzurechnen sind, erfasst werden. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung, die durch eine Maßnahme nach den Absätzen 1 und 2 erlangt worden sind, dürfen nicht verwertet werden. Aufzeichnungen hierüber sind unverzüglich zu löschen. Die Tatsachen der Erfassung der Daten und der Löschung sind zu dokumentieren. Die Dokumentation darf ausschließlich für Zwecke der Datenschutzkontrolle gemäß § 33c verwendet werden. Sie ist sechs Monate nach der Benachrichtigung nach § 33 Absatz 2 Satz 1 zu löschen. Ist die Datenschutzkontrolle noch nicht beendet, ist die Dokumentation bis zu ihrem Abschluss aufzubewahren. Im Übrigen gilt § 18 Absatz 3 Satz 3 und Absatz 4 Satz 2 bis 7 entsprechend.
+(9) Bei der Erhebung von Daten nach den Absätzen 1 und 2 sind die in § 33b Absatz 1 und 2 genannten Angaben zu protokollieren. Im Falle des Absatzes 2 sind darüber hinaus folgende Angaben zu protokollieren:
+1. Angaben zur Identifizierung des informationstechnischen Systems und die daran vorgenommenen, nicht nur flüchtigen Veränderungen,
+2. Angaben zum Hersteller des zur Datenerhebung eingesetzten Mittels und zur eingesetzten Softwareversion.
+(10) Die Landesregierung überprüft die Wirksamkeit der Vorschrift bis zum 31. Dezember 2027 und berichtet dem Landtag über das Ergebnis der Evaluierung. § 20c tritt am 31. Dezember 2028 außer Kraft.
