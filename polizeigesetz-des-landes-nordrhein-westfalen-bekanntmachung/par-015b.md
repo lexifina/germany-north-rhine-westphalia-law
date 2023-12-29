@@ -1,0 +1,3 @@
+# § 15b Datenerhebung zur Eigensicherung
+Die Polizei kann zur Abwehr einer Gefahr im Sinne des § 1 Abs. 1 zum Zwecke der Eigensicherung bei Personen- oder Fahrzeugkontrollen Bildaufnahmen und -aufzeichnungen durch den Einsatz optisch-technischer Mittel in Fahrzeugen der Polizei herstellen. Der Einsatz der optisch-technischen Mittel ist, falls nicht offenkundig, durch geeignete Maßnahmen erkennbar zu machen oder der betroffenen Person mitzuteilen. Die Bildaufzeichnungen sind am Tage nach dem Anfertigen zu löschen. Dies gilt nicht, wenn die Aufzeichnungen zur Verfolgung von Straftaten oder Ordnungswidrigkeiten benötigt werden. § 24 Absatz 2 und 3 bleibt unberührt.
+III. Besondere Mittel der Datenerhebung
