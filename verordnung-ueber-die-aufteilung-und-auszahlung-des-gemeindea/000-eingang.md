@@ -1,0 +1,2 @@
+Vom 5. Dezember 2023
+Auf Grund des § 5a Absatz 3 Satz 3 und des § 5d Absatz 2 und 3 des Gemeindefinanzreformgesetzes in der Fassung der Bekanntmachung vom 10. März 2009 (BGBl. I S. 502), von denen § 5a Absatz 3 Satz 3 durch Artikel 3 Nummer 2 Buchstabe d des Gesetzes vom 21. November 2016 (BGBl. I S. 2613) angefügt und § 5d Absatz 2 und 3 durch Artikel 3 Nummer 6 des Gesetzes vom 21. November 2016 (BGBl. I S. 2613) geändert worden ist, verordnet die Landesregierung:
