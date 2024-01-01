@@ -1,0 +1,12 @@
+# § 16a Familienpflegezeit
+(1) In entsprechender Anwendung der §§ 1, 2 Absatz 1, 2 und 5, § 2a des Familienpflegezeitgesetzes vom 6. Dezember 2011 (BGBl. I S. 2564) in der jeweils geltenden Fassung haben Beamtinnen und Beamte Anspruch auf Familienpflegezeit, wenn sie
+1. eine pflegebedürftige nahe Angehörige oder einen pflegebedürftigen nahen Angehörigen in häuslicher Umgebung pflegen oder
+2. eine minderjährige pflegebedürftige nahe Angehörige oder einen minderjährigen pflegebedürftigen nahen Angehörigen in häuslicher oder außerhäuslicher Umgebung betreuen,
+soweit nachfolgend nichts Abweichendes geregelt ist.
+(2) Die Familienpflegezeit nach Absatz 1 wird als Teilzeitbeschäftigung im beantragten Umfang bewilligt, soweit zwingende dienstliche Gründe nicht entgegenstehen. Die regelmäßige wöchentliche Arbeitszeit in der Pflegephase muss mindestens 15 Stunden betragen. Richterinnen und Richter müssen die im Sinne von Satz 1 zulässige Teilzeitbeschäftigung mindestens mit 30 Prozent des regelmäßigen Dienstes leisten.
+(3) Teilzeitbeschäftigung kann auch als Teilzeitbeschäftigung im Blockmodell entsprechend § 65 Absatz 2 des Landesbeamtengesetzes in Anspruch genommen werden. In diesen Fällen ist Beamtinnen und Beamten ihre tatsächliche Arbeitszeit während der Pflegephase bis zu längstens 24 Monaten um den Anteil der reduzierten Arbeitszeit zu ermäßigen, welcher nach Beendigung der Pflegephase in der ebenso langen Nachpflegephase erbracht wird. In diesen Fällen ist die Bewilligung der Familienpflegezeit mit einem Widerrufsvorbehalt für die Fälle des § 65 Absatz 3 Satz 1 bis 5 des Landesbeamtengesetzes zu versehen.
+(4) Die Pflegephase der Familienpflegezeit ist nur für einen einzigen zusammenhängenden Zeitabschnitt zu bewilligen. Die Dauer der Pflegephase der Familienpflegezeit beträgt maximal 24 Monate je pflegebedürftiger naher Angehöriger oder pflegebedürftigem nahen Angehörigen. § 16 Absatz 6 gilt entsprechend.
+(5) Die Pflegebedürftigkeit der oder des Angehörigen ist entsprechend § 2a Absatz 4 des Familienpflegezeitgesetzes nachzuweisen. Soweit Kosten für die ärztliche Bescheinigung entstehen, werden sie vom Dienstherrn übernommen. § 7 Absatz 3 und 4 des Pflegezeitgesetzes gelten entsprechend.
+(6) Für Freistellungen nach § 2 des Familienpflegezeitgesetzes gilt § 16 Absatz 5 entsprechend. Sie sind spätestens acht Wochen vor Beginn schriftlich oder elektronisch zu beantragen.
+(7) Für eine Entlassung aus dem Beamtenverhältnis während der Familienpflegezeit gilt § 12 entsprechend.
+Teil 5 Erholungsurlaub
