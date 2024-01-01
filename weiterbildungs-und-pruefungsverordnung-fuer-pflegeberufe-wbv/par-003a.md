@@ -1,0 +1,2 @@
+# § 3a Anrechnung von Zeiten auf die Weiterbildung
+Auf Antrag können eine andere Aus- oder Weiterbildung oder Teile hiervon, eine Hochschulausbildung oder Teile hiervon, Berufserfahrung oder durch lebenslanges Lernen erworbene Kenntnisse und Fähigkeiten auf die Weiterbildung nach § 2 Absatz 1 angerechnet werden. Das Erreichen des Weiterbildungsziels darf durch die Anrechnung nicht gefährdet werden. Die Weiterbildungsstätte gibt eine Einschätzung über den Umfang einer möglichen Anrechnung ab. Der Vorsitz des Prüfungsausschusses entscheidet über den Antrag.
