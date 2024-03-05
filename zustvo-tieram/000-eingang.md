@@ -1,0 +1,4 @@
+Verordnung über Zuständigkeiten im Tierarzneimittelwesen (Zuständigkeitsverordnung Tierarzneimittel – ZustVO TierAM)
+Vom 25. Januar 2022
+(Artikel 2 der Verordnung zur Neuordnung der Zuständigkeiten im Humanarzneimittel-, Tierarzneimittel-, Medizinprodukte- und Apothekenwesen sowie auf dem Gebiet des Schutzes vor nichtionisierender Strahlung bei der Anwendung am Menschen vom 25. Januar 2022 (GV. NRW. S. 100))
+Auf Grund des § 5 Absatz 3 Satz 1 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NRW. S. 421), der zuletzt durch Artikel 10 Nummer 3 des Gesetzes vom 9. Mai 2000 (GV. NRW. S. 462) geändert worden ist, insoweit nach Anhörung des fachlich zuständigen Ausschusses des Landtags, und auf Grund des § 36 Absatz 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet die Landesregierung:
