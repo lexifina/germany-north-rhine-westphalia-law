@@ -1,0 +1,2 @@
+Vom 28. Mai 2015
+Auf Grund des § 24 Absatz 1 des Landesjagdgesetzes Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 7. Dezember 1994 (GV. NRW. 1995 S. 2, ber. 1997 S. 56), der zuletzt durch Artikel 1 des Gesetzes vom 12. Mai 2015 (GV. NRW. S. 448) geändert worden ist, verordnet das Ministerium für Klimaschutz, Umwelt, Landwirtschaft, Natur- und Verbraucherschutz im Einvernehmen mit dem Landtag des Landes Nordrhein-Westfalen:
