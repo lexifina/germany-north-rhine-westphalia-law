@@ -1,0 +1,2 @@
+Vom 9. Januar 2003
+Auf Grund des § 17 Abs. 4 des Gesetzes zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz - IfSG) vom 20. Juli 2000 (BGBl. I S. 1045), geändert durch Gesetz vom 5. November 2001 (BGBl. I S. 2960), in Verbindung mit § 10 der Verordnung zur Regelung von Zuständigkeiten nach dem Infektionsschutzgesetz - ZVO-IfSG - vom 28. November 2000 (GV. NRW. S. 701) wird verordnet:
