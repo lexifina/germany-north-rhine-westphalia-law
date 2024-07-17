@@ -1,0 +1,2 @@
+# § 16a Fraktionen
+Fraktionen sind freiwillige Vereinigungen von Mitgliedern der Landschaftsversammlung, die sich auf der Grundlage grundsätzlicher politischer Übereinstimmung zu möglichst gleichgerichtetem Wirken zusammengeschlossen haben. Eine Fraktion besteht aus mindestens drei Personen. Satz 1 gilt für Gruppen ohne Fraktionsstatus entsprechend. Eine Gruppe in der Landschaftsversammlung besteht aus mindestens zwei Personen. Im Übrigen gilt § 56 Absätze 2 bis 5 der Gemeindeordnung für das Land Nordrhein-Westfalen in der jeweils geltenden Fassung entsprechend.

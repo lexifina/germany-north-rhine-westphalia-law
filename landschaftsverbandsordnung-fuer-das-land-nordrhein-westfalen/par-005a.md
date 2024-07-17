@@ -1,0 +1,2 @@
+# § 5 a Geheimhaltung
+Die Landschaftsverbände sind verpflichtet, Angelegenheiten der zivilen Verteidigung, die auf Anordnung der zuständigen Behörde oder ihrem Wesen nach gegen die Kenntnis Unbefugter geschützt werden müssen, geheimzuhalten. Sie haben hierbei Weisungen der Landesregierung auf dem Gebiet des Geheimschutzes zu beachten.
