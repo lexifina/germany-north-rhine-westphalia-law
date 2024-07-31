@@ -1,0 +1,2 @@
+# § 11a Einberufung in besonderen Ausnahmefällen und Durchführung von Sitzungen inhybrider Form
+Für die Einberufung der Verbandsversammlung, des Verbandsausschusses und der sonstigen Ausschüsse in besonderen Ausnahmefällen gilt § 47a der Gemeindeordnung für das Land Nordrhein-Westfalen. Für die Durchführung von Sitzungen der sonstigen Ausschüsse in hybrider Form gilt § 58a der Gemeindeordnung für das Land Nordrhein-Westfalen entsprechend.
