@@ -1,0 +1,3 @@
+# § 3b Verfahrensregelung
+(1) In das Zulassungsverfahren werden nur die Bewerberinnen und Bewerber einbezogen, die zu dem jeweiligen Einstellungstermin ihren Antrag auf Einstellung in den Vorbereitungsdienst innerhalb der Bewerbungsfrist nach § 2 Absatz 1 unter Vorlage der vollständigen nach § 2 Absatz 2 geforderten Bewerbungsunterlagen der Einstellungsbehörde eingereicht haben und nach den dienst- und ausbildungsrechtlichen Bestimmungen die Voraussetzungen für eine Einstellung in den Vorbereitungsdienst erfüllen.
+(2) Tatsachen, die für die Anerkennung von Wartezeiten oder von Härtefällen erheblich sind, werden nur berücksichtigt, sofern sie bis zum Ende der Bewerbungsfrist vorgetragen und nachgewiesen worden sind.
