@@ -1,0 +1,2 @@
+Vom 12. März 2024
+Auf Grund des § 110a Absatz 2 Satz 1 des Strafvollzugsgesetzes vom 16. März 1976 (BGBl. I S. 581, 2088; 1977 I S. 436), der durch Artikel 5 Nummer 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S. 2208) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des Justizgesetzes Nordrhein-Westfalen vom 26. Januar 2010 (GV. NRW. S. 30), der zuletzt durch Gesetz vom 23. Februar 2022 (GV. NRW. S. 254) geändert worden ist, verordnet das Ministerium der Justiz:
