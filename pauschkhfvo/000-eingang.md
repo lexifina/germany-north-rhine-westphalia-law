@@ -1,0 +1,3 @@
+Verordnung über die pauschale Krankenhausförderung (PauschKHFVO)
+Vom 28. Februar 2022
+Auf Grund des § 18 Absatz 2 Nummer 1 des Krankenhausgestaltungsgesetzes des Landes Nordrhein-Westfalen vom 11. Dezember 2007 (GV. NRW. S. 702, ber. 2008 S. 157), der durch Gesetz vom 9. März 2021 (GV. NRW. S. 272, ber. S. 394) geändert worden ist, verordnet das Ministerium für Arbeit, Gesundheit und Soziales im Einvernehmen mit dem Ministerium der Finanzen und dem Ministerium des Innern nach Anhörung der unmittelbar Beteiligten im Sinne des § 15 Absatz 1 des Krankenhausgestaltungsgesetzes des Landes Nordrhein-Westfalen und im Benehmen mit dem zuständigen Landtagsausschuss:
