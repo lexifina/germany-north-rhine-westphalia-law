@@ -1,0 +1,2 @@
+Vom 2. Dezember 2024
+Auf Grund des § 3 Absatz 7 des Gesetzes über die NRW.BANK vom 16. März 2004 (GV. NRW. S. 126), das zuletzt durch Artikel 1 des Gesetzes über die NRW.BANK vom 19. Dezember 2023 (GV. NRW. S. 1456) geändert worden ist, verordnet das Ministerium für Umwelt, Naturschutz und Verkehr des Landes Nordrhein-Westfalen im Einvernehmen mit der NRW.BANK und dem Ministerium der Finanzen und im Benehmen mit dem Haushalts- und Finanzausschuss des Landtags:
