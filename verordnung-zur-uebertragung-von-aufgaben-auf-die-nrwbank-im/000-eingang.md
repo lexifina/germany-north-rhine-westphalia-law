@@ -1,0 +1,3 @@
+Verordnung zur Übertragung von Aufgaben auf die NRW.BANK im Geschäftsbereich des Ministeriums für Heimat, Kommunales, Bau und Digitalisierung (MHKBD-Aufgabenübertragungsverordnung – MHKBD-AÜVO)
+Vom 4. Dezember 2024
+Auf Grund des § 3 Absatz 7 des Gesetzes über die NRW.BANK vom 16. März 2004 (GV. NRW. S. 126), das zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2023 (GV. NRW. S. 1456) geändert worden ist, verordnet das Ministerium für Heimat, Kommunales, Bau und Digitalisierung im Einvernehmen mit der NRW.BANK und dem Ministerium der Finanzen sowie im Benehmen mit dem Haushalts- und Finanzausschuss des Landtags:
