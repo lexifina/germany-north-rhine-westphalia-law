@@ -1,0 +1,10 @@
+# § 10a Dauer der Ausbildung
+(1) Die Ausbildung dauert unbeschadet des § 8 drei Jahre. Die Ausbildung endet mit dem Bestehen der Bachelorprüfung, die zugleich Laufbahnprüfung ist. Die Ausbildungszeit ist auf höchstens fünf Jahre begrenzt.
+(2) Die Ausbildung kann nach Anhörung der betroffenen Person im Einzelfall verlängert werden, wenn sie wegen
+1. des Mutterschutzes, einer Elternzeit oder einer Pflegezeit nach der Freistellungs- und Urlaubsverordnung NRW vom 10. Januar 2012 (GV. NRW. S. 2, ber. S. 92) in der jeweils geltenden Fassung,
+2. einer Erkrankung oder
+3. anderer zwingender Gründe
+unterbrochen wurde und aufgrund der Unterbrechung die Ziele und Mindestanforderungen der Ausbildung gemäß § 9 innerhalb der verbleibenden Ausbildungsdauer nicht erreicht werden können. Dabei können Abweichungen vom Ausbildungs-, Lehr- oder Studienplan zugelassen werden. Die Ausbildung kann in den Fällen des Satzes 1 Nummer 2 und 3 zweimal, insgesamt jedoch nicht um mehr als 24 Monate verlängert werden. Die Entscheidung über die Verlängerung der Ausbildung in den Fällen des Satzes 1 trifft die Einstellungsbehörde.
+(3) In den Fällen, in denen die Einhaltung der Studienzeitbegrenzung nach Absatz 1 eine unzumutbare Härte für die Studierenden darstellen würde und die dazu führenden Umstände nicht von ihnen zu vertreten sind, kann das für Inneres zuständige Ministerium im Einzelfall eine Ausnahme von der Ausbildungszeitbegrenzung nach Absatz 1 zulassen.
+(4) Für Studierende, die einem olympischen, paralympischen oder deaflympischen Bundes- oder Landeskader angehören oder Mitglied einer entsprechenden Auswahlmannschaft sind und eine Empfehlung des Sportfachverbandes vorlegen, kann die Ausbildung, um die mit dem Sportfachverband abgestimmte Trainings- und Wettkampfzeit bis zur Höchstausbildungszeit nach Absatz 1 verlängert werden.
+(5) Zeiten eines Vorbereitungsdienstes für eine Laufbahn mit vergleichbaren Inhalten können von dem für Inneres zuständigen Ministerium bis zur Dauer eines Jahres auf den Vorbereitungsdienst angerechnet werden. Dem Antrag ist ein Votum der Hochschule beizufügen.

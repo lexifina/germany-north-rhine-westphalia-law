@@ -1,0 +1,3 @@
+# § 1a Anerkennung anderer Laufbahnen
+(1) Mit dem Erwerb einer Laufbahnbefähigung für eine der in § 1 genannten Laufbahnen besteht zugleich eine Laufbahnbefähigung für alle dort genannten Laufbahnen.
+(2) Mit dem Erwerb einer Laufbahnbefähigung für die Ämtergruppe des ersten Einstiegsamtes der Laufbahngruppe 2 in der Finanzverwaltung als Diplom-Finanzwirtin oder Diplom-Finanzwirt oder für die Ämtergruppe des ersten Einstiegsamtes der Laufbahngruppe 2 des Justizdienstes als Diplom-Rechtspflegerin (FH) oder Diplom-Rechtspfleger (FH) besteht zugleich eine Laufbahnbefähigung für alle in § 1 genannten Laufbahnen.
