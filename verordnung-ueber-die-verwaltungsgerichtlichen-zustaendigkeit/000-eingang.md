@@ -1,0 +1,2 @@
+Vom 1. Juli 2024
+Auf Grund des § 83 Absatz 3 des Asylgesetzes in der Fassung der Bekanntmachung vom 2. September 2008 (BGBl. I S. 1798), das zuletzt durch Artikel 9 des Gesetzes vom 8. Mai 2024 (BGBl. 2024 I Nr. 152) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Justizgesetzes Nordrhein-Westfalen vom 26. Januar 2010 (GV. NRW. S. 30), das zuletzt durch Artikel 1 des Gesetzes vom 6. Dezember 2022 (GV. NRW. S. 1072) geändert worden ist, verordnet das Ministerium der Justiz:
