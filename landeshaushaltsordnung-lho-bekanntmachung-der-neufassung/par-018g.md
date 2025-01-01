@@ -1,0 +1,2 @@
+# § 18g Nachtragshaushaltsgesetze
+Bei Nachträgen zum Haushaltsgesetz kann die nach § 18d ermittelte zulässige Kreditaufnahme maximal um den Betrag erhöht werden, der sich bei der Ermittlung der Konjunkturkomponente aus der Differenz der zuvor zugrunde gelegten erwarteten Wirkung der konjunkturellen Entwicklung auf den Haushalt und der aktuell erwarteten Wirkung der konjunkturellen Entwicklung auf den Haushalt ergibt. Die Regelungen der §§ 18f und 18h bleiben unberührt.
