@@ -1,0 +1,2 @@
+# § 18b Ausnahmesituationen
+Im Falle von Naturkatastrophen oder außergewöhnlichen Notsituationen, die sich der Kontrolle des Landes entziehen und die Finanzlage des Landes erheblich beeinträchtigen, ist mit Zustimmung des Landtages ein Haushaltsausgleich durch Einnahmen aus Krediten zulässig. Die Kreditaufnahme ist mit einer Tilgungsregelung zu verbinden und die Kreditverbindlichkeiten sind innerhalb eines angemessenen Zeitraums zurückzuführen.

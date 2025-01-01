@@ -1,0 +1,7 @@
+# § 17 a LeistungsbezogenePlanaufstellung und -bewirtschaftung
+(1) Die Einnahmen, Ausgaben und Verpflichtungsermächtigungen können im Rahmen eines Systems der dezentralen Verantwortung einer Organisationseinheit veranschlagt werden. Dabei wird die Finanzverantwortung auf der Grundlage der Haushaltsermächtigung auf die Organisationseinheiten übertragen, die die Fach- und Sachverantwortung haben. Voraussetzung sind geeignete Informations- und Steuerungsinstrumente, mit denen insbesondere sichergestellt wird, dass das jeweils verfügbare Ausgabevolumen nicht überschritten wird und die Kosten der Leistungen erfasst werden. Art und Umfang der zu erbringenden Leistungen sind durch Gesetz oder den Haushaltsplan festzulegen.
+(2) In den Fällen des Absatzes 1 ist durch Gesetz oder Haushaltsplan für die jeweilige Organisationseinheit zu bestimmen, welche
+1. Einnahmen für bestimmte Zwecke verwendet werden sollen,
+2. Ausgaben übertragbar sind und
+3. Ausgaben und Verpflichtungsermächtigungen jeweils gegenseitig oder einseitig deckungsfähig sind.
+(3) Ein automatisierter Abruf der beim Landesamt für Besoldung und Versorgung gespeicherten Bezügedaten sowie deren Weiterverarbeitung sind – soweit erforderlich – zu Zwecken der ab 1. Januar 2006 eingeführten Personalausgabenbudgetierung zulässig. Die Bezügedaten sind unverzüglich zu löschen, sobald sie für diesen Zweck nicht mehr benötigt werden, spätestens jedoch nach Ablauf eines Jahres. Diese Regelung gilt entsprechend für die Hochschulen und das Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen.
