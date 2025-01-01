@@ -1,0 +1,2 @@
+Vom 18. Mai 1999
+Aufgrund des § 6 Abs. 3 Satz 4, § 7 Abs. 5 Satz 2, § 9 Abs. 1 Satz 2, § 25 Abs. 2 Satz 1, § 65 Abs. 1 Satz 2 und Abs. 2 Satz 2, § 100 und § 111 Abs. 3 Satz 3 in Verbindung mit § 100 der Bundesnotarordnung (BNotO) in der Fassung der Bekanntmachung vom 24. Februar 1961 (BGBl. I S. 97), zuletzt geändert durch Gesetze vom 31. August 1998 (BGBl. I S. 2585, ber. BGBl. I 1999 S. 194, und 2600) wird verordnet:
