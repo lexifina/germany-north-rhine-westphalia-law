@@ -1,0 +1,15 @@
+# § 33a Veranstaltung von und Beteiligung an Rundfunkprogrammen durch Presseunternehmen
+(1) Unternehmen, die im Zeitungs- oder Zeitschriftenmarkt in einem Verbreitungsgebiet oder einem abgrenzbaren Teil des Verbreitungsgebietes eine marktbeherrschende Stellung entsprechend § 19 GWB innehaben, sowie mit diesen Unternehmen verbundene Unternehmen im Sinne des § 17 Aktiengesetz, dürfen
+1. selbst keinen Rundfunk in diesem Verbreitungsgebiet veranstalten und sich an einem Unternehmen, das in diesem Verbreitungsgebiet Rundfunk veranstaltet, höchstens mit bis zu 25 vom Hundert der Kapital- oder Stimmrechtsanteile beteiligen.
+2. einzelne Rundfunkprogramme in diesem Verbreitungsgebiet, insbesondere durch zugelieferte Programmbeiträge mit lokalem oder regionalem Bezug, nur mit bis zu 25 vom Hundert der wöchentlichen Sendezeit gestalten, hinsichtlich der Programmbeiträge gilt § 62 Absatz 4 des Medienstaatsvertrages entsprechend.
+(2) Von den Beschränkungen des Absatzes 1 Nr. 1 ist abzusehen, wenn durch wirksame Vorkehrungen eine Verhinderung vorherrschender Meinungsmacht sichergestellt ist. In diesem Fall entfällt für dieses Unternehmen in Bezug auf die konkrete Beteiligung auch die Beschränkung des Absatzes 1 Nr. 2. Als wirksame Vorkehrungen zur Verhinderung vorherrschender Meinungsmacht gelten:
+1. die Einräumung von Sendezeiten für unabhängige Dritte (§ 33b) oder
+2. die Einrichtung eines Programmbeirates mit wirksamem Einfluss auf das Programm (§§ 33c und 33d) oder
+3. im Einzelfall die Zusage sonstiger gleich wirksamer Mittel (§ 33e).
+(3) Die LfM hat auf Antrag des Veranstalters von den Erfordernissen des Absatzes 2 abzusehen, wenn im Verbreitungsgebiet oder dem abgrenzbaren Teil des Verbreitungsgebiets Außenpluralität besteht. Davon ist in der Regel auszugehen, wenn im Regelungsbereich dieses Gesetzes mindestens ein anderer privater Anbieter im Verbreitungsgebiet oder dem abgrenzbaren Teil des Verbreitungsgebiets, in dem der Antragsteller die Voraussetzungen des Absatzes 1 erfüllt, mit einem vergleichbar meinungsrelevanten Programm Rundfunk veranstaltet. Ein vergleichbar meinungsrelevantes Programm liegt insbesondere dann vor, wenn
+1. es sich um ein Programm der gleichen Programmart (Hörfunk oder Fernsehen) und der gleichen Programmkategorie (Voll- oder Spartenprogramm) handelt,
+2. es von Inhalt und Umfang vergleichbar ist,
+3. die Verbreitung über denselben Übertragungsweg und in derselben Verbreitungsart erfolgt und der Empfang auf demselben Endgerät unmittelbar und ohne zusätzlichen Aufwand möglich ist und
+4. der erzielte Zuschaueranteil nicht wesentlich hinter dem des Programms des Antragstellers zurücksteht.
+(4) Die Entscheidung nach Abs. 3 ist unverzüglich zu widerrufen, wenn die Voraussetzungen hierfür entfallen sind oder begründete Anhaltspunkte dafür gegeben sind, dass sie in absehbarer Zukunft entfallen werden.
+(5) Vorstehende Absätze finden keine Anwendung auf Zulassungsanträge, die der LfM vor dem Zeitpunkt des Inkrafttretens dieses Gesetzes zugegangen sind. Bestehende Zulassungen bleiben unberührt.

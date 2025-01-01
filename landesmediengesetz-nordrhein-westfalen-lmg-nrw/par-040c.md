@@ -1,0 +1,4 @@
+# § 40c Lehr- und Lernsender
+(1) Die LfM kann für die Veranstaltung von Hörfunk und Fernsehen jeweils einen landesweiten Lehr- und Lernsender zulassen, deren Zweck die Qualifizierung, die Vermittlung von Medienkompetenz sowie die Erprobung innovativer Programm-, Partizipations- und Ausbildungsmodelle ist.
+(2) Die LfM unterstützt die Nutzung digitaler Verbreitungswege durch die Bürgermedien. Sie fördert insbesondere das Entstehen einer gemeinsamen Plattform, mit der die Auffindbarkeit von Beiträgen der Bürgermedien verbessert und die Teilhabe von Bürgerinnen und Bürgern durch Interaktivität gestärkt wird. Im Übrigen gelten für die Zulassung nach Absatz 1 die Vorschriften des Abschnitts 2.
+(3) Die Zulassung erfolgt in der Regel für einen Zeitraum von vier Jahren. Eine Verlängerung ist möglich; Satz 1 gilt entsprechend. Die Zulassung kann mit Nebenbestimmungen versehen werden. Im Übrigen gelten die Vorschriften des Abschnitts 2.
