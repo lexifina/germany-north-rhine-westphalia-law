@@ -1,0 +1,4 @@
+# § 58a Besondere Zulassungsvoraussetzungen für Veranstaltergemeinschaften
+(1) Die Zulassung wird nur einer Veranstaltergemeinschaft erteilt, deren alleiniger Zweck die Veranstaltung und Verbreitung lokalen Hörfunks im Sinne dieses Abschnitts ist und deren Zusammensetzung und Satzung den Vorschriften dieses Gesetzes entsprechen.
+(2) Die Veranstaltergemeinschaft muss eine für die beantragte Dauer verbindliche Vereinbarung mit einer Betriebsgesellschaft abgeschlossen haben. Sie muss als Verein (§ 21 Bürgerliches Gesetzbuch) in das Vereinsregister eingetragen sein.
+(3) Der Antrag muss die notwendigen Angaben dazu enthalten, dass die Betriebsgesellschaft wirtschaftlich und organisatorisch die Erfüllung der mit der Veranstaltergemeinschaft getroffenen Vereinbarungen gewährleistet. Die Vereinbarungen sind der LfM vorzulegen.
