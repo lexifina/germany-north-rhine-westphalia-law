@@ -1,0 +1,2 @@
+Vom 18. Mai 2009
+Auf Grund der § 16 Absatz 2 und § 18 Absatz 3 des Landesreisekostengesetzes vom 16. Dezember 1998 (GV. NRW. S. 738), zuletzt geändert durch Artikel I des Gesetzes vom 16. November 2004 (GV. NRW. S. 684) und des § 3 Satz 2 des Landesumzugskostengesetzes vom 6. Juli 1993 (GV. NRW. S. 464), zuletzt geändert durch Gesetz vom 16. November 2004 (GV. NRW. S. 684), wird im Einvernehmen mit dem Innenministerium verordnet:
