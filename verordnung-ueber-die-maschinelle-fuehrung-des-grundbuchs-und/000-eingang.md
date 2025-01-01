@@ -1,0 +1,2 @@
+Vom 13. April 2010
+Auf Grund des § 1 Absatz 3, des § 126 Absatz 1 und des § 148 Absatz 2 Satz 4 der Grundbuchordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1114), zuletzt geändert durch Artikel 1 des Gesetzes vom 11. August 2009 (BGBl. I S. 2713), sowie des § 67 Sätze 2 und 3 und des § 93 Satz 1 der Grundbuchverfügung in der Fassung der Bekanntmachung vom 24. Januar 1995 (BGBl. I S. 114), zuletzt geändert durch Artikel 2 des Gesetzes vom 11. August 2009 (BGBl. I S. 2713), wird verordnet:
