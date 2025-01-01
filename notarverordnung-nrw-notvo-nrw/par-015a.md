@@ -1,0 +1,2 @@
+# § 15a Genehmigungspflicht für Anwaltsnotarinnen und Anwaltsnotare
+§ 15 gilt für Anwaltsnotarinnen und Anwaltsnotare, die sich mit am selben Amtssitz bestellten Notarinnen und Notaren gemäß § 9 Absatz 1 der Bundesnotarordnung zur gemeinsamen Berufsausübung verbinden oder mit ihnen gemeinsame Geschäftsräume haben, entsprechend. Dritte oder Dritter im Sinne des § 15 Absatz 3 Nummer 1 Buchstabe c ist auch eine Sozia oder ein Sozius einer in § 9 Absatz 2 Satz 1 der Bundesnotarordnung genannten Verbindung.
