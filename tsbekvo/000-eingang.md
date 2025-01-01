@@ -1,0 +1,3 @@
+Vom 3. Juli 1986
+Auf Grund des § 79 Abs. 2 in Verbindung mit § 17 Abs. 1 Nr. 1 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260), zuletzt geändert durch Gesetz vom 13. Dezember 2007 (BGBl. I S. 2930, 2932) in Verbindung mit § 24 Abs. 2 der Verordnung über Zuständigkeiten auf den Gebieten der Tierseuchenbekämpfung und der Beseitigung tierischer Nebenprodukte sowie zur Übertragung von Ermächtigungen zum Erlass von Tierseuchenverordnungen vom 2. September 2008 (GV. NRW. S. 612) und des § 27 des Ausführungsgesetz zum Tierseuchengesetz und zum Tierische Nebenprodukte-Beseitigungsgesetz (AGTierSG TierNebG NRW) vom 2. September 2008 (GV. NRW. S. 612) wird verordnet:
+I. Beiträge, Beihilfen, Rücklagen
