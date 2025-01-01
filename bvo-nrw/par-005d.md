@@ -1,0 +1,17 @@
+# § 5d Vollstationäre Pflege
+(1) Aufwendungen für vollstationäre Pflege in einer zugelassenen Pflegeeinrichtung im Sinne des § 72 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch oder in einer vergleichbaren Einrichtung sind beihilfefähig, wenn häusliche oder teilstationäre Pflege nicht möglich ist oder wegen der Besonderheit des Falles nicht in Betracht kommt. Beihilfefähig sind
+1. pflegebedingte Aufwendungen einschließlich der Aufwendungen für Betreuung und
+2. Aufwendungen für medizinische Behandlungspflege, sofern hierzu nicht nach § 4 Absatz 1 Nummer 5 Beihilfe gezahlt wird.
+(2) Aufwendungen für Unterkunft und Verpflegung (ohne Zusatzleistungen nach § 88 des Elften Buches Sozialgesetzbuch) einschließlich der Investitionskosten (§82 Absatz 3 des Elften Buches Sozialgesetzbuch) werden als Beihilfe gezahlt, soweit sie folgende Eigenanteile übersteigen
+1. bei Beihilfeberechtigten mit
+a) einem Angehörigen 30 Prozent,
+b) mehreren Angehörigen 25 Prozent
+des um 600 Euro – bei Empfängern von Versorgungsbezügen um 450 Euro – verminderten Einkommens oder
+2. bei Beihilfeberechtigten ohne Angehörige sowie bei gleichzeitiger stationärer Pflege des Beihilfeberechtigten und aller Angehörigen 50 Prozent des um 400 Euro verminderten Einkommens.
+Einkommen sind die monatlichen (Brutto-)Dienstbezüge (ohne sonstige variable Bezügebestandteile) oder Versorgungsbezüge, das Erwerbseinkommen sowie Renten aus der gesetzlichen Rentenversicherung und aus einer Alters- oder Hinterbliebenenversorgung des Beihilfeberechtigten. Angehörige im Sinne des Satzes 1 sind nur der Ehegatte, der eingetragene Lebenspartner sowie die Kinder, die nach § 2 zu berücksichtigen oder nur deshalb nicht zu berücksichtigen sind, weil sie selbst beihilfeberechtigt sind. Wird zu den Aufwendungen für die Pflege eines Angehörigen eine Beihilfe gezahlt, sind dem Einkommen des Beihilfeberechtigten das Erwerbseinkommen, die Versorgungsbezüge sowie die Renten aus der gesetzlichen Rentenversicherung und aus einer Alters- oder Hinterbliebenenversorgung des Ehegatten oder eingetragenen Lebenspartners hinzuzurechnen.
+(3) Bei einer Pflege in einer Einrichtung, die die Voraussetzungen des § 71 Absatz 2 des Elften Buches Sozialgesetzbuch erfüllt, sind höchstens die vergleichbaren Kosten einer Einrichtung nach § 72 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch am Ort der Unterbringung oder seiner nächsten Umgebung beihilfefähig. Absatz 1 und 2 gilt entsprechend.
+(4) Aufwendungen für zusätzliche Betreuung und Aktivierung entsprechend § 43b des Elften Buches Sozialgesetzbuch, die über die nach Art und Schwere der Pflegebedürftigkeit notwendige Versorgung hinausgehen, sind zusätzlich beihilfefähig.
+(5) Aufwendungen entsprechend § 87a Absatz 4 des Elften Buches Sozialgesetzbuch sind beihilfefähig, wenn
+1. die pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person nach der Durchführung aktivierender oder rehabilitativer Maßnahmen in einen niedrigeren Pflegegrad zurückgestuft wurde oder
+2. festgestellt wurde, dass die zuvor pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person nicht mehr pflegebedürftig im Sinne der §§ 14 und 15 des Elften Buches Sozialgesetzbuch ist.
+(6) Die beihilfefähigen Aufwendungen einer vollstationären Pflege im Rahmen einer außerklinischen Intensivpflege nach § 37c des Fünften Buches Sozialgesetzbuch richten sich nach § 4 Absatz 1 Nummer 5a.

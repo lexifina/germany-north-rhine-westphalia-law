@@ -1,0 +1,2 @@
+# § 12a Kostendämpfungspauschale
+Eine Kostendämpfungspauschale nach § 75 Absatz 6 Satz 1 des Landesbeamtengesetzes wird ab dem Kalenderjahr 2022 nicht mehr erhoben. Die von der Kostendämpfungspauschale in der bis zum 31. Dezember 2021 geltenden Fassung ausgenommenen Beihilfeberechtigten der Besoldungsgruppen A 5 und A 6 erhalten einen Zuschuss zu den Beiträgen für die Krankenversicherung nach § 75 Absatz 6 Satz 2 des Landesbeamtengesetzes in Höhe von monatlich 12,50 Euro.
