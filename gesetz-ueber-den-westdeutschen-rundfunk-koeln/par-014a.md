@@ -1,0 +1,3 @@
+# § 14a Transparenz
+Der WDR ist verpflichtet, für eine größtmögliche Transparenz gegenüber der Öffentlichkeit Sorge zu tragen. Zu diesem Zweck sind die Organisationsstruktur, einschließlich der Zusammensetzung des Verwaltungsrats, des Rundfunkrats und dessen eingesetzter Ausschüsse, alle Satzungen, gesetzlich bestimmte Berichte mit Ausnahme des Berichtes gemäß § 7 Absatz 3 sowie sonstige Informationen, die von wesentlicher Bedeutung für den WDR sind, in seinem Online-Angebot, wo möglich maschinenlesbar, bekannt zu machen. Dabei ist der Schutz von personenbezogenen Daten und Betriebsgeheimnissen zu gewährleisten.
+1. Der Rundfunkrat
