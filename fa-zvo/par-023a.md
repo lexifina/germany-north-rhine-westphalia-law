@@ -1,0 +1,2 @@
+# § 23a Prüfungszuständigkeit in Fällen des § 2a
+Abweichend von den §§ 21 bis 23 ist für die Anordnung und Durchführung der Außenprüfung, ausgenommen Lohnsteueraußenprüfung und Umsatzsteuersonderprüfung, in Fällen des § 2a das Finanzamt für Groß- und Konzernbetriebsprüfung Krefeld zuständig. Davon ausgenommen ist die Prüfung der Groß- und Konzernbetriebsprüfung Krefeld, hier liegt die Zuständigkeit für die Prüfung bei der Groß- und Konzernbetriebsprüfung Münster.
