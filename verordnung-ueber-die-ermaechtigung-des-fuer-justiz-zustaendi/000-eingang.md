@@ -1,0 +1,20 @@
+Verordnung über die Ermächtigung des für Justiz zuständigen Ministeriums zum Erlass von Rechtsverordnungen zur elektronischen Aktenführung
+Vom 14. Januar 2025
+Auf Grund
+- des § 32 Absatz 1a Satz 4 der Strafprozeßordnung in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), die zuletzt durch Artikel 2 Absatz 1 des Gesetzes vom 7. November 2024 (BGBl. 2024 I Nr. 351) geändert worden ist,
+- des § 15 Absatz 2 Satz 4 des Einführungsgesetzes zur Strafprozeßordnung in der im Bundesgesetzblatt Teil III, Gliedernummer 312-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 4 des Gesetzes vom 12. Juli 2024 (BGBl. 2024 I Nr. 234) geändert worden ist,
+- des § 110a Absatz 1a Satz 3 und Absatz 1c Satz 3 des Strafvollzugsgesetzes vom 16. März 1976 (BGBl. I S. 581, 2088; 1977 I 436), das zuletzt durch Artikel 7 des Gesetzes vom 12. Juli 2024 (BGBl. 2024 I Nr. 234) geändert worden ist,
+- des 110a Absatz 1a Satz 4 und Absatz 1c Satz 4 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 10 des Gesetzes vom 12. Juli 2024 (BGBl. 2024 I Nr. 234) geändert worden ist,
+- des § 298a Absatz 3 Satz 4 der Zivilprozessordnung in der Fassung der Bekanntgabe vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431; 2007 I S. 1781), die zuletzt durch Artikel 1 des Gesetzes vom 24. Oktober 2024 (BGBl. 2024 I Nr. 328) geändert worden ist,
+- des § 43 Absatz 2 Satz 4 des Gesetzes, betreffend die Einführung der Zivilprozeßordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 310-2, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 3 des Gesetzes vom 7. Oktober 2024 (BGBl. 2024 I Nr. 302) geändert worden ist,
+- des § 14 Absatz 6 Satz 4 und Absatz 8 Satz 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit vom 17. Dezember 2008 (BGBl. I S. 2586, 2587), das zuletzt durch Artikel 8 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 237) geändert worden ist,
+- des § 77b Absatz 2 und Absatz 3 Satz 3 des Gesetzes über die internationale Rechtshilfe in Strafsachen in der Fassung der Bekanntmachung vom 27. Juni 1994 (BGBl. I S. 1537), das zuletzt durch Artikel 21 des Gesetzes vom 12. Juli 2024 (BGBl. 2024 I Nr. 234) geändert worden ist,
+- des § 46e Absatz 3 Satz 4 des Arbeitsgerichtsgesetzes in der Fassung der Bekanntmachung vom 2. Juli 1979 (BGBl. I S. 853, 1036), das zuletzt durch Artikel 3 des Gesetzes vom 24. Oktober 2024 (BGBl. 2024 I Nr. 328) geändert worden ist,
+- des § 112 Absatz 4 Satz 4 des Arbeitsgerichtsgesetzes,
+- des § 65b Absatz 1b Satz 4 des Sozialgerichtsgesetzes in der Fassung der Bekanntmachung vom 23. September 1975 (BGBl. I S. 2535), das zuletzt durch Artikel 4 des Gesetzes vom 24. Oktober 2024 (BGBl. 2024 I Nr. 328) geändert worden ist,
+- des § 211 Absatz 2 Satz 4 des Sozialgerichtsgesetzes,
+- des § 55b Absatz 1b Satz 4 der Verwaltungsgerichtsordnung in der Fassung der Bekanntmachung vom 19. März 1991 (BGBl. I S. 686), die zuletzt durch Artikel 5 des Gesetzes vom 24. Oktober 2024 (BGBl. 2024 I Nr. 328) geändert worden ist,
+- des § 177 Absatz 2 Satz 4 der Verwaltungsgerichtsordnung,
+- des § 52b Absatz 1b Satz 4 der Finanzgerichtsordnung in der Fassung der Bekanntmachung vom 28. März 2001 (BGBl. I S. 442, 2262; 2002 I S. 679), die zuletzt durch Artikel 6 des Gesetzes vom 24. Oktober 2024 (BGBl. 2024 I Nr. 328) geändert worden ist und
+- des § 162 Absatz 2 Satz 4 der Finanzgerichtsordnung
+verordnet die Landesregierung:
