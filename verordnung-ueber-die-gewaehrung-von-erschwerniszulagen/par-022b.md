@@ -1,0 +1,2 @@
+# § 22b Zulage für Polizeivollzugsbeamtinnen und -beamte in der Sachbearbeitung von sexuellem Missbrauch von Kindern oder Kinderpornografie
+Eine Zulage in Höhe von 300 Euro monatlich erhält, wer als Polizeivollzugsbeamtin oder als Polizeivollzugsbeamter im Bereich der Sachbearbeitung von sexuellem Missbrauch von Kindern oder Kinderpornografie in der Bewertung oder Auswertung visueller, auditiver oder audiovisueller Daten verwendet wird.

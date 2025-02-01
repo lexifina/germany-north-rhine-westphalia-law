@@ -1,0 +1,3 @@
+In der Fassung der Bekanntmachung vom 3. Dezember 1998
+Folgende durch § 1 Absatz 2 Nummer 2 des Landesbesoldungsgesetzes in der Fassung vom 16. Mai 2013 (GV. NRW. S. 234) in Landesrecht übergeleitete, auf Grund des Bundesbesoldungsgesetzes erlassene Rechtsverordnungen des Bundes jeweils in der am 31. August 2006 geltenden Fassung gelten (gemäß § 92 des Landesbesoldungsgesetzes vom 14. Juni 2016 (GV. NRW. S. 310, ber. S. 642)) bis zum Inkrafttreten jeweiliger neuer Rechtsverordnungen fort, soweit sich aus diesem Gesetz oder auf Grund sonstiger landesrechtlicher Bestimmungen nichts anderes ergibt; unberührt bleiben landesrechtliche Bestimmungen, die seit dem 1. September 2006 erlassen wurden:
+1. Abschnitt Allgemeine Vorschriften

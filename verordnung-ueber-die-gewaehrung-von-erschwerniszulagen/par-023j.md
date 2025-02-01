@@ -1,0 +1,4 @@
+# § 23j Zulage für Führer oder Ausbilder im Außen- und Geländedienst
+(1) Soldaten, die überwiegend als Führer oder Ausbilder im Außen- und Geländedienst verwendet werden, erhalten eine Zulage. Außen- und Geländedienst ist jeder militärische Dienst außerhalb der ortsfesten Unterkünfte im Freien, einschließlich des Dienstes in Stellungen der Flugabwehrraketen- und Flugkörperverbände.
+(2) Die Zulage beträgt 25,56 Euro monatlich. Der Anspruch auf die Zulage entsteht mit dem Tag, an dem die anspruchsberechtigende Tätigkeit tatsächlich aufgenommen wird, frühestens jedoch nach Ablauf von 15 Monaten seit der Einstellung als Soldat.
+(3) Die Zulage wird nicht gewährt neben einer Stellenzulage nach Nummer 9 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes und den Zulagen nach den §§ 23b bis 23g und § 23i.
