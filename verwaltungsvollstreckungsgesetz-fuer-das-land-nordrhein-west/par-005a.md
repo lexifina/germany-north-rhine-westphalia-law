@@ -1,0 +1,10 @@
+# § 5a Vermögensauskunft des Vollstreckungsschuldners
+(1) Der Vollstreckungsschuldner muss auf Verlangen der Vollstreckungsbehörde oder auf Verlangen des Vollstreckungsbeamten der Justizverwaltung für die Vollstreckung einer Forderung Auskunft über sein Vermögen erteilen. Die Vollstreckungsbehörde kann 1. die Vermögensauskunft selbst abnehmen oder 2. den Vollstreckungsbeamten der Justizverwaltung mit der Abnahme der Vermögensauskunft beauftragen.
+(2) Das Verfahren richtet sich im Fall von Absatz 1 Satz 2 Nummer 1 nach § 284 der Abgabenordnung sowie den Absätzen 3 bis 6. Im Fall von Absatz 1 Satz 2 Nummer 2 gilt § 3a Absatz 2 bis 6.
+(3) Nimmt die Vollstreckungsbehörde die Vermögensauskunft nach Absatz 1 Satz 2 Nummer 1 selbst ab, sind hierzu die Leiterin oder der Leiter der Vollstreckungsbehörde und die Bediensteten des öffentlichen Dienstes, die durch die Leiterin oder den Leiter der Vollstreckungsbehörde hierzu allgemein oder im Einzelfall beauftragt werden, befugt.
+(4) Im Termin zur Abgabe der Vermögensauskunft fertigt die Vollstreckungsbehörde eine Niederschrift an. § 17 findet entsprechende Anwendung.
+(5) Erfolgt vor der Abnahme der Vermögensauskunft die Zwangsvollstreckung in Sachen, kann die Vermögensauskunft abweichend von § 284 Absatz 6 Satz 2 der Abgabenordnung durch den Vollziehungsbeamten sofort abgenommen werden, wenn
+1. der Schuldner die Durchsuchung nach § 14 verweigert oder der Pfändungsversuch ergibt, dass eine Pfändung voraussichtlich nicht zu einer vollständigen Befriedigung des Gläubigers führen wird, und
+2. die Vollstreckungsbehörde ihn dazu beauftragt hat und der Schuldner der sofortigen Abnahme nicht widerspricht.
+Die sofortige Abnahme kann in der Schuldnerwohnung erfolgen oder innerhalb von zehn Arbeitstagen, nachdem die Voraussetzungen des Satzes 1 vorliegen, in den Geschäftsräumen des Vollziehungsbeamten. Widerspricht der Schuldner, verfährt die Vollstreckungsbehörde nach § 284 Absatz 6 der Abgabenordnung.
+(6) Abweichend von § 284 Absatz 9 der Abgabenordnung ordnet die Vollstreckungsbehörde von Amts wegen die Eintragung in das Schuldnerverzeichnis an, wenn die Voraussetzungen vorliegen.
