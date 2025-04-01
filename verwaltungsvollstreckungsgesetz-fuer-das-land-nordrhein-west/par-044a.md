@@ -1,0 +1,2 @@
+# § 44a Nicht vertretbare Handlungen
+Kann eine Handlung des Schuldners nicht durch den Gläubiger vorgenommen werden, so kann, wenn sie ausschließlich vom Willen des Schuldners abhängt, die Vollstreckungsbehörde auf Antrag des Gläubigers den Schuldner zur Vornahme der Handlung durch Zwangsgeld anhalten. Ist das Zwangsgeld uneinbringlich oder droht wegen gesetzlicher Fristen der Untergang der gepfändeten Forderung, so findet § 888 Absatz 1 Satz 3 der Zivilprozessordnung entsprechende Anwendung.
