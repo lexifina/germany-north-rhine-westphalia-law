@@ -1,0 +1,2 @@
+# § 1 a Nachhaltige Forstwirtschaft
+Kennzeichen nachhaltiger Forstwirtschaft ist, dass die Betreuung von Waldflächen und ihre Nutzung in einer Art und Weise erfolgt, dass die biologische Vielfalt, die Produktivität, die Verjüngungsfähigkeit, die Vitalität und die Fähigkeit, gegenwärtig und in Zukunft wichtige ökologische, wirtschaftliche und soziale Funktionen zu erfüllen, erhalten bleibt und anderen Ökosystemen kein Schaden zugefügt wird.
