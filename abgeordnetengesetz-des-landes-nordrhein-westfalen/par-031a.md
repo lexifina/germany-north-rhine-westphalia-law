@@ -1,0 +1,7 @@
+# § 31a Versorgungsausgleich
+(1) Anrechte auf Altersentschädigung nach dem Gesetz über die Rechtsverhältnisse der Mitglieder des Landtags Nordrhein-Westfalen vom 24. April 1979, zuletzt geändert durch Gesetz vom 27. Januar 2004, oder Renten aufgrund der Satzung der Hilfskasse beim Landtag Nordrhein-Westfalen werden intern geteilt.
+(2) Die Bewertung der Altersentschädigung bzw. Hilfskassenrente erfolgt nach § 39 Versorgungsausgleichsgesetz (unmittelbare Bewertung).
+(3) Soweit die Ehe während der Mandatszeit nur zeitweise bestanden hat oder im Zeitpunkt des Eintritts der Rechtshängigkeit des Scheidungsantrages eine Mindestmitgliedschaftsdauer noch nicht erreicht ist, wird die in die Mandatszeit fallende Ehezeit mit dem auf diesen Zeitraum entfallenden Prozentsatz bewertet. Die Ehezeit innerhalb der Mindestmitgliedschaftszeit wird dabei mit dem entsprechenden Anteil der Mindestversorgung berücksichtigt.
+(4) Bei einem nach § 10 Absatz 1 Versorgungsausgleichgesetz übertragenen Anrecht werden Zahlungen ab dem Zeitpunkt geleistet, ab dem die ausgleichsberechtigte Person einen Leistungsanspruch aus dem gesetzlichen Alterssicherungssystem hat, dem er oder sie angehört oder einen Leistungsanspruch in der gesetzlichen Rentenversicherung hätte, wenn er oder sie einem solchen System nicht angehört.
+(5) Mit dem Tod der ausgleichsberechtigten Person geht der Anspruch auf deren Hinterbliebene über. Absatz 4 gilt entsprechend.
+(6) Der Ausgleichswert wird als Prozentsatz des nach § 31 Absatz 2 ermittelten Bemessungsbetrages festgesetzt.
