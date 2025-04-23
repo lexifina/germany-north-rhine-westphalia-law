@@ -1,0 +1,4 @@
+# § 16b Rechtsanwälte
+(1) Mitglieder des Landtags, die gegen Entgelt gerichtlich oder außergerichtlich für eine oberste Landesbehörde oder eine Landesoberbehörde des Landes Nordrhein-Westfalen auftreten, haben der Präsidentin bzw. dem Präsidenten die Übernahme der Vertretung anzuzeigen.
+(2) Mitglieder des Landtags, die gegen Entgelt zur Besorgung fremder Angelegenheiten gerichtlich oder außergerichtlich gegen eine oberste Landesbehörde oder eine Landesoberbehörde des Landes Nordrhein-Westfalen auftreten, haben der Präsidentin bzw. dem Präsidenten die Übernahme der Vertretung anzuzeigen.
+(3) Die Absätze 1 und 2 gelten entsprechend in Bezug auf Landesmittelbehörden, soweit diese den Ursprungsbescheid erlassen haben bzw. den Erlass oder die Vornahme einer anderen Verwaltungshandlung abgelehnt haben, sowie insbesondere bei gerichtlichem oder außergerichtlichem Auftreten für oder gegen landesunmittelbare Körperschaften, Anstalten oder Stiftungen des öffentlichen Rechts.

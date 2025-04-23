@@ -1,0 +1,4 @@
+# § 17a Verschwiegenheitspflicht und Aussagegenehmigung
+(1) Die Mitglieder des Landtags dürfen, auch nach Beendigung ihres Mandats, ohne Genehmigung weder vor Gericht noch außergerichtlich Aussagen oder Erklärungen abgeben über Angelegenheiten, die auf Grund eines Gesetzes oder nach den Bestimmungen der Geschäftsordnung des Landtags Nordrhein-Westfalen der Verschwiegenheit unterliegen.
+(2) Die Genehmigung erteilt der Präsident bzw. die Präsidentin des Landtags. Sind Stellen außerhalb des Landtags an der Entstehung der geheim zu haltenden Angelegenheiten beteiligt gewesen, kann die Genehmigung nur im Einvernehmen mit ihnen erteilt werden.
+(3) Die Genehmigung darf nur versagt werden, wenn die Aussage oder Erklärung dem Wohl des Landes Nordrhein-Westfalen oder eines anderen Landes oder des Bundes Nachteile bereiten oder die Erfüllung öffentlicher Aufgaben ernstlich gefährden oder erheblich erschweren würde.
