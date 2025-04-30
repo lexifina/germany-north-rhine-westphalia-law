@@ -1,0 +1,2 @@
+Vom 16. April 2025
+Auf Grund des § 77b Absatz 1 Nummer 3 des Gesetzes über die internationale Rechtshilfe in Strafsachen in der Fassung der Bekanntmachung vom 27. Juni 1994 (BGBl. I S. 1537), das zuletzt durch Artikel 21 des Gesetzes vom 12. Juli 2024 (BGBl. I Nr. 234) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Justizgesetzes Nordrhein-Westfalen vom 26. Januar 2010 (GV. NRW. S. 30), das zuletzt durch Gesetz vom 10. Dezember 2024 (GV. NRW. S. 1207) geändert worden ist, verordnet das Ministerium der Justiz:
