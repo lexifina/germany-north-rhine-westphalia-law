@@ -1,0 +1,3 @@
+# § 22a Hochschulwahlversammlung
+(1) Die Hochschulwahlversammlung besteht in ihrer einen Hälfte aus sämtlichen Mitgliedern des Senats und in ihrer anderen Hälfte aus sämtlichen Mitgliedern des Hochschulrats. Die Stimmen der Mitglieder der beiden Hälften stehen im gleichen Verhältnis zueinander. Die Mitglieder der Hochschulwahlversammlung, die zugleich Mitglieder des Senats sind, haben Stimmrecht, wenn sie auch im Senat stimmberechtigt sind. Die Mitglieder der Hochschulwahlversammlung, die zugleich Mitglieder des Hochschulrates sind, haben Stimmrecht, wenn sie Externe im Sinne des § 21 Absatz 3 Satz 2 sind.
+(2) Das Nähere, insbesondere zum Vorsitz und zur Umsetzung des gleichen Stimmverhältnisses, regelt die Grundordnung.
