@@ -1,0 +1,2 @@
+Vom 29. April 2025
+Auf Grund des § 5 Absatz 2 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NRW. S. 421), das zuletzt durch Artikel 3 Absatz 1 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288) geändert worden ist, in Verbindung mit § 57 Satz 2, § 58 Absatz 1 Satz 2 und § 59 Absatz 1 Satz 2 der Landeshaushaltsordnung in der Fassung der Bekanntmachung vom 26. April 1999 (GV. NRW. S. 158), die zuletzt durch Artikel 2 des Gesetzes vom 11. Februar 2025 (GV. NRW. S. 214) geändert worden ist, verordnet das Ministerium für Landwirtschaft und Verbraucherschutz:
