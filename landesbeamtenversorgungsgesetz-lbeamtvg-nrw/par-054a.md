@@ -1,0 +1,3 @@
+# § 54a Meldung von Dienstunfalldaten an Eurostat
+(1) Die meldepflichtigen Daten über Dienstunfälle von Beamtinnen und Beamten im Sinne der Verordnung (EU) Nr. 349/2011 der Kommission vom 11. April 2011 zur Durchführung der Verordnung (EG) Nr. 1338/2008 des Europäischen Parlaments und des Rates zu Gemeinschaftsstatistiken über öffentliche Gesundheit und über Gesundheitsschutz und Sicherheit am Arbeitsplatz betreffend Statistiken über Arbeitsunfälle (ABl. L 97 vom 12.4.2011, S. 3) können über die Unfallkasse Nordrhein-Westfalen weitergemeldet werden.
+(2) Einzelheiten zum Verfahren und zur Kostenerstattung können in einer Verwaltungsvereinbarung geregelt werden.
