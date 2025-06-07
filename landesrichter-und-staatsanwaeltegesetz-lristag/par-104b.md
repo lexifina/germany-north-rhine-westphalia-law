@@ -1,0 +1,2 @@
+# § 104b Weitere Anwendbarkeit der beamtenrechtlichen Vorschriften über eine fiktiveFortschreibung dienstlicher Beurteilungen
+Bis zum Erlass von Vorschriften über eine fiktive Fortschreibung dienstlicher Beurteilungen nach § 14 Absatz 5 Satz 2 sind die für die Beamtinnen und Beamten geltenden Vorschriften über eine fiktive Fortschreibung dienstlicher Beurteilungen für Richterinnen und Richter sowie Staatsanwältinnen und Staatsanwälte weiterhin entsprechend anzuwenden.
