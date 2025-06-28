@@ -1,0 +1,5 @@
+# § 75 k Stimmzettel, Wahlurne
+(1) Für jede Wahl sind besondere und andersfarbige Stimmzettel zu verwenden. Der Stimmzettel für die Wahl der Verbandsversammlung des Regionalverbands Ruhr muss sich farblich deutlich von den Stimmzetteln für die allgemeinen Kommunalwahlen unterscheiden.
+(2) Für den Stimmzettel der Wahl für die Verbandsversammlung des Regionalverbands Ruhr ist das Muster der Anlage 17g maßgebend. Er muss so groß sein, dass alle Angaben übersichtlich auf ihm erscheinen. § 32 Absatz 3 Satz 2 bis 4 und Absatz 6 gelten entsprechend.
+(3) Der Wahlleiter des Regionalverbands Ruhr setzt die Reihen- und Nummernfolge der Parteien und Wählergruppen auf dem Stimmzettel für die Wahl der Verbandsversammlung gemäß § 46 i Absatz 3 des Gesetzes fest. Er stellt den Gemeinden im Wahlgebiet des Regionalverbands Ruhr die Stimmzettel für die Wahl der Verbandsversammlung rechtzeitig zur Verfügung.
+(4) Bei der Urnenwahl im Stimmbezirk können für die allgemeinen Kommunalwahlen und für die Wahl der Verbandsversammlung des Regionalverbands Ruhr dieselben Wahlurnen benutzt werden.

@@ -1,0 +1,7 @@
+# § 75 l Wahlbekanntmachung
+Für die allgemeinen Kommunalwahlen und die Wahl der Verbandsversammlung des Regionalverbands Ruhr wird vom Bürgermeister eine gemeinsame Wahlbekanntmachung veröffentlicht, für die
+1. § 33 Absatz 1 Satz 2 Nummer 1 mit der Maßgabe gilt, dass darauf hinzuweisen ist, dass die allgemeinen Kommunalwahlen und die Wahl der Verbandsversammlung des Regionalverbands Ruhr gleichzeitig stattfinden;
+2. § 33 Absatz 1 Satz 2 Nummer 2 mit der Maßgabe gilt, dass darauf hinzuweisen ist, wie sich die Stimmzettel für die jeweilige Wahl durch Farbe und Aufdruck voneinander unterscheiden;
+3. § 33 Absatz 1 Satz 2 Nummer 4 mit der Maßgabe gilt, dass darauf hinzuweisen ist, dass der Wähler bei der Wahl der Verbandsversammlung des Regionalverbands Ruhr eine Stimme hat, die er durch Ankreuzen einer Liste oder durch anderweitige eindeutige Kennzeichnung einer Liste auf dem zugehörigen Stimmzettel abgibt;
+4. § 33 Absatz 1 Satz 1 Nummer 5 mit der Maßgabe gilt, dass darauf hinzuweisen ist, dass für die allgemeinen Kommunalwahlen und die Wahl der Verbandsversammlung des Regionalverbands Ruhr nur ein Wahlbrief an den Bürgermeister abzusenden ist, der einen Stimmzettelumschlag mit allen Stimmzetteln und den unterschriebenen Wahlschein enthalten muss; und
+5. § 33 Absatz 2 Satz 2 mit der Maßgabe gilt, dass dem Abdruck der Wahlbekanntmachung ist je ein Stimmzettel für die jeweils anstehenden Wahlen beizufügen.

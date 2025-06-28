@@ -1,0 +1,2 @@
+# § 75 m Ausübung der Briefwahl
+Bei Ausübung der Briefwahl hat der Wähler den Stimmzettel für die Wahl der Verbandsversammlung des Regionalverbands Ruhr zusammen mit den Stimmzetteln für die allgemeinen Kommunalwahlen in den blauen Stimmzettelumschlag zu legen. Der Stimmzettel-umschlag ist mit dem unterschriebenen Wahlschein in den hellroten Wahlbriefumschlag zu legen, der bei dem Bürgermeister der Wohnortgemeinde fristgemäß nach § 26 Absatz 1 des Gesetzes eingehen muss.

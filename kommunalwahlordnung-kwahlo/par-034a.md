@@ -1,0 +1,2 @@
+# § 34a Wahlräume
+Die Gemeindebehörde bestimmt die erforderlichen Wahlräume. Soweit möglich stellen die Gemeinden Wahlräume in Gemeindegebäuden zur Verfügung. Die Wahlräume sollen nach den örtlichen Verhältnissen so ausgewählt und eingerichtet werden, dass allen Wahlberechtigten, insbesondere Menschen mit Behinderung und anderen Menschen mit Mobilitätsbeeinträchtigung, die Teilnahme an der Wahl möglichst erleichtert wird. Die Gemeindebehörde teilt frühzeitig und in geeigneter Weise mit, welche Wahlräume barrierefrei sind.
