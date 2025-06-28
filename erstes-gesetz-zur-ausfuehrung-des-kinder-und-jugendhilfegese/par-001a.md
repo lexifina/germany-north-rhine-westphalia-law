@@ -1,0 +1,4 @@
+# § 1a Örtlicher Träger der öffentlichen Jugendhilfe
+(1) Örtliche Träger der öffentlichen Jugendhilfe sind die Kreise und die kreisfreien Städte.
+(2) Die Aufgaben des örtlichen Trägers der öffentlichen Jugendhilfe werden durch das Jugendamt wahrgenommen.
+(3) Kreisangehörige Gemeinden, die nicht örtliche Träger der öffentlichen Jugendhilfe sind, können für den örtlichen Bereich Aufgaben der Jugendhilfe wahrnehmen. Die Planung und Durchführung dieser Aufgaben ist in den wesentlichen Punkten mit dem örtlichen Träger der öffentlichen Jugendhilfe abzustimmen. Die Gesamtverantwortung des örtlichen Trägers der öffentlichen Jugendhilfe bleibt unberührt. Für die Zusammenarbeit mit den Trägern der freien Jugendhilfe gelten die §§ 4, 74, 76 und 77 Achtes Buch Sozialgesetzbuch - Kinder- und Jugendhilfe - entsprechend.
