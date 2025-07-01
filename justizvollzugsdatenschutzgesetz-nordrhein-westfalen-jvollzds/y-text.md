@@ -1,0 +1,7 @@
+(1) Elektronische Datenspeicher sowie elektronische Geräte mit Datenspeichern, die Gefangene ohne Erlaubnis der Anstalt in Gewahrsam haben, dürfen auf einzelfallbezogene schriftliche Anordnung der Anstaltsleitung ausgelesen werden, soweit tatsächliche Anhaltspunkte die Annahme rechtfertigen, dass dies zu vollzuglichen oder zu den in § 12 Absatz 2 Nummer 2, 4 oder 5 genannten Zwecken erforderlich ist. Die so erhobenen Daten dürfen nur verarbeitet werden, soweit dies zu den in Satz 1 genannten Zwecken erforderlich ist.
+(2) Die nach Absatz 1 erhobenen Daten dürfen nicht weiter verarbeitet werden, soweit sie
+1. zum Kernbereich der privaten Lebensgestaltung Dritter gehören oder
+2. zum Kernbereich der privaten Lebensgestaltung Gefangener gehören und die weitere Verarbeitung auch unter Berücksichtigung der in Absatz 1 genannten vollzuglichen Interessen an der Verarbeitung sowie der Unzulässigkeit des Besitzes und der Nutzung des Datenspeichers für die betroffenen Gefangenen unzumutbar ist.
+Insoweit sind die Daten unverzüglich zu löschen. Die Erfassung und die Löschung der Daten sind zu dokumentieren. Die Dokumentation darf ausschließlich für Zwecke der Datenschutzkontrolle verwendet werden. Sie ist zu löschen, wenn sie für diese Zwecke nicht mehr erforderlich ist, spätestens jedoch am Ende des Kalenderjahres, das dem Jahr der Dokumentation folgt.
+(3) Die Gefangenen sind bei der Aufnahme über die Möglichkeit des Auslesens von Datenspeichern zu belehren.
+(4) Die Absätze 1 bis 3 finden im Jugendarrest keine Anwendung.
