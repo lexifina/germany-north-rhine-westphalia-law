@@ -1,0 +1,2 @@
+Vom 10. September 2008
+Aufgrund des § 32a des Heilberufsgesetzes (HeilBerG) vom 9. Mai 2000 (GV. NRW. S. 403), zuletzt geändert durch Gesetz vom 20. November 2007 (GV. NRW. S. 572) in Verbindung mit § 31 Abs. 5 Satz 1 und 2 des Meldegesetzes NRW in der Fassung der Bekanntmachung vom 16. September 1997 (GV. NRW. S. 332, ber. S. 386), zuletzt geändert durch Artikel 1 des Gesetzes vom 5. April 2005 (GV. NRW. S. 263), wird im Einvernehmen mit dem Ministerium für Generationen, Frauen, Familie und Integration verordnet:
