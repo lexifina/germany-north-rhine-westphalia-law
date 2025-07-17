@@ -1,0 +1,2 @@
+# § 4a
+Für die ehrenamtlichen Vertreterinnen und Vertreter des Kreises Lippe gilt § 44 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666) in der jeweils geltenden Fassung. Die Entschädigung der ehrenamtlichen Vertreterinnen und Vertreter des Kreises Lippe richtet sich nach den Vorschriften der Gemeindeordnung für das Land Nordrhein-Westfalen und der aufgrund dieser erlassenen Verordnungen.
