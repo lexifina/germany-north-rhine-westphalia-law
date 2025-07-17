@@ -1,0 +1,2 @@
+# § 116b Verzicht auf die Einbeziehung
+In den Gesamtabschluss und den Gesamtlagebericht müssen verselbstständigte Aufgabenbereiche nach § 116 Absatz 3 nicht einbezogen werden, wenn sie für die Verpflichtung, ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gemeinde zu vermitteln, von untergeordneter Bedeutung sind. Die Anwendung des Satzes 1 ist im Gesamtanhang anzugeben und zu begründen. Aufgabenträger mit dem Zweck der unmittelbaren oder mittelbaren Trägerschaft an Sparkassen sind nicht im Gesamtabschluss zu konsolidieren.
