@@ -1,0 +1,3 @@
+Verordnung über das Verbot des Führens von Waffen und Messern (Waffen- und Messerverbotsverordnung – WMV VO)
+Vom 13. Februar 2025
+Auf Grund des § 6 der Verordnung zur Durchführung des Waffengesetzes vom 8. April 2003 (GV. NRW. S. 217), die zuletzt durch Verordnung vom 11. Februar 2025 (GV. NRW. S. 178) geändert worden ist, in Verbindung mit § 42 Absatz 5 Satz 1 und 2 des Waffengesetzes vom 11. Oktober 2002 (BGBl. I S. 3970, 4592; 2003 I S. 1957), das zuletzt durch Artikel 5 des Gesetzes vom 25. Oktober 2024 (BGBl. 2024 I Nr. 332) geändert worden ist, verordnet das Landesamt für Zentrale Polizeiliche Dienste im Benehmen mit dem Ministerium des Innern:
