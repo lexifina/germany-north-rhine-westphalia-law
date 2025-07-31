@@ -1,0 +1,2 @@
+# § 1a
+Für die Berechnung der Aufnahmekapazität für den Modellstudiengang Medizin, den die RWTH Aachen nach § 41 der Approbationsordnung für Ärzte vom 27. Juni 2002 (BGBl. I S. 2405), die zuletzt durch Artikel 2 der Verordnung vom 7. Juni 2023 (BGBl. 2023 I Nr. 148) geändert worden ist, erprobt, gilt § 17a; für diesen Studiengang entfällt abweichend von § 7 Absatz 3 die Untergliederung in einen vorklinischen und einen klinischen Teil.
