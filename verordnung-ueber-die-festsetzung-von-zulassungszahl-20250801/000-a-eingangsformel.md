@@ -1,0 +1,2 @@
+Vom 18. August 2025
+Auf Grund des § 11 Absatz 1 Satz 2 und Absatz 2 des Hochschulzulassungsgesetzes 2019 vom 29. Oktober 2019 (GV. NRW. S. 830, 831), das durch Artikel 3 des Gesetzes vom 3. November 2021 (GV. NRW. S. 1180) geändert worden ist, in Verbindung mit § 1 Absatz 1 des Gesetzes zur Zustimmung zum Staatsvertrag über die Hochschulzulassung vom 4. April 2019 vom 29. Oktober 2019 (GV. NRW. S. 830) und Artikel 12 Absatz 1 des Staatsvertrages über die Hochschulzulassung vom 4. April 2019 (GV. NRW. S. 830, 835) verordnet das Ministerium für Kultur und Wissenschaft:
