@@ -1,0 +1,2 @@
+Vom 27. November 2023
+Auf Grund des § 8 Absatz 2 Satz 3 und 4 des Hinterlegungsgesetzes Nordrhein-Westfalen vom 16. März 2010 (GV. NRW. S. 192), der durch Artikel 1 Nummer 6 des Gesetzes vom 19. Dezember 2019 (GV. NRW. S. 1004) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 Satz 1 des Justizgesetzes Nordrhein-Westfalen vom 26. Januar 2010 (GV. NRW. S. 30), der zuletzt durch Gesetz vom 23. Februar 2022 (GV. NRW. S. 254) geändert worden ist, verordnet das Ministerium der Justiz:
