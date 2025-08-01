@@ -1,0 +1,4 @@
+# § 26b Weiteres Verfahren
+(1) Weichen die Vornote und die Prüfungsnote um eine Note voneinander ab, bestimmt die Fachlehrerin oder der Fachlehrer in Abstimmung mit der Zweitkorrektorin oder dem Zweitkorrektor die Abschlussnote.
+(2) Weichen die Vornote und die Prüfungsnote um zwei Noten voneinander ab, findet eine mündliche Prüfung statt, wenn die oder der Studierende es wünscht.
+(3) In allen anderen Fällen, in denen die Vornote und die Prüfungsnote voneinander abweichen, findet eine mündliche Prüfung statt.
