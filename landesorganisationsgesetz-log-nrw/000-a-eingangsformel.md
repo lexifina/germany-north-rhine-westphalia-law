@@ -36,4 +36,3 @@ V. Schluß- und Übergangsbestimmungen
 § 28 | Änderung des Gesetzes über staatliche Verwaltungsgebühren
 § 29 | Änderung des Gesetzes über die Errichtung von Landwirtschaftskammern im Lande Nordrhein-Westfalen
 § 30 | Inkrafttreten
-I. Geltungsbereich
