@@ -2,4 +2,3 @@
 (1) Landesbetriebe sind rechtlich unselbständige, organisatorisch abgesonderte Teile der Landesverwaltung, deren Tätigkeit erwerbswirtschaftlich oder zumindest auf Kostendeckung ausgerichtet ist.
 (2) Landesbetriebe können hoheitliche Aufgaben wahrnehmen.
 (3) Nach der Umwandlung von Behörden oder Einrichtungen in Landesbetriebe kann das für die Errichtung des Landesbetriebes zuständige Ministerium durch Rechtsverordnung mit Zustimmung der Landesregierung bestimmen, dass alle Dienststellen der Landesverwaltung, die bislang Dienstleistungen oder Produkte von der überführten Behörde oder Einrichtung bezogen oder deren Sach- und Personalmittel genutzt haben, verpflichtet bleiben, weiterhin die Dienstleistungen, Produkte und Nutzungen des Landesbetriebes in Anspruch zu nehmen. In der Rechtsverordnung können der Umfang und die Dauer des Abnahme- und Benutzungszwangs näher bestimmt werden.
-III. Gemeinden und Gemeindeverbände
