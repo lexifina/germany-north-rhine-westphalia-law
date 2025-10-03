@@ -35,4 +35,3 @@ Teil 7 Berechnung von Zahlungen und Sanktionen für flächen- und tierbezogenen 
 § 25 Reihenfolge der Abzüge
 Teil 8 Schlussbestimmungen
 § 26 Inkrafttreten, Außerkrafttreten
-Teil 1
