@@ -16,4 +16,3 @@
 (3) Die Studienordnungen können regeln:
 1. die Möglichkeit der Erbringung von Prüfungs- und Studienleistungen in elektronischer Form oder in elektronischer Kommunikation und
 2. den Zeitpunkt, bis zu dem eine Prüfungs- und Studienleistung zu erbringen ist, sowie die Folgen der Nichterbringung der Leistung bis zu diesem Zeitpunkt bis hin zum Ausschluss vom Studium.
-Sechster Abschnitt Forschung an der Fachhochschule für öffentliche Verwaltung

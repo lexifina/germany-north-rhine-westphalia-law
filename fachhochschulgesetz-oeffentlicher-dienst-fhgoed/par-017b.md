@@ -1,5 +1,5 @@
+### 4. Belange der Gleichstellung
 # § 17b Gleichstellungsbeauftragte
 (1) Die Gleichstellungsbeauftragte hat die Belange der Frauen, die Mitglieder oder Angehörige der Fachhochschule sind, wahrzunehmen. Sie wirkt auf die Einbeziehung frauenrelevanter Aspekte bei der Erfüllung der Aufgaben der Fachhochschule hin. Sie kann hierzu an den Sitzungen des Senats, des Rektorats oder des Präsidiums, der Fachbereichsräte, der Berufungskommissionen und anderer Gremien mit Antrags- und Rederecht teilnehmen; sie ist wie ein Mitglied zu laden und zu informieren. Die Grundordnung regelt insbesondere Wahl, Bestellung und Amtszeit der Gleichstellungsbeauftragten und ihrer Stellvertretung.
 (2) Zur Beratung und Unterstützung der Fachhochschule und der Gleichstellungsbeauftragten soll an der Fachhochschule eine Gleichstellungskommission gebildet werden, die insbesondere Aufstellung und Einhaltung der Frauenförderpläne überwacht und an der internen Mittelvergabe mitwirkt.
 (3) Im Übrigen finden die Vorschriften des Landesgleichstellungsgesetzes vom 9. November 1999 (GV. NRW. S. 590) Anwendung.
-5. Institute und Einrichtungen
