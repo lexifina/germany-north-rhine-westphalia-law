@@ -1,3 +1,3 @@
+## Siebter Abschnitt Haushaltswesen an der Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen
 # § 27c Anwendung von Vorschriften des Hochschulgesetzes im Bereich des Haushalts
-An der Fachhochschule für öffentliche Verwaltung gelten die §§ 102, 103 Abs. 1, 3 und 4 und § 104 Abs. 1 HG 2004 entsprechend.
-Achter Abschnitt Beiräte, Aufsicht
+An der Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen gelten die §§ 102, 103 Absatz 1, 3 und 4 und § 104 Absatz 1 HG 2004 entsprechend.

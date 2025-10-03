@@ -1,1 +1,0 @@
-Elfter Abschnitt Schlußbestimmungen
