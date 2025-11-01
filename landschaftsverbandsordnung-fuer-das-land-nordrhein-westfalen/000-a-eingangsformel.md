@@ -6,5 +6,3 @@ Die Neufassung berücksichtigt:
 3. Artikel III des eingangs erwähnten Gesetzes.
 Der Innenminister des Landes Nordrhein-Westfalen
 Landschaftsverbandsordnung für das Land Nordrhein-Westfalen (LVerbO) in der Fassung der Bekanntmachung vom 14. Juli 1994
-1. Abschnitt
-Allgemeines
