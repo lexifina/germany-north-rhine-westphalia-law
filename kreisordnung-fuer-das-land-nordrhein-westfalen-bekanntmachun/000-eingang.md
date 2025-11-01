@@ -48,17 +48,18 @@ Inhaltsverzeichnis
 § 38 | Behandlung der Kreistagsbeschlüsse
 § 39 | Widerspruch und Beanstandung
 § 40 | Fraktionen
-§ 41 | Bildung von Ausschüssen
+§ 41 | Bildung und Zusammensetzung von Ausschüssen sowie ihr Verfahren
 § 41a | Hybride Sitzungen der Ausschüsse
-5. Teil: | Landrat
+5. Teil: | Die Landrätin oder der Landrat, der Verwaltungsvorstand und Bedienstete des Kreises
 § 42 | Zuständigkeiten des Landrats
 § 43 | Verpflichtungserklärungen
-§ 44 | Wahl des Landrats
+§ 44 | Wahl der Landrätin oder des Landrates
 § 45 | Abwahl des Landrats
-§ 46 | Wahl der Stellvertreter des Landrats
-§ 47 | Bestellung des allgemeinen Vertreters
-§ 48 | Teilnahme an Sitzungen
-§ 49 | Bedienstete des Kreises
+§ 46 | Wahl der Stellvertretungen der Landrätin oder des Landrates
+§ 47 | Verwaltungsvorstand, Wahl von Beigeordneten und Dienstaufsicht
+§ 48 | Bestellung der allgemeinen Vertreterin oder des allgemeinen Vertreters
+§ 49 | Teilnahme an den Sitzungen
+§ 49a | Bedienstete des Kreises
 6. Teil: | Kreisausschuß
 § 50 | Zuständigkeiten des Kreisausschusses
 § 51 | Zusammensetzung des Kreisausschusses
