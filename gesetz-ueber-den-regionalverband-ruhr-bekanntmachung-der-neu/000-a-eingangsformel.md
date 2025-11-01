@@ -38,4 +38,3 @@ VI. Abschnitt Schluss- und Überleitungsvorschriften
 § 25 | Rechtsstellung der Geschäftsführerin oder des Geschäftsführers und der Bereichsleiterinnen und Bereichsleiter
 § 26 | Übergangsregelungen
 § 26a | Weiterentwicklung der kommunalen Selbstverwaltung (Experimentierklausel)
-1. Abschnitt Allgemeines
