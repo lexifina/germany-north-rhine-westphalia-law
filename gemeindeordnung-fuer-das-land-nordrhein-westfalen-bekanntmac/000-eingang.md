@@ -33,8 +33,9 @@ Inhaltsverzeichnis
 § 24 Anregungen und Beschwerden
 § 25 Einwohnerantrag
 § 26 Bürgerbegehren und Bürgerentscheid
-§ 27 Politische Teilhabe von Menschen mit Einwanderungsgeschichte
-§ 27a Interessenvertretungen, Beauftragte
+§ 27 Ausschuss für Chancengerechtigkeit und Integration
+§ 27a Beteiligung von Kindern und Jugendlichen
+§ 27b Interessenvertretungen und Beauftragte
 § 28 Ehrenamtliche Tätigkeit und Ehrenamt
 § 29 Ablehnungsgründe
 § 30 Verschwiegenheitspflicht
@@ -79,7 +80,7 @@ Inhaltsverzeichnis
 § 64 Verpflichtungserklärungen
 § 65 Wahl der Bürgermeisterin oder des Bürgermeisters
 § 66 Abwahl des Bürgermeisters
-§ 67 Wahl der Stellvertreter des Bürgermeisters
+§ 67 Wahl der Stellvertretung der Bürgermeisterin oder des Bürgermeisters
 § 68 Vertretung im Amt
 § 69 Teilnahme an Sitzungen
 7. Teil: Verwaltungsvorstand und Gemeindebedienstete
@@ -90,6 +91,7 @@ Inhaltsverzeichnis
 § 74 Bedienstete der Gemeinde
 8. Teil: Haushaltswirtschaft
 § 75 Allgemeine Haushaltsgrundsätze
+§ 75a Allgemeine Vergabegrundsätze
 § 76 Haushaltssicherungskonzept
 § 77 Grundsätze der Finanzmittelbeschaffung
 § 78 Haushaltssatzung
