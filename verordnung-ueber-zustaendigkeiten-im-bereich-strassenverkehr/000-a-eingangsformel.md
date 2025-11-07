@@ -12,6 +12,7 @@ Teil 8: Zuständigkeiten nach dem Fahrlehrergesetz, der Durchführungsverordnung
 Teil 9: Zuständigkeiten nach dem Kraftfahrsachverständigengesetz (§ 31)
 Teil 10: Zuständigkeiten nach der Berufskraftfahrerqualifikation (§§ 32- 33)
 Teil 11: Zuständigkeiten nach der Ferienreiseverordnung (§ 35)
+Teil 12: Zuständigkeiten nach der Straßenverkehr-Transportbegleitungsverordnung (§ 36)
 Abschnitt 2: Güterbeförderung
 Teil 1: Zuständigkeiten nach dem Güterkraftverkehrsgesetz, der Berufszugangsverordnung für den Güterkraftverkehr, der Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr, der Verordnung (EG) Nummer 1071/2009 sowie der Verordnung (EG) Nummer 1072/2009 (§§ 37 - 39)
 Teil 2: Zuständigkeiten nach dem Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container (§§ 40 f.)
@@ -21,5 +22,3 @@ Teil 5: Zuständigkeiten nach der Gefahrgutverordnung Straße, Eisenbahn und Bin
 Teil 6: Zuständigkeiten nach der Gefahrgutkontrollverordnung (§§ 53 f.)
 Teil 7: Zuständigkeiten nach der Gefahrgutbeauftragtenverordnung (§§ 55 - 57)
 Abschnitt 3: Schlussbestimmungen (§§ 58 f.)
-Abschnitt 1 Straßenverkehr
-Teil 1 Zuständigkeiten nach dem Straßenverkehrsgesetz
