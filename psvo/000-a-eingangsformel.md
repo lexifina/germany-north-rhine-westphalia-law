@@ -45,4 +45,3 @@ Teil 3 Schlichtung
 § 34 Geschäftsordnung
 Teil 4 Schlussbestimmungen
 § 35 Inkrafttreten, Außerkrafttreten
-Teil 1 Allgemeine Bestimmungen
