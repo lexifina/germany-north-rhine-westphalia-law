@@ -23,4 +23,3 @@ Teil 3 Staatsprüfung
 Teil 4 Schlussbestimmungen
 § 17 Ersatzschulen
 § 18 Inkrafttreten; Außerkrafttreten
-Teil 1 Ziel und Voraussetzungen der Ausbildung; Ausbildungsplätze
