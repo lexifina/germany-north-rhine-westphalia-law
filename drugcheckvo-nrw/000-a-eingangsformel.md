@@ -1,0 +1,2 @@
+Vom 18. November 2025
+Auf Grund des § 5 Absatz 3 Satz 1 des Landesorganisationsgesetzes vom 10. Juli 1962 (GV. NRW. S. 421), das zuletzt durch Artikel 3 des Gesetzes vom 10. Juli 2025 (GV. NRW. S. 633) geändert worden ist, insoweit nach Anhörung des fachlich zuständigen Ausschusses des Landtags und auf Grund des § 10b Absatz 2 des Betäubungsmittelgesetzes in der Fassung der Bekanntmachung vom 1. März 1994 (BGBl. I S. 358), das zuletzt durch Artikel 1 der Verordnung vom 29. November 2024 (BGBl. 2024 I Nr. 379) geändert worden ist, verordnet die Landesregierung:
