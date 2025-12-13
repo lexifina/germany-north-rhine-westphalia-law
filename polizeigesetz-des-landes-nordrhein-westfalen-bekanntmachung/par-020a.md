@@ -6,7 +6,9 @@ a) die Nummer oder Kennung der beteiligten Anschlüsse oder der Endeinrichtungen
 3. folgende Nutzungsdaten im Sinne des § 2 Absatz 2 Nummer 3 des Telekommunikation-Telemedien-Datenschutz-Gesetzes:
 a) Merkmale zur Identifikation der Nutzerin oder des Nutzers, b) Angaben über den Beginn und das Ende sowie den Umfang der jeweiligen Nutzung nach Datum und Uhrzeit.
 Die Maßnahmen nach Satz 1 sind nur zulässig
-1. wenn die hohe Wahrscheinlichkeit eines Schadens für Leben, Gesundheit oder Freiheit einer Person besteht oder 2. zur Abwehr einer gemeinen Gefahr
+1. unter den Voraussetzungen des § 20c Absatz 1,
+2. zur Abwehr einer gemeinen Gefahr oder
+3. zur Ermittlung des Aufenthaltsortes einer vermissten, suizidgefährdeten oder hilflosen Person
 und nur, soweit die Erreichung des Zwecks der Maßnahme auf andere Weise aussichtslos oder wesentlich erschwert wäre. Die Daten sind der Polizei unverzüglich zu übermitteln. Dritten dürfen die Daten nur mit Zustimmung der betroffenen Person zugänglich gemacht werden.
 (2) Bei Maßnahmen nach Absatz 1 dürfen personenbezogene Daten Dritter nur erhoben werden, wenn dies aus technischen Gründen unvermeidbar ist. Sämtliche nach Absatz 1 erhobene personenbezogene Daten Dritter sind nach Beendigung der Maßnahme unverzüglich zu löschen.
 (3) Maßnahmen nach Absatz 1 bedürfen der Anordnung durch das Amtsgericht, in dessen Bezirk die Polizeibehörde ihren Sitz hat. § 16a Absatz 2 Satz 2 bis 7 gilt entsprechend. In der Anordnung sind anzugeben
@@ -14,6 +16,5 @@ und nur, soweit die Erreichung des Zwecks der Maßnahme auf andere Weise aussich
 2. die Art der Maßnahme sowie, soweit vorhanden,
 3. der Name und die Anschrift der Betroffenen, gegen die sich die Maßnahme richtet und
 4. eine Kennung des Telekommunikationsanschlusses oder Endgerätes.
-(4) Abweichend von Absatz 3 darf eine Maßnahme nach Absatz 1, die allein auf die Ermittlung des Aufenthaltsortes einer vermissten, suizidgefährdeten oder hilflosen Person gerichtet ist, durch die Behördenleitung oder deren Vertretung angeordnet werden.
-(5) Die in Anspruch genommenen Diensteanbieter werden entsprechend § 23 des Justizvergütungs- und -entschädigungsgesetzes vom 5. Mai 2004 (BGBl. I S. 718, 776), zuletzt geändert durch Artikel 13 des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2418), entschädigt.
-(6) Die Auswirkungen dieser Vorschrift und die praktische Anwendung werden nach einem Erfahrungszeitraum von drei Jahren durch die Landesregierung unter Mitwirkung einer oder eines unabhängigen wissenschaftlichen Sachverständigen geprüft. Die Landesregierung berichtet dem Landtag über das Ergebnis der Evaluierung.
+Abweichend von Satz 1 darf eine Maßnahme nach Absatz 1 Satz 2 Nummer 3 durch die Behördenleitung oder deren Vertretung angeordnet werden.
+(4) Die in Anspruch genommenen Diensteanbieter werden entsprechend § 23 des Justizvergütungs- und -entschädigungsgesetzes vom 5. Mai 2004 (BGBl. I S. 718, 776), zuletzt geändert durch Artikel 13 des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2418), entschädigt.

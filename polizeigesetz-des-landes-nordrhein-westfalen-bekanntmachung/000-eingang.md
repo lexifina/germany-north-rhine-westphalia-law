@@ -56,6 +56,7 @@ Zweiter Titel Weiterverarbeitung von personenbezogenen Daten
 § 23 | Weiterverarbeitung von personenbezogenen Daten, Zweckbindung, Zweckänderung
 § 24 | Weiterverarbeitung zu besonderen Zwecken
 § 24a | Weiterverarbeitung zu wissenschaftlichen Zwecken
+§ 24b | Weiterverarbeitung zu IT-Entwicklungszwecken
 § 25 | Datenabgleich
 Dritter Titel Datenübermittlung I. Allgemeine Regeln der Datenübermittlung
 § 26 | Allgemeine Regeln der Datenübermittlung, Übermittlungsverbote und Verweigerungsgründe
