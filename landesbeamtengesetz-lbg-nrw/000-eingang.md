@@ -100,6 +100,7 @@ Abschnitt 5 - Rechtliche Stellung im Beamtenverhältnis
 § 91 Übertragung von Aufgaben der Personalverwaltung
 § 91a Verarbeitung von Personalakten im Auftrag
 § 92 Dienstliche Beurteilung, Dienstzeugnis
+§ 92a Kriterien für Auswahlentscheidungen, weitere Auswahlinstrumente
 § 93 Beteiligung der Spitzenorganisationen
 § 94 Errichtung Landespersonalausschuss
 § 95 Zusammensetzung

@@ -5,7 +5,7 @@ Inhaltsübersicht
 Abschnitt 1
 Unterabschnitt 1 Allgemeines
 § 1 Geltungsbereich
-§ 2 Grundsatz
+§ 2 (weggefallen)
 § 3 Zuständigkeiten für Entscheidungen
 § 4 Laufbahnrechtlicher Befähigungserwerb
 § 5 Probezeit
