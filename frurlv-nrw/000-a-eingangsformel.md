@@ -54,4 +54,3 @@ Teil 7 Gemeinsame Vorschriften zum Erholungsurlaub und Sonderurlaub
 § 40 Widerruf und Verlegung eines Urlaubs
 Teil 8 Schlussvorschriften
 § 41 Inkrafttreten, Außerkrafttreten
-Teil 1 Allgemeines

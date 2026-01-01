@@ -9,4 +9,3 @@ soweit nachfolgend nichts Abweichendes geregelt ist.
 (5) Die Pflegebedürftigkeit der oder des Angehörigen ist entsprechend § 2a Absatz 4 des Familienpflegezeitgesetzes nachzuweisen. Soweit Kosten für die ärztliche Bescheinigung entstehen, werden sie vom Dienstherrn übernommen. § 7 Absatz 3 und 4 des Pflegezeitgesetzes gelten entsprechend.
 (6) Für Freistellungen nach § 2 des Familienpflegezeitgesetzes gilt § 16 Absatz 5 entsprechend. Sie sind spätestens acht Wochen vor Beginn schriftlich oder elektronisch zu beantragen.
 (7) Für eine Entlassung aus dem Beamtenverhältnis während der Familienpflegezeit gilt § 12 entsprechend.
-Teil 5 Erholungsurlaub
