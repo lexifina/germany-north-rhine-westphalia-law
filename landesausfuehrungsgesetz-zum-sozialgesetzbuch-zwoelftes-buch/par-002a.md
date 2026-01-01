@@ -1,4 +1,4 @@
-# § 2a
+# § 2a Sachliche Zuständigkeit
 (1) Der überörtliche Träger ist sachlich zuständig für
 1. Leistungen nach dem Fünften bis Neunten Kapitel des Zwölften Buches Sozialgesetzbuch
 a) für Personen nach § 99 des Neunten Buches Sozialgesetzbuch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes vom 23. Dezember 2016, BGBl. I S. 3234), das zuletzt durch Artikel 23 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2541) geändert worden ist, und für Menschen mit einer sonstigen geistigen oder seelischen Beeinträchtigung, mit Anfallserkrankung oder einer Suchterkrankung bis zur Vollendung des 65. Lebensjahres, wenn es wegen der Beeinträchtigung oder der Krankheit dieser Personen in Verbindung mit den Besonderheiten des Einzelfalls erforderlich ist, die Hilfe in einer teilstationären oder stationären Einrichtung oder in einer gemeinschaftlichen Wohnform nach § 42a Absatz 2 Satz 1 Nummer 2 des Zwölften Buches Sozialgesetzbuch zu gewähren,
