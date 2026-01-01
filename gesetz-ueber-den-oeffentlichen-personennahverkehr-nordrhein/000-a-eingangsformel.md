@@ -25,5 +25,3 @@ Vierter Abschnitt Finanzierung
 Fünfter Abschnitt Schlußbestimmungen
 § 16 | Aufsicht
 § 17 | Inkrafttreten
-Erster Abschnitt
-Allgemeine Regelungen
