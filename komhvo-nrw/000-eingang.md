@@ -32,7 +32,7 @@ Besondere Vorschriften für die Haushaltswirtschaft
 § 23 Überwachung der Forderungen
 § 24 Bewirtschaftung und Überwachung der Aufwendungen und Auszahlungen
 § 25 Berichtspflicht, haushaltswirtschaftliche Sperre
-§ 26 Vergabe von Aufträgen
+§ 26 (weggefallen)
 § 27 Stundung, Niederschlagung und Erlass
 Teil 4
 Buchführung, Inventar, Zahlungsabwicklung
