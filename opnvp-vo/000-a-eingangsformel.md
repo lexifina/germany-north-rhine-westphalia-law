@@ -1,1 +1,2 @@
+Vom 18. Dezember 2012
 Auf Grund des § 11 Absatz 1 Satz 3 und Satz 7 und Absatz 2 Satz 2 des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen vom 7. März 1995 (GV. NRW. S. 196), geändert durch Gesetz vom 4. Dezember 2012 (GV. NRW. S. 638), wird im Einvernehmen mit dem fachlich zuständigen Landtagsausschuss verordnet:
