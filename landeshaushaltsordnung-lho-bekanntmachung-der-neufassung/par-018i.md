@@ -1,0 +1,2 @@
+# § 18i Zulässige strukturelle Kreditaufnahme
+Dem Grundsatz nach § 18a Absatz 1 Satz 1 ist entsprochen, wenn die Einnahmen aus Krediten die für das Land Nordrhein-Westfalen zulässige strukturelle Kreditaufnahme nach § 2 Absatz 3 Satz 1 und 2 des Strukturkomponente-für-Länder-Gesetzes vom 20. Oktober 2025 (BGBl. 2025 I Nr. 247) in der jeweils geltenden Fassung nicht überschreiten. § 18h Absatz 1 Satz 1 ist hinsichtlich einer Abweichung der tatsächlichen von der zulässigen strukturellen Kreditaufnahme entsprechend anzuwenden.

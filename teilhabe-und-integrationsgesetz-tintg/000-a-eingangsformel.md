@@ -1,6 +1,3 @@
-Gesetz zur Förderung der gesellschaftlichen Teilhabe und Integration in Nordrhein-Westfalen (Teilhabe- und Integrationsgesetz – TIntG)
-Der Landtag hat das folgende Gesetz beschlossen, das hiermit verkündet wird:
-Gesetz zur Förderung der gesellschaftlichen Teilhabe und Integration in Nordrhein-Westfalen (Teilhabe- und Integrationsgesetz – TIntG)
 Vom 25. November 2021
 Inhaltsübersicht
 Präambel
@@ -37,4 +34,3 @@ wird bekräftigt, dass
 2. jeglichen Formen von gruppenbezogener Menschenfeindlichkeit und Diskriminierung aufgrund von Geschlecht, Alter, Abstammung, Herkunft, Religion, sexueller und geschlechtlicher Identität oder Behinderung wie zum Beispiel Antisemitismus, Rassismus, Antiziganismus und antimuslimischem Rassismus entschieden entgegenzutreten ist und Betroffene von gruppenbezogener Menschenfeindlichkeit gegen Diskriminierung zu stärken sind,
 3. zur Stärkung des gesamtgesellschaftlichen Zusammenhalts und zur Förderung einer chancen- und teilhabegerechten Gesellschaft das Zusammenwirken des Landes, der Kommunen, der gemeinnützigen Verbände und Organisationen, der Wirtschaft, der Wissenschaft, der Kultur und der Zivilgesellschaft zu unterstützen ist und
 4.Integration ein dynamischer, langfristiger und anhaltender Prozess des gegenseitigen Entgegenkommens und Zusammenwirkens aller im Land lebenden Menschen ist.
-Teil 1 Allgemeine Bestimmungen

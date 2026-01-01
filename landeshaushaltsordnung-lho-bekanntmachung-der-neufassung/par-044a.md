@@ -1,0 +1,2 @@
+# § 44a Vollständig automatisierter Erlass eines Verwaltungsaktes im Zuwendungsverfahren
+Ein Verwaltungsakt darf vollständig durch automatische Einrichtungen erlassen werden, sofern kein Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten. Setzt die Behörde automatische Einrichtungen zum Erlass von Verwaltungsakten ein, muss sie für den Einzelfall bedeutsame tatsächliche Angaben des Beteiligten berücksichtigen, die im automatischen Verfahren nicht ermittelt würden. Das gilt auch für Verwaltungsakte, die mit einer Nebenbestimmung versehen oder verbunden werden.
