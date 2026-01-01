@@ -54,4 +54,3 @@ Teil 4 Ordnungswidrigkeiten, Rechtsverordnungen, Übergangs- und Schlussbestimmu
 § 43 Rechtsverordnungen
 § 44 Übergangsvorschriften
 § 45 Inkrafttreten und Außerkrafttreten
-Teil 1 Architektenkammer Nordrhein-Westfalen und Ingenieurkammer-Bau Nordrhein-Westfalen
