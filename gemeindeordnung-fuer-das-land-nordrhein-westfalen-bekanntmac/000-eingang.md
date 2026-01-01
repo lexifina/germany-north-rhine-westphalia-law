@@ -131,7 +131,7 @@ Inhaltsverzeichnis
 § 107a Zulässigkeit energiewirtschaftlicher Betätigung
 § 108 Unternehmen und Einrichtungen des privaten Rechts
 § 108a Arbeitnehmermitbestimmung in fakultativen Aufsichtsräten
-108b Regelung zur Vollparität
+§ 108b Regelung zur Vollparität
 § 109 Wirtschaftsgrundsätze
 § 110 Verbot des Mißbrauchs wirtschaftlicher Machtstellung
 § 111 Veräußerung von Unternehmen, Einrichtungen und Beteiligungen
