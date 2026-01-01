@@ -125,4 +125,3 @@ Abschnitt 12 Schlussvorschriften
 § 105 Inkrafttreten, Außerkrafttreten
 Anlage 1 (Unfallausgleich nach § 41 Absatz 1)
 Anlage 2 (Zuschläge nach den §§ 59 bis 61)
-Abschnitt 1 Allgemeine Vorschriften
