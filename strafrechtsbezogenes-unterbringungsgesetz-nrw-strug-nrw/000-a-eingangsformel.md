@@ -1,5 +1,3 @@
-Gesetz zur Durchführung strafrechtsbezogener Unterbringungen in einem psychiatrischen Krankenhaus und einer Entziehungsanstalt in Nordrhein-Westfalen (Strafrechtsbezogenes Unterbringungsgesetz NRW – StrUG NRW)
-Der Landtag hat das folgende Gesetz beschlossen, das hiermit verkündet wird:
 Vom 17. Dezember 2021
 Inhaltsübersicht
 Abschnitt 1 Allgemeine Bestimmungen
@@ -78,4 +76,3 @@ Abschnitt 12 Schlussvorschriften
 § 62 Übergangsvorschrift
 § 63 Inkrafttreten
 § 64 Berichtspflicht
-Abschnitt 1 Allgemeine Bestimmungen
