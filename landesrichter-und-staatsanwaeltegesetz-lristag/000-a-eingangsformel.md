@@ -129,5 +129,5 @@ Teil 4 Übergangs- und Schlussvorschriften
 § 104 Laufende Beteiligungsverfahren
 § 104a Weitere Anwendbarkeit von Verwaltungsvorschriften
 § 104b Weitere Anwendbarkeit der beamtenrechtlichen Vorschriften über eine fiktive Fortschreibung dienstlicher Beurteilungen
+§ 104c Weitere Anwendbarkeit der Vorschriften zur Altersgrenze
 § 105 Inkrafttreten, Berichtspflicht
-Teil 1 Allgemeine Vorschriften

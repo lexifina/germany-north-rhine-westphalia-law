@@ -1,5 +1,3 @@
-# § 47
-Die Landesregierung berichtet dem Landtag bis zum Ablauf des Jahres 2026 über die mit diesem Gesetz gemachten Erfahrungen.
 Gesetz zur Änderung des Gesetzes über die Wahl zum Landtag des Landes Nordrhein-Westfalen (Landeswahlgesetz)
 Vom 5. März 2002
 Der Landtag hat das folgende Gesetz beschlossen, das hiermit verkündet wird:
