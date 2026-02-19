@@ -35,4 +35,3 @@ Teil 3 Förderung von Vorhaben nach den §§ 45c und 45d des Elften Buches Sozia
 § 25 Mitwirkungspflichten nach § 45c des Elften Buches Sozialgesetzbuch
 Teil 4 Schlussvorschriften
 § 26 Inkrafttreten, Außerkrafttreten, Berichtspflicht, Übergangsregelung
-Teil 1 Allgemeine Vorschriften, Begriffsbestimmungen
