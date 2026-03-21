@@ -30,10 +30,8 @@ Sondervorschriften |
 Erster Abschnitt: |
 Polizei | aufgehoben
 Zweiter Abschnitt: |
-Lehrer | 43 und 44
+Lehrkräfte | 43 und 44
 Dritter Abschnitt: |
-Referendare im juristischen Vorbereitungsdienst | 45 und 46
+Rechtsreferendarinnen und Rechtsreferendare im juristischen Vorbereitungsdienst | 45 und 46
 Sechstes Kapitel: |
 Schlussvorschriften | 47 bis 50
-Erstes Kapitel Wahl des Personalrats
-Erster Abschnitt Gemeinsame Vorschriften über Vorbereitung und Durchführung der Wahl
