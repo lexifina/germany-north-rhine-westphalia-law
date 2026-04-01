@@ -1,6 +1,3 @@
-Gesetz zur Regelung des Vollzuges der Freiheitsstrafe in Nordrhein-Westfalen (Strafvollzugsgesetz Nordrhein-Westfalen - StVollzG NRW)
-Vom 13. Januar 2015
-(Artikel 1 des Gesetzes vom 13. Januar 2015 (GV. NRW. S. 76))
 Inhaltsübersicht
 Abschnitt 1
 Grundsätze

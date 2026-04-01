@@ -1,5 +1,3 @@
-Gesetz zur Regelung des Vollzuges der Sicherungsverwahrung in Nordrhein-Westfalen (Sicherungsverwahrungsvollzugsgesetz Nordrhein-Westfalen - SVVollzG NRW)
-Vom 30. April 2013
 Inhaltsübersicht
 Abschnitt 1 Grundsätze
 § 1 Ziele des Vollzuges

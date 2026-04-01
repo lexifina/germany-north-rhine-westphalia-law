@@ -1,5 +1,3 @@
-Gesetz zur Regelung des Jugendarrestvollzuges in Nordrhein-Westfalen (Jugendarrestvollzugsgesetz Nordrhein-Westfalen - JAVollzG NRW)
-Vom 30. April 2013
 Inhaltsübersicht
 Abschnitt 1 Ziel und erzieherische Gestaltung
 § 1 Ziel und Aufgaben
