@@ -1,0 +1,2 @@
+Vom 6. August 2025
+Auf Grund des § 292 Absatz 6 Satz 1 und 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit vom 17. Dezember 2008 (BGBl. I S. 2586, 2587), das zuletzt durch Artikel 3 des Gesetzes vom 7. April 2025 (BGBl. 2025 I Nr. 109) geändert worden ist, in Verbindung mit § 1 Absatz 2 Satz 1 des Justizgesetzes Nordrhein-Westfalen vom 26. Januar 2010 (GV. NRW. S. 30), das zuletzt durch Gesetz vom 10. Dezember 2024 (GV. NRW. S. 1207) geändert worden ist, verordnet das Ministerium der Justiz:
