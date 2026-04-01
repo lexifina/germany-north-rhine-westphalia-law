@@ -112,5 +112,3 @@ Teil 4
 § 70 Übergangsvorschrift
 § 71 Einschränkung von Grundrechten
 § 72 Inkrafttreten, Außerkrafttreten
-Teil 1
-Allgemeine Bestimmungen
