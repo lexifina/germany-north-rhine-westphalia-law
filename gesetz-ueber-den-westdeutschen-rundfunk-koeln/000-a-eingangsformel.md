@@ -1,4 +1,4 @@
-Vom 25. April 1998
+in der Fassung der Bekanntmachung vom 25. April 1998
 Aufgrund Artikel 3 des Neunten Gesetzes zur Änderung des Gesetzes über den "Westdeutschen Rundfunk Köln" und des Rundfunkgesetzes für das Land Nordrhein-Westfalen (9. Rundfunkänderungsgesetz) vom 10. Februar 1998 (GV.NW.S.148) wird nachstehend der Wortlaut des Gesetzes über den "Westdeutschen Rundfunk Köln" in der Fassung der Bekanntmachung vom 31. März 1993 (GV.NW.S.158), zuletzt geändert durch Gesetz vom 24. April 1995 (GV. NW. S. 340), unter Berücksichtigung der Änderungen durch Artikel 1 des 7. Rundfunkänderungsgesetzes (GV.NW.1995 S: 340) und Artikel 1 des 9. Rundfunkänderungsgesetzes neu bekanntgemacht.
 Der Ministerpräsident
 Gesetz über den "Westdeutschen Rundfunk Köln" (WDR-Gesetz) in der Fassung der Bekanntmachung vom 25. April 1998
@@ -20,7 +20,7 @@ I. Rechtsform und Aufgaben
 § 8a Informationspflicht
 § 9 Gegendarstellung
 § 10 Eingaben und Beschwerden
-§ 11 Anrufungsrecht
+§ 11 (weggefallen)
 § 12 Beweissicherung
 II. Organisation
 § 13 Organe, Unvereinbarkeit von Ämtern und Tätigkeiten
@@ -71,9 +71,9 @@ III. Finanzwesen
 § 47 Zweckbindung zusätzlicher Rundfunkbeitragsmittel
 IV. Datenschutz
 § 48 Datenverarbeitung für publizistische Zwecke
-§ 49 Gewährleistung des Datenschutzes beim WDR
-§ 50 Unabhängigkeit
-§ 51 Aufgaben und Befugnisse
+§ 49 (weggefallen)
+§ 50 (weggefallen)
+§ 51 (weggefallen)
 § 52 (weggefallen)
 § 53 (weggefallen)
 V. Aufsicht
@@ -85,6 +85,5 @@ VI. Übergangs- und Schlussbestimmungen
 § 56 (weggefallen)
 § 56a (weggefallen)
 § 57 Übergangsregelungen für das Recht auf unentgeltliche Kurzberichterstattung im Fernsehen
-§ 57a Übergangsregelung zur Neukonstituierung des Rundfunkrates und des Verwaltungsrates, sowie zur Unvereinbarkeit von Ämtern und Tätigkeiten sowie zum Beschlussverfahren
+§ 57a Übergangsregelung zu Amtszeiten, Entsendung und Hörfunkprogrammen
 § 58 Inkrafttreten
-I. Rechtsform und Aufgaben
