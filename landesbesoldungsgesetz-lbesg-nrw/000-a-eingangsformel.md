@@ -19,7 +19,7 @@ Allgemeine Vorschriften
 § 14 Abtretung von Bezügen, Verpfändung, Aufrechnungs- und Zurückbehaltungsrecht
 § 15 Rückforderung von Bezügen
 § 16 Anpassung der Besoldung
-§ 17 Anpassung der Besoldung im Jahr 2025
+§ 17 Anpassung der Besoldung im Jahr 2026
 § 18 Dienstlicher Wohnsitz
 Abschnitt 2
 Grundgehalt, Leistungsbezüge an Hochschulen
@@ -158,5 +158,3 @@ Anlage 16: Auslandsbesoldung
 Anlage 17: Überleitungsübersicht
 Anlage 18: Berechnungsgrundlagen für den Ergänzungszuschlag zum Familienzuschlag
 Anlage 19: Ämterübersicht zur Zulage nach § 91a
-Abschnitt 1
-Allgemeine Vorschriften
