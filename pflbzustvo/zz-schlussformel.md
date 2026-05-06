@@ -1,5 +1,3 @@
-# § 5 Inkrafttreten
-Diese Verordnung tritt am 2. Januar 2019 in Kraft.
 Die Landesregierung
 Nordrhein-Westfalen
 Der Ministerpräsident
