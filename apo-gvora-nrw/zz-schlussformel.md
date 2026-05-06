@@ -1,1 +1,2 @@
-Der Minister der Justiz des Landes Nordrhein-Westfalen
+Der Minister der Justiz
+des Landes Nordrhein-Westfalen
