@@ -11,7 +11,7 @@ I. Wahlorgane und Wahlbehörden
 § 7 | Beweglicher Wahlvorstand
 § 8 | Sonderstimmbezirke
 II. Wählerverzeichnis und Wahlschein
-§ 9 | Führung des Wählerverzeichnisses, Datenschutz
+§ 9 | Führung des Wählerverzeichnisses
 § 10 | Eintragung der Wahlberechtigten
 § 11 | Benachrichtigung der Wahlberechtigten
 § 12 | Bekanntmachung über Wählerverzeichnisse und Wahlscheine
@@ -20,14 +20,14 @@ II. Wählerverzeichnis und Wahlschein
 § 15 | Berichtigung des Wählerverzeichnisses
 § 16 | Abschluß des Wählerverzeichnisses
 § 17 | Wahlscheinantrag
-§ 18 | Erteilung von Wahlscheinen, Datenschutz
+§ 18 | Erteilung von Wahlscheinen
 § 19 | Erteilung von Wahlscheinen an bestimmte Personengruppen
 § 20 | Vermerk im Wählerverzeichnis
 § 21 | Einspruch und Beschwerde gegen die Versagung eines Wahlscheines
 III. Wahlvorschläge und Wahlvorbereitung
 § 22 | Aufforderung zur Einreichung von Kreiswahlvorschlägen
 § 22a | Beteiligungsanzeige der in § 17a Absatz 2 des Gesetzes genannten Parteien, Beseitigung von Mängeln
-§ 23 | Inhalt und Form der Kreiswahlvorschläge, Datenschutz
+§ 23 | Inhalt und Form der Kreiswahlvorschläge
 § 24 | Vorprüfung der Kreiswahlvorschläge durch den Kreiswahlleiter
 § 25 | Zulassung der Kreiswahlvorschläge
 § 26 | Beschwerde gegen Entscheidungen des Kreiswahlausschusses
@@ -81,10 +81,9 @@ X. Allgemeine Vorschriften
 § 66 | Kosten
 § 67 | Vernichtung von Wahlunterlagen
 § 68 | Öffentliche Bekanntmachung
-§ 69 | Wahlgeräte
-§ 70 | Funktionsbezeichnungen
+§ 69 | Funktionsbezeichnungen
 XI. Schlußbestimmung
-§ 71 | Inkrafttreten
+§ 70 | Inkrafttreten
 Anlage 1 | Zu § 11 Abs. 1 Satz 1 Wahlbenachrichtigung
 Anlage 2 | Zu § 11 Abs. 2 Satz 2 Wahlscheinantrag
 Anlage 3 | Zu § 16 Abs. 1 Satz 2 Beurkundung des Abschlusses des Wählerverzeichnisses
