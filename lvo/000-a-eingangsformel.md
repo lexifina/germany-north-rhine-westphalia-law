@@ -65,11 +65,10 @@ Abschnitt 5 Besondere Vorschriften für einzelne Gruppen von Beamtinnen und Beam
 § 47 Richterinnen und Richter
 § 48 Beamtinnen und Beamte im Geschäftsbereich des für Justiz zuständigen Ministeriums
 § 49 Praxisaufstieg für die Finanzverwaltung und im Geschäftsbereich des für Justiz zuständigen Ministeriums
+§ 50 Befähigung für das erste Einstiegsamt der Laufbahngruppe 2 in der Staatlichen Arbeitsschutzverwaltung
 Abschnitt 6 Übergangs- und Schlussbestimmungen
-§ 50 Vor dem 1. April 2009 außerhalb des Geltungsbereiches dieser Verordnung erworbene Befähigungen
-§ 51 Früher erworbene Befähigungen
-§ 52 Zuordnung der Laufbahnen besonderer Fachrichtung, besondere Anforderungen an die Ausbildung, Regelungen zur hauptberuflichen Tätigkeit
-§ 53 Übergangsregelung
-§ 54 Inkrafttreten, Außerkrafttreten
-Abschnitt 1
-Unterabschnitt 1 Allgemeines
+§ 51 Vor dem 1. April 2009 außerhalb des Geltungsbereiches dieser Verordnung erworbene Befähigungen
+§ 52 Früher erworbene Befähigungen
+§ 53 Zuordnung der Laufbahnen besonderer Fachrichtung, besondere Anforderungen an die Ausbildung, Regelungen zur hauptberuflichen Tätigkeit
+§ 54 Übergangsregelung
+§ 55 Inkrafttreten, Außerkrafttreten
