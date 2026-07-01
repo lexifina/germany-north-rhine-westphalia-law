@@ -1,2 +1,4 @@
-# § 33 a Einzug des Fischereischeins
-Werden nach Erteilung des Fischereischeins Tatsachen bekannt, die bereits vorhanden waren oder später entstanden sind und die eine Versagung rechtfertigen, so kann die Behörde, die den Fischereischein erteilt hat, diesen für ungültig erklären und einziehen.
+# § 33 a Entziehung und Sperre des Fischereischeins
+(1) Werden nach Erteilung des Fischereischeins Tatsachen bekannt, die bereits vorhanden waren oder später entstanden sind und die eine Versagung gemäß § 33 Absatz 2 Nummer 1 bis 3 rechtfertigen, kann das Landesamt den Fischereischein für ungültig erklären (Entziehung). Für ungültig erklärte Fischereischeine können eingezogen werden.
+(2) Mit der Entziehung des Fischereischeins wird zugleich bestimmt, dass für die Dauer von sechs Monaten bis zu fünf Jahren kein neuer Fischereischein erteilt werden darf (Sperre). Die Sperre kann für mehr als fünf Jahre, in besonders schweren Fällen auch unbefristet angeordnet werden, wenn zu erwarten ist, dass die gesetzliche Höchstfrist nach Satz 1 zur Abwehr der von dem Fischereischeininhaber drohenden Gefahr nicht ausreicht. Hat die betroffene Person keinen Fischereischein, so wird nur die Sperre angeordnet.
+(3) Unter den Voraussetzungen des § 33 Absatz 3 kann die Entziehung und Sperre des Fischereischeins auf Antrag für die Zukunft aufgehoben werden.
