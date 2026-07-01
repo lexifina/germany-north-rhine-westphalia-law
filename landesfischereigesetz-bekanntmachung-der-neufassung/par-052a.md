@@ -1,5 +1,5 @@
 # § 52a Zentrum für angewandte Fischerei, Fischökologie und Aquakultur
-Im Geschäftsbereich des Ministeriums wird das Zentrum für angewandte Fischerei, Fischökologie und Aquakultur (ZAFFA) als Fachbereich beim Landesamt für Verbraucherschutz und Ernährung geführt. Aufgaben des ZAFFA sind insbesondere:
+Im Geschäftsbereich des Ministeriums wird das Zentrum für angewandte Fischerei, Fischökologie und Aquakultur (ZAFFA) als Fachbereich beim Landesamt geführt. Aufgaben des ZAFFA sind insbesondere:
 1. die Erfassung von Fischbeständen mit Mitteln der Berufsfischerei,
 2. die Entwicklung und Erprobung von Fischfangmethoden mittels Elektro-, Netz- und Reusenfischerei sowie Echolotverfahren und Fischmarkierungen inklusive Transpondertechnologie,
 3. die Beschaffung von repräsentativen Fischproben für Untersuchungsprogramme des Landes einschließlich Untersuchungen bei Fischsterben,
@@ -12,5 +12,6 @@ Im Geschäftsbereich des Ministeriums wird das Zentrum für angewandte Fischerei
 10. die Erprobung moderner Fischzuchttechniken, Entwicklung und Durchführung von Lachszuchttechniken sowie Durchführung und fachliche Begleitung von Pilotprojekten zur Aquakultur,
 11. Fischgesundheitsdienst NRW unter anderem mit Aufgabenbereichen der allgemeinen Tiergesundheit und des Tierwohls, Labor für Diagnostik von Fischkrankheiten (Bakteriologie, Virologie, Parasitologie) und molekularbiologischen Fragestellungen bei Fischen, Krebsen und Muscheln; Beratung und Übernahme von Aufgaben im Rahmen der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit („Tiergesundheitsrecht“) (ABl. L 84 vom 31.3.2016, S. 1; L 57 vom 3.3.2017, S. 65; L 84 vom 20.3.2020, S. 24; L 48 vom 11.2.2021, S. 3; L 224 vom 24.6.2021, S. 42; L 310 vom 1.12.2022, S. 18; L 2023/90182, 15.12.2023) in der jeweils geltenden Fassung,
 12. die inner- und überbetriebliche berufliche Ausbildung von Fischwirtinnen und Fischwirten in den Zweigen „Fischzucht und Fischhaltung“ sowie „Fluss- und Seenfischerei“,
-13. Fortbildungskurse in der Fischerei, Fischökologie, Fischbiologie, Fischpathologie und Aquakultur sowie
-14. die Durchführung inklusive Prüfung des Elektrofischereilehrgangs gemäß Landesfischereiverordnung vom 9. März 2010 (GV. NRW. S. 172) in der jeweils geltenden Fassung.
+13. Fortbildungskurse in der Fischerei, Fischökologie, Fischbiologie, Fischpathologie und Aquakultur,
+14. die Durchführung inklusive Prüfung des Elektrofischereilehrgangs gemäß Landesfischereiverordnung vom 9. März 2010 (GV. NRW. S. 172) in der jeweils geltenden Fassung sowie
+15. die Einrichtung und der Betrieb einer Leitstelle für das Fischereischeinwesen für die Verwaltung des Fischereischeinwesens inklusive der Erteilung von Fischereischeinen und Ausstellung von Nachweisen über die Entrichtung der Fischereiabgabe.

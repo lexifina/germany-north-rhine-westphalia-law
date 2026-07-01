@@ -1,0 +1,2 @@
+# § 36a Fischereiabgabe
+Es wird eine Fischereiabgabe erhoben, die der obersten Fischereibehörde zufließt und nach Anhörung des Beirats für das Fischereiwesen zur Förderung der Fischerei zu verwenden ist. Die Fischereiabgabe darf das Vierfache der Gebühr für die Ausstellung des Nachweises über die entrichtete Fischereiabgabe bei Nutzung des elektronischen Antragsverfahrens nicht überschreiten. Das Nähere über die Erhebung, Höhe und Verwendung der Fischereiabgabe bestimmt das Ministerium durch Rechtsverordnung.
