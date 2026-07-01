@@ -1,0 +1,2 @@
+# § 2a Zuständigkeit für die Anforderung ehrenamtlicher Suchhundeführer
+Die Anforderung von Personen, die nach absolvierter Ausbildung und bestandener Leistungsprüfung der bei dem Landesbetrieb Wald und Holz bestehenden Kadaversuchhundeeinheit ehrenamtlich angehören (Suchhundeführer), zum Zweck der Teilnahme an Kadaversuchen, Übungseinsätzen, Trainingssuchen sowie an sonstigen Veranstaltungen der Kadaversuchhundeeinheit (Einsätze) erfolgt durch den Landesbetrieb Wald und Holz.
