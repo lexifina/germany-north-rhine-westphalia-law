@@ -1,5 +1,5 @@
 Vom 25. März 2022
-(Artikel 1 des Gesetzes vom 25. März 2022 (GV. NRW. S. 360))
+(Artikel 1 des Gesetzes vom 25. März 2022 (GV. NRW. S. 360, ber. S. 731))
 Inhaltsübersicht
 Teil 1 Allgemeine Vorschriften
 § 1 Körperschaft des öffentlichen Rechts
