@@ -57,9 +57,11 @@ Erster Teil Allgemeine Bestimmungen
 § 37 | Planung und Linienabstimmung
 § 37 a | Vorarbeiten
 § 37 b | Planungsgebiete
-§ 38 | Planfeststellung, Plangenehmigung
-§ 38a | Rechtsbehelfe
-§ 38b | Projektmanager
+§ 38 | Erfordernis der Planfeststellung und vorläufige Anordnung
+§ 38a | Anhörungsverfahren
+§ 38b | Planfeststellungsbeschluss, Plangenehmigung
+§ 38c | Rechtsbehelfe
+§ 38d | Projektmanager
 § 39 | Behörden des Planfeststellungs- und Plangenehmigungsverfahrens
 § 40 | Veränderungssperre, Vorkaufsrecht
 § 40 a | Einstellung des Planfeststellungsverfahrens
@@ -85,7 +87,7 @@ Vierter Teil Aufsicht und Zuständigkeiten
 § 54 | Straßenaufsichtsbehörden
 § 55 | Bautechnische Regelungen
 § 56 | Straßenbaubehörden
-§ 57 | (weggefallen)
+§ 57 | Baustellenkoordination
 § 58 | (weggefallen)
 Fünfter Teil Ordnungswidrigkeiten, Übergangs- und Schlußvorschriften
 1. Abschnitt Ordnungswidrigkeiten
@@ -104,5 +106,3 @@ Fünfter Teil Ordnungswidrigkeiten, Übergangs- und Schlußvorschriften
 § 69 | (weggefallen)
 § 70 | Durchführungsvorschriften
 § 71 | Inkrafttreten
-Erster Teil Allgemeine Bestimmungen
-1. Abschnitt Grundsatzvorschriften
