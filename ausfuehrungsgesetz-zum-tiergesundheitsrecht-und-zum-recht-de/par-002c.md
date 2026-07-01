@@ -1,0 +1,3 @@
+# § 2c Auslagenersatz, Ersatz von Schäden
+(1) Suchhundeführer haben nach Maßgabe einer Rechtsverordnung gemäß § 2d Satz 1 Nummer 4 Anspruch auf Ersatz ihrer Auslagen durch den Landesbetrieb Wald und Holz. Darüber hinaus erhalten sie für jeden Einsatz, den sie mit dem ihnen zugeordneten Hund wahrnehmen, eine durch Rechtsverordnung nach § 2d Satz 1 Nummer 5 festzulegende pauschale Aufwandsentschädigung.
+(2) Schäden, mit Ausnahme von Personenschäden und entgangenem Gewinn, die Suchhundeführern im Rahmen eines Einsatzes entstehen, sind vom Landesbetrieb Wald und Holz zu ersetzen. Bei Vorsatz oder grober Fahrlässigkeit des Geschädigten entfällt der Anspruch auf Schadensersatz.
