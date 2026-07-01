@@ -1,0 +1,6 @@
+# § 24a Vorladung
+(1) Die Ordnungsbehörden können eine Person schriftlich oder mündlich vorladen, wenn Tatsachen die Annahme rechtfertigen, dass die Person sachdienliche Angaben machen kann, die für die Erfüllung einer bestimmten ordnungsbehördlichen Aufgabe erforderlich sind.
+(2) Bei der Vorladung soll deren Grund angegeben werden. Bei der Festsetzung des Zeitpunkts soll auf den Beruf und die sonstigen Lebensverhältnisse der betroffenen Person Rücksicht genommen werden.
+(3) Leistet eine betroffene Person der Vorladung ohne hinreichenden Grund keine Folge, so kann sie zwangsweise durchgesetzt werden, wenn die Angaben zur Abwehr einer Gefahr für Leib, Leben oder Freiheit einer Person erforderlich sind. Die zwangsweise Vorführung darf nur auf Grund richterlicher Anordnung erfolgen, es sei denn, dass Gefahr im Verzug vorliegt.
+(4) § 136a der Strafprozessordnung gilt entsprechend.
+(5) Für die Entschädigung von Personen, die auf Vorladung als Zeugen erscheinen, und für die Vergütung von Personen, die als Sachverständige herangezogen werden, gilt das Justizvergütungs- und -entschädigungsgesetz vom 5. Mai 2004 (BGBl. I S. 718, 776), das zuletzt durch Artikel 5 des Gesetzes vom 7. Oktober 2024 (BGBl. 2024 I Nr. 302) geändert worden ist, entsprechend.

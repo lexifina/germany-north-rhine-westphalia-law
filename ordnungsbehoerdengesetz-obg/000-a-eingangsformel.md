@@ -36,7 +36,33 @@ Abschnitt 1 Ordnungsverfügungen
 § 21 | Wahl der Mittel
 § 22 | Fortfall der Voraussetzungen
 § 23 | Versagung ordnungsbehördlicher Erlaubnisse
-§ 24 | Geltung des Polizeigesetzes, Datenschutz
+§ 24 | Befragung und Auskunftspflicht
+§ 24a | Vorladung
+§ 24b | Erhebung von Personaldaten zur Vorbereitung für die Hilfeleistung und das Handeln in Gefahrenfällen
+§ 24c | Identitätsfeststellung
+§ 24d | Prüfung von Berechtigungsscheinen
+§ 24e | Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen
+§ 24f | (nicht belegt)
+§ 24g | Datenerhebung zur Eigensicherung
+§ 24h | Datenerhebung durch den Einsatz körpernah getragener Aufnahmegeräte
+§ 24i | Datenspeicherung, Prüfungstermine und Datenschutz
+§ 24j | Weiterverarbeitung von personenbezogenen Daten, Zweckbindung, Zweckänderung
+§ 24k | Allgemeine Regeln der Datenübermittlung, Übermittlungsverbote und Verweigerungsgründe
+§ 24l | Datenübermittlung im innerstaatlichen Bereich
+§ 24m | Datenübermittlung im Bereich der Europäischen Union und deren Mitgliedsstaaten
+§ 24n | Datenübermittlung an die Ordnungsbehörden
+§ 24o | Platzverweisung und Aufenthaltsverbot
+§ 24p | Gewahrsam
+§ 24q | Richterliche Entscheidung
+§ 24r | Behandlung festgehaltener Personen
+§ 24s | Dauer der Freiheitsentziehung
+§ 24t | Durchsuchung von Personen und Sachen
+§ 24u | Betreten und Durchsuchung von Wohnungen
+§ 24v | Verfahren bei der Durchsuchung von Wohnungen
+§ 24w | Sicherstellung
+§ 24x | Verwahrung
+§ 24y | Verwertung, Vernichtung
+§ 24z | Herausgabe sichergestellter Sachen oder des Erlöses, Kosten
 Abschnitt 2 Ordnungsbehördliche Verordnungen
 § 25 | Allgemeines
 § 26 | Verordnungsrecht der Ministerien
@@ -68,4 +94,3 @@ Teil IV Übergangs- und Schlußbestimmungen
 § 50 | weggefallen
 § 51 | Übergangsvorschrift zu § 41
 § 52 | Schlussbestimmung
-Teil I Aufgaben und Organisation der Ordnungsbehörden

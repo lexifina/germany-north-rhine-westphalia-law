@@ -1,0 +1,2 @@
+Zusatz: (Artikel 3 des Gesetzes vom 18. Dezember 2018 (GV. NRW. S. 741))
+Durch diese Gesetze wird das Grundrecht aus Artikel 2 Absatz 1 in Verbindung mit Artikel 1 Absatz 1 des Grundgesetzes (Recht auf informationelle Selbstbestimmung) eingeschränkt.
