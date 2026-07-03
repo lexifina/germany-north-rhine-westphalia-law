@@ -1,0 +1,2 @@
+# § 22b Nachweis über die Entrichtung der Fischereiabgabe
+Auf Antrag wird über die Entrichtung der Fischereiabgabe einschließlich der Eintragung in das Fischereiregister ein Nachweis ausgestellt. Der Nachweis ist bei Ausübung der Fischerei gemäß § 31 Absatz 1 des Landesfischereigesetzes mitzuführen. Auf Verlangen ist der Nachweis entweder als vom automatisierten Verfahren erzeugtes Dokument in ausgedruckter Form oder lesbar auf einem elektronischen Gerät in Anwendung von § 35 Absatz 3 des Landesfischereigesetzes vorzuzeigen.

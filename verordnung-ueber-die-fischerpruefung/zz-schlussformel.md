@@ -1,0 +1,4 @@
+Die Ministerin für Umwelt, Raumordnung und Landwirtschaft des Landes Nordrhein-Westfalen
+Hinweis
+Wiederherstellung des Verordnungsranges (Artikel 170 des Vierten Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 332))
+Die in diesem Gesetz erlassenen oder geänderten Rechtsverordnungen können aufgrund der jeweils einschlägigen Verordnungsermächtigungen durch Rechtsverordnung geändert werden.
