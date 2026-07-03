@@ -1,4 +1,3 @@
-Verordnung über die Vergabe von Studienplätzen in Nordrhein-Westfalen (Vergabeverordnung NRW – VergabeVO NRW)
 Vom 13. November 2020
 Auf Grund
 - des § 4 Absatz 3, § 7 Absatz 2 Satz 4, § 8 Absatz 2 Satz 3, § 11 Absatz 1 und 2 des Hochschulzulassungsgesetzes 2019 vom 29. Oktober 2019 (GV. NRW. S. 830) in Verbindung mit § 1 Absatz 1 des Gesetzes zur Zustimmung zum Staatsvertrag über die Hochschulzulassung vom 4. April 2019 vom 29. Oktober 2019 (GV. NRW. S. 830) und in Verbindung mit den Artikeln 12 und 18 Absatz 2 und 3 des Staatsvertrages über die Hochschulzulassung vom 4. April 2019 (Anlage zu GV. NRW. S. 830)
@@ -63,4 +62,3 @@ Anlage 2 Ermittlung der Durchschnittsnote
 Anlage 3 Ermittlung der Punktzahl der Hochschulzugangsberechtigung
 Anlage 4 Ermittlung des Prozentrangs
 Anlage 5 Zuordnung der Kreise und kreisfreien Städte zu den Studienorten gemäß § 8 Absatz 2 Satz 3 des Hochschulzulassungsgesetzes 2019
-Kapitel 1 Allgemeine Vorschriften
