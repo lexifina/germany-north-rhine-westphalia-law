@@ -135,7 +135,6 @@ Abschnitt 9
 § 89 Künftig wegfallende Ämter
 § 90 Übergangsregelung durch die Neuregelung der Auslandsbesoldung
 § 91 Sonstige Übergangsregelungen
-§ 91a Zulage für Lehrkräfte in Ämtern der Besoldungsgruppe A 12 mit schulform- oder schulstufenbezogenen Lehramtsbefähigungen für die Primarstufe und für die Sekundarstufe I
 § 91b Ausgleichszulage zum Familienzuschlag
 § 92 Fortgeltung von Rechtsverordnungen
 § 93 Inkrafttreten, Außerkrafttreten
@@ -157,4 +156,3 @@ Anlage 15: Stellenzulagen und andere Zulagen
 Anlage 16: Auslandsbesoldung
 Anlage 17: Überleitungsübersicht
 Anlage 18: Berechnungsgrundlagen für den Ergänzungszuschlag zum Familienzuschlag
-Anlage 19: Ämterübersicht zur Zulage nach § 91a
