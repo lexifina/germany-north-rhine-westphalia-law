@@ -70,5 +70,3 @@ Verfahrens-, Übergangs- und Schlussvorschriften
 § 53 Erprobungen
 § 54 Verwaltungsverfahren und Verordnungsermächtigungen, Vereinbarungen
 § 55 Inkrafttreten, Außerkrafttreten, Übergangsvorschriften
-Teil 1
-Allgemeine Bestimmungen
