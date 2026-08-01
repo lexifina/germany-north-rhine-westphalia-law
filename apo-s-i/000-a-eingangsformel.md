@@ -1,4 +1,3 @@
-Verordnung über die Ausbildung und die Abschlussprüfungen in der Sekundarstufe I (Ausbildungs- und Prüfungsordnung Sekundarstufe I – APO-S I)
 Vom 2. November 2012
 (Artikel 1 der Verordnung zur Neufassung und Änderung von Ausbildungs- und Prüfungsordnungen gemäß § 52 Schulgesetz NRW vom 2. November 2012 (GV. NRW. S. 488))
 Auf Grund der §§ 52 und 65 Absatz 3 des Schulgesetzes NRW vom 15. Februar 2005 (GV. NRW. S. 102), zuletzt geändert durch Artikel 2 des Gesetzes vom 14. Februar 2012 (GV. NRW. S. 97), wird mit Zustimmung des für Schulen zuständigen Landtagsausschusses verordnet:
@@ -16,7 +15,7 @@ Abschnitt 1 Allgemeine Bestimmungen
 Abschnitt 2 Erprobungsstufe, Wechsel der Schulform oder des Bildungsgangs ab Klasse 7
 § 10 Gliederung und Dauer der Erprobungsstufe
 § 11 Wechsel der Schulform oder des Bildungsgangs während der Erprobungsstufe
-§ 12 Abschluss der Erprobungsstufe
+§ 12 Ende der Erprobungsstufe
 § 13 Wechsel der Schulform oder des Bildungsgangs ab Klasse 7
 Abschnitt 3 Bestimmungen für den Unterricht in den Schulformen
 § 14 Hauptschule
@@ -58,4 +57,3 @@ Abschnitt 7 Sicherung von Schullaufbahnen und Schlussbestimmungen
 § 46 Besondere Bestimmungen für die Laborschule Bielefeld des Landes Nordrhein-Westfalen, die PRIMUS-Schulen, die Schule für Circuskinder in Nordrhein-Westfalen und die schulische Bildung von Kindern aus Familien beruflich Reisender
 § 47 (weggefallen)
 § 48 Inkrafttreten, Außerkrafttreten
-Abschnitt 1 Allgemeine Bestimmungen

@@ -40,5 +40,3 @@ Zweiter Teil
 Dritter Teil
 § 30 Änderung von Rechtsvorschriften
 § 31 Inkrafttreten
-Erster Teil
-1. Abschnitt Allgemeine Bestimmungen für die Bildungsgänge
