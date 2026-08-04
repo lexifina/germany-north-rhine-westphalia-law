@@ -1,0 +1,8 @@
+Die Landesregierung Nordrhein-Westfalen
+Der Ministerpräsident
+Der Minister des Innern Zugleich für den Minister der Finanzen
+Der Minister für Arbeit, Gesundheit und Soziales
+Die Ministerin für Heimat, Kommunales, Bau und Gleichstellung Zugleich für den Minister für Kinder, Familie, Flüchtlinge und Integration sowie Für den Minister für Wirtschaft, Innovation, Digitalisierung und Energie sowie Für die Ministerin für Schule und Bildung
+Der Minister der Justiz
+Die Ministerin für Verkehr
+Die Ministerin für Umwelt, Landwirtschaft, Natur- und Verbraucherschutz Zugleich für die Ministerin für Kultur und Wissenschaft sowie Für den Minister für Bundes- und Europaangelegenheiten sowie Internationales
