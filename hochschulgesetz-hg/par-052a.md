@@ -1,0 +1,3 @@
+# § 52a Europäische und internationale Kooperationen; Internationalstudierende
+(1) Die Hochschule kann durch Ordnung regeln, dass an einer europäischen oder internationalen Partnerhochschule oder im Rahmen einer europäischen oder internationalen Kooperation eingeschriebene Studierende (Internationalstudierende) für einen begrenzten Zeitraum ohne Einschreibung berechtigt sind, an Lehrveranstaltungen teilzunehmen sowie Studien- und Prüfungsleistungen zu erbringen.
+(2) Trifft die Hochschule eine Regelung nach Absatz 1, so können durch Internationalstudierende auch Microcredentials erworben werden. § 60a gilt entsprechend.

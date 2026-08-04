@@ -17,7 +17,7 @@ b) Erkrankungen des Gehirns mit progredientem Verlauf im fortgeschrittenen Stadi
 c) schädigenden Ereignissen oder Gehirnerkrankungen mit neuropsychologischen Defiziten bei erwachsenen Patientinnen und Patienten, die länger als fünf Jahre zurückliegen.
 (3) Aufwendungen für neuropsychologische Behandlungen sind in folgendem Umfang beihilfefähig:
 a) bis zu fünf probatorische Sitzungen sowie, b) Einzelbehandlung, gegebenenfalls unter Einbeziehung von Bezugspersonen
-wenn eine Behandlungseinheit mindestens 25 Minuten dauert | wenn eine Behandlungseinheit mindestens 50 Minuten dauert
+wenn eine Behandlungseinheit mindestens 25 Minuten dauert | wenn eine Behandlungseinheit mindestens 50 Minuten dauert |
 Regelfall | 120 Behandlungseinheiten | 60 Behandlungseinheiten
 Ausnahmefall | 40 weitere Behandlungseinheiten | 20 weitere Behandlungseinheiten
 und

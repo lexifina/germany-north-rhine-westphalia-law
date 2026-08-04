@@ -28,7 +28,7 @@ Teil 5 Erholungsurlaub
 § 18 Urlaubsdauer
 § 19 Inanspruchnahme des Urlaubs
 § 19a Finanzielle Abgeltung von Mindesturlaub bei Beendigung des Beamtenverhältnisses
-§ 20 Zeitliche Lage des Urlaubs
+§ 20 Zeitliche Lage des Urlaubs; Abgeltung von Urlaub im Hochschulbereich
 § 20a Urlaubsansparung zur Kinderbetreuung
 § 21 Anrechnung des früheren Urlaubs
 § 22 Urlaub im Anschluss an eine Kurmaßnahme
