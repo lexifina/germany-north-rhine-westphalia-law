@@ -1,2 +1,2 @@
 # § 71b Studium eines Erweiterungsfaches nach abgeschlossenem Lehramtsstudium
-Hinsichtlich des Studiums, welches für den Erwerb einer Lehrbefähigung für ein weiteres Fach im Sinne des § 16 des Lehrerausbildungsgesetzes vom 12. Mai 2009 (GV. NRW. S. 308), das zuletzt durch Artikel 5 des Gesetzes vom 1. September 2020 (GV. NRW. S. 890) geändert worden ist, erforderlich ist, gilt § 77d des Hochschulgesetzes entsprechend.
+Hinsichtlich des Studiums, welches für den Erwerb einer Lehrbefähigung für ein weiteres Fach im Sinne des § 16 des Lehrerausbildungsgesetzes vom 12. Mai 2009 (GV. NRW. S. 308), das zuletzt durch Artikel 5 des Gesetzes vom 1. September 2020 (GV. NRW. S. 890) geändert worden ist, erforderlich ist, gilt § 106 des Hochschulgesetzes entsprechend.

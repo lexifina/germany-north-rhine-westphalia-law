@@ -1,0 +1,3 @@
+# § 8c Digitale Hochschule NRW
+(1) Die Digitale Hochschule NRW ist eine gemeinsame Einheit der Hochschulen und des Ministeriums betreffend den Einsatz von IT zur Verbesserung der Qualität der Lehre, zum Vorteil der Forschung und zur Steigerung der Effizienz der Hochschulverwaltung. Die Hochschulen kooperieren in der Digitalen Hochschule NRW untereinander und mit dem Ministerium insbesondere mit dem Ziel, im Bereich der Digitalisierung Synergie- und Skaleneffekte in der Zusammenarbeit zu identifizieren und gemeinsam umzusetzen. Die beteiligten Hochschulen und das Ministerium vereinbaren das Nähere hierzu; Absatz 2 bleibt unberührt.
+(2) Das Ministerium kann das Nähere zu den Aufgaben der Digitalen Hochschule NRW regeln.

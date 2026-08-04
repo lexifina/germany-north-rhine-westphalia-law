@@ -1,0 +1,3 @@
+## Zehnter Abschnitt Sicherheit und Redlichkeit in der Kunsthochschule
+# § 67a Sicherer und redlicher Hochschulraum
+Teil 10 des Hochschulgesetzes gilt für die Kunsthochschule entsprechend. Das Ministerium kann das Redlichkeits- und das Integritätsverfahren in jeder Lage des Verfahrens im Einzelfall an sich ziehen oder sich dies allgemein vorbehalten. Das Ministerium kann zudem die Durchführung eines Redlichkeits- oder eines Integritätsverfahrens sowie eines Disziplinarverfahrens, welches gegen eine Hochschullehrerin oder einen Hochschullehrer geführt wird oder werden soll, einer anderen Hochschule im Einzelfall oder allgemein übertragen.

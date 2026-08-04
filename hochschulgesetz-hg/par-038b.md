@@ -1,0 +1,7 @@
+# § 38b Tandemprofessur
+(1) Im Rahmen einer Tandemprofessur an Hochschulen für angewandte Wissenschaften können geeignete Bewerberinnen und Bewerber, bei denen im Übrigen die Einstellungsvoraussetzungen des § 36 Absatz 1 vorliegen, die für die Übertragung einer Professur erforderliche mindestens dreijährige außerhalb des Hochschulbereichs ausgeübte außerhochschulische berufspraktische Tätigkeit erwerben. Das Erfordernis einer insgesamt fünfjährigen berufspraktischen Tätigkeit nach § 36 Absatz 1 Nummer 5 Halbsatz 1 bleibt im Übrigen unberührt.
+(2) Die Hochschule für angewandte Wissenschaften schließt mit der Einrichtung außerhalb des Hochschulbereichs, in der die außerhochschulische berufspraktische Tätigkeit nach Absatz 1 erworben werden soll, eine Vereinbarung, die mindestens Regelungen über
+1. die Verteilung der Arbeitszeit und die Gewährleistung eines mindestens hälftigen Beschäftigungsumfangs an der Einrichtung,
+2. die Sicherung der Anbindung an die Hochschule und
+3. unterstützende Personalentwicklungsmaßnahmen
+enthält. Die Vereinbarung regelt zudem, dass die Einrichtung für den Fall, dass eine Gewährleistungsentscheidung erteilt wird, einen Versorgungszuschlag in Höhe von 30 Prozent der auf den an ihr wahrgenommenen Beschäftigungsumfang entfallenden Bezüge zu entrichten hat und im Übrigen kein finanzieller Ausgleich betreffend die Beschäftigung der Tandemprofessorin oder des Tandemprofessors zwischen der Hochschule und der Einrichtung außerhalb des Hochschulbereichs erfolgt.
