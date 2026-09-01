@@ -15,7 +15,7 @@ Teil 2 Ausbildung
 § 10 Ausbildung an Zentren für schulpraktische Lehrerausbildung
 § 11 Ausbildung an Schulen
 § 12 Einsichtnahme in Aufgaben anderer Schulformen
-§ 13 Eingangs- und Perspektivgespräch
+§ 13 Perspektivgespräch
 § 14 Langzeitbeurteilungen
 Teil 3 Staatsprüfung
 § 15 Zweck der Staatsprüfung
