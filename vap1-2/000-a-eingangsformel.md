@@ -35,7 +35,7 @@ Teil 3 - Prüfung
 § 27 Prüfungszeugnis, Berufsbezeichnung
 § 28 Wiederholung der Prüfung
 § 29 Beendigung des Beamtenverhältnisses
-Teil 4 - Aufstieg; Laufbahnwechsel von polizeidienstunfähigen Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten
+Teil 4 - Aufstieg
 Kapitel 1 - Regelform des Aufstiegs in den mittleren allgemeinen Verwaltungsdienst
 § 30 Voraussetzungen, Durchführung
 Kapitel 2 - Prüfungserleichterter Aufstieg in den mittleren allgemeinen Verwaltungsdienst
@@ -43,8 +43,6 @@ Kapitel 2 - Prüfungserleichterter Aufstieg in den mittleren allgemeinen Verwalt
 § 32 Einführungszeit
 § 33 Aufstiegs-(Abschluss-)Lehrgang
 § 34 Aufstiegsprüfung
-Kapitel 3 - Laufbahnwechsel von polizeidienstunfähigen Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten
-§ 35 Zulassung, Unterweisungszeit
+§ 35 (weggefallen)
 Teil 5 - Schlussvorschriften
 § 36 Inkrafttreten, Außerkrafttreten
-Teil 1 Auswahl, Einstellung und Zulassung
