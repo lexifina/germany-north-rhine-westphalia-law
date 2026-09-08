@@ -53,6 +53,7 @@ Abschnitt 3 Studienplatzvergabe im Örtlichen Vergabeverfahren
 Kapitel 3 Studienplatzvergabe in höheren Fachsemestern
 § 34 Zulassungsbeschränkungen in höheren Fachsemestern
 § 35 Vergabe der Studienplätze in höheren Fachsemestern
+§ 35a Zulassung außerhalb der festgesetzten Zulassungszahlen in höheren Fachsemestern
 Kapitel 4 Schlussbestimmungen
 § 36 Übergangsregelungen
 § 37 Inkrafttreten, Außerkrafttreten
