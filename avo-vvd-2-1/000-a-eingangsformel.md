@@ -49,4 +49,3 @@ Teil 5 Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte M
 § 41 Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen
 Teil 6 Schluss- und Übergangsvorschriften
 § 42 Inkrafttreten, Außerkrafttreten, Übergangsregelung
-Teil 1 Allgemeine Bestimmungen
