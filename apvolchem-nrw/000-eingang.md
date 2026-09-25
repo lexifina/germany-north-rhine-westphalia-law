@@ -1,1 +1,0 @@
-Abschnitt 1 Allgemeine Vorschriften
