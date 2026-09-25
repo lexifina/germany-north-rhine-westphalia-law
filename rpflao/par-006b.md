@@ -1,0 +1,4 @@
+# § 6b Dienstverhältnis
+(1) Auf das öffentlich-rechtliche Ausbildungsverhältnis finden die für Beamtinnen und Beamte geltenden Vorschriften mit Ausnahme des § 38 des Beamtenstatusgesetzes vom 17. Juni 2008 (BGBl. I S. 1010), das zuletzt durch Artikel 5 des Gesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 389) geändert worden ist, in der jeweils geltenden Fassung und der §§ 44, 63 bis 65, 75 und 79 des Landesbeamtengesetzes entsprechende Anwendung, soweit diese Verordnung nichts anderes bestimmt.
+(2) Die eingestellten Bewerberinnen und Bewerber führen während des Vorbereitungsdienstes die Dienstbezeichnung „Rechtspflegeranwärterin“ oder „Rechtspflegeranwärter“.
+(3) Das öffentlich-rechtliche Dienstverhältnis endet mit dem Ablauf des Tages der Ablegung oder des endgültigen Nichtbestehens der für die Laufbahn vorgesehenen Prüfung.

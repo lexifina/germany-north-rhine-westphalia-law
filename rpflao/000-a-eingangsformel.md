@@ -1,4 +1,3 @@
-Verordnung über die Laufbahn der Ämtergruppe des ersten Einstiegsamtes der Laufbahngruppe 2 des Justizdienstes sowie über die Ausbildung und Prüfung der Rechtspflegerinnen und Rechtspfleger des Landes Nordrhein-Westfalen (Rechtspflegerausbildungsordnung - RpflAO)
 Vom 8. Oktober 2018
 (Artikel 1 der Verordnung vom 8. Oktober 2018 (GV. NRW. S. 546))
 Auf Grund des § 7 Absatz 2 Satz 1 des Landesbeamtengesetzes vom 14. Juni 2016 (GV. NRW. S. 310, ber. S. 642) verordnet das Ministerium der Justiz im Einvernehmen mit dem Ministerium des Innern und dem Ministerium der Finanzen:
@@ -7,7 +6,7 @@ Abschnitt 1
 Einleitende Vorschriften
 § 1 Geltungsbereich
 § 1a Erwerb der Befähigung
-§ 1b Anerkennung anderer Laufbahnen
+§ 1b Anerkennung der Befähigung
 § 2 Ausbildungsziel, Ausbildungsgrundsätze
 Abschnitt 2
 Einstellung und Zulassung
@@ -15,6 +14,9 @@ Einstellung und Zulassung
 § 4 Bewerbung
 § 5 Zulassung
 § 6 Aufnahme in den Vorbereitungsdienst, Status
+§ 6a Öffentlich-rechtliches Ausbildungsverhältnis
+§ 6b Dienstverhältnis
+§ 6c Unterhaltsbeihilfe
 Abschnitt 3
 Ausbildung
 § 7 Dauer des Vorbereitungsdienstes
@@ -58,5 +60,3 @@ Regelungen für Menschen mit Behinderungen
 Abschnitt 7
 Schlussvorschriften
 § 39 Inkrafttreten, Außerkrafttreten, Übergangsregelung
-Abschnitt 1
-Einleitende Vorschriften
