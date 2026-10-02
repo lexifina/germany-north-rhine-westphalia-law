@@ -1,0 +1,3 @@
+# § 14b Erprobung
+(1) Die erstmalige Übertragung eines richterlichen oder staatsanwaltlichen Amts mit höherem Endgrundgehalt als dem eines Eingangsamts setzt eine Erprobung voraus. Dies gilt nicht für die Übertragung des Amts einer Richterin oder eines Richters am Finanzgericht. Eine fiktive Erprobung findet nicht statt.
+(2) Das Nähere regelt das für Justiz zuständige Ministerium durch Rechtsverordnung, insbesondere die an die Erprobung zu stellenden Anforderungen, die für eine Erprobung geeigneten Dienststellen und den Inhalt der Beurteilung nach Abschluss der Erprobung. In der Rechtsverordnung können weitere Ämter von dem Erfordernis einer Erprobung ausgenommen werden.

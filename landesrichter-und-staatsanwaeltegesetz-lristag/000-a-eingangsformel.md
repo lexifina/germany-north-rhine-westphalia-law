@@ -15,8 +15,12 @@ Teil 1 Allgemeine Vorschriften
 § 11 Informationspflicht bei Teilzeitbeschäftigung und Beurlaubung
 § 12 Benachteiligungsverbot
 § 13 Fortbildung
-§ 14 Beurteilung, Erprobung
-§ 14a Amtstracht
+§ 14 Beurteilung
+§ 14a Nachzeichnung
+§ 14b Erprobung
+§ 14c Besetzungsverfahren
+§ 14d Abbruch von Besetzungsverfahren
+§ 14e Amtstracht
 Teil 2 Richter- und Staatsanwaltsvertretungen
 Kapitel 1 Gemeinsame Vorschriften für die Richtervertretungen
 § 15 Richterrat und Präsidialrat
@@ -123,11 +127,7 @@ Kapitel 4 Disziplinarverfahren gegen Staatsanwältinnen und Staatsanwälte
 § 99 Disziplinarklage und Revision
 Teil 4 Übergangs- und Schlussvorschriften
 § 100 Ermächtigung zum Erlass von Rechts- und Verwaltungsvorschriften
-§ 101 Anträge auf Hinausschieben der Altersgrenze
-§ 102 Beginn der ersten gemeinsamen Wahlperiode
-§ 103 Erstmalige Berufung der ehrenamtlichen Richterinnen und Richter
-§ 104 Laufende Beteiligungsverfahren
-§ 104a Weitere Anwendbarkeit von Verwaltungsvorschriften
-§ 104b Weitere Anwendbarkeit der beamtenrechtlichen Vorschriften über eine fiktive Fortschreibung dienstlicher Beurteilungen
-§ 104c Weitere Anwendbarkeit der Vorschriften zur Altersgrenze
-§ 105 Inkrafttreten, Berichtspflicht
+§ 101 Beginn der ersten gemeinsamen Wahlperiode
+§ 102 Laufende Besetzungs- und Beteiligungsverfahren
+§ 103 Weitere Anwendbarkeit der Vorschriften zur Altersgrenze
+§ 104 Inkrafttreten
