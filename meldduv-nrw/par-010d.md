@@ -1,6 +1,6 @@
 # § 10d Datenübermittlung zum Zweck der Feststellung der Teilnahme anKinderfrüherkennungsuntersuchungen
 Zur Erfüllung der Aufgaben der Zentralen Stelle Gesunde Kindheit beim Landesamt für Gesundheit und Arbeitsschutz Nordrhein-Westfalen nach § 32 a des Heilberufsgesetzes vom 9. Mai 2000 (GV. NRW. S. 403), das zuletzt durch Artikel 6 des Gesetzes vom 26. April 2016 (GV. NRW. S. 230) geändert worden ist, übermitteln die Meldebehörden folgende personenbezogene Daten aller Kinder, die nicht älter als 66 Monate sind und mit alleiniger Wohnung oder Hauptwohnung im Melderegister registriert sind, bei Geburt, erstmaliger Erfassung, Namensänderung, Änderung der Anschrift, des Geschlechts, des Geburtsdatums, des Geburtsorts unverzüglich an die Zentrale Stelle Gesunde Kindheit beim Landesamt für Gesundheit und Arbeitsschutz Nordrhein-Westfalen:
-| Blattnummer des DSMeld (Datenblatt)
+| Blattnummer des DSMeld (Datenblatt) |
 1. | Familienname | 0101 bis 0102,
 2. | Vornamen | 0301, 0302,
 3. | Geburtsdatum und -ort | 0601 bis 0603,
