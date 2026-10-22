@@ -1,4 +1,0 @@
-Verordnung zur Erprobung digitaler Formen der Aufgabenerledigung in der Verwaltung und zur Fortentwicklung des E-Governments im Zuständigkeitsbereich des Ministeriums der Finanzen (Digitalerprobungsverordnung FM)
-Vom 3. Mai 2022
-Auf Grund des § 25a Absatz 1 Nummer 1 und 2 des E-Government-Gesetzes Nordrhein-Westfalen vom 8. Juli 2016 (GV. NRW. S. 551), der durch Artikel 1 Nummer 9 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122) neu gefasst worden ist, verordnet das Ministerium der Finanzen im Einvernehmen mit dem Beauftragten der Landesregierung Nordrhein-Westfalen für Informationstechnik und dem Ministerium des Inneren:
-Abschnitt 1 Bekanntgabe und Zustellung von Verwaltungsakten der Versorgungswerke der Freien Berufe und des Versorgungswerks der Mitglieder der Landtage von Nordrhein-Westfalen, Brandenburg und Baden-Württemberg durch Bereitstellung zum Datenabruf
