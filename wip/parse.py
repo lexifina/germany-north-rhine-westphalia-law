@@ -359,7 +359,7 @@ def act_of(name: str) -> tuple[dict | None, dict, list[str]]:
         if versions and p['from'] <= versions[-1]['from']:
             problems.append(f'{name} {f.name}: from {p["from"]} not after {versions[-1]["from"]}; left out')
             continue
-        path = '/lrgv/gesetz/' + name if f.stem == 'current' else links.get(f.stem, '/lrgv/gesetz/' + f.stem)
+        path = prefix(name) + name if f.stem == 'current' else links.get(f.stem, prefix(name) + f.stem)
         v = {'from': p['from'], 'source_url': BASE + path, 'sha256': hashlib.sha256(f.read_bytes()).hexdigest(),
              'units': p['units'], 'credits': {}}
         if prev is not None:
@@ -383,7 +383,7 @@ def act_of(name: str) -> tuple[dict | None, dict, list[str]]:
     slug = 'verfassung' if name == VERF else re.sub(r'^\d{8}-', '', name)[:60].strip('-')
     act = {'slug': slug,
            'short': 'Verf NRW' if name == VERF else (abbr or stitle or title[:60]),
-           'title': title, 'url': BASE + '/lrgv/gesetz/' + name, 'first_law': None, 'earlier_laws': [],
+           'title': title, 'url': BASE + prefix(name) + name, 'first_law': None, 'earlier_laws': [],
            'versions': versions}
     return act, laws, problems
 
@@ -427,21 +427,32 @@ def write_part(name: str, acts_in: list[str], country: bool) -> None:
     print(name, len(acts), 'acts', nv, 'versions', len(problems), 'notes')
 
 
+def prefix(name: str) -> str:
+    """The act's path on the portal less its name: /lrgv/gesetz/ or /lrgv/rechtsverordnung/."""
+    u = (list_meta().get(name, {}).get('url') or ['/lrgv/gesetz/'])[0]
+    return u.strip('/').rsplit('/', 1)[0].join('//') if '/' in u.strip('/') else '/lrgv/gesetz/'
+
+
+_META: dict = {}
+
+
 def list_meta() -> dict:
-    meta = {}
-    for f in sorted((CACHE / 'list').glob('from*.json')):
+    if _META:
+        return _META
+    meta = _META
+    for f in sorted((CACHE / 'list').glob('from*.json')) + sorted((CACHE / 'list-vo').glob('from*.json')):
         for h in json.loads(f.read_text(encoding='utf-8'))['hits']['hits']:
             u = (h['_source'].get('url') or [''])[0]
             meta.setdefault(u.strip('/').rsplit('/', 1)[-1][:150], h['_source'])
     return meta
 
 
-def list_names() -> list[str]:
+def list_names(sub: str = 'list') -> list[str]:
     names = []
-    for f in sorted((CACHE / 'list').glob('from*.json')):
+    for f in sorted((CACHE / sub).glob('from*.json')):
         for h in json.loads(f.read_text(encoding='utf-8'))['hits']['hits']:
             u = (h['_source'].get('url') or [''])[0]
-            if u.startswith('/lrgv/gesetz/'):
+            if u.startswith('/lrgv/gesetz/' if sub == 'list' else '/lrgv/rechtsverordnung/'):
                 n = u.strip('/').rsplit('/', 1)[-1][:150]
                 if n not in names and n != VERF and 'verfassung-fuer-das-land' not in n:
                     names.append(n)
@@ -474,5 +485,16 @@ if __name__ == '__main__':
         chunk = names[n:n + PART_SIZE]
         if all(complete(i) for i in chunk):
             write_part(f'20-gesetze-{n // PART_SIZE + 1:02d}', chunk, country=False)
+        else:
+            break
+    # the Rechtsverordnungen (ordinances wave, 2026-10-30), parts of 50 in list order; the last, short part only
+    # once every one is fetched (.cache/vo-done)
+    names = list_names('list-vo')
+    for n in range(0, len(names), PART_SIZE):
+        chunk = names[n:n + PART_SIZE]
+        if len(chunk) < PART_SIZE and not (CACHE / 'vo-done').exists():
+            break
+        if all(complete(i) for i in chunk):
+            write_part(f'40-verordnungen-{n // PART_SIZE + 1:02d}', chunk, country=False)
         else:
             break

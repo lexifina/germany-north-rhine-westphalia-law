@@ -3,6 +3,8 @@
     python -X utf8 fetch.py list                 # the portal's own search index: document type Gesetz, current
     python -X utf8 fetch.py acts <url-path> ...  # one act: its current page, then each listed Fassung
     python -X utf8 fetch.py acts --all           # the Verfassung first, then every Gesetz on the cached list
+    python -X utf8 fetch.py list-vo              # the same index, document type Rechtsverordnung (.cache/list-vo/)
+    python -X utf8 fetch.py acts-vo              # every Rechtsverordnung on that list, then .cache/vo-done
 
 Private (never published). One process, one request at a time, at least 2.5 s apart (robots.txt: Drupal defaults,
 no AI-agent rules, no Crawl-delay; /search/ is not used), curl with a browser User-Agent, cached by name; stops on
@@ -57,15 +59,16 @@ def vname(path: str) -> str:
     return n[:8] if n[:8].isdigit() else n[:60]
 
 
-def listing():
+def listing(doctype: str = 'Gesetz'):
+    sub = 'list' if doctype == 'Gesetz' else 'list-vo'
     src = ['title', 'url', 'field_abbreviation', 'field_short_title', 'field_long_title', 'field_effective_from',
            'field_historically', 'field_document_type_name']
     n = 0
     while True:
-        q = {'query': {'bool': {'filter': [{'term': {'field_document_type_name': 'Gesetz'}},
+        q = {'query': {'bool': {'filter': [{'term': {'field_document_type_name': doctype}},
                                            {'term': {'field_historically': False}}]}},
              'size': 100, 'from': n, '_source': src, 'sort': [{'_id': 'asc'}]}
-        out = CACHE / 'list' / f'from{n:05d}.json'
+        out = CACHE / sub / f'from{n:05d}.json'
         get(f'{BASE}/search-middleware/opensearch_internet/_search', out, json.dumps(q))
         hits = json.loads(out.read_text(encoding='utf-8'))['hits']['hits']
         if len(hits) < 100:
@@ -74,12 +77,12 @@ def listing():
     print('listed', n + len(hits))
 
 
-def list_paths() -> list[str]:
+def list_paths(sub: str = 'list') -> list[str]:
     paths = []
-    for f in sorted((CACHE / 'list').glob('from*.json')):
+    for f in sorted((CACHE / sub).glob('from*.json')):
         for h in json.loads(f.read_text(encoding='utf-8'))['hits']['hits']:
             u = (h['_source'].get('url') or [''])[0]
-            if u.startswith('/lrgv/gesetz/') and u not in paths:
+            if u.startswith('/lrgv/gesetz/' if sub == 'list' else '/lrgv/') and u not in paths:
                 paths.append(u)
     return paths
 
@@ -96,6 +99,13 @@ def act(path: str):
 if __name__ == '__main__':
     if sys.argv[1] == 'list':
         listing()
+    elif sys.argv[1] == 'list-vo':
+        listing('Rechtsverordnung')
+    elif sys.argv[1] == 'acts-vo':
+        for n, p in enumerate(list_paths('list-vo')):
+            act(p)
+            print(n, p, flush=True)
+        (CACHE / 'vo-done').write_text(time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()) + chr(10))
     elif sys.argv[1] == 'acts':
         paths = ([VERF] + [p for p in list_paths() if 'verfassung-fuer-das-land' not in p]) if sys.argv[2:] == ['--all'] else sys.argv[2:]
         for n, p in enumerate(paths):
