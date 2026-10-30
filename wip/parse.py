@@ -381,6 +381,18 @@ def act_of(name: str) -> tuple[dict | None, dict, list[str]]:
     abbr = (meta.get('field_abbreviation') or [''])[0].strip()
     stitle = (meta.get('field_short_title') or [''])[0].strip()
     slug = 'verfassung' if name == VERF else re.sub(r'^\d{8}-', '', name)[:60].strip('-')
+    if prefix(name) != '/lrgv/gesetz/':
+        # Rechtsverordnungen: many share the first 60 characters of their title; the abbreviation names the act
+        # where the portal gives one, else the slug carries the date prefix of the act's path (YYYYMMDD)
+        ab = re.sub(r'[^a-z0-9]+', '-', abbr.lower().translate(str.maketrans('äöüß', 'aous'))).strip('-')
+        slug = ab if ab and ab not in VO_SLUGS else slug
+        if slug in VO_SLUGS:
+            slug = f'{slug[:51].strip("-")}-{name[4:8]}{name[2:4]}{name[0:2]}'
+        base, k = slug, 2
+        while slug in VO_SLUGS:
+            slug = f'{base}-{k}'
+            k += 1
+        VO_SLUGS.add(slug)
     act = {'slug': slug,
            'short': 'Verf NRW' if name == VERF else (abbr or stitle or title[:60]),
            'title': title, 'url': BASE + prefix(name) + name, 'first_law': None, 'earlier_laws': [],
@@ -434,6 +446,7 @@ def prefix(name: str) -> str:
 
 
 _META: dict = {}
+VO_SLUGS: set = set()
 
 
 def list_meta() -> dict:

@@ -17,8 +17,9 @@ the publisher as "oldest version available".
 | --- | --- | --- |
 | `verfassung/` | Verfassung für das Land Nordrhein-Westfalen vom 28. Juni 1950 | every structured Fassung, from 14 July 2020 |
 | other folders | the Gesetze in force, one folder per act | every structured Fassung |
+| other folders | the Rechtsverordnungen in force (250), one folder per act (named by the portal's abbreviation where it gives one) | every structured Fassung |
 
-Rechtsverordnungen and Verwaltungsvorschriften are not included yet.
+Verwaltungsvorschriften are not included yet.
 
 ## Source
 

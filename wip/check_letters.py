@@ -37,6 +37,8 @@ def source(raw: str) -> str:
     s = raw[i:j]  # preamble, every provision and structure heading, and the closing formula, in page order
     s = re.sub(r'(?s)<ol([^>]*)>(.*?)</ol>', number_items, s)
     s = re.sub(r'(?s)<div class="field field--field_footnote_description.*?</div></div>', ' ', s)
+    s = re.sub(r'(?s)<div class="footnote-container">.*?<div class="card card-body footnote-content">.*?</div>\s*</div>',
+               ' ', s)  # the per-provision footnote box of some Rechtsverordnungen ("Fußnoten zu § 2 ...")
     s = re.sub(r'(?s)<div class="field field--field_reference">.*?</a>\s*</div>\s*</div>', ' ', s)
     s = re.sub(r'(?s)<div class="alert.*?</button>|<button.*?</button>|<ul class="print-copy-overlay.*?</ul>', ' ', s)
     return ld(html.unescape(re.sub(r'<[^>]+>', ' ', s)).replace('­', ''))
