@@ -1,0 +1,18 @@
+Law texts
+
+The texts in this repository are North Rhine-Westphalian Gesetze in the consolidated, non-official versions
+published by RECHT.NRW, the service portal of the Ministerium des Innern des Landes Nordrhein-Westfalen
+(recht.nrw.de).
+
+- Copyright: "Gesetze, Verordnungen, amtliche Erlasse und Bekanntmachungen sowie Entscheidungen und amtlich verfasste
+  Leitsätze zu Entscheidungen genießen keinen urheberrechtlichen Schutz." (§ 5 Abs. 1 Urheberrechtsgesetz)
+- RECHT.NRW states no terms of use restricting reuse (Impressum, "Grundsätzliches über RECHT.NRW", FAQ, retrieved
+  30 October 2026): "Die Inhalte dieses Portals sind eine Serviceleistung des Ministeriums des Innern des Landes
+  Nordrhein-Westfalen und nicht amtlich."
+- The texts are not the official version: the official promulgation is the printed Gesetz- und Verordnungsblatt
+  für das Land Nordrhein-Westfalen (GV. NRW.).
+
+Attribution: Quelle: RECHT.NRW, Ministerium des Innern des Landes Nordrhein-Westfalen, recht.nrw.de.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

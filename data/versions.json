@@ -1,0 +1,2459 @@
+{
+ "country": "DE-NW",
+ "acts": [
+  {
+   "slug": "verfassung",
+   "short": "Verf NRW",
+   "title": "Verfassung für das Land Nordrhein-Westfalen",
+   "url": "https://recht.nrw.de/lrgv/gesetz/16012026-verfassung-fuer-das-land-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 98,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/14072020-verfassung-fuer-das-land-nordrhein-westfalen",
+     "sha256": "a5338c402e9d4ec9445693feee9f731803ba7a8af02fc051d95d7ab803d8fbf8"
+    },
+    {
+     "from": "2026-01-16",
+     "units": 98,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16012026-verfassung-fuer-das-land-nordrhein-westfalen",
+     "sha256": "5c9ab4884a1ff801c56a0a13eecef77ef4755c34acaee6f803e36e72b9fb6b7e"
+    }
+   ]
+  },
+  {
+   "slug": "zusammenfuehrung-der-maerkischen-fachhochschule-iserlohn-mit",
+   "short": "Zusammenführung der Märkischen Fachhochschule in Iserlohn mi",
+   "title": "Zusammenführung der Märkischen Fachhochschule in Iserlohn mit den Abteilungen Meschede und Soest der Universität-Gesamthochschule Paderborn",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012002-zusammenfuehrung-der-maerkischen-fachhochschule-iserlohn-mit-den-abteilungen",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 6,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012002-zusammenfuehrung-der-maerkischen-fachhochschule-iserlohn-mit-den-abteilungen",
+     "sha256": "4fe93aba0b7bd10f67ef31b3d5d729d9dc610934e1cd04fc8e52204a54a85463"
+    }
+   ]
+  },
+  {
+   "slug": "zusammenfuehrung-der-fachhochschule-lippe-lemgo-mit-der-abte",
+   "short": "Zusammenführung der Fachhochschule Lippe in Lemgo mit der Ab",
+   "title": "Zusammenführung der Fachhochschule Lippe in Lemgo mit der Abteilung Höxter der Universität-Gesamthochschule Paderborn",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012002-zusammenfuehrung-der-fachhochschule-lippe-lemgo-mit-der-abteilung-hoexter-der",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 7,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012002-zusammenfuehrung-der-fachhochschule-lippe-lemgo-mit-der-abteilung-hoexter-der",
+     "sha256": "5f727f6fcdda5df4dc45f5865eca667ba26bb25da976b5538c1509ecad06b296"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-verbesserung-der-qualitaet-lehre-und-studium-nord",
+   "short": "Gesetz zur Verbesserung der Qualität in Lehre und Studium an",
+   "title": "Gesetz zur Verbesserung der Qualität in Lehre und Studium an nordrhein-westfälischen Hochschulen (Studiumsqualitätsgesetz)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30042011-gesetz-zur-verbesserung-der-qualitaet-lehre-und-studium-nordrhein",
+   "versions": [
+    {
+     "from": "2011-04-30",
+     "units": 7,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30042011-gesetz-zur-verbesserung-der-qualitaet-lehre-und-studium-nordrhein",
+     "sha256": "2712a3ae4752eb93dc5db384d0022455a33d56df9fe97998495c53f78d416ea5"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-den-europaeischen-berufsausweis",
+   "short": "Gesetz über den Europäischen Berufsausweis",
+   "title": "Gesetz über den Europäischen Berufsausweis",
+   "url": "https://recht.nrw.de/lrgv/gesetz/14052016-gesetz-ueber-den-europaeischen-berufsausweis",
+   "versions": [
+    {
+     "from": "2016-05-14",
+     "units": 6,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/14052016-gesetz-ueber-den-europaeischen-berufsausweis",
+     "sha256": "d14b3a9d8502c3e1aba99ea790ac98ffa4a052ce0de576b190f85d0c5a5f5a9d"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-erhebung-eines-entgelts-fuer-die-entnahme-v",
+   "short": "Gesetz über die Erhebung eines Entgelts für die Entnahme von",
+   "title": "Gesetz über die Erhebung eines Entgelts für die Entnahme von Wasser aus Gewässern (Wasserentnahmeentgeltgesetz des Landes Nordrhein-Westfalen - WasEG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/16072016-gesetz-ueber-die-erhebung-eines-entgelts-fuer-die-entnahme-von-wasser-aus",
+   "versions": [
+    {
+     "from": "2016-07-16",
+     "units": 13,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16072016-gesetz-ueber-die-erhebung-eines-entgelts-fuer-die-entnahme-von-wasser-aus",
+     "sha256": "a4e7a1a84c7b92004acb6f6f9c5e603deb5e4bfa6c15bc44edd957da45a9a17e"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-das-verfahren-bei-volksinitiative-volksbegehren",
+   "short": "Gesetz über das Verfahren bei Volksinitiative, Volksbegehren",
+   "title": "Gesetz über das Verfahren bei Volksinitiative, Volksbegehren und Volksentscheid (VIVBVEG); Bekanntmachung der Neufassung",
+   "url": "https://recht.nrw.de/lrgv/gesetz/19042017-gesetz-ueber-das-verfahren-bei-volksinitiative-volksbegehren-und",
+   "versions": [
+    {
+     "from": "2017-04-19",
+     "units": 38,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19042017-gesetz-ueber-das-verfahren-bei-volksinitiative-volksbegehren-und",
+     "sha256": "d91ac07719daf77431171c521383811ee1b9ec678007009c2bc7aa445bc9e2d5"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-regelung-des-kostenausgleichs-fuer-aufgaben-der-o",
+   "short": "Gesetz zur Regelung des Kostenausgleichs für Aufgaben der öf",
+   "title": "Gesetz zur Regelung des Kostenausgleichs für Aufgaben der öffentlichen Jugendhilfe (Belastungsausgleichsgesetz Jugendhilfe – BAG-JH)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/02022018-gesetz-zur-regelung-des-kostenausgleichs-fuer-aufgaben-der-oeffentlichen",
+   "versions": [
+    {
+     "from": "2018-02-02",
+     "units": 9,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/02022018-gesetz-zur-regelung-des-kostenausgleichs-fuer-aufgaben-der-oeffentlichen",
+     "sha256": "4ff3c678510b21a4fd72f0fc802fcbaccc3dee36402a39d97209c5b13ce8ece8"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-sicherung-von-tariftreue-und-mindestlohn-be",
+   "short": "Gesetz über die Sicherung von Tariftreue und Mindestlohn bei",
+   "title": "Gesetz über die Sicherung von Tariftreue und Mindestlohn bei der Vergabe öffentlicher Aufträge (Tariftreue- und Vergabegesetz Nordrhein-Westfalen – TVgG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30032018-gesetz-ueber-die-sicherung-von-tariftreue-und-mindestlohn-bei-der-vergabe",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30032018-gesetz-ueber-die-sicherung-von-tariftreue-und-mindestlohn-bei-der-vergabe",
+     "sha256": "e4228783f8efa713e40cde6d5308550cfaf834cc885ebc62b5fff555167ed8a4"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-den-verfassungsschutz-nordrhein-westfalen-verfa",
+   "short": "Gesetz über den Verfassungsschutz in Nordrhein-Westfalen (Ve",
+   "title": "Gesetz über den Verfassungsschutz in Nordrhein-Westfalen (Verfassungsschutzgesetz Nordrhein-Westfalen - VSG NRW -)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/25052018-gesetz-ueber-den-verfassungsschutz-nordrhein-westfalen-verfassungsschutzgesetz",
+   "versions": [
+    {
+     "from": "2018-05-25",
+     "units": 43,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/25052018-gesetz-ueber-den-verfassungsschutz-nordrhein-westfalen-verfassungsschutzgesetz",
+     "sha256": "7b3cd01efaa1cd359366b1eacb58115fcf64a6b81189d34d67cf71ebdcaae236"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-leistung-von-schuldendiensthilfen-fuer-kred",
+   "short": "Gesetz über die Leistung von Schuldendiensthilfen für Kredit",
+   "title": "Gesetz über die Leistung von Schuldendiensthilfen für Kredite zur Sanierung, Modernisierung und zum Ausbau der kommunalen Schulinfrastruktur in Nordrhein-Westfalen (Schuldendiensthilfegesetz Nordrhein-Westfalen)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012017-gesetz-ueber-die-leistung-von-schuldendiensthilfen-fuer-kredite-zur-sanierung",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012017-gesetz-ueber-die-leistung-von-schuldendiensthilfen-fuer-kredite-zur-sanierung",
+     "sha256": "f3b8c9318a66651ea7bfe7262d2020deb8d176b1508d3fcc774f15240a089619"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-des-landes-nordrhein-westfalen-zur-gleichstellung-von",
+   "short": "Gesetz des Landes Nordrhein-Westfalen zur Gleichstellung von",
+   "title": "Gesetz des Landes Nordrhein-Westfalen zur Gleichstellung von Menschen mit Behinderung (Behindertengleichstellungsgesetz Nordrhein-Westfalen - BGG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01092018-gesetz-des-landes-nordrhein-westfalen-zur-gleichstellung-von-menschen-mit",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 20,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01092018-gesetz-des-landes-nordrhein-westfalen-zur-gleichstellung-von-menschen-mit",
+     "sha256": "545e602fa4f61e064f0ccb6204e12bb99b7d84928c312d188eec576705958d53"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-durchfuehrung-des-altenpflegegesetzes-und-zur-aus",
+   "short": "Gesetz zur Durchführung des Altenpflegegesetzes und zur Ausb",
+   "title": "Gesetz zur Durchführung des Altenpflegegesetzes und zur Ausbildung in der Altenpflegehilfe (Landesaltenpflegegesetz - AltPflG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012020-gesetz-zur-durchfuehrung-des-altenpflegegesetzes-und-zur-ausbildung-der",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 9,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012020-gesetz-zur-durchfuehrung-des-altenpflegegesetzes-und-zur-ausbildung-der",
+     "sha256": "a3ac18e095d7335621b9c8a95e6cc2ea6bee69e24e311a304bdf1f10f31ecfae"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-das-portal-fuer-wirtschaftsbezogene-verwaltungs",
+   "short": "Gesetz über das Portal für wirtschaftsbezogene Verwaltungsle",
+   "title": "Gesetz über das Portal für wirtschaftsbezogene Verwaltungsleistungen (Wirtschafts-Portal-Gesetz Nordrhein-Westfalen – WiPG NRW)1",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072020-gesetz-ueber-das-portal-fuer-wirtschaftsbezogene-verwaltungsleistungen",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 17,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072020-gesetz-ueber-das-portal-fuer-wirtschaftsbezogene-verwaltungsleistungen",
+     "sha256": "67bf9bf8aa7f5274e37fadfdbbe7e8134081fe8ae62995b40833f9850541d480"
+    }
+   ]
+  },
+  {
+   "slug": "polizeiorganisationsgesetz-pog-nrw",
+   "short": "POG NRW",
+   "title": "Gesetz über die Organisation und die Zuständigkeit der Polizei im Lande Nordrhein-Westfalen, Bekanntmachung der Neufassung (Polizeiorganisationsgesetz - POG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01102020-polizeiorganisationsgesetz-pog-nrw",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 27,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01102020-polizeiorganisationsgesetz-pog-nrw",
+     "sha256": "5bcbe6b84478c3a9543371b47a82014a9fed20e38a76d38e78901ae4a897483d"
+    }
+   ]
+  },
+  {
+   "slug": "wohnraumstaerkungsgesetz-wohnstg",
+   "short": "WohnStG",
+   "title": "Gesetz zur Stärkung des Wohnungswesens in Nordrhein-Westfalen (Wohnraumstärkungsgesetz - WohnStG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072021-wohnraumstaerkungsgesetz-wohnstg",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 30,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072021-wohnraumstaerkungsgesetz-wohnstg",
+     "sha256": "53057cc2eac97e16cc168f836a8bd4c10ac15bdefbd0310e0c3ea5fffee00e38"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-anpassung-der-alimentation-kinderreicher-familien",
+   "short": "Gesetz zur Anpassung der Alimentation kinderreicher Familien",
+   "title": "Gesetz zur Anpassung der Alimentation kinderreicher Familien für die Jahre 2011 bis 2020",
+   "url": "https://recht.nrw.de/lrgv/gesetz/22092021-gesetz-zur-anpassung-der-alimentation-kinderreicher-familien-fuer-die-jahre",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/22092021-gesetz-zur-anpassung-der-alimentation-kinderreicher-familien-fuer-die-jahre",
+     "sha256": "437d1ecc0f13ea268c05becb626128920279d81b36e912377fa10fd137c2aa24"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-rentengueter",
+   "short": "Gesetz über Rentengüter",
+   "title": "Gesetz über Rentengüter",
+   "url": "https://recht.nrw.de/lrgv/gesetz/29122021-gesetz-ueber-rentengueter",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 7,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/29122021-gesetz-ueber-rentengueter",
+     "sha256": "e1bedcc3ec0da9997efefede2e758ed6b60cd63d8dc26b15fb1d5733b0f26058"
+    }
+   ]
+  },
+  {
+   "slug": "weiterbildungsgesetz-nordrhein-westfalen-weiterbildungsgeset",
+   "short": "Weiterbildungsgesetz Nordrhein-Westfalen (Weiterbildungsgese",
+   "title": "Weiterbildungsgesetz Nordrhein-Westfalen (Weiterbildungsgesetz - WbG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012022-weiterbildungsgesetz-nordrhein-westfalen-weiterbildungsgesetz-wbg",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 31,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012022-weiterbildungsgesetz-nordrhein-westfalen-weiterbildungsgesetz-wbg",
+     "sha256": "40b8a07df0cc0a46b87250b0817b708e2504656202fcf727cb1bb903321f0c3e"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-umzugskostenverguetung-fuer-die-beamten-bea",
+   "short": "Gesetz über die Umzugskostenvergütung für die Beamten, Beamt",
+   "title": "Gesetz über die Umzugskostenvergütung für die Beamten, Beamtinnen, Richter und Richterinnen (Landesumzugskostengesetz - LUKG); Bekanntmachung der Neufassung",
+   "url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-umzugskostenverguetung-fuer-die-beamten-beamtinnen-richter",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-umzugskostenverguetung-fuer-die-beamten-beamtinnen-richter",
+     "sha256": "f23945b06f6fd4d3ccbbec8f021f23572d6246804adbdf11eda8287bfd1f3d12"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-umsetzung-des-kommunalinvestitionsfoerderungsgese",
+   "short": "Gesetz zur Umsetzung des Kommunalinvestitionsförderungsgeset",
+   "title": "Gesetz zur Umsetzung des Kommunalinvestitionsförderungsgesetzes in Nordrhein-Westfalen (KInvFöG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/05032022-gesetz-zur-umsetzung-des-kommunalinvestitionsfoerderungsgesetzes-nordrhein",
+   "versions": [
+    {
+     "from": "2022-03-05",
+     "units": 18,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/05032022-gesetz-zur-umsetzung-des-kommunalinvestitionsfoerderungsgesetzes-nordrhein",
+     "sha256": "a0d9aa195812207d4b5e675de4a5749abcdd6b0f6cc598cb53e924285eeb7b75"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-umsetzung-des-sofortzuschlages-fuer-kinder-nach-s",
+   "short": "Gesetz zur Umsetzung des Sofortzuschlages für Kinder nach § ",
+   "title": "Gesetz zur Umsetzung des Sofortzuschlages für Kinder nach § 145 des Zwölften Buches Sozialgesetzbuch für das Land Nordrhein-Westfalen (Sofortzuschlagsumsetzungsgesetz)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072022-gesetz-zur-umsetzung-des-sofortzuschlages-fuer-kinder-nach-ss-145-des",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 3,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072022-gesetz-zur-umsetzung-des-sofortzuschlages-fuer-kinder-nach-ss-145-des",
+     "sha256": "0de80d6088bf00b5ca9c4b5d2d50b1f0c62e3efe42f5a2b0957107e1193c8e61"
+    }
+   ]
+  },
+  {
+   "slug": "stiftungsgesetz-fuer-das-land-nordrhein-westfalen-stiftungsg",
+   "short": "Stiftungsgesetz für das Land Nordrhein-Westfalen (Stiftungsg",
+   "title": "Stiftungsgesetz für das Land Nordrhein-Westfalen (Stiftungsgesetz NRW - StiftG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072023-stiftungsgesetz-fuer-das-land-nordrhein-westfalen-stiftungsgesetz-nrw-stiftg",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072023-stiftungsgesetz-fuer-das-land-nordrhein-westfalen-stiftungsgesetz-nrw-stiftg",
+     "sha256": "feae58a166a8c9db7b27c510bbcd7a4b96893a1cf66ed28fa8199a9f310f66d1"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-ueberleitung-von-lehrkraeften-aemter-der-besoldun",
+   "short": "Gesetz zur Überleitung von Lehrkräften in Ämter der Besoldun",
+   "title": "Gesetz zur Überleitung von Lehrkräften in Ämter der Besoldungsgruppe A 13",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01082026-gesetz-zur-ueberleitung-von-lehrkraeften-aemter-der-besoldungsgruppe-13",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082026-gesetz-zur-ueberleitung-von-lehrkraeften-aemter-der-besoldungsgruppe-13",
+     "sha256": "5119225040172fae54bbc5bbd42fbefe08e3b3a0846fdb5f053a4d98349fed07"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-ausfuehrung-des-baugesetzbuches-nordrhein-westfal",
+   "short": "Gesetz zur Ausführung des Baugesetzbuches in Nordrhein-Westf",
+   "title": "Gesetz zur Ausführung des Baugesetzbuches in Nordrhein-Westfalen (BauGB-AG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/12092023-gesetz-zur-ausfuehrung-des-baugesetzbuches-nordrhein-westfalen-baugb-ag-nrw",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 4,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/12092023-gesetz-zur-ausfuehrung-des-baugesetzbuches-nordrhein-westfalen-baugb-ag-nrw",
+     "sha256": "d033ccf4ad25cf25ffeb8c432bb6121445fa7fc5190fc9ffe5b6ac3ebd9f7c9d"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-ausfuehrung-des-sozialgesetzbuches-vierzehntes-bu",
+   "short": "Gesetz zur Ausführung des Sozialgesetzbuches Vierzehntes Buc",
+   "title": "Gesetz zur Ausführung des Sozialgesetzbuches Vierzehntes Buch - Soziale Entschädigung - (Ausführungsgesetz Sozialgesetzbuch XIV Nordrhein-Westfalen - AG SGB XIV NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012024-gesetz-zur-ausfuehrung-des-sozialgesetzbuches-vierzehntes-buch-soziale",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 10,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-gesetz-zur-ausfuehrung-des-sozialgesetzbuches-vierzehntes-buch-soziale",
+     "sha256": "d8e0341641d8a571693d664ff48371786154f1c1fc3cb1f6911af9323e876f9f"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-des-landes-nordrhein-westfalen-zur-umsetzung-der-foer",
+   "short": "Gesetz des Landes Nordrhein-Westfalen zur Umsetzung der Förd",
+   "title": "Gesetz des Landes Nordrhein-Westfalen zur Umsetzung der Förderung der Gemeinsamen Agrarpolitik in Nordrhein-Westfalen (GAP-Fördergesetz NRW - GAPFG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/16032024-gesetz-des-landes-nordrhein-westfalen-zur-umsetzung-der-foerderung-der",
+   "versions": [
+    {
+     "from": "2024-03-16",
+     "units": 25,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16032024-gesetz-des-landes-nordrhein-westfalen-zur-umsetzung-der-foerderung-der",
+     "sha256": "6d5d2d419c85006ebe54a9081ef7f0033eee7b4e345f3147949f5a51df6cbef4"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-regelung-der-zuweisungen-des-landes-nordrhein-wes",
+   "short": "Gesetz zur Regelung der Zuweisungen des Landes Nordrhein-Wes",
+   "title": "Gesetz zur Regelung der Zuweisungen des Landes Nordrhein-Westfalen an die Gemeinden und Gemeindeverbände im Haushaltsjahr 2025 (Gemeindefinanzierungsgesetz 2025 – GFG 2025)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012025-gesetz-zur-regelung-der-zuweisungen-des-landes-nordrhein-westfalen-die",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 35,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-gesetz-zur-regelung-der-zuweisungen-des-landes-nordrhein-westfalen-die",
+     "sha256": "60a0ced558911491c9854dbcaf87ebbe046dbe42d1f71af7b91d3140e53c4b5d"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-feststellung-des-haushaltsplans-des-landes",
+   "short": "Gesetz über die Feststellung des Haushaltsplans des Landes N",
+   "title": "Gesetz über die Feststellung des Haushaltsplans des Landes Nordrhein-Westfalen für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HHG 2025)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012025-gesetz-ueber-die-feststellung-des-haushaltsplans-des-landes-nordrhein",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 36,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-gesetz-ueber-die-feststellung-des-haushaltsplans-des-landes-nordrhein",
+     "sha256": "293b9a1667ec204f4124a1c84b386f9164f538c3263dee0614d0d335c3690b53"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-zulassung-oeffentlicher-spielbanken-im-land",
+   "short": "Gesetz über die Zulassung öffentlicher Spielbanken im Land N",
+   "title": "Gesetz über die Zulassung öffentlicher Spielbanken im Land Nordrhein-Westfalen (Spielbankgesetz NRW - SpielbG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012025-gesetz-ueber-die-zulassung-oeffentlicher-spielbanken-im-land-nordrhein",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 37,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-gesetz-ueber-die-zulassung-oeffentlicher-spielbanken-im-land-nordrhein",
+     "sha256": "7b8623e60795158e44b19ef44bf727e0c0454c67eb05f41568c83703f671471f"
+    }
+   ]
+  },
+  {
+   "slug": "landesministergesetz-bekanntmachung-der-neufassung",
+   "short": "Landesministergesetz, Bekanntmachung der Neufassung",
+   "title": "Landesministergesetz, Bekanntmachung der Neufassung",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012025-landesministergesetz-bekanntmachung-der-neufassung",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 24,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-landesministergesetz-bekanntmachung-der-neufassung",
+     "sha256": "ba58c5a5b21b8844fde03b046686b99f125200184a8b1fdd82285b7110762840"
+    }
+   ]
+  },
+  {
+   "slug": "ausfuehrungsgesetz-zum-tiergesundheitsgesetz-und-zum-tierisc",
+   "short": "Ausführungsgesetz zum Tiergesundheitsgesetz und zum Tierisch",
+   "title": "Ausführungsgesetz zum Tiergesundheitsgesetz und zum Tierische Nebenprodukte-Beseitigungsgesetz (AG TierGesG TierNebG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042025-ausfuehrungsgesetz-zum-tiergesundheitsgesetz-und-zum-tierische-nebenprodukte",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 35,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042025-ausfuehrungsgesetz-zum-tiergesundheitsgesetz-und-zum-tierische-nebenprodukte",
+     "sha256": "c442c74cbd8f1b9bf55c9f2718257ea84fb5f41c1d531640238fecf7038d7266"
+    }
+   ]
+  },
+  {
+   "slug": "landesjagdgesetz-nordrhein-westfalen",
+   "short": "LJG-NRW",
+   "title": "Landesjagdgesetz Nordrhein-Westfalen (LJG-NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042025-landesjagdgesetz-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 69,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042025-landesjagdgesetz-nordrhein-westfalen",
+     "sha256": "be8c69f8196422310252fe83df05cf51000b3edb8b2bca38818030febe187083"
+    }
+   ]
+  },
+  {
+   "slug": "verwaltungsvollstreckungsgesetz-fuer-das-land-nordrhein-west",
+   "short": "Verwaltungsvollstreckungsgesetz für das Land Nordrhein-Westf",
+   "title": "Verwaltungsvollstreckungsgesetz für das Land Nordrhein-Westfalen (Verwaltungsvollstreckungsgesetz NRW - VwVG NRW), Bekanntmachung der Neufassung",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042025-verwaltungsvollstreckungsgesetz-fuer-das-land-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 91,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042025-verwaltungsvollstreckungsgesetz-fuer-das-land-nordrhein-westfalen",
+     "sha256": "c09ac6d4791651a8b249d9deeed153fc7f9911f4db9eb5fd7e12ad2eb88a5839"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-das-notarversorgungswerk-koeln",
+   "short": "NotVG NW",
+   "title": "Gesetz über das Notarversorgungswerk Köln (NotVG NW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/03102025-gesetz-ueber-das-notarversorgungswerk-koeln",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 17,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/24072019-gesetz-ueber-das-notarversorgungswerk-koeln-notvg-nw",
+     "sha256": "bc1d0e9f13e45de48fd3ef5c5165c207037480517d55013261b3f76efa29087a"
+    },
+    {
+     "from": "2025-10-03",
+     "units": 18,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/03102025-gesetz-ueber-das-notarversorgungswerk-koeln",
+     "sha256": "3ac9a09f0d5990dc359f6751230217b862a0b8fe9ddac5b2741eae825d0a3e92"
+    }
+   ]
+  },
+  {
+   "slug": "fachhochschulgesetz-oeffentlicher-dienst-fhgoed",
+   "short": "FHGöD",
+   "title": "Gesetz über die Fachhochschulen für den öffentlichen Dienst im Lande Nordrhein-Westfalen (Fachhochschulgesetz öffentlicher Dienst - FHGöD)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/03102025-fachhochschulgesetz-oeffentlicher-dienst-fhgoed",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 49,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072021-gesetz-ueber-die-fachhochschulen-fuer-den-oeffentlichen-dienst-im-lande",
+     "sha256": "ec5f969961d25baa3beff483693d904125d9856e72c54cdbb2563e7b26ab25bb"
+    },
+    {
+     "from": "2025-10-03",
+     "units": 51,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/03102025-fachhochschulgesetz-oeffentlicher-dienst-fhgoed",
+     "sha256": "c285fc70381869090d42b1384d114430e7dd28b0f0824d5aee65e29b6487dd53"
+    }
+   ]
+  },
+  {
+   "slug": "fraktionsgesetz-fraktg-nrw",
+   "short": "FraktG NRW",
+   "title": "Gesetz über die Rechtsstellung der Fraktionen im Landtag von Nordrhein-Westfalen (Fraktionsgesetz - FraktG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01102025-fraktionsgesetz-fraktg-nrw",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 17,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01062022-gesetz-ueber-die-rechtsstellung-der-fraktionen-im-landtag-von-nordrhein",
+     "sha256": "5bf3d831506bef9d047e3da9cacdb197b76d7a9c0cdcc950360f09c01eb1832b"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01102025-fraktionsgesetz-fraktg-nrw",
+     "sha256": "6bbc38765e71cbbc4bbb372782e3cdaad43a403dcc36120643def8d216b50d4f"
+    }
+   ]
+  },
+  {
+   "slug": "landesorganisationsgesetz-log-nrw",
+   "short": "LOG NRW",
+   "title": "Gesetz über die Organisation der Landesverwaltung - Landesorganisationsgesetz (Landesorganisationsgesetz - LOG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01102025-landesorganisationsgesetz-log-nrw",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 30,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/17072025-gesetz-ueber-die-organisation-der-landesverwaltung-landesorganisationsgesetz",
+     "sha256": "b7768a7a8699f9a0a00752af315a57b080db8119ac67f609fba5cde56a3be287"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 30,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01102025-landesorganisationsgesetz-log-nrw",
+     "sha256": "270b1bbbcb65fc65640c1bcf4952713eeafcc0a89c3c35364cd6c9126341819a"
+    }
+   ]
+  },
+  {
+   "slug": "baukammerngesetz-baukag-nrw",
+   "short": "BauKaG NRW",
+   "title": "Gesetz über die Architektenkammer Nordrhein-Westfalen und die Ingenieurkammer-Bau Nordrhein-Westfalen (Baukammerngesetz - BauKaG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-baukammerngesetz-baukag-nrw",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 46,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/31122024-gesetz-ueber-die-architektenkammer-nordrhein-westfalen-und-die-ingenieurkammer",
+     "sha256": "216aa0dc866b378bfc66a582e488f0018852a4fe8d41f3f8c6d5547c8656fee4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 48,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-baukammerngesetz-baukag-nrw",
+     "sha256": "2107402a784f2f386fcb9ef485f2b168b3e5cd6a26faae565053d40209bd086e"
+    }
+   ]
+  },
+  {
+   "slug": "gemeindeordnung-fuer-das-land-nordrhein-westfalen-bekanntmac",
+   "short": "GO NRW",
+   "title": "Gemeindeordnung für das Land Nordrhein-Westfalen, Bekanntmachung der Neufassung (GO NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-gemeindeordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung-der",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 147,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/17072025-gemeindeordnung-fuer-das-land-nordrhein-westfalen-go-nrw-bekanntmachung-der",
+     "sha256": "78d14c673f747ba52d395b0ae27e873cea86a9b62bd3efdd72dc4f857b07040b"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 148,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01112025-gemeindeordnung-fuer-das-land-nordrhein-westfalen-go-nrw-bekanntmachung-der",
+     "sha256": "45eb06618060af1f5ae47e3378b01c69f6c396c604f493b5d5c707cbbc7730d5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 149,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-gemeindeordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung-der",
+     "sha256": "c5641981bddb5a6040aa31c99ad7c9103070a87972657d3a47b880a08824708b"
+    }
+   ]
+  },
+  {
+   "slug": "kreisordnung-fuer-das-land-nordrhein-westfalen-bekanntmachun",
+   "short": "KrO NRW",
+   "title": "Kreisordnung für das Land Nordrhein-Westfalen, Bekanntmachung der Neufassung (KrO NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01112025-kreisordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung-der-neufassung",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 74,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/17072025-kreisordnung-kro-nrw-fuer-das-land-nordrhein-westfalen-bekanntmachung-der",
+     "sha256": "3352b59b0e02096bf85eefc6c7528bca86ca272ee51959b3053817f41a21f9d0"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 75,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01112025-kreisordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung-der-neufassung",
+     "sha256": "7190850a8aebe0cf0cf580dfff13dbadc3c7c2b2dc8b5ca954b883cc6ed733a6"
+    }
+   ]
+  },
+  {
+   "slug": "verfassungsschutzgesetz-nordrhein-westfalen-vsg-nrw",
+   "short": "VSG NRW",
+   "title": "Gesetz über den Verfassungsschutz in Nordrhein-Westfalen (Verfassungsschutzgesetz Nordrhein-Westfalen - VSG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-verfassungsschutzgesetz-nordrhein-westfalen-vsg-nrw",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 65,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-verfassungsschutzgesetz-nordrhein-westfalen-vsg-nrw",
+     "sha256": "92fd092108d8d6bc7dace9fc9fb76ec5c04920368eb976870a7f066306766f43"
+    }
+   ]
+  },
+  {
+   "slug": "beschaeftigtenschutzgesetz-nrw-bschg-nrw",
+   "short": "BSchG NRW",
+   "title": "Gesetz zur Verarbeitung von personenbezogenen Daten zum Schutz der Beschäftigten öffentlicher Stellen vor gefährdenden Personen (Beschäftigtenschutzgesetz NRW - BSchG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/09122025-beschaeftigtenschutzgesetz-nrw-bschg-nrw",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 9,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/09122025-beschaeftigtenschutzgesetz-nrw-bschg-nrw",
+     "sha256": "0b8db1d9a8840ef79dc5565b2b54ce8582dd49abbc4345b91f1b98bf7ccdca4b"
+    }
+   ]
+  },
+  {
+   "slug": "ausfuehrungsgesetz-asylgesetz-ag-asylg",
+   "short": "AG AsylG",
+   "title": "Gesetz zur Ausführung des § 47 Absatz 1b des Asylgesetzes (Ausführungsgesetz Asylgesetz - AG AsylG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/09122025-ausfuehrungsgesetz-asylgesetz-ag-asylg",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/09122025-ausfuehrungsgesetz-asylgesetz-ag-asylg",
+     "sha256": "e1f66e04b373c276b72345a3a027d7f6e6f6cbd0a267ce90ecae2b2091cb3cf4"
+    }
+   ]
+  },
+  {
+   "slug": "landschaftsverbandsordnung-fuer-das-land-nordrhein-westfalen",
+   "short": "LVerbO",
+   "title": "Landschaftsverbandsordnung für das Land Nordrhein-Westfalen, Bekanntmachung der Neufassung (LVerbO)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01112025-landschaftsverbandsordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 46,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/17072024-landschaftsverbandsordnung-fuer-das-land-nordrhein-westfalen-lverbo",
+     "sha256": "8c89219428e69288387ff811fdb35e2306ce902456654311bd265dafacefb6c1"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 47,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01112025-landschaftsverbandsordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung",
+     "sha256": "f1b6fa97166a35e9a269ddefe24d3ec1dfbbada6f62465394f1f180331da3f06"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-den-regionalverband-ruhr-bekanntmachung-der-neu",
+   "short": "RVRG",
+   "title": "Gesetz über den Regionalverband Ruhr; Bekanntmachung der Neufassung (RVRG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01112025-gesetz-ueber-den-regionalverband-ruhr-bekanntmachung-der-neufassung",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 34,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/31072024-gesetz-ueber-den-regionalverband-ruhr-rvrg-bekanntmachung-der-neufassung",
+     "sha256": "036e41dfac5401225ce67fa11afa21b90e8b3630f29a79775dd22a6733fa5d1f"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 34,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01112025-gesetz-ueber-den-regionalverband-ruhr-bekanntmachung-der-neufassung",
+     "sha256": "af761fff3f8bcff14a9b980500ce9a9108909174401f5ab54f9cc0e1d114dff0"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-den-landesverband-lippe",
+   "short": "Gesetz über den Landesverband Lippe",
+   "title": "Gesetz über den Landesverband Lippe",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-gesetz-ueber-den-landesverband-lippe",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 22,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/17072025-gesetz-ueber-den-landesverband-lippe",
+     "sha256": "3399c58c3b65138b640973417e7d61407d1e47a29a5db79c0f2cc634c4bcbafa"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 23,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01112025-gesetz-ueber-den-landesverband-lippe",
+     "sha256": "6dfcc2cea1d99b6d57b259f42f3a3a35bc822b10a1a1c215f3e57616617f9ea9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 23,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-gesetz-ueber-den-landesverband-lippe",
+     "sha256": "b001b36041475b4b08bc0520dbaae5ce6dc2bf7b3975421cff9d39edf35a735c"
+    }
+   ]
+  },
+  {
+   "slug": "informationssicherheitsgesetz-nordrhein-westfalen-infosig-nr",
+   "short": "InfoSiG NRW",
+   "title": "Gesetz zur Stärkung der Informationssicherheit des Landes Nordrhein-Westfalen (Informationssicherheitsgesetz Nordrhein-Westfalen - InfoSiG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/16012026-informationssicherheitsgesetz-nordrhein-westfalen-infosig-nrw",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 21,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16012026-informationssicherheitsgesetz-nordrhein-westfalen-infosig-nrw",
+     "sha256": "f8d6a541c1570127dcfdd3e17a9247c8c4e357980d1e83b7db106f013d305289"
+    }
+   ]
+  },
+  {
+   "slug": "strafrechtsbezogenes-unterbringungsgesetz-nrw-strug-nrw",
+   "short": "StrUG NRW",
+   "title": "Gesetz zur Durchführung strafrechtsbezogener Unterbringungen in einem psychiatrischen Krankenhaus und einer Entziehungsanstalt in Nordrhein-Westfalen (Strafrechtsbezogenes Unterbringungsgesetz NRW - StrUG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/16012026-strafrechtsbezogenes-unterbringungsgesetz-nrw-strug-nrw",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 65,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012023-gesetz-zur-durchfuehrung-strafrechtsbezogener-unterbringungen-einem",
+     "sha256": "670b13f53c0af5d3d504502f189aa17bd7b38a2740b15293000a423d41c60c10"
+    },
+    {
+     "from": "2026-01-16",
+     "units": 66,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16012026-strafrechtsbezogenes-unterbringungsgesetz-nrw-strug-nrw",
+     "sha256": "2ec248a281e8a43986e17efb936079c19d085b7ddf2b716f4d7c9a88c7b5784e"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zu-der-dritten-zusatzvereinbarung-zu-dem-vertrag-zwis",
+   "short": "Gesetz zu der Dritten Zusatzvereinbarung zu dem Vertrag zwis",
+   "title": "Gesetz zu der Dritten Zusatzvereinbarung zu dem Vertrag zwischen dem Land Nordrhein-Westfalen und dem Landesverband der Jüdischen Gemeinden von Nordrhein – Körperschaft des öffentlichen Rechts –, dem Landesverband der Jüdischen Gemeinden von Westfalen-Lippe – Körperschaft des öffentlichen Rechts –, der Synagogen-Gemeinde Köln – Körperschaft des öffentlichen Rechts – und dem Landesverband progressiver jüdischer Gemeinden in Nordrhein-Westfalen e. V. in der Fassung des Sechsten Änderungsvertrages vom 13. April 2022",
+   "url": "https://recht.nrw.de/lrgv/gesetz/16012026-gesetz-zu-der-dritten-zusatzvereinbarung-zu-dem-vertrag-zwischen-dem-land",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 4,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16012026-gesetz-zu-der-dritten-zusatzvereinbarung-zu-dem-vertrag-zwischen-dem-land",
+     "sha256": "6d4d657c1bc8ba89efaaf8e854bd4c9e8d44df2032d2dbfaf5cfda0ac308ef76"
+    }
+   ]
+  },
+  {
+   "slug": "landesumzugskostengesetz-lukg",
+   "short": "LUKG",
+   "title": "Umzugskostengesetz Nordrhein-Westfalen (Landesumzugskostengesetz - LUKG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-landesumzugskostengesetz-lukg",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 17,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-landesumzugskostengesetz-lukg",
+     "sha256": "3ae67c654a37ee02e5f1ed72be3b79ded8c912e3d05ea857a4c406c6dc0626a5"
+    }
+   ]
+  },
+  {
+   "slug": "landesreisekostengesetz-lrkg",
+   "short": "LRKG",
+   "title": "Reisekostengesetz Nordrhein-Westfalen (Landesreisekostengesetz - LRKG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-landesreisekostengesetz-lrkg",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 20,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-reisekostengesetz-nordrhein-westfalen-landesreisekostengesetz-lrkg",
+     "sha256": "27fb9607fa49187bcdebb12bba484fbeb7aff7b867eeff1a756eeee6505ae060"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 21,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-landesreisekostengesetz-lrkg",
+     "sha256": "79f5d5fce1d9f51fbced0ea636b97255f3cfbe51ae57b6811d84d97ce4f28c5a"
+    }
+   ]
+  },
+  {
+   "slug": "polizeigesetz-des-landes-nordrhein-westfalen-bekanntmachung",
+   "short": "PolG NRW",
+   "title": "Polizeigesetz des Landes Nordrhein-Westfalen; Bekanntmachung der Neufassung (PolG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/13122025-polizeigesetz-des-landes-nordrhein-westfalen-bekanntmachung-der-neufassung",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 90,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/29122023-polizeigesetz-des-landes-nordrhein-westfalen-polg-nrw-bekanntmachung-der",
+     "sha256": "03677d94760eaf7c9b359ba03b1aeed14a0d75b40bf1e639f49c1d2f0262bc9d"
+    },
+    {
+     "from": "2025-12-13",
+     "units": 91,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/13122025-polizeigesetz-des-landes-nordrhein-westfalen-bekanntmachung-der-neufassung",
+     "sha256": "44945e68673d83db6122e30419d1ffeef2d9a590439c68e34c31dcbd29154c64"
+    }
+   ]
+  },
+  {
+   "slug": "gifttiergesetz-gifttierg-nrw",
+   "short": "GiftTierG NRW",
+   "title": "Gesetz zum Schutz der Bevölkerung vor sehr giftigen Tieren (Gifttiergesetz - GiftTierG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30122025-gifttiergesetz-gifttierg-nrw",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 11,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042025-gesetz-zum-schutz-der-bevoelkerung-vor-sehr-giftigen-tieren-gifttiergesetz",
+     "sha256": "6c6468c78dd8d13ca77c2c812289ca09ddb6067f17c47526edfce0c89f2e396f"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 12,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30122025-gifttiergesetz-gifttierg-nrw",
+     "sha256": "9b11e2356f700a6e60554006159280f0f1920a06bdee1733abae6aa36a53753d"
+    }
+   ]
+  },
+  {
+   "slug": "abgeordnetengesetz-des-landes-nordrhein-westfalen",
+   "short": "AbgG NRW",
+   "title": "Abgeordnetengesetz des Landes Nordrhein-Westfalen (AbgG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/31122025-abgeordnetengesetz-des-landes-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 43,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/23042025-abgeordnetengesetz-des-landes-nordrhein-westfalen-abgg-nrw",
+     "sha256": "deef9f11009729cc5e7f0f827c68dc5f75754778827cac11c350d3529037b1f8"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 45,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01102025-abgeordnetengesetz-des-landes-nordrhein-westfalen-abgg-nrw",
+     "sha256": "eac1927f1b53fd1d3e6bad79900639dbce0b6202930b4410706bad655f620cce"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 45,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/31122025-abgeordnetengesetz-des-landes-nordrhein-westfalen",
+     "sha256": "636a2cb344b03adf0cfd3e23daa685f65e7db0b96311288b56aabf822cf6acd9"
+    }
+   ]
+  },
+  {
+   "slug": "pensionsfondsgesetz-nordrhein-westfalen-pfog",
+   "short": "PFoG",
+   "title": "Gesetz zur Errichtung des Pensionsfonds des Landes Nordrhein-Westfalen (Pensionsfondsgesetz Nordrhein-Westfalen - PFoG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-pensionsfondsgesetz-nordrhein-westfalen-pfog",
+   "versions": [
+    {
+     "from": "2023-12-16",
+     "units": 16,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16122023-gesetz-zur-errichtung-des-pensionsfonds-des-landes-nordrhein-westfalen",
+     "sha256": "73ea272195ecdc0e9184e36ce050d55ffe91dbd495c9faa46287e449eaf0dc65"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 17,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-pensionsfondsgesetz-nordrhein-westfalen-pfog",
+     "sha256": "479b0716c914a527a779647ea20738e70b1ab3562b780b76193da09902cd7a16"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-foerderung-kommunaler-aufwendungen-fuer-die-schul",
+   "short": "Gesetz zur Förderung kommunaler Aufwendungen für die schulis",
+   "title": "Gesetz zur Förderung kommunaler Aufwendungen für die schulische Inklusion",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-gesetz-zur-foerderung-kommunaler-aufwendungen-fuer-die-schulische-inklusion",
+   "versions": [
+    {
+     "from": "2016-07-16",
+     "units": 4,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16072016-gesetz-zur-foerderung-kommunaler-aufwendungen-fuer-die-schulische-inklusion",
+     "sha256": "37d16f545bb3050fc990c9209e96ee9c8a51dd735b56c037d17069b2c0967bcf"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-gesetz-zur-foerderung-kommunaler-aufwendungen-fuer-die-schulische-inklusion",
+     "sha256": "8c2732c906402160b3affcdfac458d8156b377f0ded58b160948901b23d1898a"
+    }
+   ]
+  },
+  {
+   "slug": "teilhabe-und-integrationsgesetz-tintg",
+   "short": "TIntG",
+   "title": "Gesetz zur Förderung der gesellschaftlichen Teilhabe und Integration in Nordrhein-Westfalen (Teilhabe- und Integrationsgesetz - TIntG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-teilhabe-und-integrationsgesetz-tintg",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 21,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-gesetz-zur-foerderung-der-gesellschaftlichen-teilhabe-und-integration",
+     "sha256": "d17a11ac4721fa4504db94f40bec9f80a05d10fae0183cdc51154110bcbf2c25"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 22,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-teilhabe-und-integrationsgesetz-tintg",
+     "sha256": "e3dd83b9a793df5494fb6753c2a9e719f085b3e3979100bcfdbacaf9037b0023"
+    }
+   ]
+  },
+  {
+   "slug": "landeshaushaltsordnung-lho-bekanntmachung-der-neufassung",
+   "short": "Landeshaushaltsordnung (LHO); Bekanntmachung der Neufassung",
+   "title": "Landeshaushaltsordnung (LHO); Bekanntmachung der Neufassung",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-landeshaushaltsordnung-lho-bekanntmachung-der-neufassung",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 134,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-landeshaushaltsordnung-lho-bekanntmachung-der-neufassung",
+     "sha256": "237a09a8ac437bfc0875e578909344d4bf9edf26d423a47c30fc6b3abe444670"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 136,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-landeshaushaltsordnung-lho-bekanntmachung-der-neufassung",
+     "sha256": "d648339265c16c616e34be46ec986c71e47fe509652b22e13f37f652b7db4205"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 136,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-landeshaushaltsordnung-lho-bekanntmachung-der-neufassung",
+     "sha256": "bf697e37fcb9e4c781c723d63810cf6409dabed756ceff99706ca44aff61c2b2"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 137,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012027-landeshaushaltsordnung-lho-bekanntmachung-der-neufassung",
+     "sha256": "e93fa62011e616d05b48dd5bb002b0f240c2863ac412b72ae3d2ae5889588b18"
+    }
+   ]
+  },
+  {
+   "slug": "landesausfuehrungsgesetz-zum-sozialgesetzbuch-zwoelftes-buch",
+   "short": "AG-SGB XII NRW",
+   "title": "Landesausführungsgesetz zum Sozialgesetzbuch Zwölftes Buch (SGB XII) - Sozialhilfe - für das Land Nordrhein-Westfalen (AG-SGB XII NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-landesausfuehrungsgesetz-zum-sozialgesetzbuch-zwoelftes-buch-sgb-xii",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012022-landesausfuehrungsgesetz-zum-sozialgesetzbuch-zwoelftes-buch-sgb-xii",
+     "sha256": "8df13e33dd5e59a55b6e124e6fb2557761440a486d1699651d8ee8d33b6f42cd"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-landesausfuehrungsgesetz-zum-sozialgesetzbuch-zwoelftes-buch-sgb-xii",
+     "sha256": "e40a0c4cd26e867858eb3eedc8a289245b5c764fc3017a23286deccf60880551"
+    }
+   ]
+  },
+  {
+   "slug": "gemeindefinanzierungsgesetz-2026-gfg-2026",
+   "short": "GFG 2026",
+   "title": "Gesetz zur Regelung der Zuweisungen des Landes Nordrhein-Westfalen an die Gemeinden und Gemeindeverbände im Haushaltsjahr 2026 (Gemeindefinanzierungsgesetz 2026 - GFG 2026)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012026-gemeindefinanzierungsgesetz-2026-gfg-2026",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 36,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-gemeindefinanzierungsgesetz-2026-gfg-2026",
+     "sha256": "9a79b7355d5e4d38d8aa136326c679f837c4c881e0250a24fdb7cb081b8dc899"
+    }
+   ]
+  },
+  {
+   "slug": "haushaltsgesetz-2026-hhg-2026",
+   "short": "HHG 2026",
+   "title": "Gesetz über die Feststellung des Haushaltsplans des Landes Nordrhein-Westfalen für das Haushaltsjahr 2026 (Haushaltsgesetz 2026 - HHG 2026)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012025-haushaltsgesetz-2026-hhg-2026",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 42,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-haushaltsgesetz-2026-hhg-2026",
+     "sha256": "f2794a69a5b90bc77dbd79fafdf10aa975e9a41af5c6a0e5622794fb17df3f2a"
+    }
+   ]
+  },
+  {
+   "slug": "datenschutzgesetz-nordrhein-westfalen",
+   "short": "DSG NRW",
+   "title": "Datenschutzgesetz Nordrhein-Westfalen (DSG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-datenschutzgesetz-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2018-05-25",
+     "units": 73,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/25052018-datenschutzgesetz-nordrhein-westfalen-dsg-nrw",
+     "sha256": "a9d12b20b91ad704d86b8f36ab96d687da77fa5d1b5484bb4d3f1d7aff085159"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 74,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-datenschutzgesetz-nordrhein-westfalen",
+     "sha256": "6231203833d35b42aa0e8c0212f167796eb6ca1ba825123c72e61adb7fe4afff"
+    }
+   ]
+  },
+  {
+   "slug": "sicherheitsueberpruefungsgesetz-nordrhein-westfalen-sueg-nrw",
+   "short": "SÜG NRW",
+   "title": "Gesetz über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Landes Nordrhein-Westfalen und den Schutz von Verschlusssachen (Sicherheitsüberprüfungsgesetz Nordrhein-Westfalen - SÜG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-sicherheitsueberpruefungsgesetz-nordrhein-westfalen-sueg-nrw",
+   "versions": [
+    {
+     "from": "2022-03-05",
+     "units": 44,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/05032022-gesetz-ueber-die-voraussetzungen-und-das-verfahren-von",
+     "sha256": "22fc0550724c83cfcd6498d675eedbc3046b4dc22ebb246375bb9cf9aee6ada6"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 45,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-sicherheitsueberpruefungsgesetz-nordrhein-westfalen-sueg-nrw",
+     "sha256": "5f16819611f348cd7b5390770154cbdabf8d48356c2a0908207d6c65681ccd2b"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-stiftung-fuer-hochschulzulassung",
+   "short": "SfH-Gesetz",
+   "title": "Gesetz über die Stiftung für Hochschulzulassung (SfH-Gesetz)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/10022026-gesetz-ueber-die-stiftung-fuer-hochschulzulassung",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-stiftung-fuer-hochschulzulassung-sfh-gesetz",
+     "sha256": "8e129a1af3dd8058b34307897e5881f6dc6bb32aa40ec0d9f4b79c87e2d7fdd9"
+    },
+    {
+     "from": "2026-02-10",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/10022026-gesetz-ueber-die-stiftung-fuer-hochschulzulassung",
+     "sha256": "ae74bada2e53dcc59c0832bd69e22bc98fe9226e0f27e2a9e01eef225ee5abcc"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-wahl-zum-landtag-des-landes-nordrhein-westf",
+   "short": "Gesetz über die Wahl zum Landtag des Landes Nordrhein-Westfa",
+   "title": "Gesetz über die Wahl zum Landtag des Landes Nordrhein-Westfalen (Landeswahlgesetz) in der Fassung der Bekanntmachung vom 16. August 1993",
+   "url": "https://recht.nrw.de/lrgv/gesetz/19022026-gesetz-ueber-die-wahl-zum-landtag-des-landes-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 50,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30092022-bekanntmachung-der-neufassung-des-landeswahlgesetzes",
+     "sha256": "1c49e3fa3571944c6d7cf9a1c99cb2fa3d9ea035cea1012b8c41c83fc2cee713"
+    },
+    {
+     "from": "2026-02-19",
+     "units": 51,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022026-gesetz-ueber-die-wahl-zum-landtag-des-landes-nordrhein-westfalen",
+     "sha256": "3f0df35255d28e8e702863da623c832068102e226000403cecb4a1df0e04f2b0"
+    }
+   ]
+  },
+  {
+   "slug": "ausschussmitglieder-entschaedigungsgesetz-ameg",
+   "short": "AMEG",
+   "title": "Gesetz über die Entschädigung der ehrenamtlichen Mitglieder von Ausschüssen (Ausschussmitglieder-Entschädigungsgesetz - AMEG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01032026-ausschussmitglieder-entschaedigungsgesetz-ameg",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 10,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042025-gesetz-ueber-die-entschaedigung-der-ehrenamtlichen-mitglieder-von-ausschuessen",
+     "sha256": "aad757c25951e740d3cea8fab3625e449e6a87ca25e22c6d75528894e1d5e0c3"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 10,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01032026-ausschussmitglieder-entschaedigungsgesetz-ameg",
+     "sha256": "7fd6c25481d0314b197fab490a662d52ff249a37b8e2c161d1246b363cd494c7"
+    }
+   ]
+  },
+  {
+   "slug": "strafvollzugsgesetz-nordrhein-westfalen-stvollzg-nrw",
+   "short": "StVollzG NRW",
+   "title": "Gesetz zur Regelung des Vollzuges der Freiheitsstrafe in Nordrhein-Westfalen (Strafvollzugsgesetz Nordrhein-Westfalen - StVollzG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-strafvollzugsgesetz-nordrhein-westfalen-stvollzg-nrw",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 115,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072025-gesetz-zur-regelung-des-vollzuges-der-freiheitsstrafe-nordrhein-westfalen",
+     "sha256": "7281fcb40f80128560ae5671d974ed58615fb78bba76d9d51d330772b2f69a80"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 116,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-strafvollzugsgesetz-nordrhein-westfalen-stvollzg-nrw",
+     "sha256": "d9cb9d00a75f7dd6cacd45cef8b63221691f7c05ddba56cc2a1a2cdc82ab5617"
+    }
+   ]
+  },
+  {
+   "slug": "untersuchungshaftvollzugsgesetz-nordrhein-westfalen-uvollzg",
+   "short": "UVollzG NRW",
+   "title": "Gesetz zur Regelung des Vollzuges der Untersuchungshaft in Nordrhein-Westfalen (Untersuchungshaftvollzugsgesetz Nordrhein-Westfalen - UVollzG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-untersuchungshaftvollzugsgesetz-nordrhein-westfalen-uvollzg-nrw",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 58,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072025-gesetz-zur-regelung-des-vollzuges-der-untersuchungshaft-nordrhein-westfalen",
+     "sha256": "12643beb6a81b78a9824b24107263769d4edebebb2fe5126678368324f68ab89"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 59,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-untersuchungshaftvollzugsgesetz-nordrhein-westfalen-uvollzg-nrw",
+     "sha256": "c1f4a42276d753a0643e59297a6a8364147fa126ce58f1bbda3f092c41d9f083"
+    }
+   ]
+  },
+  {
+   "slug": "jugendstrafvollzugsgesetz-nordrhein-westfalen-jstvollzg-nrw",
+   "short": "JStVollzG NRW",
+   "title": "Gesetz zur Regelung des Jugendstrafvollzuges in Nordrhein-Westfalen (Jugendstrafvollzugsgesetz Nordrhein-Westfalen - JStVollzG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-jugendstrafvollzugsgesetz-nordrhein-westfalen-jstvollzg-nrw",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 76,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072025-gesetz-zur-regelung-des-jugendstrafvollzuges-nordrhein-westfalen",
+     "sha256": "9fb7b968a7d53225e96e61151f9cd420566b2364bb9b67c6f1adfb6754bfea1b"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 77,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-jugendstrafvollzugsgesetz-nordrhein-westfalen-jstvollzg-nrw",
+     "sha256": "ffdd96da527e0911fc47433666c8386b63782e3a195db6589a01ed608ca3c0d5"
+    }
+   ]
+  },
+  {
+   "slug": "jugendarrestvollzugsgesetz-nordrhein-westfalen-javollzg-nrw",
+   "short": "JAVollzG NRW",
+   "title": "Gesetz zur Regelung des Jugendarrestvollzuges in Nordrhein-Westfalen (Jugendarrestvollzugsgesetz Nordrhein-Westfalen - JAVollzG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-jugendarrestvollzugsgesetz-nordrhein-westfalen-javollzg-nrw",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 40,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072025-gesetz-zur-regelung-des-jugendarrestvollzuges-nordrhein-westfalen",
+     "sha256": "2c54b72e2ee49854030a58da7d57f38b4223b4c1adea174d53f765fbc52a35c0"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 41,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-jugendarrestvollzugsgesetz-nordrhein-westfalen-javollzg-nrw",
+     "sha256": "47fb50c0cb00c4a5dda73baea408bb53d903954be7cc4a73cf7e5642a7da643a"
+    }
+   ]
+  },
+  {
+   "slug": "sicherungsverwahrungsvollzugsgesetz-nordrhein-westfalen-svvo",
+   "short": "SVVollzG NRW",
+   "title": "Gesetz zur Regelung des Vollzuges der Sicherungsverwahrung in Nordrhein-Westfalen (Sicherungsverwahrungsvollzugsgesetz Nordrhein-Westfalen - SVVollzG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-sicherungsverwahrungsvollzugsgesetz-nordrhein-westfalen-svvollzg-nrw",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 105,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072025-gesetz-zur-regelung-des-vollzuges-der-sicherungsverwahrung-nordrhein-westfalen",
+     "sha256": "0983f3116246de51d1f23418588c9668f8051253723dca6ce8dc3caa6c8fc45d"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 106,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-sicherungsverwahrungsvollzugsgesetz-nordrhein-westfalen-svvollzg-nrw",
+     "sha256": "9fdbe87729cdddaa5bc58e7446b24c8cf8cd5cb231612e461ce9c7d4726cfec1"
+    }
+   ]
+  },
+  {
+   "slug": "justizvollzugsdatenschutzgesetz-nordrhein-westfalen-jvollzds",
+   "short": "JVollzDSG NRW",
+   "title": "Gesetz zum Schutz personenbezogener Daten im Justizvollzug in Nordrhein-Westfalen (Justizvollzugsdatenschutzgesetz Nordrhein-Westfalen - JVollzDSG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-justizvollzugsdatenschutzgesetz-nordrhein-westfalen-jvollzdsg-nrw",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 51,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072025-justizvollzugsdatenschutzgesetz-nordrhein-westfalen-jvollzdsg-nrw",
+     "sha256": "89f7f79c49d3a8e97674922d54e056a84c7c0419061ad568cb3ed59e9d886551"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 51,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-justizvollzugsdatenschutzgesetz-nordrhein-westfalen-jvollzdsg-nrw",
+     "sha256": "a88497a81b79b8c546b5d43559958032ce291118418bc05db11329e9a349d9ac"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-den-westdeutschen-rundfunk-koeln",
+   "short": "WDR - Gesetz",
+   "title": "Gesetz über den 'Westdeutschen Rundfunk Köln' (WDR - Gesetz)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-gesetz-ueber-den-westdeutschen-rundfunk-koeln",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 76,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-gesetz-ueber-den-westdeutschen-rundfunk-koeln-wdr-gesetz-bekanntmachung-der",
+     "sha256": "1ae5591f72d31d1bb122cf209c708638bd8d654c4eb3220dbc506dd1d3cfbee8"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 74,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-gesetz-ueber-den-westdeutschen-rundfunk-koeln",
+     "sha256": "820a85c6ed5c727607b0bb42836f2143adc496b5d7f4162c01ba70393bfa0d52"
+    }
+   ]
+  },
+  {
+   "slug": "landesmediengesetz-nordrhein-westfalen-lmg-nrw",
+   "short": "Landesmediengesetz Nordrhein-Westfalen (LMG NRW)",
+   "title": "Landesmediengesetz Nordrhein-Westfalen (LMG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-landesmediengesetz-nordrhein-westfalen-lmg-nrw",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 132,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-landesmediengesetz-nordrhein-westfalen-lmg-nrw",
+     "sha256": "86b78f115db2bd830921c57f8beb253a74a35c363b7d44d3a36a14ef6a6728bc"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 133,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-landesmediengesetz-nordrhein-westfalen-lmg-nrw",
+     "sha256": "0dc713349872d41503d5e480f84cdfeffa6a7fc37bef5d39e7677581c14b73fd"
+    }
+   ]
+  },
+  {
+   "slug": "telemedienzustaendigkeitsgesetz-tmz-gesetz",
+   "short": "TMZ-Gesetz",
+   "title": "Gesetz zur Regelung der Zuständigkeit für die Überwachung von Telemedien im Anwendungsbereich des Digitale-Dienste-Gesetzes, des Telekommunikation-Digitale Dienste-Datenschutz-Gesetzes und nach § 24 Absatz 3, § 104 Absatz 1, § 106 Absatz 3 und § 113 des Medienstaatsvertrages (Telemedienzuständigkeitsgesetz - TMZ-Gesetz)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-telemedienzustaendigkeitsgesetz-tmz-gesetz",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 4,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/27042022-gesetz-zur-regelung-der-zustaendigkeit-fuer-die-ueberwachung-von-telemedien",
+     "sha256": "ac26930398deb6086c53f6f41a42df5408218e8a8a079ba3a39a85993bae312c"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-telemedienzustaendigkeitsgesetz-tmz-gesetz",
+     "sha256": "0799da6274ce6236a130dcda65d0417fc8cd1b9fd0640d0ee6073d394a227e27"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-ausfuehrung-des-siebzehnten-rundfunkaenderungssta",
+   "short": "Siebzehnter Rundfunkänderungsstaatsvertrag Ausführungsgesetz",
+   "title": "Gesetz zur Ausführung des Siebzehnten Rundfunkänderungsstaatsvertrags (Siebzehnter Rundfunkänderungsstaatsvertrag Ausführungsgesetz)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01042026-gesetz-zur-ausfuehrung-des-siebzehnten-rundfunkaenderungsstaatsvertrags",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 4,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012016-gesetz-zur-ausfuehrung-des-siebzehnten-rundfunkaenderungsstaatsvertrags",
+     "sha256": "293f0db4d0df584ab7310931327956b3b8c2ee1f95a0bd675f4cdc0ab5ade4a7"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-gesetz-zur-ausfuehrung-des-siebzehnten-rundfunkaenderungsstaatsvertrags",
+     "sha256": "79fe4099ba19fa2e790e103a73174c9ad131f25175e0c6a96537dc15bda3f0f5"
+    }
+   ]
+  },
+  {
+   "slug": "buergerenergiegesetz-nrw-buergeng",
+   "short": "BürgEnG",
+   "title": "Gesetz über die Beteiligung von Bürgerinnen und Bürgern sowie Gemeinden an der Windenergienutzung in Nordrhein-Westfalen (Bürgerenergiegesetz NRW - BürgEnG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/22052026-buergerenergiegesetz-nrw-buergeng",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/28122023-gesetz-ueber-die-beteiligung-von-buergerinnen-und-buergern-sowie-gemeinden-der",
+     "sha256": "4593723afba01a2e5790002626aa4ce25dab024a8d8156ca5abd4d61926dba7d"
+    },
+    {
+     "from": "2026-05-22",
+     "units": 16,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/22052026-buergerenergiegesetz-nrw-buergeng",
+     "sha256": "ed238571c5be85ff6c9da6308b20bd1575fad28fc90732c35433740ee08ccae5"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-den-oeffentlichen-personennahverkehr-nordrhein",
+   "short": "ÖPNVG NRW",
+   "title": "Gesetz über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG NRW )",
+   "url": "https://recht.nrw.de/lrgv/gesetz/22052026-gesetz-ueber-den-oeffentlichen-personennahverkehr-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2023-12-16",
+     "units": 22,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16122023-gesetz-ueber-den-oeffentlichen-personennahverkehr-nordrhein-westfalen-oepnvg",
+     "sha256": "f17190d34910b863aabd833e23a502a88e9f8fcfeef4a68d3b8c0eedec8ef0f2"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 22,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-gesetz-ueber-den-oeffentlichen-personennahverkehr-nordrhein-westfalen",
+     "sha256": "30edc63f5ac9cf52d27273ed679944955e85bee9c5849bee565cb20aed0cbb0c"
+    },
+    {
+     "from": "2026-05-22",
+     "units": 23,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/22052026-gesetz-ueber-den-oeffentlichen-personennahverkehr-nordrhein-westfalen",
+     "sha256": "1d2a614c8f564a8cc86d0f1ff3f14f6ee34f1a897fb7ecf194edf9ce88e57230"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 24,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012027-gesetz-ueber-den-oeffentlichen-personennahverkehr-nordrhein-westfalen",
+     "sha256": "7f280c35fa8442ac5599fae59a9d5e3436167ef8fc52b1797462e1ff177d621b"
+    }
+   ]
+  },
+  {
+   "slug": "ausfuehrungsgesetz-nrw-gluecksspielstaatsvertrag-ag-gluestv",
+   "short": "AG GlüStV NRW",
+   "title": "Gesetz zur Ausführung des Glücksspielstaatsvertrages (Ausführungsgesetz NRW Glücksspielstaatsvertrag - AG GlüStV NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-ausfuehrungsgesetz-nrw-gluecksspielstaatsvertrag-ag-gluestv-nrw",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 29,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072021-gesetz-zur-ausfuehrung-des-gluecksspielstaatsvertrages-ausfuehrungsgesetz-nrw",
+     "sha256": "52d07cf4c635ecdf4ce5c5cc311f72a5cc1754ca9805494e2753715099e4d36a"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 30,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-ausfuehrungsgesetz-nrw-gluecksspielstaatsvertrag-ag-gluestv-nrw",
+     "sha256": "e6f4dc0d4ee83edc16bc3e1c66503bb4d396106611a5326184e72321ed94bd49"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-feststellung-der-gleichwertigkeit-auslaendischer",
+   "short": "Gesetz zur Feststellung der Gleichwertigkeit ausländischer B",
+   "title": "Gesetz zur Feststellung der Gleichwertigkeit ausländischer Berufsqualifikationen in Nordrhein-Westfalen (Berufsqualifikationsfeststellungsgesetz NRW – BQFG NRW)*",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-gesetz-zur-feststellung-der-gleichwertigkeit-auslaendischer",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 27,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/22092021-gesetz-zur-feststellung-der-gleichwertigkeit-auslaendischer",
+     "sha256": "b36efc9fdf7c6538f626a25d8f5f500a219bbe337bad5e611fccf6e6195522ec"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 28,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-gesetz-zur-feststellung-der-gleichwertigkeit-auslaendischer",
+     "sha256": "7e49e4cd0695ea2bf360cafbaf30b8c1b4dbef850f4418018973ab6ae444575e"
+    }
+   ]
+  },
+  {
+   "slug": "gesundheitsfachberufeweiterentwicklungsgesetz-gbweg",
+   "short": "GBWEG",
+   "title": "Gesetz über die Weiterentwicklung von Gesundheitsfachberufen (Gesundheitsfachberufeweiterentwicklungsgesetz - GBWEG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-gesundheitsfachberufeweiterentwicklungsgesetz-gbweg",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 3,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/15122021-gesetz-ueber-die-ermaechtigung-zum-erlass-von-ausbildungs-und",
+     "sha256": "08e1797eec4c5fe2a6ff2ae870ff5561756c5592a356508dc0150db0379389a0"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-gesundheitsfachberufeweiterentwicklungsgesetz-gbweg",
+     "sha256": "903d0f3bf0ab3c9c6b4095dfeb0ec9e665940ceeeaa1a1d137472355073ce756"
+    }
+   ]
+  },
+  {
+   "slug": "landesbetreuungsgesetz-lbtg",
+   "short": "LBtG",
+   "title": "Gesetz zur Ausführung des Betreuungsgesetzes (Landesbetreuungsgesetz - LBtG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-landesbetreuungsgesetz-lbtg",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 10,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30122023-gesetz-zur-ausfuehrung-des-betreuungsgesetzes-landesbetreuungsgesetz-lbtg",
+     "sha256": "0360a90e2c54f7ecfccb91aff9b3a50980569aff947dd091e396e4eb18ee69d5"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 10,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-landesbetreuungsgesetz-lbtg",
+     "sha256": "5c60d8885676518322147e0a0e71627df01896c759dbf06a11b6198fe25fd4d2"
+    }
+   ]
+  },
+  {
+   "slug": "landesfischereigesetz-bekanntmachung-der-neufassung",
+   "short": "Landesfischereigesetz; Bekanntmachung der Neufassung",
+   "title": "Landesfischereigesetz; Bekanntmachung der Neufassung",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-landesfischereigesetz-bekanntmachung-der-neufassung",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 67,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042025-bekanntmachung-der-neufassung-des-landesfischereigesetzes",
+     "sha256": "025c1fd7ad42039bfcbd91b3cdc63b7308d37f8023bcf6f4e15149ba3ed0bc0c"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 70,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-landesfischereigesetz-bekanntmachung-der-neufassung",
+     "sha256": "39285622532c7585ddf8f12ea06294c160c00a493c4a849c0d41bc1acd48e576"
+    }
+   ]
+  },
+  {
+   "slug": "ausfuehrungsgesetz-zum-tiergesundheitsrecht-und-zum-recht-de",
+   "short": "AG TierGesR TierNebR NRW",
+   "title": "Ausführungsgesetz zum Tiergesundheitsrecht und zum Recht der Tierischen Nebenprodukte (AG TierGesR TierNebR NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-ausfuehrungsgesetz-zum-tiergesundheitsrecht-und-zum-recht-der-tierischen",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 40,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-ausfuehrungsgesetz-zum-tiergesundheitsrecht-und-zum-recht-der-tierischen",
+     "sha256": "bd0c1cc6db9e7c33baf9f46168d43b0f4951c7e0bce70ab26e6a8a63a52b24c7"
+    }
+   ]
+  },
+  {
+   "slug": "lehramtsausbildungsgesetz-labg",
+   "short": "LABG",
+   "title": "Gesetz über die Ausbildung für Lehrämter an öffentlichen Schulen (Lehramtsausbildungsgesetz - LABG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-lehramtsausbildungsgesetz-labg",
+   "versions": [
+    {
+     "from": "2025-06-07",
+     "units": 21,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/07062025-gesetz-ueber-die-ausbildung-fuer-lehraemter-oeffentlichen-schulen",
+     "sha256": "eb779562fc32cbd00433cb89ee963aa40471df3829e9164efff2b51ea8a5def8"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 22,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-lehramtsausbildungsgesetz-labg",
+     "sha256": "e4742b1c194f7585fa2e94e977d1a04cfa5990a4f5d6cbc8681dd2a065085b81"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-landwirtschaftskammer-nordrhein-westfalen",
+   "short": "Gesetz über die Landwirtschaftskammer Nordrhein-Westfalen (L",
+   "title": "Gesetz über die Landwirtschaftskammer Nordrhein-Westfalen (Landwirtschaftskammergesetz - LWKG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-gesetz-ueber-die-landwirtschaftskammer-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 28,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/17072025-gesetz-ueber-die-landwirtschaftskammer-nordrhein-westfalen",
+     "sha256": "9834e3275f50a7941e70e6170ca668901744b112f7eebf069e2f249b1e32cc05"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 28,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-gesetz-ueber-die-landwirtschaftskammer-nordrhein-westfalen",
+     "sha256": "8089cfb02176a3fc489668c78192abf909ad8a343f3707dcdcccdcbca3e74721"
+    }
+   ]
+  },
+  {
+   "slug": "ordnungsbehoerdengesetz-obg",
+   "short": "OBG",
+   "title": "Bekanntmachung der Neufassung des Gesetzes über Aufbau und Befugnisse der Ordnungsbehörden (Ordnungsbehördengesetz - OBG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-ordnungsbehoerdengesetz-obg",
+   "versions": [
+    {
+     "from": "2024-12-21",
+     "units": 53,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/21122024-bekanntmachung-der-neufassung-des-gesetzes-ueber-aufbau-und-befugnisse-der",
+     "sha256": "123c8adba500705bd6174117dd087c24f317a94385efc12941e614f1125d7337"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 80,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-ordnungsbehoerdengesetz-obg",
+     "sha256": "82236a3f72cec04796021e7819571df3f582bc975f19166a238391c596d0bab7"
+    }
+   ]
+  },
+  {
+   "slug": "strassen-und-wegegesetz-des-landes-nordrhein-westfalen-strwg",
+   "short": "Straßen- und Wegegesetz des Landes Nordrhein-Westfalen (StrW",
+   "title": "Straßen- und Wegegesetz des Landes Nordrhein-Westfalen (StrWG NRW); Bekanntmachung der Neufassung",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-strassen-und-wegegesetz-des-landes-nordrhein-westfalen-strwg-nrw",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 88,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-strassen-und-wegegesetz-des-landes-nordrhein-westfalen-strwg-nrw",
+     "sha256": "4ef700e43a6c7f6b9bb3a9fce7a8706bc1a069b2767f3813ca610a1c052d40de"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 88,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-strassen-und-wegegesetz-des-landes-nordrhein-westfalen-strwg-nrw",
+     "sha256": "d63359a2d54c7c8835488007db927c537055fe5022ebc642455cb6bd26315664"
+    }
+   ]
+  },
+  {
+   "slug": "landesplanungsgesetz-nordrhein-westfalen",
+   "short": "Landesplanungsgesetz Nordrhein-Westfalen",
+   "title": "Landesplanungsgesetz Nordrhein-Westfalen",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-landesplanungsgesetz-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2025-02-15",
+     "units": 46,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/15022025-landesplanungsgesetz-nordrhein-westfalen",
+     "sha256": "b73fb360234c30f607dc4143946806e28c47d8ead7e1d1caff97746d698b6973"
+    },
+    {
+     "from": "2025-08-15",
+     "units": 48,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/15082025-landesplanungsgesetz-nordrhein-westfalen",
+     "sha256": "d80f41026490b647d104b3c49f5c9262e9c59c2cca0540e9e631fda876b01308"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 49,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-landesplanungsgesetz-nordrhein-westfalen",
+     "sha256": "4892f111c31908cb30719cf627c85c96d018a7e07c3f8c5e313baaaf38de9ec1"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 49,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-landesplanungsgesetz-nordrhein-westfalen",
+     "sha256": "f6308ee4e4928e60ff2202efef011c5c99bb70a13613e9d4e7bc4cacd17fe677"
+    }
+   ]
+  },
+  {
+   "slug": "landesumweltvertraeglichkeitspruefungsgesetz-uvpg-nrw",
+   "short": "UVPG NRW",
+   "title": "Gesetz über die Umweltverträglichkeitsprüfung im Land Nordrhein-Westfalen (Landesumweltverträglichkeitsprüfungsgesetz - UVPG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01072026-landesumweltvertraeglichkeitspruefungsgesetz-uvpg-nrw",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 8,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/18052021-gesetz-ueber-die-umweltvertraeglichkeitspruefung-im-land-nordrhein-westfalen",
+     "sha256": "3059e7612fc7c2c977c6e702d0be86a3a76748ea2046d3f70c43a2e9286ecc3a"
+    },
+    {
+     "from": "2021-12-29",
+     "units": 8,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/29122021-landesumweltvertraeglichkeitspruefungsgesetz-uvpg-nrw",
+     "sha256": "2d003dc89bb31da1291129202139f710f881bef0d020161e580af639d3bbd946"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 8,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072026-landesumweltvertraeglichkeitspruefungsgesetz-uvpg-nrw",
+     "sha256": "d0932531c01fc096a1175a86703e710290ceccaab1e84cc92fccb399c7b81669"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-den-nordrhein-westfalen-plan-fuer-gute-infrastr",
+   "short": "NRW-Infrastrukturgesetz 2025 bis 2036",
+   "title": "Gesetz über den Nordrhein-Westfalen-Plan für gute Infrastruktur 2025 bis 2036 (NRW-Infrastrukturgesetz 2025 bis 2036)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/14072026-gesetz-ueber-den-nordrhein-westfalen-plan-fuer-gute-infrastruktur-2025-bis",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 17,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/23122025-gesetz-ueber-den-nordrhein-westfalen-plan-fuer-gute-infrastruktur-2025-bis",
+     "sha256": "7b4e229d06cb9c120ceae300d510b5260ed69f5d5e5310f15afbb53fae26e8fe"
+    },
+    {
+     "from": "2026-07-14",
+     "units": 18,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/14072026-gesetz-ueber-den-nordrhein-westfalen-plan-fuer-gute-infrastruktur-2025-bis",
+     "sha256": "e4ada24334c609b66cd149fce2ae190eb1835a408b547b465250780332fcf998"
+    }
+   ]
+  },
+  {
+   "slug": "notarverordnung-nrw-notvo-nrw",
+   "short": "NotVO NRW",
+   "title": "Verordnung zur Regelung von Angelegenheiten auf dem Gebiet des Notarwesens im Land Nordrhein-Westfalen (Notarverordnung NRW - NotVO NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30072026-notarverordnung-nrw-notvo-nrw",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 23,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-verordnung-zur-regelung-von-angelegenheiten-auf-dem-gebiet-des-notarwesens-im",
+     "sha256": "e12ebf0c423faee8c4d2fcfc501347da60de53d959f9df2ff66a8ed684ce070f"
+    },
+    {
+     "from": "2026-07-30",
+     "units": 24,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30072026-notarverordnung-nrw-notvo-nrw",
+     "sha256": "ce5330fdd41d453612896c20c3cbdc478d478d6b606e76cecf83722715bf4192"
+    }
+   ]
+  },
+  {
+   "slug": "schulgesetz-nrw-schulg",
+   "short": "SchulG",
+   "title": "Schulgesetz für das Land Nordrhein-Westfalen (Schulgesetz NRW - SchulG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01082026-schulgesetz-nrw-schulg",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 139,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082025-schulgesetz-fuer-das-land-nordrhein-westfalen-schulgesetz-nrw-schulg",
+     "sha256": "623fb109623e43f8f4bea1140978430f82672d90ad9b3edd498e2ad9354910ed"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 140,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082026-schulgesetz-nrw-schulg",
+     "sha256": "7c988f3d0e4401ec4509a32f925c7ce5bdbc774a9eca6fcc41deaf45bda5e4a1"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-fruehen-bildung-und-foerderung-von-kindern-kinder",
+   "short": "Gesetz zur frühen Bildung und Förderung von Kindern (Kinderb",
+   "title": "Gesetz zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) - Sechstes Gesetz zur Ausführung des Achten Buches Sozialgesetzbuch -",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01082026-gesetz-zur-fruehen-bildung-und-foerderung-von-kindern-kinderbildungsgesetz",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 56,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082022-gesetz-zur-fruehen-bildung-und-foerderung-von-kindern-kinderbildungsgesetz",
+     "sha256": "ebe0d75d1f6d9fe6ea1270df9fb01b3bd4ff5f6032323eee080ac0f6a40d3bfb"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 57,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082026-gesetz-zur-fruehen-bildung-und-foerderung-von-kindern-kinderbildungsgesetz",
+     "sha256": "c961cc29091186a347316d191d04b8df52460c5fa22e180276d77e2c90d12bb3"
+    },
+    {
+     "from": "2027-08-01",
+     "units": 61,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082027-gesetz-zur-fruehen-bildung-und-foerderung-von-kindern-kinderbildungsgesetz",
+     "sha256": "fc06364f9db6961734d603a801789443a25c55af2b2065ed2ac277454de4bc62"
+    }
+   ]
+  },
+  {
+   "slug": "erstes-gesetz-zur-ausfuehrung-des-kinder-und-jugendhilfegese",
+   "short": "Erstes Gesetz zur Ausführung des Kinder- und Jugendhilfegese",
+   "title": "Erstes Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes - AG - KJHG -",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01082026-erstes-gesetz-zur-ausfuehrung-des-kinder-und-jugendhilfegesetzes-ag-kjhg",
+   "versions": [
+    {
+     "from": "2025-06-28",
+     "units": 36,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/28062025-erstes-gesetz-zur-ausfuehrung-des-kinder-und-jugendhilfegesetzes-ag-kjhg",
+     "sha256": "da4a43cf22fe8390b91e1c77476c8fb099104f4192b38df2513d3d7850b4342f"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 36,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082026-erstes-gesetz-zur-ausfuehrung-des-kinder-und-jugendhilfegesetzes-ag-kjhg",
+     "sha256": "17c1bbfd34508e919e6f46788be6a7c3427d43ec898eba6a84e71fa5b6be01f8"
+    }
+   ]
+  },
+  {
+   "slug": "landesbeamtenversorgungsgesetz-lbeamtvg-nrw",
+   "short": "LBeamtVG NRW",
+   "title": "Beamtenversorgungsgesetz für das Land Nordrhein-Westfalen (Landesbeamtenversorgungsgesetz - LBeamtVG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01082026-landesbeamtenversorgungsgesetz-lbeamtvg-nrw",
+   "versions": [
+    {
+     "from": "2025-06-07",
+     "units": 113,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/07062025-beamtenversorgungsgesetz-fuer-das-land-nordrhein-westfalen",
+     "sha256": "2be64e1b1d523c6231580dfcda5957cd55e8dd1e2da2ef04b52617aa50586855"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 112,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-landesbeamtenversorgungsgesetz-lbeamtvg-nrw",
+     "sha256": "6ccc17b231dfa4fbc40b5696228fc3528b9fa739ae3602d658c69e5319636e63"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 112,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-landesbeamtenversorgungsgesetz-lbeamtvg-nrw",
+     "sha256": "ef179d10fbbbcba416c569ccced7d12da282a5fe71ede6812ca8e81152255c5e"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 112,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082026-landesbeamtenversorgungsgesetz-lbeamtvg-nrw",
+     "sha256": "5ccf7ea54abb30e109cffe105d68c76cb872823387f8854a07f2c9685485f3c8"
+    },
+    {
+     "from": "2027-03-01",
+     "units": 112,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01032027-landesbeamtenversorgungsgesetz-lbeamtvg-nrw",
+     "sha256": "896840b358a001a531797a4701ada79cb892fe0614efada5c3198f7706f8ed32"
+    },
+    {
+     "from": "2028-01-01",
+     "units": 112,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012028-landesbeamtenversorgungsgesetz-lbeamtvg-nrw",
+     "sha256": "50a18e61d50cbc47a04dae214f6dd75a6942c02312ae869c77c0ddb7f85ffd85"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-ueberleitung-der-gesamtschulrektorinnen-gesamtsch",
+   "short": "Gesetz zur Überleitung der Gesamtschulrektorinnen, Gesamtsch",
+   "title": "Gesetz zur Überleitung der Gesamtschulrektorinnen, Gesamtschulrektoren – als Koordinatorinnen oder Koordinatoren in Ämter der Besoldungsgruppe A 13 mit Amtszulage",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01082026-gesetz-zur-ueberleitung-der-gesamtschulrektorinnen-gesamtschulrektoren-als",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 5,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082026-gesetz-zur-ueberleitung-der-gesamtschulrektorinnen-gesamtschulrektoren-als",
+     "sha256": "a6bc2eab26fc0737c8415db68ae80c78f512bebd74b8d8104b5c20929b02ad55"
+    }
+   ]
+  },
+  {
+   "slug": "landesbauordnung-2018-bauo-nrw-2018",
+   "short": "BauO NRW 2018",
+   "title": "Bauordnung für das Land Nordrhein-Westfalen (Landesbauordnung 2018 - BauO NRW 2018)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01092026-landesbauordnung-2018-bauo-nrw-2018",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 92,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw",
+     "sha256": "fd0346cd4fcf760672058f1f9386c0c657c30963a63d3790a00a362e3887cf3b"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 96,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01092026-landesbauordnung-2018-bauo-nrw-2018",
+     "sha256": "428ffdea16fceea2aaf282cad62f6cb1c7dc8b595aad3d22a635906e083e9b30"
+    }
+   ]
+  },
+  {
+   "slug": "denkmalschutzgesetz-dschg-nrw",
+   "short": "DSchG NRW",
+   "title": "Nordrhein-westfälisches Denkmalschutzgesetz (Denkmalschutzgesetz - DSchG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01092026-denkmalschutzgesetz-dschg-nrw",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 45,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01062022-nordrhein-westfaelisches-denkmalschutzgesetz-denkmalschutzgesetz-dschg-nrw",
+     "sha256": "d1c0b4e0abf4771fffd95f86a7cd193f070c462a53bc33ef1f627e013bb57c10"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 48,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01092026-denkmalschutzgesetz-dschg-nrw",
+     "sha256": "47c43d362b3e8d376703746fe09d3ac20cc77544087307f3c0a1f4699e6042ab"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-immobilien-und-standortgemeinschaften-isgg-nrw",
+   "short": "Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW",
+   "title": "Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01092026-gesetz-ueber-immobilien-und-standortgemeinschaften-isgg-nrw",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 7,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072014-gesetz-ueber-immobilien-und-standortgemeinschaften-isgg-nrw",
+     "sha256": "ee87175e46b608284d38c5dd610b1775e8ffc6b45494a04037eff02175bef4c8"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 8,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01092026-gesetz-ueber-immobilien-und-standortgemeinschaften-isgg-nrw",
+     "sha256": "e983517aab0c6481fc71110f8ae2a24e84776781814fba3182a8cc1d9904ded3"
+    }
+   ]
+  },
+  {
+   "slug": "archivgesetz-nordrhein-westfalen-archivg-nrw",
+   "short": "ArchivG NRW",
+   "title": "Gesetz über die Anbietung und Archivierung von Unterlagen sowie über die Sicherung und Nutzung öffentlichen Archivguts im Lande Nordrhein-Westfalen (Archivgesetz Nordrhein-Westfalen - ArchivG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-archivgesetz-nordrhein-westfalen-archivg-nrw",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 14,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30092014-gesetz-ueber-die-sicherung-und-nutzung-oeffentlichen-archivguts-im-lande",
+     "sha256": "5e30f34350c05da47b64d55f538b28f88d3fc76fdcb1e00c5f9cf306aa9b935e"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-archivgesetz-nordrhein-westfalen-archivg-nrw",
+     "sha256": "a0cd6440067d9a6328736db308b5a72bbb7207677d5040d374c9e9dec04e3a60"
+    }
+   ]
+  },
+  {
+   "slug": "kulturgesetzbuch-kulturgb-nrw",
+   "short": "KulturGB NRW",
+   "title": "Kulturgesetzbuch für das Land Nordrhein-Westfalen (Kulturgesetzbuch - KulturGB NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-kulturgesetzbuch-kulturgb-nrw",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 69,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012022-kulturgesetzbuch-fuer-das-land-nordrhein-westfalen-kulturgesetzbuch-kulturgb",
+     "sha256": "da8138279e1d85e5db631be7ea0ad1b2e9993d215fd4e98dded9aa0abb541b50"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 71,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-kulturgesetzbuch-kulturgb-nrw",
+     "sha256": "85a936f95d6694019f30da0e72740f5088aa81ced74843242bcb513cfa6a909c"
+    }
+   ]
+  },
+  {
+   "slug": "online-casinospiel-gesetz-nrw-ocg-nrw",
+   "short": "OCG NRW",
+   "title": "Gesetz über die Zulassung von Online-Casinospielen im Land Nordrhein-Westfalen (Online-Casinospiel Gesetz NRW - OCG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-online-casinospiel-gesetz-nrw-ocg-nrw",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 41,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/09032022-gesetz-ueber-die-zulassung-von-online-casinospielen-im-land-nordrhein",
+     "sha256": "f905aceb34553d69a66e037c57473b79fcbd3d80d2c9f6559aecde6374bcaf3a"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 43,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-online-casinospiel-gesetz-nrw-ocg-nrw",
+     "sha256": "9e145a0250d3becf2cb2632b62ff63056560799f880f12752c3181cfb09d2b95"
+    }
+   ]
+  },
+  {
+   "slug": "hochschulgesetz-hg",
+   "short": "HG",
+   "title": "Gesetz über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-hochschulgesetz-hg",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 116,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/07052025-gesetz-ueber-die-hochschulen-des-landes-nordrhein-westfalen-hochschulgesetz-hg",
+     "sha256": "60d1ab58a6f0f26ac37577d185818df132a83039a8e225c2dcf4f10c82b16392"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 148,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-hochschulgesetz-hg",
+     "sha256": "e064dc7b532a3bc9580dce549a60a39b0cfe6cbeabd45f527233f49190c5aaf7"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-evangelische-fachhochschule-rheinland-westf",
+   "short": "Gesetz über die Evangelische Fachhochschule Rheinland-Westfa",
+   "title": "Gesetz über die Evangelische Fachhochschule Rheinland-Westfalen-Lippe",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-gesetz-ueber-die-evangelische-fachhochschule-rheinland-westfalen-lippe",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 7,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012007-gesetz-ueber-die-evangelische-fachhochschule-rheinland-westfalen-lippe",
+     "sha256": "6975da675304be50b7e2bff04eebab1040c7cf472d1c564fb73dc056d88792ae"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 8,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-gesetz-ueber-die-evangelische-fachhochschule-rheinland-westfalen-lippe",
+     "sha256": "f9b5754034022ff1ca72052995e7c8a3fc1b7fd2044d575160480a842364472e"
+    }
+   ]
+  },
+  {
+   "slug": "landesgleichstellungsgesetz-lgg",
+   "short": "LGG",
+   "title": "Gesetz zur Gleichstellung von Frauen und Männern für das Land Nordrhein-Westfalen (Landesgleichstellungsgesetz - LGG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-landesgleichstellungsgesetz-lgg",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 29,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-zur-gleichstellung-von-frauen-und-maennern-fuer-das-land-nordrhein",
+     "sha256": "37c8b0717a4d31e74a2738de43c7d3e804189b4bb5b09cbd179e7350664621ec"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 30,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-landesgleichstellungsgesetz-lgg",
+     "sha256": "cce9194a73da88401b8c5eea3c91535281fbd52b275a8a0814688210d572f47c"
+    }
+   ]
+  },
+  {
+   "slug": "personalvertretungsgesetz-fuer-das-land-nordrhein-westfalen",
+   "short": "Personalvertretungsgesetz für das Land Nordrhein-Westfalen -",
+   "title": "Personalvertretungsgesetz für das Land Nordrhein-Westfalen - Landespersonalvertretungsgesetz - LPVG -",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-personalvertretungsgesetz-fuer-das-land-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 118,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/14062023-personalvertretungsgesetz-fuer-das-land-nordrhein-westfalen",
+     "sha256": "5f08f633f7b015990b8e3bed5347a9d1da88c3ac742cb2e7c1d2f05a13634dd2"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 118,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-personalvertretungsgesetz-fuer-das-land-nordrhein-westfalen",
+     "sha256": "71c93adaa2e55e6ab9463bd4e55cfe05f332ac020ff60f139e49c15054be5ddf"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-zur-errichtung-einer-stiftung-deutsche-zentralbibliot",
+   "short": "Gesetz zur Errichtung einer Stiftung „Deutsche Zentralbiblio",
+   "title": "Gesetz zur Errichtung einer Stiftung „Deutsche Zentralbibliothek für Medizin“",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-gesetz-zur-errichtung-einer-stiftung-deutsche-zentralbibliothek-fuer-medizin",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 14,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012014-gesetz-zur-errichtung-einer-stiftung-deutsche-zentralbibliothek-fuer-medizin",
+     "sha256": "d5664d94d0247d399697375ec24ca2fa39802e596af44578a0b78c7d68b876ce"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 16,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-gesetz-zur-errichtung-einer-stiftung-deutsche-zentralbibliothek-fuer-medizin",
+     "sha256": "8ce29082e16039a5eb84c2f46cc8aca98149c04b1827e2844564dd4a43b7a96a"
+    }
+   ]
+  },
+  {
+   "slug": "kunsthochschulgesetz-kunsthg",
+   "short": "KunstHG",
+   "title": "Gesetz über die Kunsthochschulen des Landes Nordrhein-Westfalen (Kunsthochschulgesetz - KunstHG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-kunsthochschulgesetz-kunsthg",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 86,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/31122024-gesetz-ueber-die-kunsthochschulen-des-landes-nordrhein-westfalen",
+     "sha256": "1d075fbff86e434a7b2aaf4666cea3e6082a799ed56455897eac2d3d88a57613"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 92,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-kunsthochschulgesetz-kunsthg",
+     "sha256": "9409c4557a639ed7b0b41d38fc3259c9f07bfe010accb3a1fd80a47f622c990d"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-stiftung-leibniz-institut-zur-analyse-des",
+   "short": "Gesetz über die Stiftung „Leibniz-Institut zur Analyse des B",
+   "title": "Gesetz über die Stiftung „Leibniz-Institut zur Analyse des Biodiversitätswandels“",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-gesetz-ueber-die-stiftung-leibniz-institut-zur-analyse-des",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/15042022-gesetz-ueber-die-stiftung-leibniz-institut-zur-analyse-des",
+     "sha256": "4875f14ef48f8eeb279d197ab19ebbd5a6bf86b826c2bb85703aa5a62673bff6"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 16,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-gesetz-ueber-die-stiftung-leibniz-institut-zur-analyse-des",
+     "sha256": "814931a708673f00d927bd71f286bc9708ed9ea14ce18afcdac00241b1ae62aa"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-die-stiftung-akkreditierungsrat",
+   "short": "Akkreditierungsratsgesetz",
+   "title": "Gesetz über die Stiftung Akkreditierungsrat (Akkreditierungsratsgesetz)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-gesetz-ueber-die-stiftung-akkreditierungsrat",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072021-gesetz-ueber-die-stiftung-akkreditierungsrat-akkreditierungsratsgesetz",
+     "sha256": "897fe4c6cf79455a545e7672700b05d98d908ee675786ca45e4515fe75661475"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 16,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-gesetz-ueber-die-stiftung-akkreditierungsrat",
+     "sha256": "53cf12532e18f82a5fa0b1b2f5c3f3e7c3cadee4921f4cb0e96b7050748171ee"
+    }
+   ]
+  },
+  {
+   "slug": "landesbeamtengesetz-lbg-nrw",
+   "short": "LBG NRW",
+   "title": "Gesetz über die Beamtinnen und Beamten des Landes Nordrhein-Westfalen (Landesbeamtengesetz - LBG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-landesbeamtengesetz-lbg-nrw",
+   "versions": [
+    {
+     "from": "2025-06-07",
+     "units": 144,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/07062025-gesetz-ueber-die-beamtinnen-und-beamten-des-landes-nordrhein-westfalen",
+     "sha256": "2e59241621ff9db731902a82338ab5f569f78a56e9a3e7726a14ec7fb0b9c3c4"
+    },
+    {
+     "from": "2025-12-13",
+     "units": 145,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/13122025-landesbeamtengesetz-lbg-nrw",
+     "sha256": "570ef21254e5c33d6c426ee4b344c62299d535e50d5a25040cd2b54b874e4e66"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 146,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-landesbeamtengesetz-lbg-nrw",
+     "sha256": "ae8b19f77dcb59148f047a29913ed2aaf87897e2bc0cbdb0e619c28110770dec"
+    }
+   ]
+  },
+  {
+   "slug": "landesantidiskriminierungsgesetz-ladg-nrw",
+   "short": "LADG NRW",
+   "title": "Gesetz zur Vermeidung von Diskriminierung in Nordrhein-Westfalen (Landesantidiskriminierungsgesetz - LADG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01102026-landesantidiskriminierungsgesetz-ladg-nrw",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 17,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01102026-landesantidiskriminierungsgesetz-ladg-nrw",
+     "sha256": "c997a0aa10a2e63efa0e2622ae1bd166e4da8237b0af482a90654e7bf5ea9d0e"
+    }
+   ]
+  },
+  {
+   "slug": "landesbesoldungsgesetz-lbesg-nrw",
+   "short": "LBesG NRW",
+   "title": "Besoldungsgesetz für das Land Nordrhein-Westfalen (Landesbesoldungsgesetz - LBesG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/04082026-landesbesoldungsgesetz-lbesg-nrw",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 100,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01072025-besoldungsgesetz-fuer-das-land-nordrhein-westfalen-landesbesoldungsgesetz",
+     "sha256": "10c7b16481ff896b3563009ac3db92df25385407e2c83a3d2701806ed778569b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 101,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012026-landesbesoldungsgesetz-lbesg-nrw",
+     "sha256": "31acbc901feb09123fc26a3c2649e029c0a8b1d7d9c1a0ee70e56f12cb31e10d"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 100,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042026-landesbesoldungsgesetz-lbesg-nrw",
+     "sha256": "3aa14a626c5397d418187b9d695adc4234374b5d464f5d38b5e6ce9c16b1d886"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 100,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01082026-landesbesoldungsgesetz-lbesg-nrw",
+     "sha256": "0ddbd80dc1e5fdaab80a2d29cf5ec320997a40088268a1857e8c6ec4fd3fd5dc"
+    },
+    {
+     "from": "2026-08-04",
+     "units": 100,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/04082026-landesbesoldungsgesetz-lbesg-nrw",
+     "sha256": "af9e45e11428b5d70e0d4f520418e840ddffc1a4795739a2ca6ce097d1feaba2"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 100,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012027-landesbesoldungsgesetz-lbesg-nrw",
+     "sha256": "ebea9abc806b1a3a6114d66d3a93ca4759239cd95a51225519b010aebdbf93de"
+    },
+    {
+     "from": "2027-03-01",
+     "units": 100,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01032027-landesbesoldungsgesetz-lbesg-nrw",
+     "sha256": "76331e9e4fd95646dd527aeb4051ae5fc958f97cac28a8bf5763431ff1d68e17"
+    },
+    {
+     "from": "2028-01-01",
+     "units": 100,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012028-landesbesoldungsgesetz-lbesg-nrw",
+     "sha256": "b14cde10ae162ffa9c54613e64a4d492f02f1fa6a3f65aa63051371aab961211"
+    }
+   ]
+  },
+  {
+   "slug": "landesrichter-und-staatsanwaeltegesetz-lristag",
+   "short": "LRiStaG",
+   "title": "Richter- und Staatsanwältegesetz für das Land Nordrhein-Westfalen (Landesrichter- und Staatsanwältegesetz - LRiStaG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/02102026-landesrichter-und-staatsanwaeltegesetz-lristag",
+   "versions": [
+    {
+     "from": "2025-06-07",
+     "units": 109,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/07062025-richter-und-staatsanwaeltegesetz-fuer-das-land-nordrhein-westfalen",
+     "sha256": "40838af528e9977b7862ee76987d91e36a3e765353f54c6a7ad1f0307d94da8e"
+    },
+    {
+     "from": "2026-02-19",
+     "units": 111,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022026-landesrichter-und-staatsanwaeltegesetz-lristag",
+     "sha256": "6ade7d7e636d7192ff64fc2a6b771bda11f132da5188b015eb759ea71ebd08ad"
+    },
+    {
+     "from": "2026-10-02",
+     "units": 111,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/02102026-landesrichter-und-staatsanwaeltegesetz-lristag",
+     "sha256": "192f532d501b890d18f3ba433927809700af39d43b9fa11e87e29e7e0cf8ce40"
+    }
+   ]
+  },
+  {
+   "slug": "studierendenwerksgesetz-stwg",
+   "short": "StWG",
+   "title": "Gesetz über die Studierendenwerke im Land Nordrhein-Westfalen (Studierendenwerksgesetz - StWG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/16102026-studierendenwerksgesetz-stwg",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 16,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012025-gesetz-ueber-die-studierendenwerke-im-land-nordrhein-westfalen",
+     "sha256": "4cbf283a7ea0b9dead13ca3af6db3c26be0aa74f4cc15dc46399e23886dcf265"
+    },
+    {
+     "from": "2026-10-16",
+     "units": 18,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16102026-studierendenwerksgesetz-stwg",
+     "sha256": "b14541b40184b3fc752bd806fda65f28cd74a9fadb36a8819704971ef2effd01"
+    }
+   ]
+  },
+  {
+   "slug": "abschiebungshaftvollzugsgesetz-nordrhein-westfalen-ahaftvoll",
+   "short": "AHaftVollzG NRW",
+   "title": "Gesetz über den Vollzug der Abschiebungshaft in Nordrhein-Westfalen (Abschiebungshaftvollzugsgesetz Nordrhein-Westfalen - AHaftVollzG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-abschiebungshaftvollzugsgesetz-nordrhein-westfalen-ahaftvollzg-nrw",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 60,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/17072025-gesetz-ueber-den-vollzug-der-abschiebungshaft-nordrhein-westfalen",
+     "sha256": "e72f1ebc0003790125b50a0c966ec4ac8547b7712d7193bfd5482921f76bc390"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 61,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-abschiebungshaftvollzugsgesetz-nordrhein-westfalen-ahaftvollzg-nrw",
+     "sha256": "5eac3cd690afde9d1d7207a43213d67f347f17c5fcd2e4bf9407dde6c1af1230"
+    }
+   ]
+  },
+  {
+   "slug": "tarifentgeltsicherungsgesetz-tesg",
+   "short": "TESG",
+   "title": "Gesetz zur Sicherung von Tarifentgelten bei öffentlichen Vergaben in Nordrhein-Westfalen (Tarifentgeltsicherungsgesetz - TESG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012027-tarifentgeltsicherungsgesetz-tesg",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 13,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012027-tarifentgeltsicherungsgesetz-tesg",
+     "sha256": "7cc4cc1cec768a63a0a54a432310048796544680b5fc0b76b184cf915382028c"
+    }
+   ]
+  },
+  {
+   "slug": "klimaanpassungsgesetz-nordrhein-westfalen",
+   "short": "KlAnG",
+   "title": "Klimaanpassungsgesetz Nordrhein-Westfalen (KlAnG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-klimaanpassungsgesetz-nordrhein-westfalen",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 13,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042025-klimaanpassungsgesetz-nordrhein-westfalen-klang",
+     "sha256": "07c5342ec5a05d01f7fa7d6b26b4344d6a059a8ee9145c3aefa10aac2cc2630a"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 15,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-klimaanpassungsgesetz-nordrhein-westfalen",
+     "sha256": "05cd46591be98819f057d1e95f92572d65237388451f227875481f5744fe5f74"
+    }
+   ]
+  },
+  {
+   "slug": "landesforstgesetz-lfog",
+   "short": "LFoG",
+   "title": "Landesforstgesetz für das Land Nordrhein-Westfalen (Landesforstgesetz - LFoG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-landesforstgesetz-lfog",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 81,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042025-landesforstgesetz-fuer-das-land-nordrhein-westfalen-landesforstgesetz-lfog",
+     "sha256": "630e483bb52d1aa4b349a8f9079e753634528f02cb336e6303c544671c9837d8"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 82,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-landesforstgesetz-lfog",
+     "sha256": "1044d1ebd5ab54e336b0671e53b6d9396f146c45cd71bdb009b86f3c1e0a91b5"
+    }
+   ]
+  },
+  {
+   "slug": "landesnaturschutzgesetz-lnatschg-nrw",
+   "short": "LNatSchG NRW",
+   "title": "Gesetz zum Schutz der Natur in Nordrhein-Westfalen (Landesnaturschutzgesetz - LNatSchG NRW)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-landesnaturschutzgesetz-lnatschg-nrw",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 86,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01042025-gesetz-zum-schutz-der-natur-nordrhein-westfalen-landesnaturschutzgesetz",
+     "sha256": "109a8de52e8c1a384fa56b1d8ac980e6067edd94711c5f1d0335f10bf5ea14ee"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 90,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-landesnaturschutzgesetz-lnatschg-nrw",
+     "sha256": "86f2651de6d8bafb6710fa26adb84870a2918038973fe0b5f3f450c262a6fb38"
+    },
+    {
+     "from": "2027-05-01",
+     "units": 90,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/01052027-landesnaturschutzgesetz-lnatschg-nrw",
+     "sha256": "fb354d673fb70977857b11a74aa486ae155f72d46f94993eb356cdcffc5333c9"
+    }
+   ]
+  },
+  {
+   "slug": "aggerverbandsgesetz-aggervg",
+   "short": "AggerVG",
+   "title": "Gesetz über den Aggerverband (Aggerverbandsgesetz - AggerVG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-aggerverbandsgesetz-aggervg",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 44,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-den-aggerverband-aggerverbandsgesetz-aggervg",
+     "sha256": "290db8d3bf7bdbc366162c5cadf89a5a7818a593b26ee8726e1fef5de76fc5c9"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 46,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-aggerverbandsgesetz-aggervg",
+     "sha256": "341e25eebaab5cb6b4687c00ed0595fac5702df40e2deca3db2a7e37558bd7fa"
+    }
+   ]
+  },
+  {
+   "slug": "eifel-rur-verbandsgesetz-eifel-rurvg",
+   "short": "Eifel-RurVG",
+   "title": "Gesetz über den Wasserverband Eifel-Rur (Eifel-Rur-Verbandsgesetz - Eifel-RurVG )",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-eifel-rur-verbandsgesetz-eifel-rurvg",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 53,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-den-wasserverband-eifel-rur-eifel-rur-verbandsgesetz-eifel-rurvg",
+     "sha256": "7677451483e81152a25a64579c61b06430a23f53ce3cd8451ea1e2f16ba8222c"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 46,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-eifel-rur-verbandsgesetz-eifel-rurvg",
+     "sha256": "0c6a0d93ff0e81381246f362c90bc2171085d9b9296e1e249edf28cec353a996"
+    }
+   ]
+  },
+  {
+   "slug": "emschergenossenschaftsgesetz-emschergg",
+   "short": "EmscherGG",
+   "title": "Gesetz über die Emschergenossenschaft (Emschergenossenschaftsgesetz - EmscherGG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-emschergenossenschaftsgesetz-emschergg",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 47,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-emschergenossenschaft-emschergenossenschaftsgesetz-emschergg",
+     "sha256": "ee1935dd178f82bf36c1153a873f145ae1028dca6af318d11e606c5b08034bad"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 44,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-emschergenossenschaftsgesetz-emschergg",
+     "sha256": "d46fad03084370e6068f5a8fdd3b871c6c388752df3b293694525226f51925bc"
+    }
+   ]
+  },
+  {
+   "slug": "gesetz-ueber-den-erftverband-erftvg",
+   "short": "ErftVG",
+   "title": "Gesetz über den Erftverband (ErftVG) (ErftVG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-gesetz-ueber-den-erftverband-erftvg",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 66,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-bekanntmachung-der-neufassung-des-gesetzes-ueber-den-erftverband-erftvg",
+     "sha256": "d8e1a55972b78f850fa39fec62061966119e9e95b5fc336c17d86a6e89193352"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 65,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-gesetz-ueber-den-erftverband-erftvg",
+     "sha256": "e4f5bd0af9b9712687e28113ce4b1ff9549da917eac9ab6bdbe7bbec73df8998"
+    }
+   ]
+  },
+  {
+   "slug": "linksniederrheinisches-entwaesserungs-genossenschafts-gesetz",
+   "short": "LINEGG",
+   "title": "Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft (Linksniederrheinisches Entwässerungs- Genossenschafts-Gesetz - LINEGG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-linksniederrheinisches-entwaesserungs-genossenschafts-gesetz-linegg",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 48,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-linksniederrheinische-entwaesserungs-genossenschaft",
+     "sha256": "154bf91ce3e4dde865efee885f25dcca69da3e51f1c681e32f1904892e157deb"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 45,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-linksniederrheinisches-entwaesserungs-genossenschafts-gesetz-linegg",
+     "sha256": "feabc566128f3e42378dc7ec03d905980cc1bbcbb587e3921afba5ee0a195bab"
+    }
+   ]
+  },
+  {
+   "slug": "lippeverbandsgesetz-lippevg",
+   "short": "LippeVG",
+   "title": "Gesetz über den Lippeverband (Lippeverbandsgesetz - LippeVG )",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-lippeverbandsgesetz-lippevg",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 48,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-den-lippeverband-lippeverbandsgesetz-lippevg",
+     "sha256": "cfc0302aa0c0558e60a7131225e25eb381da8ff1d6b924046f810b1aa19029e3"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 45,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-lippeverbandsgesetz-lippevg",
+     "sha256": "571cc1b879edb57ef82402a5353bfb03204d07c71f5c19f49dd8c2faddfc1a22"
+    }
+   ]
+  },
+  {
+   "slug": "niersverbandsgesetz-niersvg",
+   "short": "NiersVG",
+   "title": "Gesetz über den Niersverband (Niersverbandsgesetz - NiersVG)",
+   "url": "https://recht.nrw.de/lrgv/gesetz/30102026-niersverbandsgesetz-niersvg",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 44,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-den-niersverband-niersverbandsgesetz-niersvg",
+     "sha256": "bdafc0f405573e0e2630595c4f51f680358cf7afa7ee8584ecf04f666f0f4f92"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 46,
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/30102026-niersverbandsgesetz-niersvg",
+     "sha256": "0d9466630c319b84c31e2fdeb0c249929c378b87b6ebeb74efe92d938f3908a3"
+    }
+   ]
+  }
+ ]
+}
