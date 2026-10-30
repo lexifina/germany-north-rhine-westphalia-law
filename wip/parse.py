@@ -413,7 +413,7 @@ def write_part(name: str, acts_in: list[str], country: bool) -> None:
                'none for that day, the change is labelled unexplained.',
                'One file per Artikel or Paragraph; headings of Teile and Abschnitte stand where the portal prints them '
                '(at the end of the provision before). Footnotes are left out; tables are one line per row, cells '
-               'separated by " | ".'] + [f'Note: {p}' for p in problems],
+               'separated by " | "; numbered lists whose numbers the browser supplies are written with those numbers.'] + [f'Note: {p}' for p in problems],
            'ai_use': ['Claude Code (claude-opus-5-5) wrote Lexifina\'s code and chose the sources. No model output is '
                       'used as legal text, dates or credits: every word comes from the RECHT.NRW pages, and every date '
                       'and credit from the portal\'s own validity dates and Änderungshistorie.']}

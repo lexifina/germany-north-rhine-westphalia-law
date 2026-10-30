@@ -1,0 +1,1 @@
+Verified 2026-10-30 (gitlaw-scraper-dell, NRW fork): the remaining 28 Gesetze in force (63 structured RECHT.NRW Fassungen); independent letters-and-digits check of every version of all parts against its raw page: 0 differences (237 versions); local build of all parts into an empty repo: check.py 0 mismatches / 0 trailer errors; audit_push clean (main and zukunft).

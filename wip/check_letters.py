@@ -15,6 +15,19 @@ def ld(s):
     return ''.join(ch for ch in s if ch.isalnum())
 
 
+def number_items(m) -> str:
+    """The numbers the browser shows for an <ol> (1., 2., ... or a), b), ...)."""
+    typ = re.search(r'type="(\w)"', m.group(1))
+    start = re.search(r'start="(\d+)"', m.group(1))
+    n = [int(start.group(1)) if start else 1]
+
+    def mark(_):
+        x = n[0]
+        n[0] += 1
+        return f'<li>{chr(96 + x) if typ and typ.group(1) == "a" else x} '
+    return re.sub(r'<li[^>]*>', mark, m.group(2))
+
+
 def source(raw: str) -> str:
     i = raw.index('<section class="legaldoc-')
     p = raw.find('<div class="field field--field_preamble')
@@ -22,6 +35,7 @@ def source(raw: str) -> str:
         i = p
     j = raw.rindex('<a', i, raw.index('id="backToTextTop"', i))
     s = raw[i:j]  # preamble, every provision and structure heading, and the closing formula, in page order
+    s = re.sub(r'(?s)<ol([^>]*)>(.*?)</ol>', number_items, s)
     s = re.sub(r'(?s)<div class="field field--field_footnote_description.*?</div></div>', ' ', s)
     s = re.sub(r'(?s)<div class="field field--field_reference">.*?</a>\s*</div>\s*</div>', ' ', s)
     s = re.sub(r'(?s)<div class="alert.*?</button>|<button.*?</button>|<ul class="print-copy-overlay.*?</ul>', ' ', s)

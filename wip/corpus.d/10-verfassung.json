@@ -1037,7 +1037,7 @@
  "decisions": [
   "Every Fassung RECHT.NRW shows as structured text is one version here, dated by its \"Gültig ab\" day. Older Fassungen that the portal shows only as legacy files (PDF or old HTML) are not used, so each act starts with the oldest structured Fassung, credited to the publisher as the oldest version available.",
   "The provisions that changed between two versions are credited to the amending act(s) the newer version's Änderungshistorie lists as coming into force on that version's first day; if it lists none for that day, the change is labelled unexplained.",
-  "One file per Artikel or Paragraph; headings of Teile and Abschnitte stand where the portal prints them (at the end of the provision before). Footnotes are left out; tables are one line per row, cells separated by \" | \".",
+  "One file per Artikel or Paragraph; headings of Teile and Abschnitte stand where the portal prints them (at the end of the provision before). Footnotes are left out; tables are one line per row, cells separated by \" | \"; numbered lists whose numbers the browser supplies are written with those numbers.",
   "Note: 16012026-verfassung-fuer-das-land-nordrhein-westfalen: 9 older Fassungen are shown only as legacy files (no structured text) and are not used"
  ],
  "ai_use": [
