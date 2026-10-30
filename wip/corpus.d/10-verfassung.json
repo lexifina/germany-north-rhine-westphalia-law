@@ -1,0 +1,1063 @@
+{
+ "acts": [
+  {
+   "slug": "verfassung",
+   "short": "Verf NRW",
+   "title": "Verfassung für das Land Nordrhein-Westfalen",
+   "url": "https://recht.nrw.de/lrgv/gesetz/16012026-verfassung-fuer-das-land-nordrhein-westfalen",
+   "first_law": null,
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/14072020-verfassung-fuer-das-land-nordrhein-westfalen",
+     "sha256": "a5338c402e9d4ec9445693feee9f731803ba7a8af02fc051d95d7ab803d8fbf8",
+     "units": {
+      "000-eingang": {
+       "label": "Eingang",
+       "kind": "title",
+       "text": "Vom 28. Juni 1950\nDer Landtag Nordrhein-Westfalen hat am 6. Juni 1950 folgendes Gesetz beschlossen, das gemäß Artikel 90 am 18. Juni 1950 durch Volksentscheid von der Mehrheit der Abstimmenden bejaht worden ist:\nPräambel\nIn Verantwortung vor Gott und den Menschen, verbunden mit allen Deutschen, erfüllt von dem Willen, die Not der Gegenwart in gemeinschaftlicher Arbeit zu überwinden, dem inneren und äußeren Frieden zu dienen, Freiheit, Gerechtigkeit und Wohlstand für alle zu schaffen, haben sich die Männer und Frauen des Landes Nordrhein-Westfalen diese Verfassung gegeben:\nErster Teil\nVon den Grundlagen des Landes\n"
+      },
+      "art-001": {
+       "label": "Artikel 1",
+       "kind": "art",
+       "text": "# Artikel 1\n(1) Nordrhein-Westfalen ist ein Gliedstaat der Bundesrepublik Deutschland und damit Teil der Europäischen Union. Das Land gliedert sich in Gemeinden und Gemeindeverbände.\n(2) Die Landesfarben und das Landeswappen werden durch Gesetz bestimmt.\n(3) Nordrhein-Westfalen trägt zur Verwirklichung und Entwicklung eines geeinten Europas bei, das demokratischen, rechtsstaatlichen, sozialen und föderativen Grundsätzen sowie dem Grundsatz der Subsidiarität verpflichtet ist, die Eigenständigkeit der Regionen wahrt und deren Mitwirkung an europäischen Entscheidungen sichert. Das Land arbeitet mit anderen europäischen Regionen zusammen und unterstützt die grenzüberschreitende Kooperation.\n"
+      },
+      "art-002": {
+       "label": "Artikel 2",
+       "kind": "art",
+       "text": "# Artikel 2\nDas Volk bekundet seinen Willen durch Wahl, Volksbegehren und Volksentscheid.\n"
+      },
+      "art-003": {
+       "label": "Artikel 3",
+       "kind": "art",
+       "text": "# Artikel 3\n(1) Die Gesetzgebung steht dem Volk und der Volksvertretung zu.\n(2) Die Verwaltung liegt in den Händen der Landesregierung, der Gemeinden und der Gemeindeverbände.\n(3) Die Rechtsprechung wird durch unabhängige Richter ausgeübt.\nZweiter Teil\nVon den Grundrechten und der Ordnung des Gemeinschaftslebens\nErster Abschnitt - Von den Grundrechten\n"
+      },
+      "art-004": {
+       "label": "Artikel 4",
+       "kind": "art",
+       "text": "# Artikel 4\n(1) Die im Grundgesetz für die Bundesrepublik Deutschland in der Fassung vom 23. Mai 1949 festgelegten Grundrechte und staatsbürgerlichen Rechte sind Bestandteil dieser Verfassung und unmittelbar geltendes Landesrecht.\n(2) Jeder hat Anspruch auf Schutz seiner personenbezogenen Daten. Eingriffe sind nur in überwiegendem Interesse der Allgemeinheit auf Grund eines Gesetzes zulässig.\nZweiter Abschnitt - Die Familie\n"
+      },
+      "art-005": {
+       "label": "Artikel 5",
+       "kind": "art",
+       "text": "# Artikel 5\n(1) Ehe und Familie werden als die Grundlagen der menschlichen Gesellschaft anerkannt. Sie stehen unter dem besonderen Schutz des Landes. Die Mutterschaft und die kinderreiche Familie haben Anspruch auf besondere Fürsorge.\n(2) Familien- und Erwerbsarbeit sind gleichwertig. Frauen und Männer sind entsprechend ihrer Entscheidung an Familien- und Erwerbsarbeit gleichberechtigt beteiligt.\n"
+      },
+      "art-006": {
+       "label": "Artikel 6",
+       "kind": "art",
+       "text": "# Artikel 6\nKinder und Jugendliche\n(1) Jedes Kind hat ein Recht auf Achtung seiner Würde als eigenständige Persönlichkeit und auf besonderen Schutz von Staat und Gesellschaft.\n(2) Kinder und Jugendliche haben ein Recht auf Entwicklung und Entfaltung ihrer Persönlichkeit, auf gewaltfreie Erziehung und den Schutz vor Gewalt, Vernachlässigung und Ausbeutung. Staat und Gesellschaft schützen sie vor Gefahren für ihr körperliches, geistiges und seelisches Wohl. Sie achten und sichern ihre Rechte, tragen für altersgerechte Lebensbedingungen Sorge und fördern sie nach ihren Anlagen und Fähigkeiten.\n(3) Allen Jugendlichen ist die umfassende Möglichkeit zur Berufsausbildung und Berufsausübung zu sichern.\n(4) Das Mitwirkungsrecht der Kirchen und Religionsgemeinschaften sowie der Verbände der freien Wohlfahrtspflege in den Angelegenheiten der Familienförderung, der Kinder- und Jugendhilfe bleibt gewährleistet und ist zu fördern.\nDritter Abschnitt - Schule, Kunst und Wissenschaft, Sport, Religion und Religionsgemeinschaften\n"
+      },
+      "art-007": {
+       "label": "Artikel 7",
+       "kind": "art",
+       "text": "# Artikel 7\n(1) Ehrfurcht vor Gott, Achtung vor der Würde des Menschen und Bereitschaft zum sozialen Handeln zu wecken, ist vornehmstes Ziel der Erziehung.\n(2) Die Jugend soll erzogen werden im Geiste der Menschlichkeit, der Demokratie und der Freiheit, zur Duldsamkeit und zur Achtung vor der Überzeugung des anderen, zur Verantwortung für Tiere und die Erhaltung der natürlichen Lebensgrundlagen, in Liebe zu Volk und Heimat, zur Völkergemeinschaft und Friedensgesinnung.\n"
+      },
+      "art-008": {
+       "label": "Artikel 8",
+       "kind": "art",
+       "text": "# Artikel 8\n(1) Jedes Kind hat Anspruch auf Erziehung und Bildung. Das natürliche Recht der Eltern, die Erziehung und Bildung ihrer Kinder zu bestimmen, bildet die Grundlage des Erziehungs- und Schulwesens.\nDie staatliche Gemeinschaft hat Sorge zu tragen, daß das Schulwesen den kulturellen und sozialen Bedürfnissen des Landes entspricht.\n(2) Es besteht allgemeine Schulpflicht. Das Nähere regelt ein Gesetz.\n(3) Land und Gemeinden haben die Pflicht, Schulen zu errichten und zu fördern. Das gesamte Schulwesen steht unter der Aufsicht des Landes. Die Schulaufsicht wird durch hauptamtlich tätige, fachlich vorgebildete Beamte ausgeübt.\n(4) Für die Privatschulen gelten die Bestimmungen des Artikels 7 Abs. 4 und 5 des Grundgesetzes der Bundesrepublik Deutschland vom 23. Mai 1949 zugleich als Bestandteil dieser Verfassung. Die hiernach genehmigten Privatschulen haben die gleichen Berechtigungen wie die entsprechenden öffentlichen Schulen. Sie haben Anspruch auf die zur Durchführung ihrer Aufgaben und zur Erfüllung ihrer Pflichten erforderlichen öffentlichen Zuschüsse.\n"
+      },
+      "art-009": {
+       "label": "Artikel 9",
+       "kind": "art",
+       "text": "# Artikel 9\n(1) Schulgeld wird nicht erhoben.\n(2) Einführung und Durchführung der Lehr- und Lernmittelfreiheit für alle Schulen sind gesetzlich zu regeln. Zum Zwecke des Studiums sind im Bedarfsfalle besondere Unterhaltsbeihilfen zu gewähren. Soweit der Staat für die öffentlichen Schulen Schulgeldfreiheit gewährt, sind auch die in Artikel 8 Abs. 4 genannten Privatschulen berechtigt, zu Lasten des Staates auf die Erhebung von Schulgeld zu verzichten; soweit er Lehr- und Lernmittelfreiheit gewährt, sind Lehr- und Lernmittel in gleicher Weise für diese Privatschulen zur Verfügung zu stellen wie für die öffentlichen Schulen.\n"
+      },
+      "art-010": {
+       "label": "Artikel 10",
+       "kind": "art",
+       "text": "# Artikel 10\n(1) Das Schulwesen des Landes baut sich auf einer für alle Kinder verbindlichen Grundschule auf. Das Schulwesen wird durch die Mannigfaltigkeit der Lebens- und Berufsaufgaben bestimmt. Das Land gewährleistet ein ausreichendes und vielfältiges öffentliches Schulwesen, das ein gegliedertes Schulsystem, integrierte Schulformen sowie weitere andere Schulformen ermöglicht. Für die Aufnahme in eine Schule sind Anlage und Neigung des Kindes maßgebend, nicht die wirtschaftliche Lage und die gesellschaftliche Stellung der Eltern.\n(2) Die Erziehungsberechtigten wirken durch Elternvertretungen an der Gestaltung des Schulwesens mit.\n"
+      },
+      "art-011": {
+       "label": "Artikel 11",
+       "kind": "art",
+       "text": "# Artikel 11\nIn allen Schulen ist Staatsbürgerkunde Lehrgegenstand und staatsbürgerliche Erziehung verpflichtende Aufgabe.\n"
+      },
+      "art-012": {
+       "label": "Artikel 12",
+       "kind": "art",
+       "text": "# Artikel 12\n(1) Schulen müssen entsprechend ihren Bildungszielen nach Organisation und Ausstattung die Voraussetzungen eines geordneten Schulbetriebs erfüllen.\n(2) Grundschulen sind Gemeinschaftsschulen, Bekenntnisschulen oder Weltanschauungsschulen. Auf Antrag der Erziehungsberechtigten sind, soweit ein geordneter Schulbetrieb gewährleistet ist, Grundschulen einzurichten.\n(3) In Gemeinschaftsschulen werden Kinder auf der Grundlage christlicher Bildungs- und Kulturwerte in Offenheit für die christlichen Bekenntnisse und für andere religiöse und weltanschauliche Überzeugungen gemeinsam unterrichtet und erzogen.\nIn Bekenntnisschulen werden Kinder des katholischen oder des evangelischen Glaubens oder einer anderen Religionsgemeinschaft nach den Grundsätzen des betreffenden Bekenntnisses unterrichtet und erzogen.\nIn Weltanschauungsschulen, zu denen auch die bekenntnisfreien Schulen gehören, werden die Kinder nach den Grundsätzen der betreffenden Weltanschauung unterrichtet und erzogen.\n(4) Das Nähere bestimmt ein Gesetz.\n"
+      },
+      "art-013": {
+       "label": "Artikel 13",
+       "kind": "art",
+       "text": "# Artikel 13\nWegen des religiösen Bekenntnisses darf im Einzelfalle keinem Kinde die Aufnahme in eine öffentliche Schule verweigert werden, falls keine entsprechende Schule vorhanden ist.\n"
+      },
+      "art-014": {
+       "label": "Artikel 14",
+       "kind": "art",
+       "text": "# Artikel 14\n(1) Der Religionsunterricht ist ordentliches Lehrfach an allen Schulen, mit Ausnahme der Weltanschauungsschulen (bekenntnisfreien Schulen). Für die religiöse Unterweisung bedarf der Lehrer der Bevollmächtigung durch die Kirche oder durch die Religionsgemeinschaft. Kein Lehrer darf gezwungen werden, Religionsunterricht zu erteilen.\n(2) Lehrpläne und Lehrbücher für den Religionsunterricht sind im Einvernehmen mit der Kirche oder Religionsgemeinschaft zu bestimmen.\n(3) Unbeschadet des staatlichen Aufsichtsrechtes haben die Kirchen oder die Religionsgemeinschaften das Recht, nach einem mit der Unterrichtsverwaltung vereinbarten Verfahren sich durch Einsichtnahme zu vergewissern, daß der Religionsunterricht in Übereinstimmung mit ihren Lehren und Anforderungen erteilt wird.\n(4) Die Befreiung vom Religionsunterricht ist abhängig von einer schriftlichen Willenserklärung der Erziehungsberechtigten oder des religionsmündigen Schülers.\n"
+      },
+      "art-015": {
+       "label": "Artikel 15",
+       "kind": "art",
+       "text": "# Artikel 15\nDie Ausbildung der Lehrer erfolgt in der Regel an wissenschaftlichen Hochschulen. Sie berücksichtigt die Bedürfnisse der Schulen; es ist ein Lehrangebot zu gewährleisten, das diesem Erfordernis gerecht wird. Es ist sicherzustellen, daß die Befähigung zur Erteilung des Religionsunterrichts erworben werden kann.\n"
+      },
+      "art-016": {
+       "label": "Artikel 16",
+       "kind": "art",
+       "text": "# Artikel 16\n(1) Die Universitäten und diejenigen Hochschulen, die ihnen als Stätten der Forschung und der Lehre gleichstehen, haben, unbeschadet der staatlichen Aufsicht, das Recht auf eine ihrem besonderen Charakter entsprechende Selbstverwaltung im Rahmen der Gesetze und ihrer staatlich anerkannten Satzungen.\n(2) Zur Ausbildung ihrer Geistlichen haben die Kirchen und zur Ausbildung ihrer Religionsdiener die Religionsgemeinschaften das Recht, eigene Anstalten mit Hochschulcharakter zu errichten und zu unterhalten.\n"
+      },
+      "art-017": {
+       "label": "Artikel 17",
+       "kind": "art",
+       "text": "# Artikel 17\nDie Erwachsenenbildung ist zu fördern. Als Träger von Einrichtungen der Erwachsenenbildung werden neben Staat, Gemeinden und Gemeindeverbänden auch andere Träger, wie die Kirchen und freien Vereinigungen, anerkannt.\n"
+      },
+      "art-018": {
+       "label": "Artikel 18",
+       "kind": "art",
+       "text": "# Artikel 18\n(1) Kultur, Kunst und Wissenschaft sind durch Land und Gemeinden zu pflegen und zu fördern.\n(2) Die Denkmäler der Kunst, der Geschichte und der Kultur, die Landschaft und Naturdenkmale stehen unter dem Schutz des Landes, der Gemeinden und Gemeindeverbände.\n(3) Sport ist durch Land und Gemeinden zu pflegen und zu fördern.\n"
+      },
+      "art-019": {
+       "label": "Artikel 19",
+       "kind": "art",
+       "text": "# Artikel 19\n(1) Die Freiheit der Vereinigung zu Kirchen oder Religionsgemeinschaften wird gewährleistet. Der Zusammenschluß von Kirchen oder Religionsgemeinschaften innerhalb des Landes unterliegt keinen Beschränkungen.\n(2) Die Kirchen und die Religionsgemeinschaften ordnen und verwalten ihre Angelegenheiten selbständig innerhalb der Schranken des für alle geltenden Gesetzes. Sie haben das Recht, ihre Ämter ohne Mitwirkung des Staates und der politischen Gemeinden zu verleihen oder zu entziehen.\n"
+      },
+      "art-020": {
+       "label": "Artikel 20",
+       "kind": "art",
+       "text": "# Artikel 20\nDie Kirchen und die Religionsgemeinschaften haben das Recht, in Erziehungs-, Kranken-, Straf- und ähnlichen öffentlichen Anstalten gottesdienstliche Handlungen vorzunehmen und eine geordnete Seelsorge auszuüben, wobei jeder Zwang fernzuhalten ist.\n"
+      },
+      "art-021": {
+       "label": "Artikel 21",
+       "kind": "art",
+       "text": "# Artikel 21\nDie den Kirchen oder den Religionsgemeinschaften gemäß Gesetz, Vertrag oder anderen Rechtstiteln zustehenden Leistungen des Staates, der politischen Gemeinden oder Gemeindeverbände können nur durch Vereinbarungen abgelöst werden; soweit solche Vereinbarungen das Land betreffen, bedürfen sie der Bestätigung durch Landesgesetz.\n"
+      },
+      "art-022": {
+       "label": "Artikel 22",
+       "kind": "art",
+       "text": "# Artikel 22\nIm übrigen gilt für die Ordnung zwischen Land und Kirchen oder Religionsgemeinschaften Artikel 140 des Bonner Grundgesetzes für die Bundesrepublik Deutschland vom 23. Mai 1949 als Bestandteil dieser Verfassung und unmittelbar geltendes Landesrecht.\n"
+      },
+      "art-023": {
+       "label": "Artikel 23",
+       "kind": "art",
+       "text": "# Artikel 23\n(1) Die Bestimmungen der Verträge mit der Katholischen Kirche und der Evangelischen Kirche der Altpreußischen Union, die im früheren Freistaat Preußen Geltung hatten, werden für die Gebiete des Landes Nordrhein-Westfalen, die zum ehemaligen Preußen gehörten, als geltendes Recht anerkannt.\n(2) Zur Änderung dieser Kirchenverträge und zum Abschluß neuer Verträge ist außer der Zustimmung der Vertragspartner ein Landesgesetz erforderlich.\nVierter Abschnitt - Arbeit, Wirtschaft und Umwelt\n"
+      },
+      "art-024": {
+       "label": "Artikel 24",
+       "kind": "art",
+       "text": "# Artikel 24\n(1) Im Mittelpunkt des Wirtschaftslebens steht das Wohl des Menschen. Der Schutz seiner Arbeitskraft hat den Vorrang vor dem Schutz materiellen Besitzes. Jedermann hat ein Recht auf Arbeit.\n(2) Der Lohn muß der Leistung entsprechen und den angemessenen Lebensbedarf des Arbeitenden und seiner Familie decken. Für gleiche Tätigkeit und gleiche Leistung besteht Anspruch auf gleichen Lohn. Das gilt auch für Frauen und Jugendliche.\n(3) Das Recht auf einen ausreichenden, bezahlten Urlaub ist gesetzlich festzulegen.\n"
+      },
+      "art-025": {
+       "label": "Artikel 25",
+       "kind": "art",
+       "text": "# Artikel 25\n(1) Der Sonntag und die staatlich anerkannten Feiertage werden als Tage der Gottesverehrung, der seelischen Erhebung, der körperlichen Erholung und der Arbeitsruhe anerkannt und gesetzlich geschützt.\n(2) Der 1. Mai als Tag des Bekenntnisses zu Freiheit und Frieden, sozialer Gerechtigkeit, Völkerversöhnung und Menschenwürde ist gesetzlicher Feiertag.\n"
+      },
+      "art-026": {
+       "label": "Artikel 26",
+       "kind": "art",
+       "text": "# Artikel 26\nEntsprechend der gemeinsamen Verantwortung und Leistung der Unternehmer und Arbeitnehmer für die Wirtschaft wird das Recht der Arbeitnehmer auf gleichberechtigte Mitbestimmung bei der Gestaltung der wirtschaftlichen und sozialen Ordnung anerkannt und gewährleistet.\n"
+      },
+      "art-027": {
+       "label": "Artikel 27",
+       "kind": "art",
+       "text": "# Artikel 27\n(1) Großbetriebe der Grundstoffindustrie und Unternehmen, die wegen ihrer monopolartigen Stellung besondere Bedeutung haben, sollen in Gemeineigentum überführt werden.\n(2) Zusammenschlüsse, die ihre wirtschaftliche Macht missbrauchen, sind zu verbieten.\n"
+      },
+      "art-028": {
+       "label": "Artikel 28",
+       "kind": "art",
+       "text": "# Artikel 28\nDie Klein- und Mittelbetriebe in Landwirtschaft, Handwerk, Handel und Gewerbe und die freien Berufe sind zu fördern. Die genossenschaftliche Selbsthilfe ist zu unterstützen.\n"
+      },
+      "art-029": {
+       "label": "Artikel 29",
+       "kind": "art",
+       "text": "# Artikel 29\n(1) Die Verbindung weiter Volksschichten mit dem Grund und Boden ist anzustreben.\n(2) Das Land hat die Aufgabe, nach Maßgabe der Gesetze neue Wohn- und Wirtschaftsheimstätten zu schaffen und den klein- und mittelbäuerlichen Besitz zu stärken.\n(3) Die Kleinsiedlung und das Kleingartenwesen sind zu fördern.\n"
+      },
+      "art-029a": {
+       "label": "Artikel 29 a",
+       "kind": "art",
+       "text": "# Artikel 29 a\n(1) Die natürlichen Lebensgrundlagen und die Tiere stehen unter dem Schutz des Landes, der Gemeinden und Gemeindeverbände.\n(2) Die notwendigen Bindungen und Pflichten bestimmen sich unter Ausgleich der betroffenen öffentlichen und privaten Belange. Das Nähere regelt das Gesetz.\nDritter Teil\nVon den Organen und Aufgaben des Landes\nErster Abschnitt - Der Landtag\n"
+      },
+      "art-030": {
+       "label": "Artikel 30",
+       "kind": "art",
+       "text": "# Artikel 30\n(1) Der Landtag besteht aus den vom Volke gewählten Abgeordneten. Zu seinen Aufgaben gehören die Wahl des/der Ministerpräsidenten/in, die Verabschiedung der Gesetze und die Kontrolle des Handelns der Landesregierung; er bildet ein öffentliches Forum für die politische Willensbildung.\n(2) Die Abgeordneten stimmen nach ihrer freien, nur durch die Rücksicht auf das Wohl des Landes Nordrhein-Westfalen bestimmten Überzeugung; sie sind an Aufträge nicht gebunden.\n(3) Die Abgeordneten haben im Landtag insbesondere das Recht, das Wort zu ergreifen, Fragen und Anträge zu stellen sowie an Wahlen und Abstimmungen teilzunehmen. Das Nähere regelt die Geschäftsordnung.\n(4) Der Landtag bildet Ausschüsse, insbesondere zur Vorbereitung seiner Beschlüsse. Die Zusammensetzung der Ausschüsse sowie die Regelung des Vorsitzes in den Ausschüssen ist im Verhältnis der Stärke der einzelnen Fraktionen vorzunehmen. Jeder Abgeordnete hat das Recht auf Mitwirkung in einem Ausschuss.\n(5) Abgeordnete können sich zu Fraktionen zusammenschließen. Die Fraktionen wirken mit eigenen Rechten und Pflichten an der Erfüllung der Aufgaben des Landtags mit. Zu ihren Aufgaben gehören die Koordination der parlamentarischen Tätigkeit und die Information der Öffentlichkeit. Ihre innere Ordnung muss demokratischen Grundsätzen entsprechen. Zur Wahrnehmung ihrer Aufgaben ist den Fraktionen eine angemessene Ausstattung zu gewährleisten. Das Nähere regelt die Geschäftsordnung des Landtags oder ein Gesetz.\n"
+      },
+      "art-031": {
+       "label": "Artikel 31",
+       "kind": "art",
+       "text": "# Artikel 31\n(1) Die Abgeordneten werden in allgemeiner, gleicher, unmittelbarer, geheimer und freier Wahl gewählt.\n(2) Wahlberechtigt ist, wer das 18. Lebensjahr vollendet hat. Wählbar ist, wer das Alter erreicht hat, mit dem die Volljährigkeit eintritt.\n(3) Die Wahl findet an einem Sonntag oder einem gesetzlichen Feiertag statt.\n(4) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-032": {
+       "label": "Artikel 32",
+       "kind": "art",
+       "text": "# Artikel 32\n(1) Vereinigungen und Personen, die es unternehmen, die staatsbürgerlichen Freiheiten zu unterdrücken oder gegen Volk, Land oder Verfassung Gewalt anzuwenden, dürfen sich an Wahlen und Abstimmungen nicht beteiligen.\n(2) Die Entscheidung darüber, ob diese Voraussetzungen vorliegen, trifft auf Antrag der Landesregierung oder von mindestens fünfzig Abgeordneten des Landtags der Verfassungsgerichtshof.\n"
+      },
+      "art-033": {
+       "label": "Artikel 33",
+       "kind": "art",
+       "text": "# Artikel 33\n(1) Die Wahlprüfung ist Sache des Landtags.\n(2) Ihm obliegt auch die Feststellung, ob ein Abgeordneter des Landtags die Mitgliedschaft verloren hat.\n(3) Die Entscheidung kann durch Beschwerde beim Verfassungsgerichtshof angefochten werden.\n(4) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-034": {
+       "label": "Artikel 34",
+       "kind": "art",
+       "text": "# Artikel 34\nDer Landtag wird auf fünf Jahre gewählt. Die Neuwahl findet im letzten Vierteljahr der Wahlperiode statt. Die Wahlperiode endet, auch im Fall einer Auflösung des Landtags, mit dem Zusammentritt des neuen Landtags.\n"
+      },
+      "art-035": {
+       "label": "Artikel 35",
+       "kind": "art",
+       "text": "# Artikel 35\n(1) Der Landtag kann sich durch Beschluß auflösen. Hierzu bedarf es der Zustimmung der Mehrheit der gesetzlichen Mitgliederzahl.\n(2) Nach der Auflösung des Landtags muß die Neuwahl binnen neunzig Tagen stattfinden.\n"
+      },
+      "art-036": {
+       "label": "Artikel 36",
+       "kind": "art",
+       "text": "# Artikel 36\nDie Wahlperiode des neuen Landtags beginnt mit seinem ersten Zusammentritt.\n"
+      },
+      "art-037": {
+       "label": "Artikel 37",
+       "kind": "art",
+       "text": "# Artikel 37\n(1) Der Landtag tritt spätestens am zwanzigsten Tag nach der Wahl zusammen. Der neugewählte Landtag wird zu seiner ersten Sitzung vom bisherigen Präsidenten einberufen.\n(2) Nach dem Zusammentritt eines neuen Landtags führt das an Jahren älteste oder, wenn es ablehnt oder verhindert ist, das jeweils nächstälteste Mitglied des Landtags den Vorsitz, bis der neugewählte Präsident oder einer seiner Stellvertreter das Amt übernimmt.\n"
+      },
+      "art-038": {
+       "label": "Artikel 38",
+       "kind": "art",
+       "text": "# Artikel 38\n(1) Der Landtag wählt den Präsidenten, dessen Stellvertreter und die übrigen Mitglieder des Präsidiums. Er gibt sich seine Geschäftsordnung.\n(2) Bis zur Wahl des neuen Präsidiums führt das bisherige Präsidium die Geschäfte weiter.\n(3) Der Landtag wird jeweils durch den Präsidenten einberufen.\n(4) Auf Antrag der Landesregierung oder eines Viertels seiner Mitglieder muß der Landtag unverzüglich einberufen werden.\n"
+      },
+      "art-039": {
+       "label": "Artikel 39",
+       "kind": "art",
+       "text": "# Artikel 39\n(1) In Rechtsgeschäften und Rechtsstreitigkeiten der Landtagsverwaltung vertritt der Präsident das Land. Er verfügt über die Einnahmen und Ausgaben der Landtagsverwaltung nach Maßgabe des Haushalts.\n(2) Dem Präsidenten steht die Annahme und Entlassung der Angestellten und Arbeiter sowie im Benehmen mit dem Präsidium die Ernennung der Beamten des Landtags zu. Er hat die Dienstaufsicht und Dienststrafgewalt über die Beamten, Angestellten und Arbeiter des Landtags. Er übt das Hausrecht und die Polizeigewalt im Landtagsgebäude aus.\n(3) Im übrigen werden die Rechte und Pflichten des Präsidenten durch die Geschäftsordnung bestimmt.\n"
+      },
+      "art-040": {
+       "label": "Artikel 40",
+       "kind": "art",
+       "text": "# Artikel 40\n(1) Die Landesregierung unterrichtet den Landtag frühzeitig und umfassend über die Vorbereitung von Landesgesetzen, Staatsverträgen, Verwaltungsabkommen und Angelegenheiten der Landesplanung sowie über Angelegenheiten des Bundes und der Europäischen Union, soweit sie an ihnen mitwirkt. Das Nähere regelt eine Vereinbarung zwischen Landtag und Landesregierung.\n(2) In Angelegenheiten der Europäischen Union, die im Schwerpunkt Gesetzgebungsrechte des Landtags betreffen, berücksichtigt die Landesregierung die Stellungnahme des Landtags bei der Wahrnehmung ihrer Aufgaben. Weicht die Landesregierung in ihrem Stimmverhalten im Bundesrat von einer Stellungnahme des Landtags ab, so hat sie ihre Entscheidung gegenüber dem Landtag zu begründen.\n"
+      },
+      "art-041": {
+       "label": "Artikel 41",
+       "kind": "art",
+       "text": "# Artikel 41\n(1) Der Landtag hat das Recht und auf Antrag von einem Fünftel der gesetzlichen Zahl seiner Mitglieder die Pflicht, Untersuchungsausschüsse einzusetzen. Diese Ausschüsse erheben in öffentlicher Verhandlung die Beweise, die sie oder die Antragsteller für erforderlich erachten. Sie können mit Zweidrittelmehrheit die Öffentlichkeit ausschließen. Die Zahl der Mitglieder bestimmt der Landtag. Die Mitglieder wählt der Landtag im Wege der Verhältniswahl. Das Nähere über die Einsetzung, die Befugnisse und das Verfahren wird durch Gesetz geregelt.\n(2) Die Gerichte und Verwaltungsbehörden sind zur Rechts- und Amtshilfe verpflichtet. Sie sind insbesondere verpflichtet, dem Ersuchen dieser Ausschüsse um Beweiserhebungen nachzukommen. Die Akten der Behörden und öffentlichen Körperschaften sind ihnen auf Verlangen vorzulegen.\n(3) Das Brief-, Post- und Fernmeldegeheimnis bleiben unberührt.\n(4) Die Beschlüsse der Untersuchungsausschüsse sind der richterlichen Erörterung entzogen. In der Feststellung und in der rechtlichen Beurteilung des der Untersuchung zugrunde liegenden Sachverhalts sind die Gerichte frei.\n"
+      },
+      "art-041a": {
+       "label": "Artikel 41 a",
+       "kind": "art",
+       "text": "# Artikel 41 a\n(1) Zur Vorbereitung der Beschlüsse über Petitionen gemäß Artikel 17 des Grundgesetzes sind die Landesregierung und die Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sowie Behörden und sonstige Verwaltungseinrichtungen, soweit sie unter der Aufsicht des Landes stehen, verpflichtet, dem Petitionsausschuß des Landtags auf sein Verlangen jederzeit Zutritt zu ihren Einrichtungen zu gestatten.\n(2) Die in Absatz 1 genannten Stellen sind verpflichtet, dem Petitionsausschuß auf sein Verlangen alle erforderlichen Auskünfte zu erteilen und Akten zugängig zu machen. Der Petitionsausschuß ist berechtigt, den Petenten und beteiligte Personen anzuhören. Nach näherer Bestimmung der Geschäftsordnung kann der Petitionsausschuß Beweise durch Vernehmung von Zeugen und Sachverständigen erheben. Die Vorschriften der Strafprozeßordnung finden sinngemäß Anwendung. Das Brief-, Post- und Fernmeldegeheimnis bleibt unberührt.\n(3) Nach Maßgabe der Geschäftsordnung kann der Petitionsausschuß die ihm gemäß Absatz 1 und 2 zustehenden Befugnisse mit Ausnahme der eidlichen Vernehmung auf einzelne Mitglieder des Ausschusses übertragen; auf Antrag des Petitionsausschusses beauftragt der Präsident des Landtags Beamte der Landtagsverwaltung mit der Wahrnehmung dieser Befugnisse. Artikel 45 Abs. 1 und 2 findet sinngemäß Anwendung.\n"
+      },
+      "art-042": {
+       "label": "Artikel 42",
+       "kind": "art",
+       "text": "# Artikel 42\nDie Sitzungen des Landtags sind öffentlich. Auf Antrag der Landesregierung oder von zehn Abgeordneten kann der Landtag mit Zweidrittelmehrheit der Anwesenden die Öffentlichkeit für einzelne Gegenstände der Tagesordnung ausschließen. Über den Antrag wird in geheimer Sitzung verhandelt.\n"
+      },
+      "art-043": {
+       "label": "Artikel 43",
+       "kind": "art",
+       "text": "# Artikel 43\nWegen wahrheitsgetreuer Berichte über öffentliche Sitzungen des Landtags und seiner Ausschüsse kann niemand zur Verantwortung gezogen werden.\n"
+      },
+      "art-044": {
+       "label": "Artikel 44",
+       "kind": "art",
+       "text": "# Artikel 44\n(1) Der Landtag ist beschlußfähig, wenn mehr als die Hälfte der gesetzlichen Mitgliederzahl anwesend ist.\n(2) Der Landtag faßt seine Beschlüsse mit Stimmenmehrheit.\n"
+      },
+      "art-045": {
+       "label": "Artikel 45",
+       "kind": "art",
+       "text": "# Artikel 45\n(1) Die Mitglieder der Landesregierung und die von ihnen Beauftragten können den Sitzungen des Landtags und seiner Ausschüsse beiwohnen. Die Aufrechterhaltung der Ordnung in der Sitzung obliegt dem Vorsitzenden. Den Mitgliedern der Landesregierung ist jederzeit, auch außerhalb der Tagesordnung, das Wort zu erteilen.\n(2) Der Landtag und seine Ausschüsse können die Anwesenheit jedes Mitgliedes der Landesregierung verlangen.\n(3) Die Vorschrift des Absatzes 1, Satz 1 und 3 gilt nicht für die Sitzungen der Untersuchungsausschüsse.\n"
+      },
+      "art-046": {
+       "label": "Artikel 46",
+       "kind": "art",
+       "text": "# Artikel 46\n(1) Abgeordnete dürfen an der Übernahme und Ausübung ihres Mandats nicht gehindert oder hierdurch in ihrem Amt oder Arbeitsverhältnis benachteiligt werden. Insbesondere ist unzulässig, sie aus diesem Grunde zu entlassen oder ihnen zu kündigen.\n(2) Beamte, Angestellte und Arbeiter bedürfen zu der mit den Obliegenheiten ihres Mandats als Mitglieder des Landtags verbundenen Tätigkeit keines Urlaubs. Bewerben sie sich um einen Sitz im Landtag, so ist ihnen der zur Vorbereitung ihrer Wahl erforderliche Urlaub zu gewähren.\n(3) Die Wählbarkeit von Beamten, Angestellten des öffentlichen Dienstes und Richtern im Lande Nordrhein-Westfalen kann gesetzlich beschränkt werden.\n"
+      },
+      "art-047": {
+       "label": "Artikel 47",
+       "kind": "art",
+       "text": "# Artikel 47\nKein Abgeordneter darf zu irgendeiner Zeit wegen seiner Abstimmung oder wegen Äußerungen in Ausübung seines Mandats gerichtlich oder dienstlich verfolgt oder sonst außerhalb der Versammlung zur Verantwortung gezogen werden. Dies gilt nicht für verleumderische Beleidigungen.\n"
+      },
+      "art-048": {
+       "label": "Artikel 48",
+       "kind": "art",
+       "text": "# Artikel 48\n(1) Kein Abgeordneter kann ohne Genehmigung des Landtags während der Wahlperiode wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen, festgenommen oder verhaftet werden, es sei denn, daß er bei der Ausübung der Tat oder spätestens im Laufe des nächstfolgenden Tages ergriffen wird oder ein Fall der Ehrverletzung nach Artikel 47 vorliegt.\n(2) Die gleiche Genehmigung ist bei jeder anderen Beschränkung der persönlichen Freiheit erforderlich, die die Ausübung des Abgeordnetenmandats beeinträchtigt.\n(3) Jedes Strafverfahren gegen einen Abgeordneten und jede Haft oder sonstige Beschränkung seiner persönlichen Freiheit wird auf Verlangen des Landtags entweder für die gesamte Dauer oder bestimmte Zeitabschnitte der Wahlperiode ausgesetzt.\n"
+      },
+      "art-049": {
+       "label": "Artikel 49",
+       "kind": "art",
+       "text": "# Artikel 49\n(1) Die Abgeordneten sind berechtigt, über Personen, die ihnen in ihrer Eigenschaft als Abgeordnete oder denen sie in dieser Eigenschaft Tatsachen anvertraut haben sowie über diese Tatsachen selbst das Zeugnis zu verweigern. Soweit dieses Zeugnisverweigerungsrecht reicht, ist die Beschlagnahme von Schriftstücken unzulässig.\n(2) Eine Durchsuchung oder Beschlagnahme darf in den Räumen des Landtags nur mit Genehmigung des Präsidenten vorgenommen werden.\n"
+      },
+      "art-050": {
+       "label": "Artikel 50",
+       "kind": "art",
+       "text": "# Artikel 50\nDie Mitglieder des Landtags haben Anspruch auf angemessene Bezüge nach Maßgabe eines Gesetzes. Sie erhalten das Recht zur freien Fahrt auf allen Eisenbahnen und sonstigen Beförderungsmitteln der Deutschen Bahn im Lande Nordrhein-Westfalen. Ein Verzicht auf diese Rechte ist unzulässig.\nZweiter Abschnitt - Die Landesregierung\n"
+      },
+      "art-051": {
+       "label": "Artikel 51",
+       "kind": "art",
+       "text": "# Artikel 51\nDie Landesregierung besteht aus dem Ministerpräsidenten und den Landesministern.\n"
+      },
+      "art-052": {
+       "label": "Artikel 52",
+       "kind": "art",
+       "text": "# Artikel 52\n(1) Der Landtag wählt aus seiner Mitte in geheimer Wahl ohne Aussprache den Ministerpräsidenten mit mehr als der Hälfte der gesetzlichen Zahl seiner Mitglieder.\n(2) Kommt eine Wahl gemäß Absatz 1 nicht zustande, so findet innerhalb von 14 Tagen ein zweiter, gegebenenfalls ein dritter Wahlgang statt, in dem der gewählt ist, der mehr als die Hälfte der abgegebenen Stimmen erhält. Ergibt sich keine solche Mehrheit, so findet eine Stichwahl zwischen den beiden Vorgeschlagenen statt, die die höchste Stimmenzahl erhalten haben.\n(3) Der Ministerpräsident ernennt und entläßt die Minister. Er beauftragt ein Mitglied der Landesregierung mit seiner Vertretung und zeigt seine Entscheidungen unverzüglich dem Landtag an.\n"
+      },
+      "art-053": {
+       "label": "Artikel 53",
+       "kind": "art",
+       "text": "# Artikel 53\nDie Mitglieder der Landesregierung leisten beim Amtsantritt vor dem Landtag folgenden Amtseid:\n„Ich schwöre, daß ich meine ganze Kraft dem Wohle des Landes Nordrhein-Westfalen widmen, seinen Nutzen mehren, Schaden von ihm wenden, das mir übertragene Amt nach bestem Wissen und Können unparteiisch verwalten, Verfassung und Gesetz wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.\"\nDer Eid kann auch ohne religiöse Beteuerung geleistet werden.\n"
+      },
+      "art-054": {
+       "label": "Artikel 54",
+       "kind": "art",
+       "text": "# Artikel 54\n(1) Der Ministerpräsident führt den Vorsitz in der Landesregierung. Bei Stimmengleichheit entscheidet seine Stimme.\n(2) Er leitet die Geschäfte nach einer von der Landesregierung beschlossenen Geschäftsordnung.\n"
+      },
+      "art-055": {
+       "label": "Artikel 55",
+       "kind": "art",
+       "text": "# Artikel 55\n(1) Der Ministerpräsident bestimmt die Richtlinien der Politik und trägt dafür die Verantwortung.\n(2) Innerhalb dieser Richtlinien leitet jeder Minister seinen Geschäftsbereich selbständig und unter eigener Verantwortung.\n(3) Bei Meinungsverschiedenheiten über Fragen, die den Geschäftsbereich mehrerer Mitglieder der Landesregierung berühren, entscheidet die Landesregierung.\n"
+      },
+      "art-056": {
+       "label": "Artikel 56",
+       "kind": "art",
+       "text": "# Artikel 56\n(1) Die Landesregierung beschließt über Gesetzesvorlagen, die beim Landtag einzubringen sind.\n(2) Die Landesregierung erläßt die zur Ausführung eines Gesetzes erforderlichen Verwaltungsverordnungen, soweit das Gesetz diese Aufgabe nicht einzelnen Ministern zuweist.\n"
+      },
+      "art-057": {
+       "label": "Artikel 57",
+       "kind": "art",
+       "text": "# Artikel 57\nDie Landesregierung vertritt das Land Nordrhein-Westfalen nach außen. Sie kann diese Befugnis auf den Ministerpräsidenten, auf ein anderes Mitglied der Landesregierung oder auf nachgeordnete Stellen übertragen.\n"
+      },
+      "art-058": {
+       "label": "Artikel 58",
+       "kind": "art",
+       "text": "# Artikel 58\nDie Landesregierung ernennt die Landesbeamten. Sie kann die Befugnis auf andere Stellen übertragen.\n"
+      },
+      "art-059": {
+       "label": "Artikel 59",
+       "kind": "art",
+       "text": "# Artikel 59\n(1) Der Ministerpräsident übt das Recht der Begnadigung aus. Er kann die Befugnis auf andere Stellen übertragen. Zugunsten eines Mitgliedes der Landesregierung wird das Recht der Begnadigung durch den Landtag ausgeübt.\n(2) Allgemeine Straferlasse und die Niederschlagung einer bestimmten Art anhängiger Strafsachen dürfen nur auf Grund eines Gesetzes ausgesprochen werden.\n"
+      },
+      "art-060": {
+       "label": "Artikel 60",
+       "kind": "art",
+       "text": "# Artikel 60\n(1) Ist der Landtag durch höhere Gewalt daran gehindert, sich frei zu versammeln, und wird dies durch einen mit Mehrheit gefaßten Beschluß des Landtagspräsidenten und seiner Stellvertreter festgestellt, so kann die Landesregierung zur Aufrechterhaltung der öffentlichen Ruhe und Ordnung oder zur Beseitigung eines Notstandes Verordnungen mit Gesetzeskraft, die der Verfassung nicht widersprechen, erlassen.\n(2) Diese Verordnungen bedürfen der Zustimmung eines in der Geschäftsordnung zu bestimmenden Ausschusses, es sei denn, daß auch dieser nach einer entsprechend Absatz 1 zu treffenden Feststellung am Zusammentritt verhindert ist.\n(3) Verordnungen ohne Beteiligung des in der Geschäftsordnung zu bestimmenden Ausschusses sind nur mit Gegenzeichnung des Landtagspräsidenten rechtswirksam. Die Gegenzeichnung erfolgt oder gilt als erfolgt, sofern der Landtagspräsident und seine Stellvertreter dies mit Mehrheit beschließen.\n(4) Die Feststellung des Landtagspräsidenten und seiner Stellvertreter ist jeweils nur für einen Monat wirksam und, wenn die Voraussetzungen des Notstandes fortdauern, zu wiederholen.\n(5) Die Verordnungen sind dem Landtage bei seinem nächsten Zusammentritt zur Genehmigung vorzulegen. Wird die Genehmigung versagt, so sind die Verordnungen durch Bekanntmachung im Gesetz- und Verordnungsblatt unverzüglich außer Kraft zu setzen.\n"
+      },
+      "art-061": {
+       "label": "Artikel 61",
+       "kind": "art",
+       "text": "# Artikel 61\n(1) Der Landtag kann dem Ministerpräsidenten das Mißtrauen nur dadurch aussprechen, daß er mit der Mehrheit der abgegebenen Stimmen einen Nachfolger wählt.\n(2) Zwischen dem Antrag auf Abberufung und der Wahl müssen mindestens achtundvierzig Stunden liegen.\n"
+      },
+      "art-062": {
+       "label": "Artikel 62",
+       "kind": "art",
+       "text": "# Artikel 62\n(1) Der Ministerpräsident und die Minister können jederzeit zurücktreten.\n(2) Das Amt des Ministerpräsidenten und der Minister endet in jedem Falle mit dem Zusammentritt eines neuen Landtags, das Amt eines Ministers auch mit jeder anderen Erledigung des Amtes des Ministerpräsidenten.\n(3) Im Falle des Rücktritts oder einer sonstigen Beendigung des Amtes haben die Mitglieder der Landesregierung bis zur Amtsübernahme des Nachfolgers ihr Amt weiterzuführen.\n"
+      },
+      "art-063": {
+       "label": "Artikel 63",
+       "kind": "art",
+       "text": "# Artikel 63\n(weggefallen)\n"
+      },
+      "art-064": {
+       "label": "Artikel 64",
+       "kind": "art",
+       "text": "# Artikel 64\n(1) Besoldung, Ruhegehalt und Hinterbliebenenversorgung der Mitglieder der Landesregierung werden durch Gesetz geregelt.\n(2) Mit dem Amte eines Mitgliedes der Landesregierung ist die Ausübung eines anderen öffentlichen Amtes oder einer anderen Berufstätigkeit in der Regel unvereinbar. Die Landesregierung kann Mitgliedern der Landesregierung die Beibehaltung ihrer Berufstätigkeit gestatten.\n(3) Die Wahl in den Vorstand, Verwaltungsrat oder Aufsichtsrat industrieller oder ähnlicher den Gelderwerb bezweckender Unternehmungen dürfen Mitglieder der Landesregierung nur mit besonderer Genehmigung des Hauptausschusses annehmen. Der Genehmigung durch die Landesregierung bedarf es, wenn sie nach ihrem Eintritt in die Landesregierung in dem Vorstand, Verwaltungsrat oder Aufsichtsrat einer der erwähnten Unternehmungen tätig bleiben wollen. Die erteilte Genehmigung ist dem Landtagspräsidenten anzuzeigen.\n(4) Ein Mitglied der Landesregierung kann nicht gleichzeitig Mitglied des Bundestags oder der Bundesregierung sein.\nDritter Abschnitt - Die Gesetzgebung\n"
+      },
+      "art-065": {
+       "label": "Artikel 65",
+       "kind": "art",
+       "text": "# Artikel 65\nGesetzentwürfe werden von der Landesregierung oder aus der Mitte des Landtags eingebracht.\n"
+      },
+      "art-066": {
+       "label": "Artikel 66",
+       "kind": "art",
+       "text": "# Artikel 66\nDie Gesetze werden vom Landtag beschlossen. Staatsverträge bedürfen der Zustimmung des Landtags.\n"
+      },
+      "art-067": {
+       "label": "Artikel 67",
+       "kind": "art",
+       "text": "# Artikel 67\n(1) Volksinitiativen können darauf gerichtet sein, den Landtag im Rahmen seiner Entscheidungszuständigkeit mit bestimmten Gegenständen der politischen Willensbildung zu befassen. Einer Initiative kann auch ein mit Gründen versehener Gesetzentwurf zu Grunde liegen.\n(2) Volksinitiativen müssen von mindestens 0,5 vom Hundert der Stimmberechtigten unterzeichnet sein. Artikel 31 Absatz 1 und Absatz 2 Satz 1 über das Wahlrecht findet auf das Stimmrecht entsprechende Anwendung.\n(3) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "y-text": {
+       "label": "Text",
+       "kind": "other",
+       "text": "\n"
+      },
+      "art-068": {
+       "label": "Artikel 68",
+       "kind": "art",
+       "text": "# Artikel 68\n(1) Volksbegehren können darauf gerichtet werden, Gesetze zu erlassen, zu ändern oder aufzuheben. Dem Volksbegehren muß ein ausgearbeiteter und mit Gründen versehener Gesetzentwurf zugrunde liegen. Ein Volksbegehren ist nur auf Gebieten zulässig, die der Gesetzgebungsgewalt des Landes unterliegen. Über Finanzfragen, Abgabengesetze und Besoldungsordnungen ist ein Volksbegehren nicht zulässig. Über die Zulässigkeit entscheidet die Landesregierung. Gegen die Entscheidung ist die Anrufung des Verfassungsgerichtshofes zulässig.\nDas Volksbegehren ist nur rechtswirksam, wenn es von mindestens 8 vom Hundert der Stimmberechtigten gestellt ist.\n(2) Das Volksbegehren ist von der Landesregierung unter Darlegung ihres Standpunktes unverzüglich dem Landtag zu unterbreiten. Entspricht der Landtag dem Volksbegehren nicht, so ist binnen zehn Wochen ein Volksentscheid herbeizuführen. Entspricht der Landtag dem Volksbegehren, so unterbleibt der Volksentscheid.\n(3) Die Abstimmung kann nur bejahend oder verneinend sein. Es entscheidet die Mehrheit der abgegebenen Stimmen, sofern diese Mehrheit mindestens 15 vom Hundert der Stimmberechtigten beträgt.\n(4) Die Vorschriften des Artikels 31 Abs. 1 bis 3 über das Wahlrecht und Wahlverfahren finden auf das Stimmrecht und das Abstimmungsverfahren entsprechende Anwendung. Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-069": {
+       "label": "Artikel 69",
+       "kind": "art",
+       "text": "# Artikel 69\n(1) Die Verfassung kann nur durch ein Gesetz geändert werden, das den Wortlaut der Verfassung ausdrücklich ändert oder ergänzt. Änderungen der Verfassung, die den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne des Grundgesetzes für die Bundesrepublik Deutschland widersprechen, sind unzulässig.\n(2) Für eine Verfassungsänderung bedarf es der Zustimmung einer Mehrheit von zwei Dritteln der gesetzlichen Mitgliederzahl des Landtags.\n(3) Kommt die Mehrheit gemäß Absatz 2 nicht zustande, so kann sowohl der Landtag als auch die Regierung die Zustimmung zu der begehrten Änderung der Verfassung durch Volksentscheid einholen. Die Verfassung kann auch durch Volksentscheid aufgrund eines Volksbegehrens nach Artikel 68 geändert werden. Das Gesetz ist angenommen, wenn mindestens die Hälfte der Stimmberechtigten sich an dem Volksentscheid beteiligt und mindestens zwei Drittel der Abstimmenden dem Gesetzentwurf zustimmen.\n"
+      },
+      "art-070": {
+       "label": "Artikel 70",
+       "kind": "art",
+       "text": "# Artikel 70\nDie Ermächtigung zum Erlaß einer Rechtsverordnung kann nur durch Gesetz erteilt werden. Das Gesetz muß Inhalt, Zweck und Ausmaß der erteilten Ermächtigung bestimmen. In der Verordnung ist die Rechtsgrundlage anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiterübertragen werden kann, so bedarf es zu ihrer Übertragung einer Rechtsverordnung.\n"
+      },
+      "art-071": {
+       "label": "Artikel 71",
+       "kind": "art",
+       "text": "# Artikel 71\n(1) Die Gesetze werden von der Landesregierung unverzüglich ausgefertigt und im Gesetz- und Verordnungsblatt verkündet. Sie werden vom Ministerpräsidenten und den beteiligten Ministern unterzeichnet.\n(2) Rechtsverordnungen werden von der Stelle, die sie erläßt, ausgefertigt und im Gesetz- und Verordnungsblatt verkündet.\n(3) Gesetze und Rechtsverordnungen treten, wenn nichts anderes bestimmt ist, mit dem vierzehnten Tage nach Ausgabe der die Verkündung enthaltenden Nummer des Gesetz- und Verordnungsblattes in Kraft.\nVierter Abschnitt - Die Rechtspflege\n"
+      },
+      "art-072": {
+       "label": "Artikel 72",
+       "kind": "art",
+       "text": "# Artikel 72\n(1) Die Gerichte urteilen im Namen des Deutschen Volkes.\n(2) An der Rechtsprechung sind Männer und Frauen aus dem Volke nach Maßgabe der Gesetze zu beteiligen.\n"
+      },
+      "art-073": {
+       "label": "Artikel 73",
+       "kind": "art",
+       "text": "# Artikel 73\nWenn ein Richter im Amte oder außerhalb des Amtes gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung des Landes verstößt, so kann das Bundesverfassungsgericht mit Zweidrittelmehrheit auf Antrag der Mehrheit der gesetzlichen Mitgliederzahl des Landtags anordnen, daß der Richter in ein anderes Amt oder in den Ruhestand zu versetzen ist. Im Falle eines vorsätzlichen Verstoßes kann auf Entlassung erkannt werden.\n"
+      },
+      "art-074": {
+       "label": "Artikel 74",
+       "kind": "art",
+       "text": "# Artikel 74\n(1) Gegen die Anordnungen, Verfügungen und Unterlassungen der Verwaltungsbehörden kann der Betroffene die Entscheidung der Verwaltungsgerichte anrufen. Die Verwaltungsgerichte haben zu prüfen, ob die beanstandete Maßnahme dem Gesetz entspricht und die Grenze des pflichtgemäßen Ermessens nicht überschreitet.\n(2) Die Verwaltungsgerichtsbarkeit wird durch selbständige Gerichte in mindestens zwei Stufen ausgeübt.\nFünfter Abschnitt - Der Verfassungsgerichtshof\n"
+      },
+      "art-075": {
+       "label": "Artikel 75",
+       "kind": "art",
+       "text": "# Artikel 75\nDer Verfassungsgerichtshof entscheidet:\n1. in den Fällen der Artikel 32 und 33,\n2. über die Auslegung der Verfassung aus Anlaß von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Landesorgans oder anderer Beteiligter, die durch diese Verfassung oder in der Geschäftsordnung eines obersten Landesorgans mit eigenen Rechten ausgestattet sind,\n3. bei Meinungsverschiedenheiten oder Zweifeln über die Vereinbarkeit von Landesrecht mit dieser Verfassung auf Antrag der Landesregierung oder eines Drittels der Mitglieder des Landtags,\n4. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Landtag,\n5a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung erhoben werden können, durch die öffentliche Gewalt des Landes in einem seiner in dieser Verfassung für das Land Nordrhein-Westfalen enthaltenen Rechte verletzt zu sein,\n5b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden, die mit der Behauptung erhoben werden können, dass Landesrecht die Vorschriften dieser Verfassung des Landes Nordrhein-Westfalen über das Recht auf Selbstverwaltung verletze,\n6. in sonstigen durch Gesetz zugewiesenen Fällen.\n"
+      },
+      "art-076": {
+       "label": "Artikel 76",
+       "kind": "art",
+       "text": "# Artikel 76\n(1) Der Verfassungsgerichtshof setzt sich zusammen aus dem Präsidenten, dem Vizepräsidenten und aus fünf weiteren Mitgliedern. Die Mitglieder werden durch sieben stellvertretende Mitglieder persönlich vertreten.\n(2) Die Mitglieder und ihre Stellvertreter werden vom Landtag ohne Aussprache mit Zweidrittelmehrheit auf die Dauer von zehn Jahren gewählt. Wiederwahl ist ausgeschlossen. Sie müssen die Befähigung zum Richteramt haben. Drei Mitglieder und ihre Stellvertreter müssen Berufsrichter sein.\n(3) Das Nähere bestimmt das Gesetz.\nSechster Abschnitt - Die Verwaltung\n"
+      },
+      "art-077": {
+       "label": "Artikel 77",
+       "kind": "art",
+       "text": "# Artikel 77\nDie Organisation der allgemeinen Landesverwaltung und die Regelung der Zuständigkeiten erfolgt durch Gesetz. Die Einrichtung der Behörden im einzelnen obliegt der Landesregierung und auf Grund der von ihr erteilten Ermächtigung den einzelnen Landesministern.\n"
+      },
+      "art-077a": {
+       "label": "Artikel 77 a",
+       "kind": "art",
+       "text": "# Artikel 77 a\n(1) Der Landtag wählt auf Vorschlag der Landesregierung einen Landesbeauftragten für den Datenschutz mit mehr als der Hälfte der gesetzlichen Zahl seiner Mitglieder; Artikel 58 bleibt im übrigen unberührt.\n(2) Der Landesbeauftragte für den Datenschutz ist in Ausübung seines Amtes unabhängig und nur dem Gesetz unterworfen. Er kann sich jederzeit an den Landtag wenden.\n(3) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-078": {
+       "label": "Artikel 78",
+       "kind": "art",
+       "text": "# Artikel 78\n(1) Die Gemeinden und Gemeindeverbände sind Gebietskörperschaften mit dem Recht der Selbstverwaltung durch ihre gewählten Organe. Die Räte in den Gemeinden, die Bezirksvertretungen, die Kreistage und die Verbandsversammlung des Regionalverbandes Ruhr werden in allgemeiner, gleicher, unmittelbarer, geheimer und freier Wahl gewählt. Wahlvorschläge, nach deren Ergebnis sich die Sitzanteile in den Räten der Gemeinden, den Bezirksvertretungen, den Kreistagen und der Verbandsversammlung des Regionalverbandes Ruhr bestimmen, werden nur berücksichtigt, wenn sie mindestens 2,5 vom Hundert der insgesamt abgegebenen gültigen Stimmen erhalten haben. Das Gesetz bestimmt das Nähere.\n(2) Die Gemeinden und Gemeindeverbände sind in ihrem Gebiet die alleinigen Träger der öffentlichen Verwaltung, soweit die Gesetze nichts anderes vorschreiben.\n(3) Das Land kann die Gemeinden oder Gemeindeverbände durch Gesetz oder Rechtsverordnung zur Übernahme und Durchführung bestimmter öffentlicher Aufgaben verpflichten, wenn dabei gleichzeitig Bestimmungen über die Deckung der Kosten getroffen werden. Führt die Übertragung neuer oder die Veränderung bestehender und übertragbarer Aufgaben zu einer wesentlichen Belastung der davon betroffenen Gemeinden oder Gemeindeverbände, ist dafür durch Gesetz oder Rechtsverordnung aufgrund einer Kostenfolgeabschätzung ein entsprechender finanzieller Ausgleich für die entstehenden notwendigen, durchschnittlichen Aufwendungen zu schaffen. Der Aufwendungsersatz soll pauschaliert geleistet werden. Wird nachträglich eine wesentliche Abweichung von der Kostenfolgeabschätzung festgestellt, wird der finanzielle Ausgleich für die Zukunft angepasst. Das Nähere zu den Sätzen 2 bis 4 regelt ein Gesetz; darin sind die Grundsätze der Kostenfolgeabschätzung festzulegen und Bestimmungen über eine Beteiligung der kommunalen Spitzenverbände zu treffen.\n(4) Das Land überwacht die Gesetzmäßigkeit der Verwaltung der Gemeinden und Gemeindeverbände. Das Land kann sich bei Pflichtaufgaben ein Weisungs- und Aufsichtsrecht nach näherer gesetzlicher Vorschrift vorbehalten.\n"
+      },
+      "art-079": {
+       "label": "Artikel 79",
+       "kind": "art",
+       "text": "# Artikel 79\nDie Gemeinden haben zur Erfüllung ihrer Aufgaben das Recht auf Erschließung eigener Steuerquellen. Das Land ist verpflichtet, diesem Anspruch bei der Gesetzgebung Rechnung zu tragen und im Rahmen seiner finanziellen Leistungsfähigkeit einen übergemeindlichen Finanzausgleich zu gewährleisten.\n"
+      },
+      "art-080": {
+       "label": "Artikel 80",
+       "kind": "art",
+       "text": "# Artikel 80\nDie Beamten und sonstigen Verwaltungsangehörigen sind Diener des ganzen Volkes, nicht einer Partei oder sonstigen Gruppe. Sie haben ihr Amt und ihre Aufgaben unparteiisch und ohne Rücksicht auf die Person nur nach sachlichen Gesichtspunkten wahrzunehmen.\nJeder Beamte leistet folgenden Amtseid:\n„Ich schwöre, daß ich das mir übertragene Amt nach bestem Wissen und Können verwalten, Verfassung und Gesetze befolgen und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.\"\nDer Eid kann auch ohne religiöse Beteuerung geleistet werden.\nSiebter Abschnitt - Das Finanzwesen\n"
+      },
+      "art-081": {
+       "label": "Artikel 81",
+       "kind": "art",
+       "text": "# Artikel 81\n(1) Der Landtag sorgt durch Bewilligung der erforderlichen laufenden Mittel für die Deckung des Landesbedarfs.\n(2) Alle Einnahmen und Ausgaben des Landes sind in den Haushaltsplan einzustellen; bei Landesbetrieben und bei Sondervermögen brauchen nur die Zuführungen oder Ablieferungen eingestellt zu werden. Ein Nachtragshaushaltsplan kann sich auf einzelne Einnahmen und Ausgaben beschränken. Der Haushaltsplan und der Nachtragshaushaltsplan sollen in Einnahmen und Ausgaben ausgeglichen sein.\n(3) Der Haushaltsplan wird für ein oder mehrere Haushaltsjahre, nach Jahren getrennt, vor Beginn des ersten Haushaltsjahres durch das Haushaltsgesetz festgestellt. Für Teile des Haushaltsplans kann vorgesehen werden, daß sie für unterschiedliche Zeiträume, nach Haushaltsjahren getrennt, gelten.\n"
+      },
+      "art-082": {
+       "label": "Artikel 82",
+       "kind": "art",
+       "text": "# Artikel 82\nIst bis zum Schluß eines Haushaltsjahres der Haushaltsplan für das folgende Jahr nicht festgestellt, so ist bis zu seinem Inkrafttreten die Landesregierung ermächtigt,\n1. alle Ausgaben zu leisten, die nötig sind,\na) um gesetzlich bestehende Einrichtungen zu erhalten und gesetzlich beschlossene Maßnahmen durchzuführen,\nb) um die rechtlich begründeten Verpflichtungen des Landes zu erfüllen,\nc) um Bauten, Beschaffungen und sonstige Leistungen fortzusetzen, für die durch den Haushaltsplan des Vorjahres bereits Beträge bewilligt worden sind;\n2. Schatzanweisungen bis zur Höhe eines Viertels der Endsumme des abgelaufenen Haushaltsplanes für je drei Monate auszugeben, soweit nicht Einnahmen aus Steuern und Abgaben und Einnahmen aus sonstigen Quellen die Ausgaben unter Ziffer 1 decken.\n"
+      },
+      "art-083": {
+       "label": "Artikel 83",
+       "kind": "art",
+       "text": "# Artikel 83\nDie Aufnahme von Krediten sowie die Übernahme von Bürgschaften, Garantien oder sonstigen Gewährleistungen, die zu Ausgaben in künftigen Haushaltsjahren führen können, bedürfen einer der Höhe nach bestimmten oder bestimmbaren Ermächtigung durch Gesetz. Die Einnahmen aus Krediten dürfen entsprechend den Erfordernissen des gesamtwirtschaftlichen Gleichgewichts in der Regel nur bis zur Höhe der Summe der im Haushaltsplan veranschlagten Ausgaben für Investitionen in den Haushaltsplan eingestellt werden; das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-084": {
+       "label": "Artikel 84",
+       "kind": "art",
+       "text": "# Artikel 84\nBeschlüsse des Landtags, welche Ausgaben mit sich bringen, müssen bestimmen, wie diese Ausgaben gedeckt werden.\n"
+      },
+      "art-085": {
+       "label": "Artikel 85",
+       "kind": "art",
+       "text": "# Artikel 85\n(1) Überplanmäßige und außerplanmäßige Ausgaben bedürfen der Zustimmung des Finanzministers. Sie darf nur im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses erteilt werden.\n(2) Zu überplanmäßigen und außerplanmäßigen Ausgaben hat der Finanzminister die Genehmigung des Landtags einzuholen.\n"
+      },
+      "art-086": {
+       "label": "Artikel 86",
+       "kind": "art",
+       "text": "# Artikel 86\n(1) Der Finanzminister hat dem Landtag über alle Einnahmen und Ausgaben im Laufe des nächsten Haushaltsjahres zur Entlastung der Landesregierung Rechnung zu legen. Der Haushaltsrechnung sind Übersichten über das Vermögen und die Schulden des Landes beizufügen.\n(2) Der Landesrechnungshof prüft die Rechnung sowie die Ordnungsmäßigkeit und Wirtschaftlichkeit der Haushalts- und Wirtschaftsführung. Er faßt das Ergebnis seiner Prüfung jährlich in einem Bericht für den Landtag zusammen, den er auch der Landesregierung zuleitet.\n"
+      },
+      "art-087": {
+       "label": "Artikel 87",
+       "kind": "art",
+       "text": "# Artikel 87\n(1) Der Landesrechnungshof ist eine selbständige, nur dem Gesetz unterworfene oberste Landesbehörde. Seine Mitglieder genießen den Schutz richterlicher Unabhängigkeit.\n(2) Der Präsident, der Vizepräsident und die anderen Mitglieder des Landesrechnungshofes werden vom Landtag ohne Aussprache gewählt und sind von der Landesregierung zu ernennen.\n(3) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-088": {
+       "label": "Artikel 88",
+       "kind": "art",
+       "text": "# Artikel 88\nDas Finanzwesen der ertragswirtschaftlichen Unternehmungen des Landes kann durch Gesetz abweichend von den Vorschriften der Artikel 81 bis 86 geregelt werden.\nÜbergangs- und Schlußbestimmungen\n"
+      },
+      "art-089": {
+       "label": "Artikel 89",
+       "kind": "art",
+       "text": "# Artikel 89\nAuf dem Gebiete des Schulwesens gelten in dem ehemaligen Lande Lippe die Rechtsvorschriften vom 1. Januar 1933 bis zur endgültigen Entscheidung über die staatsrechtliche Eingliederung Lippes in das Land Nordrhein-Westfalen.\n"
+      },
+      "art-090": {
+       "label": "Artikel 90",
+       "kind": "art",
+       "text": "# Artikel 90\n(1) Die Verfassung ist dem Volke zur Billigung zu unterbreiten. Die Abstimmung erfolgt nach Maßgabe eines Landtagsbeschlusses. Die Verfassung gilt als angenommen, wenn die Mehrheit der Abstimmenden sie bejaht hat.\n(2) Die Verfassung ist nach ihrer Annahme durch das Volk im Gesetz- und Verordnungsblatt zu verkünden. Sie tritt mit dem auf ihre Verkündung folgenden Tage in Kraft.\n"
+      },
+      "art-091": {
+       "label": "Artikel 91",
+       "kind": "art",
+       "text": "# Artikel 91\n(1) Der am 18. Juni 1950 gewählte Landtag gilt als erster Landtag im Sinne dieser Verfassung.\n(2) Die bestehenden Organe des Landes nehmen bis zur Bildung der durch diese Verfassung vorgesehenen Organe deren Aufgaben wahr. Eine nach den Bestimmungen dieser Verfassung bereits vor ihrem Inkrafttreten gebildete Landesregierung gilt als Landesregierung im Sinne der Artikel 51 ff.\n"
+      },
+      "art-092": {
+       "label": "Artikel 92",
+       "kind": "art",
+       "text": "# Artikel 92\nDie Wahlperiode des im Jahre 1970 zu wählenden Landtags beträgt vier Jahre zehn Monate.\n"
+      },
+      "art-093": {
+       "label": "Artikel 93",
+       "kind": "art",
+       "text": "# Artikel 93\nDie Amtszeit der Richter des Verfassungsgerichtshofes, die am 30. Juni 2017 im Amt sind, wird durch die Neuregelung des Artikels 76 nicht berührt. Soweit die Richter auf der Grundlage des Artikels 76 in der bis zum 30. Juni 2017 geltenden Fassung in ihr Amt gelangt sind, steht dieses einer Wahl gemäß Artikel 76 Absatz 2 in der neuen Fassung nicht entgegen.\nDüsseldorf, den 28. Juni 1950\n| Die Landesregierung des Landes Nordrhein-Westfalen |\n| Der Ministerpräsident: Arnold |\nDer Innenminister: Dr. Menzel | Der Finanzminister: Dr. Weitz | Der Wirtschaftsminister: Dr. Nölting\nDer Minister für Ernährung, Landwirtschaft und Forsten: Lübke | Der Arbeitsminister: Halbfell | Der Sozialminister: Dr. Amelunxen\nDer Kultusminister: Teusch | Der Minister für Wiederaufbau: Steinhoff | Der Justizminister: Dr. Sträter\n"
+      }
+     },
+     "credits": {}
+    },
+    {
+     "from": "2026-01-16",
+     "source_url": "https://recht.nrw.de/lrgv/gesetz/16012026-verfassung-fuer-das-land-nordrhein-westfalen",
+     "sha256": "5c9ab4884a1ff801c56a0a13eecef77ef4755c34acaee6f803e36e72b9fb6b7e",
+     "units": {
+      "000-eingang": {
+       "label": "Eingang",
+       "kind": "title",
+       "text": "Vom 28. Juni 1950\nDer Landtag Nordrhein-Westfalen hat am 6. Juni 1950 folgendes Gesetz beschlossen, das gemäß Artikel 90 am 18. Juni 1950 durch Volksentscheid von der Mehrheit der Abstimmenden bejaht worden ist:\nPräambel\nIn Verantwortung vor Gott und den Menschen, verbunden mit allen Deutschen, erfüllt von dem Willen, die Not der Gegenwart in gemeinschaftlicher Arbeit zu überwinden, dem inneren und äußeren Frieden zu dienen, Freiheit, Gerechtigkeit und Wohlstand für alle zu schaffen, haben sich die Männer und Frauen des Landes Nordrhein-Westfalen diese Verfassung gegeben:\nErster Teil\nVon den Grundlagen des Landes\n"
+      },
+      "art-001": {
+       "label": "Artikel 1",
+       "kind": "art",
+       "text": "# Artikel 1\n(1) Nordrhein-Westfalen ist ein Gliedstaat der Bundesrepublik Deutschland und damit Teil der Europäischen Union. Das Land gliedert sich in Gemeinden und Gemeindeverbände.\n(2) Die Landesfarben und das Landeswappen werden durch Gesetz bestimmt.\n(3) Nordrhein-Westfalen trägt zur Verwirklichung und Entwicklung eines geeinten Europas bei, das demokratischen, rechtsstaatlichen, sozialen und föderativen Grundsätzen sowie dem Grundsatz der Subsidiarität verpflichtet ist, die Eigenständigkeit der Regionen wahrt und deren Mitwirkung an europäischen Entscheidungen sichert. Das Land arbeitet mit anderen europäischen Regionen zusammen und unterstützt die grenzüberschreitende Kooperation.\n"
+      },
+      "art-002": {
+       "label": "Artikel 2",
+       "kind": "art",
+       "text": "# Artikel 2\nDas Volk bekundet seinen Willen durch Wahl, Volksbegehren und Volksentscheid.\n"
+      },
+      "art-003": {
+       "label": "Artikel 3",
+       "kind": "art",
+       "text": "# Artikel 3\n(1) Die Gesetzgebung steht dem Volk und der Volksvertretung zu.\n(2) Die Verwaltung liegt in den Händen der Landesregierung, der Gemeinden und der Gemeindeverbände.\n(3) Die Rechtsprechung wird durch unabhängige Richter ausgeübt.\nZweiter Teil\nVon den Grundrechten und der Ordnung des Gemeinschaftslebens\nErster Abschnitt - Von den Grundrechten\n"
+      },
+      "art-004": {
+       "label": "Artikel 4",
+       "kind": "art",
+       "text": "# Artikel 4\n(1) Die im Grundgesetz für die Bundesrepublik Deutschland in der Fassung vom 23. Mai 1949 festgelegten Grundrechte und staatsbürgerlichen Rechte sind Bestandteil dieser Verfassung und unmittelbar geltendes Landesrecht.\n(2) Jeder hat Anspruch auf Schutz seiner personenbezogenen Daten. Eingriffe sind nur in überwiegendem Interesse der Allgemeinheit auf Grund eines Gesetzes zulässig.\nZweiter Abschnitt - Die Familie\n"
+      },
+      "art-005": {
+       "label": "Artikel 5",
+       "kind": "art",
+       "text": "# Artikel 5\n(1) Ehe und Familie werden als die Grundlagen der menschlichen Gesellschaft anerkannt. Sie stehen unter dem besonderen Schutz des Landes. Die Mutterschaft und die kinderreiche Familie haben Anspruch auf besondere Fürsorge.\n(2) Familien- und Erwerbsarbeit sind gleichwertig. Frauen und Männer sind entsprechend ihrer Entscheidung an Familien- und Erwerbsarbeit gleichberechtigt beteiligt.\n"
+      },
+      "art-006": {
+       "label": "Artikel 6",
+       "kind": "art",
+       "text": "# Artikel 6\nKinder und Jugendliche\n(1) Jedes Kind hat ein Recht auf Achtung seiner Würde als eigenständige Persönlichkeit und auf besonderen Schutz von Staat und Gesellschaft.\n(2) Kinder und Jugendliche haben ein Recht auf Entwicklung und Entfaltung ihrer Persönlichkeit, auf gewaltfreie Erziehung und den Schutz vor Gewalt, Vernachlässigung und Ausbeutung. Staat und Gesellschaft schützen sie vor Gefahren für ihr körperliches, geistiges und seelisches Wohl. Sie achten und sichern ihre Rechte, tragen für altersgerechte Lebensbedingungen Sorge und fördern sie nach ihren Anlagen und Fähigkeiten.\n(3) Allen Jugendlichen ist die umfassende Möglichkeit zur Berufsausbildung und Berufsausübung zu sichern.\n(4) Das Mitwirkungsrecht der Kirchen und Religionsgemeinschaften sowie der Verbände der freien Wohlfahrtspflege in den Angelegenheiten der Familienförderung, der Kinder- und Jugendhilfe bleibt gewährleistet und ist zu fördern.\nDritter Abschnitt - Schule, Kunst und Wissenschaft, Sport, Religion und Religionsgemeinschaften\n"
+      },
+      "art-007": {
+       "label": "Artikel 7",
+       "kind": "art",
+       "text": "# Artikel 7\n(1) Ehrfurcht vor Gott, Achtung vor der Würde des Menschen und Bereitschaft zum sozialen Handeln zu wecken, ist vornehmstes Ziel der Erziehung.\n(2) Die Jugend soll erzogen werden im Geiste der Menschlichkeit, der Demokratie und der Freiheit, zur Duldsamkeit und zur Achtung vor der Überzeugung des anderen, zur Verantwortung für Tiere und die Erhaltung der natürlichen Lebensgrundlagen, in Liebe zu Volk und Heimat, zur Völkergemeinschaft und Friedensgesinnung.\n"
+      },
+      "art-008": {
+       "label": "Artikel 8",
+       "kind": "art",
+       "text": "# Artikel 8\n(1) Jedes Kind hat Anspruch auf Erziehung und Bildung. Das natürliche Recht der Eltern, die Erziehung und Bildung ihrer Kinder zu bestimmen, bildet die Grundlage des Erziehungs- und Schulwesens.\nDie staatliche Gemeinschaft hat Sorge zu tragen, daß das Schulwesen den kulturellen und sozialen Bedürfnissen des Landes entspricht.\n(2) Es besteht allgemeine Schulpflicht. Das Nähere regelt ein Gesetz.\n(3) Land und Gemeinden haben die Pflicht, Schulen zu errichten und zu fördern. Das gesamte Schulwesen steht unter der Aufsicht des Landes. Die Schulaufsicht wird durch hauptamtlich tätige, fachlich vorgebildete Beamte ausgeübt.\n(4) Für die Privatschulen gelten die Bestimmungen des Artikels 7 Abs. 4 und 5 des Grundgesetzes der Bundesrepublik Deutschland vom 23. Mai 1949 zugleich als Bestandteil dieser Verfassung. Die hiernach genehmigten Privatschulen haben die gleichen Berechtigungen wie die entsprechenden öffentlichen Schulen. Sie haben Anspruch auf die zur Durchführung ihrer Aufgaben und zur Erfüllung ihrer Pflichten erforderlichen öffentlichen Zuschüsse.\n"
+      },
+      "art-009": {
+       "label": "Artikel 9",
+       "kind": "art",
+       "text": "# Artikel 9\n(1) Schulgeld wird nicht erhoben.\n(2) Einführung und Durchführung der Lehr- und Lernmittelfreiheit für alle Schulen sind gesetzlich zu regeln. Zum Zwecke des Studiums sind im Bedarfsfalle besondere Unterhaltsbeihilfen zu gewähren. Soweit der Staat für die öffentlichen Schulen Schulgeldfreiheit gewährt, sind auch die in Artikel 8 Abs. 4 genannten Privatschulen berechtigt, zu Lasten des Staates auf die Erhebung von Schulgeld zu verzichten; soweit er Lehr- und Lernmittelfreiheit gewährt, sind Lehr- und Lernmittel in gleicher Weise für diese Privatschulen zur Verfügung zu stellen wie für die öffentlichen Schulen.\n"
+      },
+      "art-010": {
+       "label": "Artikel 10",
+       "kind": "art",
+       "text": "# Artikel 10\n(1) Das Schulwesen des Landes baut sich auf einer für alle Kinder verbindlichen Grundschule auf. Das Schulwesen wird durch die Mannigfaltigkeit der Lebens- und Berufsaufgaben bestimmt. Das Land gewährleistet ein ausreichendes und vielfältiges öffentliches Schulwesen, das ein gegliedertes Schulsystem, integrierte Schulformen sowie weitere andere Schulformen ermöglicht. Für die Aufnahme in eine Schule sind Anlage und Neigung des Kindes maßgebend, nicht die wirtschaftliche Lage und die gesellschaftliche Stellung der Eltern.\n(2) Die Erziehungsberechtigten wirken durch Elternvertretungen an der Gestaltung des Schulwesens mit.\n"
+      },
+      "art-011": {
+       "label": "Artikel 11",
+       "kind": "art",
+       "text": "# Artikel 11\nIn allen Schulen ist Staatsbürgerkunde Lehrgegenstand und staatsbürgerliche Erziehung verpflichtende Aufgabe.\n"
+      },
+      "art-012": {
+       "label": "Artikel 12",
+       "kind": "art",
+       "text": "# Artikel 12\n(1) Schulen müssen entsprechend ihren Bildungszielen nach Organisation und Ausstattung die Voraussetzungen eines geordneten Schulbetriebs erfüllen.\n(2) Grundschulen sind Gemeinschaftsschulen, Bekenntnisschulen oder Weltanschauungsschulen. Auf Antrag der Erziehungsberechtigten sind, soweit ein geordneter Schulbetrieb gewährleistet ist, Grundschulen einzurichten.\n(3) In Gemeinschaftsschulen werden Kinder auf der Grundlage christlicher Bildungs- und Kulturwerte in Offenheit für die christlichen Bekenntnisse und für andere religiöse und weltanschauliche Überzeugungen gemeinsam unterrichtet und erzogen.\nIn Bekenntnisschulen werden Kinder des katholischen oder des evangelischen Glaubens oder einer anderen Religionsgemeinschaft nach den Grundsätzen des betreffenden Bekenntnisses unterrichtet und erzogen.\nIn Weltanschauungsschulen, zu denen auch die bekenntnisfreien Schulen gehören, werden die Kinder nach den Grundsätzen der betreffenden Weltanschauung unterrichtet und erzogen.\n(4) Das Nähere bestimmt ein Gesetz.\n"
+      },
+      "art-013": {
+       "label": "Artikel 13",
+       "kind": "art",
+       "text": "# Artikel 13\nWegen des religiösen Bekenntnisses darf im Einzelfalle keinem Kinde die Aufnahme in eine öffentliche Schule verweigert werden, falls keine entsprechende Schule vorhanden ist.\n"
+      },
+      "art-014": {
+       "label": "Artikel 14",
+       "kind": "art",
+       "text": "# Artikel 14\n(1) Der Religionsunterricht ist ordentliches Lehrfach an allen Schulen, mit Ausnahme der Weltanschauungsschulen (bekenntnisfreien Schulen). Für die religiöse Unterweisung bedarf der Lehrer der Bevollmächtigung durch die Kirche oder durch die Religionsgemeinschaft. Kein Lehrer darf gezwungen werden, Religionsunterricht zu erteilen.\n(2) Lehrpläne und Lehrbücher für den Religionsunterricht sind im Einvernehmen mit der Kirche oder Religionsgemeinschaft zu bestimmen.\n(3) Unbeschadet des staatlichen Aufsichtsrechtes haben die Kirchen oder die Religionsgemeinschaften das Recht, nach einem mit der Unterrichtsverwaltung vereinbarten Verfahren sich durch Einsichtnahme zu vergewissern, daß der Religionsunterricht in Übereinstimmung mit ihren Lehren und Anforderungen erteilt wird.\n(4) Die Befreiung vom Religionsunterricht ist abhängig von einer schriftlichen Willenserklärung der Erziehungsberechtigten oder des religionsmündigen Schülers.\n"
+      },
+      "art-015": {
+       "label": "Artikel 15",
+       "kind": "art",
+       "text": "# Artikel 15\nDie Ausbildung der Lehrer erfolgt in der Regel an wissenschaftlichen Hochschulen. Sie berücksichtigt die Bedürfnisse der Schulen; es ist ein Lehrangebot zu gewährleisten, das diesem Erfordernis gerecht wird. Es ist sicherzustellen, daß die Befähigung zur Erteilung des Religionsunterrichts erworben werden kann.\n"
+      },
+      "art-016": {
+       "label": "Artikel 16",
+       "kind": "art",
+       "text": "# Artikel 16\n(1) Die Universitäten und diejenigen Hochschulen, die ihnen als Stätten der Forschung und der Lehre gleichstehen, haben, unbeschadet der staatlichen Aufsicht, das Recht auf eine ihrem besonderen Charakter entsprechende Selbstverwaltung im Rahmen der Gesetze und ihrer staatlich anerkannten Satzungen.\n(2) Zur Ausbildung ihrer Geistlichen haben die Kirchen und zur Ausbildung ihrer Religionsdiener die Religionsgemeinschaften das Recht, eigene Anstalten mit Hochschulcharakter zu errichten und zu unterhalten.\n"
+      },
+      "art-017": {
+       "label": "Artikel 17",
+       "kind": "art",
+       "text": "# Artikel 17\nDie Erwachsenenbildung ist zu fördern. Als Träger von Einrichtungen der Erwachsenenbildung werden neben Staat, Gemeinden und Gemeindeverbänden auch andere Träger, wie die Kirchen und freien Vereinigungen, anerkannt.\n"
+      },
+      "art-018": {
+       "label": "Artikel 18",
+       "kind": "art",
+       "text": "# Artikel 18\n(1) Kultur, Kunst und Wissenschaft sind durch Land und Gemeinden zu pflegen und zu fördern.\n(2) Die Denkmäler der Kunst, der Geschichte und der Kultur, die Landschaft und Naturdenkmale stehen unter dem Schutz des Landes, der Gemeinden und Gemeindeverbände.\n(3) Sport ist durch Land und Gemeinden zu pflegen und zu fördern.\n"
+      },
+      "art-019": {
+       "label": "Artikel 19",
+       "kind": "art",
+       "text": "# Artikel 19\n(1) Die Freiheit der Vereinigung zu Kirchen oder Religionsgemeinschaften wird gewährleistet. Der Zusammenschluß von Kirchen oder Religionsgemeinschaften innerhalb des Landes unterliegt keinen Beschränkungen.\n(2) Die Kirchen und die Religionsgemeinschaften ordnen und verwalten ihre Angelegenheiten selbständig innerhalb der Schranken des für alle geltenden Gesetzes. Sie haben das Recht, ihre Ämter ohne Mitwirkung des Staates und der politischen Gemeinden zu verleihen oder zu entziehen.\n"
+      },
+      "art-020": {
+       "label": "Artikel 20",
+       "kind": "art",
+       "text": "# Artikel 20\nDie Kirchen und die Religionsgemeinschaften haben das Recht, in Erziehungs-, Kranken-, Straf- und ähnlichen öffentlichen Anstalten gottesdienstliche Handlungen vorzunehmen und eine geordnete Seelsorge auszuüben, wobei jeder Zwang fernzuhalten ist.\n"
+      },
+      "art-021": {
+       "label": "Artikel 21",
+       "kind": "art",
+       "text": "# Artikel 21\nDie den Kirchen oder den Religionsgemeinschaften gemäß Gesetz, Vertrag oder anderen Rechtstiteln zustehenden Leistungen des Staates, der politischen Gemeinden oder Gemeindeverbände können nur durch Vereinbarungen abgelöst werden; soweit solche Vereinbarungen das Land betreffen, bedürfen sie der Bestätigung durch Landesgesetz.\n"
+      },
+      "art-022": {
+       "label": "Artikel 22",
+       "kind": "art",
+       "text": "# Artikel 22\nIm übrigen gilt für die Ordnung zwischen Land und Kirchen oder Religionsgemeinschaften Artikel 140 des Bonner Grundgesetzes für die Bundesrepublik Deutschland vom 23. Mai 1949 als Bestandteil dieser Verfassung und unmittelbar geltendes Landesrecht.\n"
+      },
+      "art-023": {
+       "label": "Artikel 23",
+       "kind": "art",
+       "text": "# Artikel 23\n(1) Die Bestimmungen der Verträge mit der Katholischen Kirche und der Evangelischen Kirche der Altpreußischen Union, die im früheren Freistaat Preußen Geltung hatten, werden für die Gebiete des Landes Nordrhein-Westfalen, die zum ehemaligen Preußen gehörten, als geltendes Recht anerkannt.\n(2) Zur Änderung dieser Kirchenverträge und zum Abschluß neuer Verträge ist außer der Zustimmung der Vertragspartner ein Landesgesetz erforderlich.\nVierter Abschnitt - Arbeit, Wirtschaft und Umwelt\n"
+      },
+      "art-024": {
+       "label": "Artikel 24",
+       "kind": "art",
+       "text": "# Artikel 24\n(1) Im Mittelpunkt des Wirtschaftslebens steht das Wohl des Menschen. Der Schutz seiner Arbeitskraft hat den Vorrang vor dem Schutz materiellen Besitzes. Jedermann hat ein Recht auf Arbeit.\n(2) Der Lohn muß der Leistung entsprechen und den angemessenen Lebensbedarf des Arbeitenden und seiner Familie decken. Für gleiche Tätigkeit und gleiche Leistung besteht Anspruch auf gleichen Lohn. Das gilt auch für Frauen und Jugendliche.\n(3) Das Recht auf einen ausreichenden, bezahlten Urlaub ist gesetzlich festzulegen.\n"
+      },
+      "art-025": {
+       "label": "Artikel 25",
+       "kind": "art",
+       "text": "# Artikel 25\n(1) Der Sonntag und die staatlich anerkannten Feiertage werden als Tage der Gottesverehrung, der seelischen Erhebung, der körperlichen Erholung und der Arbeitsruhe anerkannt und gesetzlich geschützt.\n(2) Der 1. Mai als Tag des Bekenntnisses zu Freiheit und Frieden, sozialer Gerechtigkeit, Völkerversöhnung und Menschenwürde ist gesetzlicher Feiertag.\n"
+      },
+      "art-026": {
+       "label": "Artikel 26",
+       "kind": "art",
+       "text": "# Artikel 26\nEntsprechend der gemeinsamen Verantwortung und Leistung der Unternehmer und Arbeitnehmer für die Wirtschaft wird das Recht der Arbeitnehmer auf gleichberechtigte Mitbestimmung bei der Gestaltung der wirtschaftlichen und sozialen Ordnung anerkannt und gewährleistet.\n"
+      },
+      "art-027": {
+       "label": "Artikel 27",
+       "kind": "art",
+       "text": "# Artikel 27\n(1) Großbetriebe der Grundstoffindustrie und Unternehmen, die wegen ihrer monopolartigen Stellung besondere Bedeutung haben, sollen in Gemeineigentum überführt werden.\n(2) Zusammenschlüsse, die ihre wirtschaftliche Macht missbrauchen, sind zu verbieten.\n"
+      },
+      "art-028": {
+       "label": "Artikel 28",
+       "kind": "art",
+       "text": "# Artikel 28\nDie Klein- und Mittelbetriebe in Landwirtschaft, Handwerk, Handel und Gewerbe und die freien Berufe sind zu fördern. Die genossenschaftliche Selbsthilfe ist zu unterstützen.\n"
+      },
+      "art-029": {
+       "label": "Artikel 29",
+       "kind": "art",
+       "text": "# Artikel 29\n(1) Die Verbindung weiter Volksschichten mit dem Grund und Boden ist anzustreben.\n(2) Das Land hat die Aufgabe, nach Maßgabe der Gesetze neue Wohn- und Wirtschaftsheimstätten zu schaffen und den klein- und mittelbäuerlichen Besitz zu stärken.\n(3) Die Kleinsiedlung und das Kleingartenwesen sind zu fördern.\n"
+      },
+      "art-029a": {
+       "label": "Artikel 29 a",
+       "kind": "art",
+       "text": "# Artikel 29 a\n(1) Die natürlichen Lebensgrundlagen und die Tiere stehen unter dem Schutz des Landes, der Gemeinden und Gemeindeverbände.\n(2) Die notwendigen Bindungen und Pflichten bestimmen sich unter Ausgleich der betroffenen öffentlichen und privaten Belange. Das Nähere regelt das Gesetz.\nDritter Teil\nVon den Organen und Aufgaben des Landes\nErster Abschnitt - Der Landtag\n"
+      },
+      "art-030": {
+       "label": "Artikel 30",
+       "kind": "art",
+       "text": "# Artikel 30\n(1) Der Landtag besteht aus den vom Volke gewählten Abgeordneten. Zu seinen Aufgaben gehören die Wahl des/der Ministerpräsidenten/in, die Verabschiedung der Gesetze und die Kontrolle des Handelns der Landesregierung; er bildet ein öffentliches Forum für die politische Willensbildung.\n(2) Die Abgeordneten stimmen nach ihrer freien, nur durch die Rücksicht auf das Wohl des Landes Nordrhein-Westfalen bestimmten Überzeugung; sie sind an Aufträge nicht gebunden.\n(3) Die Abgeordneten haben im Landtag insbesondere das Recht, das Wort zu ergreifen, Fragen und Anträge zu stellen sowie an Wahlen und Abstimmungen teilzunehmen. Das Nähere regelt die Geschäftsordnung.\n(4) Der Landtag bildet Ausschüsse, insbesondere zur Vorbereitung seiner Beschlüsse. Die Zusammensetzung der Ausschüsse sowie die Regelung des Vorsitzes in den Ausschüssen ist im Verhältnis der Stärke der einzelnen Fraktionen vorzunehmen. Jeder Abgeordnete hat das Recht auf Mitwirkung in einem Ausschuss.\n(5) Abgeordnete können sich zu Fraktionen zusammenschließen. Die Fraktionen wirken mit eigenen Rechten und Pflichten an der Erfüllung der Aufgaben des Landtags mit. Zu ihren Aufgaben gehören die Koordination der parlamentarischen Tätigkeit und die Information der Öffentlichkeit. Ihre innere Ordnung muss demokratischen Grundsätzen entsprechen. Zur Wahrnehmung ihrer Aufgaben ist den Fraktionen eine angemessene Ausstattung zu gewährleisten. Das Nähere regelt die Geschäftsordnung des Landtags oder ein Gesetz.\n"
+      },
+      "art-031": {
+       "label": "Artikel 31",
+       "kind": "art",
+       "text": "# Artikel 31\n(1) Die Abgeordneten werden in allgemeiner, gleicher, unmittelbarer, geheimer und freier Wahl gewählt.\n(2) Wahlberechtigt ist, wer das 16. Lebensjahr vollendet hat. Wählbar ist, wer das Alter erreicht hat, mit dem die Volljährigkeit eintritt.\n(3) Die Wahl findet an einem Sonntag oder einem gesetzlichen Feiertag statt.\n(4) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-032": {
+       "label": "Artikel 32",
+       "kind": "art",
+       "text": "# Artikel 32\n(1) Vereinigungen und Personen, die es unternehmen, die staatsbürgerlichen Freiheiten zu unterdrücken oder gegen Volk, Land oder Verfassung Gewalt anzuwenden, dürfen sich an Wahlen und Abstimmungen nicht beteiligen.\n(2) Die Entscheidung darüber, ob diese Voraussetzungen vorliegen, trifft auf Antrag der Landesregierung oder von mindestens fünfzig Abgeordneten des Landtags der Verfassungsgerichtshof.\n"
+      },
+      "art-033": {
+       "label": "Artikel 33",
+       "kind": "art",
+       "text": "# Artikel 33\n(1) Die Wahlprüfung ist Sache des Landtags.\n(2) Ihm obliegt auch die Feststellung, ob ein Abgeordneter des Landtags die Mitgliedschaft verloren hat.\n(3) Die Entscheidung kann durch Beschwerde beim Verfassungsgerichtshof angefochten werden.\n(4) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-034": {
+       "label": "Artikel 34",
+       "kind": "art",
+       "text": "# Artikel 34\nDer Landtag wird auf fünf Jahre gewählt. Die Neuwahl findet im letzten Vierteljahr der Wahlperiode statt. Die Wahlperiode endet, auch im Fall einer Auflösung des Landtags, mit dem Zusammentritt des neuen Landtags.\n"
+      },
+      "art-035": {
+       "label": "Artikel 35",
+       "kind": "art",
+       "text": "# Artikel 35\n(1) Der Landtag kann sich durch Beschluß auflösen. Hierzu bedarf es der Zustimmung der Mehrheit der gesetzlichen Mitgliederzahl.\n(2) Nach der Auflösung des Landtags muß die Neuwahl binnen neunzig Tagen stattfinden.\n"
+      },
+      "art-036": {
+       "label": "Artikel 36",
+       "kind": "art",
+       "text": "# Artikel 36\nDie Wahlperiode des neuen Landtags beginnt mit seinem ersten Zusammentritt.\n"
+      },
+      "art-037": {
+       "label": "Artikel 37",
+       "kind": "art",
+       "text": "# Artikel 37\n(1) Der Landtag tritt spätestens am zwanzigsten Tag nach der Wahl zusammen. Der neugewählte Landtag wird zu seiner ersten Sitzung vom bisherigen Präsidenten einberufen.\n(2) Nach dem Zusammentritt eines neuen Landtags führt das an Jahren älteste oder, wenn es ablehnt oder verhindert ist, das jeweils nächstälteste Mitglied des Landtags den Vorsitz, bis der neugewählte Präsident oder einer seiner Stellvertreter das Amt übernimmt.\n"
+      },
+      "art-038": {
+       "label": "Artikel 38",
+       "kind": "art",
+       "text": "# Artikel 38\n(1) Der Landtag wählt den Präsidenten, dessen Stellvertreter und die übrigen Mitglieder des Präsidiums. Er gibt sich seine Geschäftsordnung.\n(2) Bis zur Wahl des neuen Präsidiums führt das bisherige Präsidium die Geschäfte weiter.\n(3) Der Landtag wird jeweils durch den Präsidenten einberufen.\n(4) Auf Antrag der Landesregierung oder eines Viertels seiner Mitglieder muß der Landtag unverzüglich einberufen werden.\n"
+      },
+      "art-039": {
+       "label": "Artikel 39",
+       "kind": "art",
+       "text": "# Artikel 39\n(1) In Rechtsgeschäften und Rechtsstreitigkeiten der Landtagsverwaltung vertritt der Präsident das Land. Er verfügt über die Einnahmen und Ausgaben der Landtagsverwaltung nach Maßgabe des Haushalts.\n(2) Dem Präsidenten steht die Annahme und Entlassung der Angestellten und Arbeiter sowie im Benehmen mit dem Präsidium die Ernennung der Beamten des Landtags zu. Er hat die Dienstaufsicht und Dienststrafgewalt über die Beamten, Angestellten und Arbeiter des Landtags. Er übt das Hausrecht und die Polizeigewalt im Landtagsgebäude aus.\n(3) Im übrigen werden die Rechte und Pflichten des Präsidenten durch die Geschäftsordnung bestimmt.\n"
+      },
+      "art-040": {
+       "label": "Artikel 40",
+       "kind": "art",
+       "text": "# Artikel 40\n(1) Die Landesregierung unterrichtet den Landtag frühzeitig und umfassend über die Vorbereitung von Landesgesetzen, Staatsverträgen, Verwaltungsabkommen und Angelegenheiten der Landesplanung sowie über Angelegenheiten des Bundes und der Europäischen Union, soweit sie an ihnen mitwirkt. Das Nähere regelt eine Vereinbarung zwischen Landtag und Landesregierung.\n(2) In Angelegenheiten der Europäischen Union, die im Schwerpunkt Gesetzgebungsrechte des Landtags betreffen, berücksichtigt die Landesregierung die Stellungnahme des Landtags bei der Wahrnehmung ihrer Aufgaben. Weicht die Landesregierung in ihrem Stimmverhalten im Bundesrat von einer Stellungnahme des Landtags ab, so hat sie ihre Entscheidung gegenüber dem Landtag zu begründen.\n"
+      },
+      "art-041": {
+       "label": "Artikel 41",
+       "kind": "art",
+       "text": "# Artikel 41\n(1) Der Landtag hat das Recht und auf Antrag von einem Fünftel der gesetzlichen Zahl seiner Mitglieder die Pflicht, Untersuchungsausschüsse einzusetzen. Diese Ausschüsse erheben in öffentlicher Verhandlung die Beweise, die sie oder die Antragsteller für erforderlich erachten. Sie können mit Zweidrittelmehrheit die Öffentlichkeit ausschließen. Die Zahl der Mitglieder bestimmt der Landtag. Die Mitglieder wählt der Landtag im Wege der Verhältniswahl. Das Nähere über die Einsetzung, die Befugnisse und das Verfahren wird durch Gesetz geregelt.\n(2) Die Gerichte und Verwaltungsbehörden sind zur Rechts- und Amtshilfe verpflichtet. Sie sind insbesondere verpflichtet, dem Ersuchen dieser Ausschüsse um Beweiserhebungen nachzukommen. Die Akten der Behörden und öffentlichen Körperschaften sind ihnen auf Verlangen vorzulegen.\n(3) Das Brief-, Post- und Fernmeldegeheimnis bleiben unberührt.\n(4) Die Beschlüsse der Untersuchungsausschüsse sind der richterlichen Erörterung entzogen. In der Feststellung und in der rechtlichen Beurteilung des der Untersuchung zugrunde liegenden Sachverhalts sind die Gerichte frei.\n"
+      },
+      "art-041a": {
+       "label": "Artikel 41 a",
+       "kind": "art",
+       "text": "# Artikel 41 a\n(1) Zur Vorbereitung der Beschlüsse über Petitionen gemäß Artikel 17 des Grundgesetzes sind die Landesregierung und die Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sowie Behörden und sonstige Verwaltungseinrichtungen, soweit sie unter der Aufsicht des Landes stehen, verpflichtet, dem Petitionsausschuß des Landtags auf sein Verlangen jederzeit Zutritt zu ihren Einrichtungen zu gestatten.\n(2) Die in Absatz 1 genannten Stellen sind verpflichtet, dem Petitionsausschuß auf sein Verlangen alle erforderlichen Auskünfte zu erteilen und Akten zugängig zu machen. Der Petitionsausschuß ist berechtigt, den Petenten und beteiligte Personen anzuhören. Nach näherer Bestimmung der Geschäftsordnung kann der Petitionsausschuß Beweise durch Vernehmung von Zeugen und Sachverständigen erheben. Die Vorschriften der Strafprozeßordnung finden sinngemäß Anwendung. Das Brief-, Post- und Fernmeldegeheimnis bleibt unberührt.\n(3) Nach Maßgabe der Geschäftsordnung kann der Petitionsausschuß die ihm gemäß Absatz 1 und 2 zustehenden Befugnisse mit Ausnahme der eidlichen Vernehmung auf einzelne Mitglieder des Ausschusses übertragen; auf Antrag des Petitionsausschusses beauftragt der Präsident des Landtags Beamte der Landtagsverwaltung mit der Wahrnehmung dieser Befugnisse. Artikel 45 Abs. 1 und 2 findet sinngemäß Anwendung.\n"
+      },
+      "art-042": {
+       "label": "Artikel 42",
+       "kind": "art",
+       "text": "# Artikel 42\nDie Sitzungen des Landtags sind öffentlich. Auf Antrag der Landesregierung oder von zehn Abgeordneten kann der Landtag mit Zweidrittelmehrheit der Anwesenden die Öffentlichkeit für einzelne Gegenstände der Tagesordnung ausschließen. Über den Antrag wird in geheimer Sitzung verhandelt.\n"
+      },
+      "art-043": {
+       "label": "Artikel 43",
+       "kind": "art",
+       "text": "# Artikel 43\nWegen wahrheitsgetreuer Berichte über öffentliche Sitzungen des Landtags und seiner Ausschüsse kann niemand zur Verantwortung gezogen werden.\n"
+      },
+      "art-044": {
+       "label": "Artikel 44",
+       "kind": "art",
+       "text": "# Artikel 44\n(1) Der Landtag ist beschlußfähig, wenn mehr als die Hälfte der gesetzlichen Mitgliederzahl anwesend ist.\n(2) Der Landtag faßt seine Beschlüsse mit Stimmenmehrheit.\n"
+      },
+      "art-045": {
+       "label": "Artikel 45",
+       "kind": "art",
+       "text": "# Artikel 45\n(1) Die Mitglieder der Landesregierung und die von ihnen Beauftragten können den Sitzungen des Landtags und seiner Ausschüsse beiwohnen. Die Aufrechterhaltung der Ordnung in der Sitzung obliegt dem Vorsitzenden. Den Mitgliedern der Landesregierung ist jederzeit, auch außerhalb der Tagesordnung, das Wort zu erteilen.\n(2) Der Landtag und seine Ausschüsse können die Anwesenheit jedes Mitgliedes der Landesregierung verlangen.\n(3) Die Vorschrift des Absatzes 1, Satz 1 und 3 gilt nicht für die Sitzungen der Untersuchungsausschüsse.\n"
+      },
+      "art-046": {
+       "label": "Artikel 46",
+       "kind": "art",
+       "text": "# Artikel 46\n(1) Abgeordnete dürfen an der Übernahme und Ausübung ihres Mandats nicht gehindert oder hierdurch in ihrem Amt oder Arbeitsverhältnis benachteiligt werden. Insbesondere ist unzulässig, sie aus diesem Grunde zu entlassen oder ihnen zu kündigen.\n(2) Beamte, Angestellte und Arbeiter bedürfen zu der mit den Obliegenheiten ihres Mandats als Mitglieder des Landtags verbundenen Tätigkeit keines Urlaubs. Bewerben sie sich um einen Sitz im Landtag, so ist ihnen der zur Vorbereitung ihrer Wahl erforderliche Urlaub zu gewähren.\n(3) Die Wählbarkeit von Beamten, Angestellten des öffentlichen Dienstes und Richtern im Lande Nordrhein-Westfalen kann gesetzlich beschränkt werden.\n"
+      },
+      "art-047": {
+       "label": "Artikel 47",
+       "kind": "art",
+       "text": "# Artikel 47\nKein Abgeordneter darf zu irgendeiner Zeit wegen seiner Abstimmung oder wegen Äußerungen in Ausübung seines Mandats gerichtlich oder dienstlich verfolgt oder sonst außerhalb der Versammlung zur Verantwortung gezogen werden. Dies gilt nicht für verleumderische Beleidigungen.\n"
+      },
+      "art-048": {
+       "label": "Artikel 48",
+       "kind": "art",
+       "text": "# Artikel 48\n(1) Kein Abgeordneter kann ohne Genehmigung des Landtags während der Wahlperiode wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen, festgenommen oder verhaftet werden, es sei denn, daß er bei der Ausübung der Tat oder spätestens im Laufe des nächstfolgenden Tages ergriffen wird oder ein Fall der Ehrverletzung nach Artikel 47 vorliegt.\n(2) Die gleiche Genehmigung ist bei jeder anderen Beschränkung der persönlichen Freiheit erforderlich, die die Ausübung des Abgeordnetenmandats beeinträchtigt.\n(3) Jedes Strafverfahren gegen einen Abgeordneten und jede Haft oder sonstige Beschränkung seiner persönlichen Freiheit wird auf Verlangen des Landtags entweder für die gesamte Dauer oder bestimmte Zeitabschnitte der Wahlperiode ausgesetzt.\n"
+      },
+      "art-049": {
+       "label": "Artikel 49",
+       "kind": "art",
+       "text": "# Artikel 49\n(1) Die Abgeordneten sind berechtigt, über Personen, die ihnen in ihrer Eigenschaft als Abgeordnete oder denen sie in dieser Eigenschaft Tatsachen anvertraut haben sowie über diese Tatsachen selbst das Zeugnis zu verweigern. Soweit dieses Zeugnisverweigerungsrecht reicht, ist die Beschlagnahme von Schriftstücken unzulässig.\n(2) Eine Durchsuchung oder Beschlagnahme darf in den Räumen des Landtags nur mit Genehmigung des Präsidenten vorgenommen werden.\n"
+      },
+      "art-050": {
+       "label": "Artikel 50",
+       "kind": "art",
+       "text": "# Artikel 50\nDie Mitglieder des Landtags haben Anspruch auf angemessene Bezüge nach Maßgabe eines Gesetzes. Sie erhalten das Recht zur freien Fahrt auf allen Eisenbahnen und sonstigen Beförderungsmitteln der Deutschen Bahn im Lande Nordrhein-Westfalen. Ein Verzicht auf diese Rechte ist unzulässig.\nZweiter Abschnitt - Die Landesregierung\n"
+      },
+      "art-051": {
+       "label": "Artikel 51",
+       "kind": "art",
+       "text": "# Artikel 51\nDie Landesregierung besteht aus dem Ministerpräsidenten und den Landesministern.\n"
+      },
+      "art-052": {
+       "label": "Artikel 52",
+       "kind": "art",
+       "text": "# Artikel 52\n(1) Der Landtag wählt aus seiner Mitte in geheimer Wahl ohne Aussprache den Ministerpräsidenten mit mehr als der Hälfte der gesetzlichen Zahl seiner Mitglieder.\n(2) Kommt eine Wahl gemäß Absatz 1 nicht zustande, so findet innerhalb von 14 Tagen ein zweiter, gegebenenfalls ein dritter Wahlgang statt, in dem der gewählt ist, der mehr als die Hälfte der abgegebenen Stimmen erhält. Ergibt sich keine solche Mehrheit, so findet eine Stichwahl zwischen den beiden Vorgeschlagenen statt, die die höchste Stimmenzahl erhalten haben.\n(3) Der Ministerpräsident ernennt und entläßt die Minister. Er beauftragt ein Mitglied der Landesregierung mit seiner Vertretung und zeigt seine Entscheidungen unverzüglich dem Landtag an.\n"
+      },
+      "art-053": {
+       "label": "Artikel 53",
+       "kind": "art",
+       "text": "# Artikel 53\nDie Mitglieder der Landesregierung leisten beim Amtsantritt vor dem Landtag folgenden Amtseid:\n„Ich schwöre, daß ich meine ganze Kraft dem Wohle des Landes Nordrhein-Westfalen widmen, seinen Nutzen mehren, Schaden von ihm wenden, das mir übertragene Amt nach bestem Wissen und Können unparteiisch verwalten, Verfassung und Gesetz wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.\"\nDer Eid kann auch ohne religiöse Beteuerung geleistet werden.\n"
+      },
+      "art-054": {
+       "label": "Artikel 54",
+       "kind": "art",
+       "text": "# Artikel 54\n(1) Der Ministerpräsident führt den Vorsitz in der Landesregierung. Bei Stimmengleichheit entscheidet seine Stimme.\n(2) Er leitet die Geschäfte nach einer von der Landesregierung beschlossenen Geschäftsordnung.\n"
+      },
+      "art-055": {
+       "label": "Artikel 55",
+       "kind": "art",
+       "text": "# Artikel 55\n(1) Der Ministerpräsident bestimmt die Richtlinien der Politik und trägt dafür die Verantwortung.\n(2) Innerhalb dieser Richtlinien leitet jeder Minister seinen Geschäftsbereich selbständig und unter eigener Verantwortung.\n(3) Bei Meinungsverschiedenheiten über Fragen, die den Geschäftsbereich mehrerer Mitglieder der Landesregierung berühren, entscheidet die Landesregierung.\n"
+      },
+      "art-056": {
+       "label": "Artikel 56",
+       "kind": "art",
+       "text": "# Artikel 56\n(1) Die Landesregierung beschließt über Gesetzesvorlagen, die beim Landtag einzubringen sind.\n(2) Die Landesregierung erläßt die zur Ausführung eines Gesetzes erforderlichen Verwaltungsverordnungen, soweit das Gesetz diese Aufgabe nicht einzelnen Ministern zuweist.\n"
+      },
+      "art-057": {
+       "label": "Artikel 57",
+       "kind": "art",
+       "text": "# Artikel 57\nDie Landesregierung vertritt das Land Nordrhein-Westfalen nach außen. Sie kann diese Befugnis auf den Ministerpräsidenten, auf ein anderes Mitglied der Landesregierung oder auf nachgeordnete Stellen übertragen.\n"
+      },
+      "art-058": {
+       "label": "Artikel 58",
+       "kind": "art",
+       "text": "# Artikel 58\nDie Landesregierung ernennt die Landesbeamten. Sie kann die Befugnis auf andere Stellen übertragen.\n"
+      },
+      "art-059": {
+       "label": "Artikel 59",
+       "kind": "art",
+       "text": "# Artikel 59\n(1) Der Ministerpräsident übt das Recht der Begnadigung aus. Er kann die Befugnis auf andere Stellen übertragen. Zugunsten eines Mitgliedes der Landesregierung wird das Recht der Begnadigung durch den Landtag ausgeübt.\n(2) Allgemeine Straferlasse und die Niederschlagung einer bestimmten Art anhängiger Strafsachen dürfen nur auf Grund eines Gesetzes ausgesprochen werden.\n"
+      },
+      "art-060": {
+       "label": "Artikel 60",
+       "kind": "art",
+       "text": "# Artikel 60\n(1) Ist der Landtag durch höhere Gewalt daran gehindert, sich frei zu versammeln, und wird dies durch einen mit Mehrheit gefaßten Beschluß des Landtagspräsidenten und seiner Stellvertreter festgestellt, so kann die Landesregierung zur Aufrechterhaltung der öffentlichen Ruhe und Ordnung oder zur Beseitigung eines Notstandes Verordnungen mit Gesetzeskraft, die der Verfassung nicht widersprechen, erlassen.\n(2) Diese Verordnungen bedürfen der Zustimmung eines in der Geschäftsordnung zu bestimmenden Ausschusses, es sei denn, daß auch dieser nach einer entsprechend Absatz 1 zu treffenden Feststellung am Zusammentritt verhindert ist.\n(3) Verordnungen ohne Beteiligung des in der Geschäftsordnung zu bestimmenden Ausschusses sind nur mit Gegenzeichnung des Landtagspräsidenten rechtswirksam. Die Gegenzeichnung erfolgt oder gilt als erfolgt, sofern der Landtagspräsident und seine Stellvertreter dies mit Mehrheit beschließen.\n(4) Die Feststellung des Landtagspräsidenten und seiner Stellvertreter ist jeweils nur für einen Monat wirksam und, wenn die Voraussetzungen des Notstandes fortdauern, zu wiederholen.\n(5) Die Verordnungen sind dem Landtage bei seinem nächsten Zusammentritt zur Genehmigung vorzulegen. Wird die Genehmigung versagt, so sind die Verordnungen durch Bekanntmachung im Gesetz- und Verordnungsblatt unverzüglich außer Kraft zu setzen.\n"
+      },
+      "art-061": {
+       "label": "Artikel 61",
+       "kind": "art",
+       "text": "# Artikel 61\n(1) Der Landtag kann dem Ministerpräsidenten das Mißtrauen nur dadurch aussprechen, daß er mit der Mehrheit der abgegebenen Stimmen einen Nachfolger wählt.\n(2) Zwischen dem Antrag auf Abberufung und der Wahl müssen mindestens achtundvierzig Stunden liegen.\n"
+      },
+      "art-062": {
+       "label": "Artikel 62",
+       "kind": "art",
+       "text": "# Artikel 62\n(1) Der Ministerpräsident und die Minister können jederzeit zurücktreten.\n(2) Das Amt des Ministerpräsidenten und der Minister endet in jedem Falle mit dem Zusammentritt eines neuen Landtags, das Amt eines Ministers auch mit jeder anderen Erledigung des Amtes des Ministerpräsidenten.\n(3) Im Falle des Rücktritts oder einer sonstigen Beendigung des Amtes haben die Mitglieder der Landesregierung bis zur Amtsübernahme des Nachfolgers ihr Amt weiterzuführen.\n"
+      },
+      "art-063": {
+       "label": "Artikel 63",
+       "kind": "art",
+       "text": "# Artikel 63\n(weggefallen)\n"
+      },
+      "art-064": {
+       "label": "Artikel 64",
+       "kind": "art",
+       "text": "# Artikel 64\n(1) Besoldung, Ruhegehalt und Hinterbliebenenversorgung der Mitglieder der Landesregierung werden durch Gesetz geregelt.\n(2) Mit dem Amte eines Mitgliedes der Landesregierung ist die Ausübung eines anderen öffentlichen Amtes oder einer anderen Berufstätigkeit in der Regel unvereinbar. Die Landesregierung kann Mitgliedern der Landesregierung die Beibehaltung ihrer Berufstätigkeit gestatten.\n(3) Die Wahl in den Vorstand, Verwaltungsrat oder Aufsichtsrat industrieller oder ähnlicher den Gelderwerb bezweckender Unternehmungen dürfen Mitglieder der Landesregierung nur mit besonderer Genehmigung des Hauptausschusses annehmen. Der Genehmigung durch die Landesregierung bedarf es, wenn sie nach ihrem Eintritt in die Landesregierung in dem Vorstand, Verwaltungsrat oder Aufsichtsrat einer der erwähnten Unternehmungen tätig bleiben wollen. Die erteilte Genehmigung ist dem Landtagspräsidenten anzuzeigen.\n(4) Ein Mitglied der Landesregierung kann nicht gleichzeitig Mitglied des Bundestags oder der Bundesregierung sein.\nDritter Abschnitt - Die Gesetzgebung\n"
+      },
+      "art-065": {
+       "label": "Artikel 65",
+       "kind": "art",
+       "text": "# Artikel 65\nGesetzentwürfe werden von der Landesregierung oder aus der Mitte des Landtags eingebracht.\n"
+      },
+      "art-066": {
+       "label": "Artikel 66",
+       "kind": "art",
+       "text": "# Artikel 66\nDie Gesetze werden vom Landtag beschlossen. Staatsverträge bedürfen der Zustimmung des Landtags.\n"
+      },
+      "art-067": {
+       "label": "Artikel 67",
+       "kind": "art",
+       "text": "# Artikel 67\n(1) Volksinitiativen können darauf gerichtet sein, den Landtag im Rahmen seiner Entscheidungszuständigkeit mit bestimmten Gegenständen der politischen Willensbildung zu befassen. Einer Initiative kann auch ein mit Gründen versehener Gesetzentwurf zu Grunde liegen.\n(2) Volksinitiativen müssen von mindestens 0,5 vom Hundert der Stimmberechtigten unterzeichnet sein. Artikel 31 Absatz 1 und Absatz 2 Satz 1 über das Wahlrecht findet auf das Stimmrecht entsprechende Anwendung.\n(3) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "y-text": {
+       "label": "Text",
+       "kind": "other",
+       "text": "\n"
+      },
+      "art-068": {
+       "label": "Artikel 68",
+       "kind": "art",
+       "text": "# Artikel 68\n(1) Volksbegehren können darauf gerichtet werden, Gesetze zu erlassen, zu ändern oder aufzuheben. Dem Volksbegehren muß ein ausgearbeiteter und mit Gründen versehener Gesetzentwurf zugrunde liegen. Ein Volksbegehren ist nur auf Gebieten zulässig, die der Gesetzgebungsgewalt des Landes unterliegen. Über Finanzfragen, Abgabengesetze und Besoldungsordnungen ist ein Volksbegehren nicht zulässig. Über die Zulässigkeit entscheidet die Landesregierung. Gegen die Entscheidung ist die Anrufung des Verfassungsgerichtshofes zulässig.\nDas Volksbegehren ist nur rechtswirksam, wenn es von mindestens 8 vom Hundert der Stimmberechtigten gestellt ist.\n(2) Das Volksbegehren ist von der Landesregierung unter Darlegung ihres Standpunktes unverzüglich dem Landtag zu unterbreiten. Entspricht der Landtag dem Volksbegehren nicht, so ist binnen zehn Wochen ein Volksentscheid herbeizuführen. Entspricht der Landtag dem Volksbegehren, so unterbleibt der Volksentscheid.\n(3) Die Abstimmung kann nur bejahend oder verneinend sein. Es entscheidet die Mehrheit der abgegebenen Stimmen, sofern diese Mehrheit mindestens 15 vom Hundert der Stimmberechtigten beträgt.\n(4) Die Vorschriften des Artikels 31 Abs. 1 bis 3 über das Wahlrecht und Wahlverfahren finden auf das Stimmrecht und das Abstimmungsverfahren entsprechende Anwendung. Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-069": {
+       "label": "Artikel 69",
+       "kind": "art",
+       "text": "# Artikel 69\n(1) Die Verfassung kann nur durch ein Gesetz geändert werden, das den Wortlaut der Verfassung ausdrücklich ändert oder ergänzt. Änderungen der Verfassung, die den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne des Grundgesetzes für die Bundesrepublik Deutschland widersprechen, sind unzulässig.\n(2) Für eine Verfassungsänderung bedarf es der Zustimmung einer Mehrheit von zwei Dritteln der gesetzlichen Mitgliederzahl des Landtags.\n(3) Kommt die Mehrheit gemäß Absatz 2 nicht zustande, so kann sowohl der Landtag als auch die Regierung die Zustimmung zu der begehrten Änderung der Verfassung durch Volksentscheid einholen. Die Verfassung kann auch durch Volksentscheid aufgrund eines Volksbegehrens nach Artikel 68 geändert werden. Das Gesetz ist angenommen, wenn mindestens die Hälfte der Stimmberechtigten sich an dem Volksentscheid beteiligt und mindestens zwei Drittel der Abstimmenden dem Gesetzentwurf zustimmen.\n"
+      },
+      "art-070": {
+       "label": "Artikel 70",
+       "kind": "art",
+       "text": "# Artikel 70\nDie Ermächtigung zum Erlaß einer Rechtsverordnung kann nur durch Gesetz erteilt werden. Das Gesetz muß Inhalt, Zweck und Ausmaß der erteilten Ermächtigung bestimmen. In der Verordnung ist die Rechtsgrundlage anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiterübertragen werden kann, so bedarf es zu ihrer Übertragung einer Rechtsverordnung.\n"
+      },
+      "art-071": {
+       "label": "Artikel 71",
+       "kind": "art",
+       "text": "# Artikel 71\n(1) Die Gesetze werden von der Landesregierung unverzüglich ausgefertigt und im Gesetz- und Verordnungsblatt verkündet. Sie werden vom Ministerpräsidenten und den beteiligten Ministern unterzeichnet.\n(2) Rechtsverordnungen werden von der Stelle, die sie erläßt, ausgefertigt und im Gesetz- und Verordnungsblatt verkündet.\n(3) Gesetze und Rechtsverordnungen treten, wenn nichts anderes bestimmt ist, mit dem vierzehnten Tage nach Ausgabe der die Verkündung enthaltenden Nummer des Gesetz- und Verordnungsblattes in Kraft.\nVierter Abschnitt - Die Rechtspflege\n"
+      },
+      "art-072": {
+       "label": "Artikel 72",
+       "kind": "art",
+       "text": "# Artikel 72\n(1) Die Gerichte urteilen im Namen des Deutschen Volkes.\n(2) An der Rechtsprechung sind Männer und Frauen aus dem Volke nach Maßgabe der Gesetze zu beteiligen.\n"
+      },
+      "art-073": {
+       "label": "Artikel 73",
+       "kind": "art",
+       "text": "# Artikel 73\nWenn ein Richter im Amte oder außerhalb des Amtes gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung des Landes verstößt, so kann das Bundesverfassungsgericht mit Zweidrittelmehrheit auf Antrag der Mehrheit der gesetzlichen Mitgliederzahl des Landtags anordnen, daß der Richter in ein anderes Amt oder in den Ruhestand zu versetzen ist. Im Falle eines vorsätzlichen Verstoßes kann auf Entlassung erkannt werden.\n"
+      },
+      "art-074": {
+       "label": "Artikel 74",
+       "kind": "art",
+       "text": "# Artikel 74\n(1) Gegen die Anordnungen, Verfügungen und Unterlassungen der Verwaltungsbehörden kann der Betroffene die Entscheidung der Verwaltungsgerichte anrufen. Die Verwaltungsgerichte haben zu prüfen, ob die beanstandete Maßnahme dem Gesetz entspricht und die Grenze des pflichtgemäßen Ermessens nicht überschreitet.\n(2) Die Verwaltungsgerichtsbarkeit wird durch selbständige Gerichte in mindestens zwei Stufen ausgeübt.\nFünfter Abschnitt - Der Verfassungsgerichtshof\n"
+      },
+      "art-075": {
+       "label": "Artikel 75",
+       "kind": "art",
+       "text": "# Artikel 75\nDer Verfassungsgerichtshof entscheidet:\n1. in den Fällen der Artikel 32 und 33,\n2. über die Auslegung der Verfassung aus Anlaß von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Landesorgans oder anderer Beteiligter, die durch diese Verfassung oder in der Geschäftsordnung eines obersten Landesorgans mit eigenen Rechten ausgestattet sind,\n3. bei Meinungsverschiedenheiten oder Zweifeln über die Vereinbarkeit von Landesrecht mit dieser Verfassung auf Antrag der Landesregierung oder eines Drittels der Mitglieder des Landtags,\n4. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Landtag,\n5a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung erhoben werden können, durch die öffentliche Gewalt des Landes in einem seiner in dieser Verfassung für das Land Nordrhein-Westfalen enthaltenen Rechte verletzt zu sein,\n5b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden, die mit der Behauptung erhoben werden können, dass Landesrecht die Vorschriften dieser Verfassung des Landes Nordrhein-Westfalen über das Recht auf Selbstverwaltung verletze,\n6. in sonstigen durch Gesetz zugewiesenen Fällen.\n"
+      },
+      "art-076": {
+       "label": "Artikel 76",
+       "kind": "art",
+       "text": "# Artikel 76\n(1) Der Verfassungsgerichtshof setzt sich zusammen aus dem Präsidenten, dem Vizepräsidenten und aus fünf weiteren Mitgliedern. Die Mitglieder werden durch sieben stellvertretende Mitglieder persönlich vertreten.\n(2) Die Mitglieder und ihre Stellvertreter werden vom Landtag ohne Aussprache mit Zweidrittelmehrheit auf die Dauer von zehn Jahren gewählt. Wiederwahl ist ausgeschlossen. Sie müssen die Befähigung zum Richteramt haben. Drei Mitglieder und ihre Stellvertreter müssen Berufsrichter sein.\n(3) Das Nähere bestimmt das Gesetz.\nSechster Abschnitt - Die Verwaltung\n"
+      },
+      "art-077": {
+       "label": "Artikel 77",
+       "kind": "art",
+       "text": "# Artikel 77\nDie Organisation der allgemeinen Landesverwaltung und die Regelung der Zuständigkeiten erfolgt durch Gesetz. Die Einrichtung der Behörden im einzelnen obliegt der Landesregierung und auf Grund der von ihr erteilten Ermächtigung den einzelnen Landesministern.\n"
+      },
+      "art-077a": {
+       "label": "Artikel 77 a",
+       "kind": "art",
+       "text": "# Artikel 77 a\n(1) Der Landtag wählt auf Vorschlag der Landesregierung einen Landesbeauftragten für den Datenschutz mit mehr als der Hälfte der gesetzlichen Zahl seiner Mitglieder; Artikel 58 bleibt im übrigen unberührt.\n(2) Der Landesbeauftragte für den Datenschutz ist in Ausübung seines Amtes unabhängig und nur dem Gesetz unterworfen. Er kann sich jederzeit an den Landtag wenden.\n(3) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-078": {
+       "label": "Artikel 78",
+       "kind": "art",
+       "text": "# Artikel 78\n(1) Die Gemeinden und Gemeindeverbände sind Gebietskörperschaften mit dem Recht der Selbstverwaltung durch ihre gewählten Organe. Die Räte in den Gemeinden, die Bezirksvertretungen, die Kreistage und die Verbandsversammlung des Regionalverbandes Ruhr werden in allgemeiner, gleicher, unmittelbarer, geheimer und freier Wahl gewählt. Wahlvorschläge, nach deren Ergebnis sich die Sitzanteile in den Räten der Gemeinden, den Bezirksvertretungen, den Kreistagen und der Verbandsversammlung des Regionalverbandes Ruhr bestimmen, werden nur berücksichtigt, wenn sie mindestens 2,5 vom Hundert der insgesamt abgegebenen gültigen Stimmen erhalten haben. Das Gesetz bestimmt das Nähere.\n(2) Die Gemeinden und Gemeindeverbände sind in ihrem Gebiet die alleinigen Träger der öffentlichen Verwaltung, soweit die Gesetze nichts anderes vorschreiben.\n(3) Das Land kann die Gemeinden oder Gemeindeverbände durch Gesetz oder Rechtsverordnung zur Übernahme und Durchführung bestimmter öffentlicher Aufgaben verpflichten, wenn dabei gleichzeitig Bestimmungen über die Deckung der Kosten getroffen werden. Führt die Übertragung neuer oder die Veränderung bestehender und übertragbarer Aufgaben zu einer wesentlichen Belastung der davon betroffenen Gemeinden oder Gemeindeverbände, ist dafür durch Gesetz oder Rechtsverordnung aufgrund einer Kostenfolgeabschätzung ein entsprechender finanzieller Ausgleich für die entstehenden notwendigen, durchschnittlichen Aufwendungen zu schaffen. Der Aufwendungsersatz soll pauschaliert geleistet werden. Wird nachträglich eine wesentliche Abweichung von der Kostenfolgeabschätzung festgestellt, wird der finanzielle Ausgleich für die Zukunft angepasst. Das Nähere zu den Sätzen 2 bis 4 regelt ein Gesetz; darin sind die Grundsätze der Kostenfolgeabschätzung festzulegen und Bestimmungen über eine Beteiligung der kommunalen Spitzenverbände zu treffen.\n(4) Das Land überwacht die Gesetzmäßigkeit der Verwaltung der Gemeinden und Gemeindeverbände. Das Land kann sich bei Pflichtaufgaben ein Weisungs- und Aufsichtsrecht nach näherer gesetzlicher Vorschrift vorbehalten.\n"
+      },
+      "art-079": {
+       "label": "Artikel 79",
+       "kind": "art",
+       "text": "# Artikel 79\nDie Gemeinden haben zur Erfüllung ihrer Aufgaben das Recht auf Erschließung eigener Steuerquellen. Das Land ist verpflichtet, diesem Anspruch bei der Gesetzgebung Rechnung zu tragen und im Rahmen seiner finanziellen Leistungsfähigkeit einen übergemeindlichen Finanzausgleich zu gewährleisten.\n"
+      },
+      "art-080": {
+       "label": "Artikel 80",
+       "kind": "art",
+       "text": "# Artikel 80\nDie Beamten und sonstigen Verwaltungsangehörigen sind Diener des ganzen Volkes, nicht einer Partei oder sonstigen Gruppe. Sie haben ihr Amt und ihre Aufgaben unparteiisch und ohne Rücksicht auf die Person nur nach sachlichen Gesichtspunkten wahrzunehmen.\nJeder Beamte leistet folgenden Amtseid:\n„Ich schwöre, daß ich das mir übertragene Amt nach bestem Wissen und Können verwalten, Verfassung und Gesetze befolgen und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.\"\nDer Eid kann auch ohne religiöse Beteuerung geleistet werden.\nSiebter Abschnitt - Das Finanzwesen\n"
+      },
+      "art-081": {
+       "label": "Artikel 81",
+       "kind": "art",
+       "text": "# Artikel 81\n(1) Der Landtag sorgt durch Bewilligung der erforderlichen laufenden Mittel für die Deckung des Landesbedarfs.\n(2) Alle Einnahmen und Ausgaben des Landes sind in den Haushaltsplan einzustellen; bei Landesbetrieben und bei Sondervermögen brauchen nur die Zuführungen oder Ablieferungen eingestellt zu werden. Ein Nachtragshaushaltsplan kann sich auf einzelne Einnahmen und Ausgaben beschränken. Der Haushaltsplan und der Nachtragshaushaltsplan sollen in Einnahmen und Ausgaben ausgeglichen sein.\n(3) Der Haushaltsplan wird für ein oder mehrere Haushaltsjahre, nach Jahren getrennt, vor Beginn des ersten Haushaltsjahres durch das Haushaltsgesetz festgestellt. Für Teile des Haushaltsplans kann vorgesehen werden, daß sie für unterschiedliche Zeiträume, nach Haushaltsjahren getrennt, gelten.\n"
+      },
+      "art-082": {
+       "label": "Artikel 82",
+       "kind": "art",
+       "text": "# Artikel 82\nIst bis zum Schluß eines Haushaltsjahres der Haushaltsplan für das folgende Jahr nicht festgestellt, so ist bis zu seinem Inkrafttreten die Landesregierung ermächtigt,\n1. alle Ausgaben zu leisten, die nötig sind,\na) um gesetzlich bestehende Einrichtungen zu erhalten und gesetzlich beschlossene Maßnahmen durchzuführen,\nb) um die rechtlich begründeten Verpflichtungen des Landes zu erfüllen,\nc) um Bauten, Beschaffungen und sonstige Leistungen fortzusetzen, für die durch den Haushaltsplan des Vorjahres bereits Beträge bewilligt worden sind;\n2. Schatzanweisungen bis zur Höhe eines Viertels der Endsumme des abgelaufenen Haushaltsplanes für je drei Monate auszugeben, soweit nicht Einnahmen aus Steuern und Abgaben und Einnahmen aus sonstigen Quellen die Ausgaben unter Ziffer 1 decken.\n"
+      },
+      "art-083": {
+       "label": "Artikel 83",
+       "kind": "art",
+       "text": "# Artikel 83\nDie Aufnahme von Krediten sowie die Übernahme von Bürgschaften, Garantien oder sonstigen Gewährleistungen, die zu Ausgaben in künftigen Haushaltsjahren führen können, bedürfen einer der Höhe nach bestimmten oder bestimmbaren Ermächtigung durch Gesetz. Die Einnahmen aus Krediten dürfen entsprechend den Erfordernissen des gesamtwirtschaftlichen Gleichgewichts in der Regel nur bis zur Höhe der Summe der im Haushaltsplan veranschlagten Ausgaben für Investitionen in den Haushaltsplan eingestellt werden; das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-084": {
+       "label": "Artikel 84",
+       "kind": "art",
+       "text": "# Artikel 84\nBeschlüsse des Landtags, welche Ausgaben mit sich bringen, müssen bestimmen, wie diese Ausgaben gedeckt werden.\n"
+      },
+      "art-085": {
+       "label": "Artikel 85",
+       "kind": "art",
+       "text": "# Artikel 85\n(1) Überplanmäßige und außerplanmäßige Ausgaben bedürfen der Zustimmung des Finanzministers. Sie darf nur im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses erteilt werden.\n(2) Zu überplanmäßigen und außerplanmäßigen Ausgaben hat der Finanzminister die Genehmigung des Landtags einzuholen.\n"
+      },
+      "art-086": {
+       "label": "Artikel 86",
+       "kind": "art",
+       "text": "# Artikel 86\n(1) Der Finanzminister hat dem Landtag über alle Einnahmen und Ausgaben im Laufe des nächsten Haushaltsjahres zur Entlastung der Landesregierung Rechnung zu legen. Der Haushaltsrechnung sind Übersichten über das Vermögen und die Schulden des Landes beizufügen.\n(2) Der Landesrechnungshof prüft die Rechnung sowie die Ordnungsmäßigkeit und Wirtschaftlichkeit der Haushalts- und Wirtschaftsführung. Er faßt das Ergebnis seiner Prüfung jährlich in einem Bericht für den Landtag zusammen, den er auch der Landesregierung zuleitet.\n"
+      },
+      "art-087": {
+       "label": "Artikel 87",
+       "kind": "art",
+       "text": "# Artikel 87\n(1) Der Landesrechnungshof ist eine selbständige, nur dem Gesetz unterworfene oberste Landesbehörde. Seine Mitglieder genießen den Schutz richterlicher Unabhängigkeit.\n(2) Der Präsident, der Vizepräsident und die anderen Mitglieder des Landesrechnungshofes werden vom Landtag ohne Aussprache gewählt und sind von der Landesregierung zu ernennen.\n(3) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-088": {
+       "label": "Artikel 88",
+       "kind": "art",
+       "text": "# Artikel 88\nDas Finanzwesen der ertragswirtschaftlichen Unternehmungen des Landes kann durch Gesetz abweichend von den Vorschriften der Artikel 81 bis 86 geregelt werden.\nÜbergangs- und Schlußbestimmungen\n"
+      },
+      "art-089": {
+       "label": "Artikel 89",
+       "kind": "art",
+       "text": "# Artikel 89\nAuf dem Gebiete des Schulwesens gelten in dem ehemaligen Lande Lippe die Rechtsvorschriften vom 1. Januar 1933 bis zur endgültigen Entscheidung über die staatsrechtliche Eingliederung Lippes in das Land Nordrhein-Westfalen.\n"
+      },
+      "art-090": {
+       "label": "Artikel 90",
+       "kind": "art",
+       "text": "# Artikel 90\n(1) Die Verfassung ist dem Volke zur Billigung zu unterbreiten. Die Abstimmung erfolgt nach Maßgabe eines Landtagsbeschlusses. Die Verfassung gilt als angenommen, wenn die Mehrheit der Abstimmenden sie bejaht hat.\n(2) Die Verfassung ist nach ihrer Annahme durch das Volk im Gesetz- und Verordnungsblatt zu verkünden. Sie tritt mit dem auf ihre Verkündung folgenden Tage in Kraft.\n"
+      },
+      "art-091": {
+       "label": "Artikel 91",
+       "kind": "art",
+       "text": "# Artikel 91\n(1) Der am 18. Juni 1950 gewählte Landtag gilt als erster Landtag im Sinne dieser Verfassung.\n(2) Die bestehenden Organe des Landes nehmen bis zur Bildung der durch diese Verfassung vorgesehenen Organe deren Aufgaben wahr. Eine nach den Bestimmungen dieser Verfassung bereits vor ihrem Inkrafttreten gebildete Landesregierung gilt als Landesregierung im Sinne der Artikel 51 ff.\n"
+      },
+      "art-092": {
+       "label": "Artikel 92",
+       "kind": "art",
+       "text": "# Artikel 92\nDie Wahlperiode des im Jahre 1970 zu wählenden Landtags beträgt vier Jahre zehn Monate.\n"
+      },
+      "art-093": {
+       "label": "Artikel 93",
+       "kind": "art",
+       "text": "# Artikel 93\nDie Amtszeit der Richter des Verfassungsgerichtshofes, die am 30. Juni 2017 im Amt sind, wird durch die Neuregelung des Artikels 76 nicht berührt. Soweit die Richter auf der Grundlage des Artikels 76 in der bis zum 30. Juni 2017 geltenden Fassung in ihr Amt gelangt sind, steht dieses einer Wahl gemäß Artikel 76 Absatz 2 in der neuen Fassung nicht entgegen.\nDüsseldorf, den 28. Juni 1950\n| Die Landesregierung des Landes Nordrhein-Westfalen |\n| Der Ministerpräsident: Arnold |\nDer Innenminister: Dr. Menzel | Der Finanzminister: Dr. Weitz | Der Wirtschaftsminister: Dr. Nölting\nDer Minister für Ernährung, Landwirtschaft und Forsten: Lübke | Der Arbeitsminister: Halbfell | Der Sozialminister: Dr. Amelunxen\nDer Kultusminister: Teusch | Der Minister für Wiederaufbau: Steinhoff | Der Justizminister: Dr. Sträter\n"
+      }
+     },
+     "credits": {
+      "art-031": [
+       "gvnrw-2026-0005-20251218"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "laws": {
+  "gvnrw-2026-0005-20251218": {
+   "label": "Änderung vom 18. Dezember 2025 (GV. NRW. 2026 S. 5)",
+   "title": null,
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "applies": [],
+ "sources": [
+  {
+   "name": "RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen): Landesrecht, current and earlier Fassungen of each act",
+   "url": "https://recht.nrw.de",
+   "retrieved": "2026-10-30",
+   "licence": "§ 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection. RECHT.NRW states no terms restricting reuse.",
+   "notes": "1 acts, 2 versions in this part."
+  }
+ ],
+ "decisions": [
+  "Every Fassung RECHT.NRW shows as structured text is one version here, dated by its \"Gültig ab\" day. Older Fassungen that the portal shows only as legacy files (PDF or old HTML) are not used, so each act starts with the oldest structured Fassung, credited to the publisher as the oldest version available.",
+  "The provisions that changed between two versions are credited to the amending act(s) the newer version's Änderungshistorie lists as coming into force on that version's first day; if it lists none for that day, the change is labelled unexplained.",
+  "One file per Artikel or Paragraph; headings of Teile and Abschnitte stand where the portal prints them (at the end of the provision before). Footnotes are left out; tables are one line per row, cells separated by \" | \".",
+  "Note: 16012026-verfassung-fuer-das-land-nordrhein-westfalen: 9 older Fassungen are shown only as legacy files (no structured text) and are not used"
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: every word comes from the RECHT.NRW pages, and every date and credit from the portal's own validity dates and Änderungshistorie."
+ ],
+ "country": {
+  "code": "DE-NW",
+  "name": "North Rhine-Westphalia",
+  "slug": "germany-north-rhine-westphalia",
+  "lang": "de",
+  "tz": "Europe/Berlin",
+  "future_branch": "zukunft",
+  "publisher": {
+   "name": "Ministerium des Innern des Landes Nordrhein-Westfalen (RECHT.NRW)",
+   "email": "recht-nrw@recht.nrw.de.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Verfassung für das Land Nordrhein-Westfalen Art. 71 Abs. 3: \"Jedes Gesetz und jede Rechtsverordnung soll den Tag des Inkrafttretens bestimmen.\" Each version here is dated by the day RECHT.NRW gives as the start of its validity (\"Gültig ab\").",
+   "source": "https://recht.nrw.de/lrgv/gesetz/16012026-verfassung-fuer-das-land-nordrhein-westfalen"
+  },
+  "licence_note": "Texts: RECHT.NRW, the service portal of the Ministerium des Innern des Landes Nordrhein-Westfalen (recht.nrw.de). Gesetze and Verordnungen are not protected by copyright (§ 5 Abs. 1 UrhG). Non-official text: only the printed Gesetz- und Verordnungsblatt (GV. NRW.) is authoritative."
+ }
+}
