@@ -51,6 +51,12 @@ def name(path: str) -> str:
     return path.strip('/').rsplit('/', 1)[-1][:150]
 
 
+def vname(path: str) -> str:
+    """A Fassung's cache name: its date prefix (DDMMYYYY), so paths stay short on Windows."""
+    n = name(path)
+    return n[:8] if n[:8].isdigit() else n[:60]
+
+
 def listing():
     src = ['title', 'url', 'field_abbreviation', 'field_short_title', 'field_long_title', 'field_effective_from',
            'field_historically', 'field_document_type_name']
@@ -84,7 +90,7 @@ def act(path: str):
     if get(BASE + path, cur) != 200:
         return
     for v in sorted(set(re.findall(r"<li class=\"version-item[^\"]*\"><a href='(/lrgv/[^']+)'", cur.read_text(encoding='utf-8')))):
-        get(BASE + v, d / 'v' / (name(v) + '.html'))
+        get(BASE + v, d / 'v' / (vname(v) + '.html'))
 
 
 if __name__ == '__main__':

@@ -16,8 +16,12 @@ def ld(s):
 
 
 def source(raw: str) -> str:
-    secs = re.findall(r'(?s)<section class="legaldoc-article">(.*?)</section>', raw)
-    s = ' '.join(secs)
+    i = raw.index('<section class="legaldoc-')
+    p = raw.find('<div class="field field--field_preamble')
+    if 0 <= p < i:
+        i = p
+    j = raw.rindex('<a', i, raw.index('id="backToTextTop"', i))
+    s = raw[i:j]  # preamble, every provision and structure heading, and the closing formula, in page order
     s = re.sub(r'(?s)<div class="field field--field_footnote_description.*?</div></div>', ' ', s)
     s = re.sub(r'(?s)<div class="field field--field_reference">.*?</a>\s*</div>\s*</div>', ' ', s)
     s = re.sub(r'(?s)<div class="alert.*?</button>|<button.*?</button>|<ul class="print-copy-overlay.*?</ul>', ' ', s)
@@ -32,7 +36,8 @@ def main(paths):
             name = a['url'].rsplit('/', 1)[1]
             for v in a['versions']:
                 stem = v['source_url'].rsplit('/', 1)[1]
-                f = HERE / '.cache' / 'act' / name / ('current.html' if stem == name else f'v/{stem}.html')
+                f = HERE / '.cache' / 'act' / name / ('current.html' if stem == name else
+                                                      f'v/{stem[:8] if stem[:8].isdigit() else stem[:60]}.html')
                 src = source(f.read_text(encoding='utf-8'))
                 rest = {k: ld(u['text']) for k, u in v['units'].items()}
                 pos = 0

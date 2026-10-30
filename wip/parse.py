@@ -273,18 +273,34 @@ def parse_page(raw: str) -> dict | None:
     m = re.search(r'Gültig ab</div>\s*<div class="field__item">\s*([\d.]+)', raw)
     units: dict[str, dict] = {}
     seen: set[str] = set()
-    secs = []
+    secs: list[tuple[Node, list[str]]] = []
+    pending: list[str] = []
+    HEADS = ('h1', 'h2', 'h3', 'h4', 'h5', 'h6')
 
-    def walk(n):
+    def walk(n, depth):
         for k in n.kids:
-            if isinstance(k, Node):
-                if k.tag == 'section' and 'legaldoc-article' in (k.attrs.get('class') or ''):
-                    secs.append(k)
-                else:
-                    walk(k)
-    walk(t.root)
-    for s in secs:
-        h2 = find(s, lambda n: n.tag == 'h2')
+            if not isinstance(k, Node):
+                continue
+            c = k.attrs.get('class') or ''
+            if k.tag == 'section' and 'legaldoc-article' in c:
+                secs.append((k, list(pending)))
+                pending.clear()
+            elif k.tag == 'section' and 'legaldoc-' in c:  # legaldoc-part, legaldoc-section, ...: a heading
+                st = find(k, lambda x: 'paragraph--type--structure' in (x.attrs.get('class') or ''))
+                hd = find(st, lambda x: x.tag in HEADS) if st else None
+                if hd:
+                    pending.append('#' * min(depth + 1, 6) + ' ' + norm(text_of(hd, ' ')))
+                walk(k, depth + 1)
+            else:
+                walk(k, depth)
+    walk(t.root, 1)
+    pre = find(t.root, lambda x: 'field--name-field-preamble' in (x.attrs.get('class') or ''))
+    if pre is not None and lines(pre):
+        units['000-a-eingangsformel'] = {'label': 'Eingangsformel', 'kind': 'title', 'text': '\n'.join(lines(pre)) + '\n'}
+        seen.add('000-a-eingangsformel')
+    for s, heads in secs:
+        ph = find(s, lambda x: 'paragraph-header' in (x.attrs.get('class') or ''))
+        h2 = find(ph, lambda x: x.tag in HEADS) if ph else None
         head = norm(text_of(h2, ' ')) if h2 else ''
         body = find(s, lambda n: 'field--name-field-text' in (n.attrs.get('class') or ''))
         bl = lines(body) if body else []
@@ -299,7 +315,14 @@ def parse_page(raw: str) -> dict | None:
             key, kind = unit_key(head, seen)
             lm = re.match(r'^((?:Artikel|Art\.|§§?)\s*\d+\s*[a-z]?)\b', head)
             label = lm.group(1) if lm else head
-        units[key] = {'label': label, 'kind': kind, 'text': '\n'.join(([f'# {head}'] if head else []) + bl) + '\n'}
+        units[key] = {'label': label, 'kind': kind,
+                      'text': '\n'.join(heads + ([f'# {head}'] if head else []) + bl) + '\n'}
+    if pending and secs:
+        last = list(units)[-1]
+        units[last]['text'] += '\n'.join(pending) + '\n'
+    con = find(t.root, lambda x: 'field--name-field-conclusions' in (x.attrs.get('class') or ''))
+    if con is not None and lines(con):
+        units['zz-schlussformel'] = {'label': 'Schlussformel', 'kind': 'other', 'text': '\n'.join(lines(con)) + '\n'}
     return {'title': norm(text_of(h1, ' ')) if h1 else '', 'from': dmy(m.group(1)) if m else None, 'units': units,
             'history': history(raw)}
 
@@ -322,6 +345,7 @@ def act_of(name: str) -> tuple[dict | None, dict, list[str]]:
     title = ''
     prev = None
     skipped = 0
+    links = version_links(name)
     for f in act_files(name):
         raw = f.read_text(encoding='utf-8')
         p = parse_page(raw)
@@ -335,7 +359,7 @@ def act_of(name: str) -> tuple[dict | None, dict, list[str]]:
         if versions and p['from'] <= versions[-1]['from']:
             problems.append(f'{name} {f.name}: from {p["from"]} not after {versions[-1]["from"]}; left out')
             continue
-        path = '/lrgv/gesetz/' + (name if f.stem == 'current' else f.stem)
+        path = '/lrgv/gesetz/' + name if f.stem == 'current' else links.get(f.stem, '/lrgv/gesetz/' + f.stem)
         v = {'from': p['from'], 'source_url': BASE + path, 'sha256': hashlib.sha256(f.read_bytes()).hexdigest(),
              'units': p['units'], 'credits': {}}
         if prev is not None:
@@ -424,12 +448,23 @@ def list_names() -> list[str]:
     return names
 
 
-def complete(name: str) -> bool:
+def vname(n: str) -> str:
+    return n[:8] if n[:8].isdigit() else n[:60]
+
+
+def version_links(name: str) -> dict:
+    """Cache name of each listed Fassung -> its path on the portal."""
     cur = CACHE / 'act' / name / 'current.html'
     if not cur.exists():
+        return {}
+    return {vname(p.rsplit('/', 1)[-1]): p for p in
+            re.findall(r"<li class=\"version-item[^\"]*\"><a href='(/lrgv/[^']+)'", cur.read_text(encoding='utf-8'))}
+
+
+def complete(name: str) -> bool:
+    if not (CACHE / 'act' / name / 'current.html').exists():
         return False
-    vs = set(re.findall(r"<li class=\"version-item[^\"]*\"><a href='/lrgv/[^']*/([^'/]+)'", cur.read_text(encoding='utf-8')))
-    return all((CACHE / 'act' / name / 'v' / f'{v[:150]}.html').exists() for v in vs)
+    return all((CACHE / 'act' / name / 'v' / f'{v}.html').exists() for v in version_links(name))
 
 
 if __name__ == '__main__':
