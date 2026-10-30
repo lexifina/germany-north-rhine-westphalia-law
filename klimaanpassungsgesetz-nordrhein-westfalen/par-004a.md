@@ -1,0 +1,2 @@
+# § 4a Klimaangepasste Landesliegenschaften und Verkehrsinfrastrukturen des Landes
+Das Land setzt sich zum Ziel, die Landesliegenschaften und Verkehrsinfrastrukturen des Landes an die Folgen des Klimawandels anzupassen. Zur Verwirklichung dieses Ziels ergreift die Landesregierung im Rahmen der verfügbaren Haushaltsmittel weiterhin bei der Errichtung und Modernisierung von eigenen Gebäuden, Außenanlagen und Infrastrukturen verhältnismäßige, wirtschaftlich angemessene und geeignete Maßnahmen.
