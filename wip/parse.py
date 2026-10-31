@@ -400,7 +400,7 @@ def act_of(name: str) -> tuple[dict | None, dict, list[str]]:
     return act, laws, problems
 
 
-def write_part(name: str, acts_in: list[str], country: bool) -> None:
+def write_part(name: str, acts_in: list[str], country: bool, retrieved: str = RETRIEVED) -> None:
     acts, laws, problems = [], {}, []
     for i in acts_in:
         a, lw, pr = act_of(i)
@@ -412,7 +412,7 @@ def write_part(name: str, acts_in: list[str], country: bool) -> None:
     out = {'acts': acts, 'laws': dict(sorted(laws.items())), 'applies': [],
            'sources': [{'name': 'RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen): Landesrecht, '
                                 'current and earlier Fassungen of each act',
-                        'url': BASE, 'retrieved': RETRIEVED,
+                        'url': BASE, 'retrieved': retrieved,
                         'licence': '§ 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright '
                                    'protection. RECHT.NRW states no terms restricting reuse.',
                         'notes': f'{len(acts)} acts, {nv} versions in this part.'}],
@@ -453,7 +453,8 @@ def list_meta() -> dict:
     if _META:
         return _META
     meta = _META
-    for f in sorted((CACHE / 'list').glob('from*.json')) + sorted((CACHE / 'list-vo').glob('from*.json')):
+    for f in (sorted((CACHE / 'list').glob('from*.json')) + sorted((CACHE / 'list-vo').glob('from*.json'))
+              + sorted((CACHE / 'list-vo-nohist').glob('from*.json'))):
         for h in json.loads(f.read_text(encoding='utf-8'))['hits']['hits']:
             u = (h['_source'].get('url') or [''])[0]
             meta.setdefault(u.strip('/').rsplit('/', 1)[-1][:150], h['_source'])
@@ -511,3 +512,12 @@ if __name__ == '__main__':
             write_part(f'40-verordnungen-{n // PART_SIZE + 1:02d}', chunk, country=False)
         else:
             break
+    # the Rechtsverordnungen the index gives no historically flag (coverage wave, 2026-10-31): in force by their own
+    # page (nohist.py: newest Fassung, no "Gültig bis" or "Aufgehoben durch" on or before the docs date), parts of 50
+    # after the five above, once every Fassung is fetched (.cache/nohist-done)
+    if (CACHE / 'nohist-done').exists():
+        import nohist
+        names = [p.strip('/').rsplit('/', 1)[-1][:150] for p in nohist.in_force_paths()]
+        for n in range(0, len(names), PART_SIZE):
+            write_part(f'40-verordnungen-{6 + n // PART_SIZE:02d}', names[n:n + PART_SIZE], country=False,
+                       retrieved='2026-10-31')
