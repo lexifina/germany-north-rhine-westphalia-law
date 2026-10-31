@@ -1,0 +1,8 @@
+{
+  "path": "de-nw",
+  "code": "DE-NW",
+  "name": "North Rhine-Westphalia",
+  "level": "country",
+  "repo": "https://github.com/lexifina/germany-north-rhine-westphalia-law",
+  "build": "built: Verfassung für das Land Nordrhein-Westfalen, the Gesetze and Rechtsverordnungen in force, every structured Fassung RECHT.NRW holds"
+}
