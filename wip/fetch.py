@@ -5,6 +5,7 @@
     python -X utf8 fetch.py acts --all           # the Verfassung first, then every Gesetz on the cached list
     python -X utf8 fetch.py list-vo              # the same index, document type Rechtsverordnung (.cache/list-vo/)
     python -X utf8 fetch.py acts-vo              # every Rechtsverordnung on that list, then .cache/vo-done
+    python -X utf8 fetch.py list-vo-nohist       # Rechtsverordnungen with no field_historically (.cache/list-vo-nohist/)
 
 Private (never published). One process, one request at a time, at least 2.5 s apart (robots.txt: Drupal defaults,
 no AI-agent rules, no Crawl-delay; /search/ is not used), curl with a browser User-Agent, cached by name; stops on
@@ -59,14 +60,17 @@ def vname(path: str) -> str:
     return n[:8] if n[:8].isdigit() else n[:60]
 
 
-def listing(doctype: str = 'Gesetz'):
-    sub = 'list' if doctype == 'Gesetz' else 'list-vo'
+def listing(doctype: str = 'Gesetz', nohist: bool = False):
+    sub = ('list' if doctype == 'Gesetz' else 'list-vo') + ('-nohist' if nohist else '')
     src = ['title', 'url', 'field_abbreviation', 'field_short_title', 'field_long_title', 'field_effective_from',
            'field_historically', 'field_document_type_name']
     n = 0
     while True:
-        q = {'query': {'bool': {'filter': [{'term': {'field_document_type_name': doctype}},
-                                           {'term': {'field_historically': False}}]}},
+        flt = {'filter': [{'term': {'field_document_type_name': doctype}}, {'term': {'field_historically': False}}]}
+        if nohist:   # the index entries with no historically flag at all
+            flt = {'filter': [{'term': {'field_document_type_name': doctype}}],
+                   'must_not': [{'exists': {'field': 'field_historically'}}]}
+        q = {'query': {'bool': flt},
              'size': 100, 'from': n, '_source': src, 'sort': [{'_id': 'asc'}]}
         out = CACHE / sub / f'from{n:05d}.json'
         get(f'{BASE}/search-middleware/opensearch_internet/_search', out, json.dumps(q))
@@ -101,6 +105,8 @@ if __name__ == '__main__':
         listing()
     elif sys.argv[1] == 'list-vo':
         listing('Rechtsverordnung')
+    elif sys.argv[1] == 'list-vo-nohist':
+        listing('Rechtsverordnung', nohist=True)
     elif sys.argv[1] == 'acts-vo':
         for n, p in enumerate(list_paths('list-vo')):
             act(p)
