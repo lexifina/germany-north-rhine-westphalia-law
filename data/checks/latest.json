@@ -1,0 +1,47 @@
+{
+ "generated": "2026-11-23T20:35:24Z",
+ "latest": {
+  "recht-nrw|germany/north-rhine-westphalia/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "current": 872,
+    "gone": 0,
+    "held": 877,
+    "newest_at_source": "https://recht.nrw.de/lrgv/rechtsverordnung/01082027-ausbildungs-und-pruefungsordnung-fuer-die-gymnasiale-oberstufe-und",
+    "newest_in_repo": "verordnung-ueber-die-gewaehrung-von-erschwerniszulagen",
+    "pending": 5,
+    "repo": 877,
+    "source_in_scope": 886
+   },
+   "check_id": "de-recht-nrw-20261123T203417Z",
+   "commits": null,
+   "corpus": "germany/north-rhine-westphalia/acts",
+   "error": null,
+   "finished": "2026-11-23T20:35:22Z",
+   "flags": [],
+   "gap": 14,
+   "note": "RECHT.NRW's search index, as the builder listed it: Gesetze and Rechtsverordnungen whose current Fassung it shows (not historical; Rechtsverordnungen with no historical flag on /lrgv/ included); GV. NRW. issue entries are not consolidated acts and are left out. An entry whose address this repository does not hold is matched to its act by the Fassungen its page lists (14 pages read); first check: the list was recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 26,
+   "runner": "lawwatch germany (725dd60068)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-13",
+   "source": "recht-nrw",
+   "started": "2026-11-23T20:34:17Z",
+   "unexplained": 0,
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}

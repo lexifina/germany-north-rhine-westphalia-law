@@ -1,0 +1,26 @@
+{
+ "sources": [
+  {
+   "id": "recht-nrw",
+   "kind": "legislation",
+   "name": {
+    "en": "RECHT.NRW (Ministry of the Interior of North Rhine-Westphalia)",
+    "de": "RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen)"
+   },
+   "url": "https://recht.nrw.de",
+   "reads": {
+    "en": "the portal's search index of the Gesetze and Rechtsverordnungen in force (each act's current Fassung and its day)",
+    "de": "den Suchindex des Portals für die geltenden Gesetze und Rechtsverordnungen (die aktuelle Fassung jeder Vorschrift und ihr Datum)"
+   },
+   "folders": [
+    "<act>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "germany/north-rhine-westphalia/acts"
+   ],
+   "interval": 2.5
+  }
+ ]
+}
