@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [RECHT.NRW (Ministry of the Interior of North Rhine-Westphalia)](https://recht.nrw.de) | the portal's search index of the Gesetze and Rechtsverordnungen in force (each act's current Fassung and its day) | `<act>/` | daily | 2026-11-23 23:34 UTC | watched |
+| [RECHT.NRW (Ministry of the Interior of North Rhine-Westphalia)](https://recht.nrw.de) | the portal's search index of the Gesetze and Rechtsverordnungen in force (each act's current Fassung and its day) | `<act>/` | daily | 2026-11-24 07:08 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.

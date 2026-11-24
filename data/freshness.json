@@ -2,7 +2,7 @@
  "schema": "lexifina-trail-freshness/1",
  "as_of": "2026-11-24",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
- "checked_against_official_source": "2026-11-23",
+ "checked_against_official_source": "2026-11-24",
  "totals": {
   "acts": 877,
   "by_status": {
@@ -18,8 +18,8 @@
    "source": "recht-nrw",
    "name": "RECHT.NRW (Ministry of the Interior of North Rhine-Westphalia)",
    "state": "available",
-   "last_successful_check": "2026-11-23",
-   "last_successful_contact": "2026-11-23"
+   "last_successful_check": "2026-11-24",
+   "last_successful_contact": "2026-11-24"
   }
  ]
 }

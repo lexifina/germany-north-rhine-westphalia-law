@@ -8,6 +8,6 @@ Wie global-law die Quellen jedes Landes beobachtet: [global-law WATCHING.md](htt
 
 | Quelle | Was gelesen wird | Ordner | Wie oft | Zuletzt gelesen | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen)](https://recht.nrw.de) | den Suchindex des Portals für die geltenden Gesetze und Rechtsverordnungen (die aktuelle Fassung jeder Vorschrift und ihr Datum) | `<act>/` | täglich | 2026-11-23 23:34 UTC | beobachtet |
+| [RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen)](https://recht.nrw.de) | den Suchindex des Portals für die geltenden Gesetze und Rechtsverordnungen (die aktuelle Fassung jeder Vorschrift und ihr Datum) | `<act>/` | täglich | 2026-11-24 07:08 UTC | beobachtet |
 
 Die Quellen werden im Rahmen ihrer robots.txt und Nutzungsbedingungen gelesen, mit Pausen zwischen den Anfragen.
