@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T20:35:24Z",
+ "generated": "2026-11-24T00:21:05Z",
  "latest": {
   "recht-nrw|germany/north-rhine-westphalia/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "current": 872,
@@ -14,22 +14,22 @@
     "repo": 877,
     "source_in_scope": 886
    },
-   "check_id": "de-recht-nrw-20261123T203417Z",
+   "check_id": "de-recht-nrw-20261123T233419Z",
    "commits": null,
    "corpus": "germany/north-rhine-westphalia/acts",
    "error": null,
-   "finished": "2026-11-23T20:35:22Z",
+   "finished": "2026-11-23T23:34:50Z",
    "flags": [],
    "gap": 14,
-   "note": "RECHT.NRW's search index, as the builder listed it: Gesetze and Rechtsverordnungen whose current Fassung it shows (not historical; Rechtsverordnungen with no historical flag on /lrgv/ included); GV. NRW. issue entries are not consolidated acts and are left out. An entry whose address this repository does not hold is matched to its act by the Fassungen its page lists (14 pages read); first check: the list was recorded as the baseline for the next check",
+   "note": "RECHT.NRW's search index, as the builder listed it: Gesetze and Rechtsverordnungen whose current Fassung it shows (not historical; Rechtsverordnungen with no historical flag on /lrgv/ included); GV. NRW. issue entries are not consolidated acts and are left out. An entry whose address this repository does not hold is matched to its act by the Fassungen its page lists (0 pages read)",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 26,
-   "runner": "lawwatch germany (725dd60068)",
+   "requests": 12,
+   "runner": "lawwatch germany (22a9910bc1)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -38,7 +38,7 @@
    },
    "snapshot": "2026-11-13",
    "source": "recht-nrw",
-   "started": "2026-11-23T20:34:17Z",
+   "started": "2026-11-23T23:34:19Z",
    "unexplained": 0,
    "verify": null
   }
