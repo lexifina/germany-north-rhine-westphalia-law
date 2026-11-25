@@ -1,44 +1,51 @@
 {
- "generated": "2026-11-24T07:25:26Z",
+ "generated": "2026-11-25T07:46:06Z",
  "latest": {
   "recht-nrw|germany/north-rhine-westphalia/acts": {
    "attempt": 1,
    "audit": null,
    "census": {
-    "current": 872,
+    "current": 870,
     "gone": 0,
     "held": 877,
     "newest_at_source": "https://recht.nrw.de/lrgv/rechtsverordnung/01082027-ausbildungs-und-pruefungsordnung-fuer-die-gymnasiale-oberstufe-und",
     "newest_in_repo": "verordnung-ueber-die-gewaehrung-von-erschwerniszulagen",
-    "pending": 5,
+    "pending": 7,
     "repo": 877,
-    "source_in_scope": 886
+    "source_in_scope": 887
    },
-   "check_id": "de-recht-nrw-20261124T070848Z",
+   "check_id": "de-recht-nrw-20261125T070020Z",
    "commits": null,
    "corpus": "germany/north-rhine-westphalia/acts",
    "error": null,
-   "finished": "2026-11-24T07:09:18Z",
+   "finished": "2026-11-25T07:00:59Z",
    "flags": [],
-   "gap": 14,
-   "note": "RECHT.NRW's search index, as the builder listed it: Gesetze and Rechtsverordnungen whose current Fassung it shows (not historical; Rechtsverordnungen with no historical flag on /lrgv/ included); GV. NRW. issue entries are not consolidated acts and are left out. An entry whose address this repository does not hold is matched to its act by the Fassungen its page lists (0 pages read)",
-   "outcome": "no-change",
+   "gap": 17,
+   "note": "RECHT.NRW's search index, as the builder listed it: Gesetze and Rechtsverordnungen whose current Fassung it shows (not historical; Rechtsverordnungen with no historical flag on /lrgv/ included); GV. NRW. issue entries are not consolidated acts and are left out. An entry whose address this repository does not hold is matched to its act by the Fassungen its page lists (3 pages read)",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 12,
-   "runner": "lawwatch germany (22a9910bc1)",
+   "requests": 15,
+   "runner": "lawwatch germany (040e66c4a9)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "https://recht.nrw.de/lrgv/rechtsverordnung/25112026-buergerenergiefonds-aufgabenuebertragungsverordnung",
+     "https://recht.nrw.de/lrgv/rechtsverordnung/25112026-verordnung-zur-erprobung-digitaler-formen-der-aufgabenerledigung-der",
+     "https://recht.nrw.de/lrgv/rechtsverordnung/25112026-zustaendigkeitsverordnung-kraftstoffpreisanpassungsgesetz-zustvo"
+    ],
     "changed": [],
-    "removed": []
+    "removed": [
+     "https://recht.nrw.de/lrgv/rechtsverordnung/01012026-verordnung-zur-erprobung-digitaler-formen-der-aufgabenerledigung-der",
+     "https://recht.nrw.de/lrgv/rechtsverordnung/31072025-verordnung-zur-uebertragung-von-aufgaben-im-rahmen-des"
+    ]
    },
-   "snapshot": "2026-11-13",
+   "snapshot": "2026-11-25",
    "source": "recht-nrw",
-   "started": "2026-11-24T07:08:48Z",
+   "started": "2026-11-25T07:00:20Z",
    "unexplained": 0,
    "verify": null
   }

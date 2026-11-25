@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Nordrhein-Westfalen: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 07:09 UTC, RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen): 12 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 14 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-25 07:00 UTC, RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen): 15 Adressen gelesen; 3 hinzugefügt, 0 geändert, 2 entfernt; Änderungen gefunden; 17 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen)](https://recht.nrw.de) | `<act>/` | täglich | 2026-11-24 07:09 UTC | keine Änderung | beobachtet |
+| [RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen)](https://recht.nrw.de) | `<act>/` | täglich | 2026-11-25 07:00 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 07:00](checks/2026-11.md#de-recht-nrw-20261125t070020z) | recht-nrw | 15 | 3 | 0 | 2 | 17 (0) | Änderungen gefunden | — |
 | [2026-11-24 07:08](checks/2026-11.md#de-recht-nrw-20261124t070848z) | recht-nrw | 12 | 0 | 0 | 0 | 14 (0) | keine Änderung | — |
 | [2026-11-23 23:34](checks/2026-11.md#de-recht-nrw-20261123t233419z) | recht-nrw | 12 | 0 | 0 | 0 | 14 (0) | keine Änderung | — |
 | [2026-11-23 20:34](checks/2026-11.md#de-recht-nrw-20261123t203417z) | recht-nrw | 26 | 0 | 0 | 0 | 14 (0) | keine Änderung | — |
