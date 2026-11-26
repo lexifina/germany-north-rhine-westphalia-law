@@ -8,7 +8,7 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### RECHT.NRW (Ministerium des Innern des Landes Nordrhein-Westfalen) · `germany/north-rhine-westphalia/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 07:00 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 07:02 UTC**.
 - Vorschriften hier: 877; aktuell gegenüber der Quelle: 870; an der Quelle geändert seit der Fassung hier: 7; nicht mehr an der Quelle: 0.
 - Nicht veröffentlicht: 17 (neu an der Quelle, hier noch nicht veröffentlicht: 9, tritt später in Kraft: 1, an der Quelle geändert seit der Fassung hier: 7); ohne Grund: 0.
 

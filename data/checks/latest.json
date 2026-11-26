@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:46:06Z",
+ "generated": "2026-11-26T07:50:12Z",
  "latest": {
   "recht-nrw|germany/north-rhine-westphalia/acts": {
    "attempt": 1,
@@ -14,38 +14,31 @@
     "repo": 877,
     "source_in_scope": 887
    },
-   "check_id": "de-recht-nrw-20261125T070020Z",
+   "check_id": "de-recht-nrw-20261126T070155Z",
    "commits": null,
    "corpus": "germany/north-rhine-westphalia/acts",
    "error": null,
-   "finished": "2026-11-25T07:00:59Z",
+   "finished": "2026-11-26T07:02:26Z",
    "flags": [],
    "gap": 17,
-   "note": "RECHT.NRW's search index, as the builder listed it: Gesetze and Rechtsverordnungen whose current Fassung it shows (not historical; Rechtsverordnungen with no historical flag on /lrgv/ included); GV. NRW. issue entries are not consolidated acts and are left out. An entry whose address this repository does not hold is matched to its act by the Fassungen its page lists (3 pages read)",
-   "outcome": "changed",
+   "note": "RECHT.NRW's search index, as the builder listed it: Gesetze and Rechtsverordnungen whose current Fassung it shows (not historical; Rechtsverordnungen with no historical flag on /lrgv/ included); GV. NRW. issue entries are not consolidated acts and are left out. An entry whose address this repository does not hold is matched to its act by the Fassungen its page lists (0 pages read)",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 15,
+   "requests": 12,
    "runner": "lawwatch germany (040e66c4a9)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "https://recht.nrw.de/lrgv/rechtsverordnung/25112026-buergerenergiefonds-aufgabenuebertragungsverordnung",
-     "https://recht.nrw.de/lrgv/rechtsverordnung/25112026-verordnung-zur-erprobung-digitaler-formen-der-aufgabenerledigung-der",
-     "https://recht.nrw.de/lrgv/rechtsverordnung/25112026-zustaendigkeitsverordnung-kraftstoffpreisanpassungsgesetz-zustvo"
-    ],
+    "added": [],
     "changed": [],
-    "removed": [
-     "https://recht.nrw.de/lrgv/rechtsverordnung/01012026-verordnung-zur-erprobung-digitaler-formen-der-aufgabenerledigung-der",
-     "https://recht.nrw.de/lrgv/rechtsverordnung/31072025-verordnung-zur-uebertragung-von-aufgaben-im-rahmen-des"
-    ]
+    "removed": []
    },
    "snapshot": "2026-11-25",
    "source": "recht-nrw",
-   "started": "2026-11-25T07:00:20Z",
+   "started": "2026-11-26T07:01:55Z",
    "unexplained": 0,
    "verify": null
   }
