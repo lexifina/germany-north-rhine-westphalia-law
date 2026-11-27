@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:50:12Z",
+ "generated": "2026-11-27T07:47:50Z",
  "latest": {
   "recht-nrw|germany/north-rhine-westphalia/acts": {
    "attempt": 1,
@@ -14,11 +14,11 @@
     "repo": 877,
     "source_in_scope": 887
    },
-   "check_id": "de-recht-nrw-20261126T070155Z",
+   "check_id": "de-recht-nrw-20261127T070117Z",
    "commits": null,
    "corpus": "germany/north-rhine-westphalia/acts",
    "error": null,
-   "finished": "2026-11-26T07:02:26Z",
+   "finished": "2026-11-27T07:01:48Z",
    "flags": [],
    "gap": 17,
    "note": "RECHT.NRW's search index, as the builder listed it: Gesetze and Rechtsverordnungen whose current Fassung it shows (not historical; Rechtsverordnungen with no historical flag on /lrgv/ included); GV. NRW. issue entries are not consolidated acts and are left out. An entry whose address this repository does not hold is matched to its act by the Fassungen its page lists (0 pages read)",
@@ -38,7 +38,7 @@
    },
    "snapshot": "2026-11-25",
    "source": "recht-nrw",
-   "started": "2026-11-26T07:01:55Z",
+   "started": "2026-11-27T07:01:17Z",
    "unexplained": 0,
    "verify": null
   }
